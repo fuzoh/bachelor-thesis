@@ -1,30 +1,45 @@
-#import "@preview/superb-pci:0.1.0": *
+#show heading: set text(font: "Articulat CF", weight: "semibold")
 
-#show: pci.with(
-  title: [Concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée],
-  abstract: lorem(200),
-  authors: (
-    (
-      name: "Bastien Nicoud",
-      orcid: "0000-0000-0000-0001",
-      affiliations: "#,1"
-    ),
-  ),
-  affiliations: (
-   (id: "1", name: "Fondation Jobtrek"),
-   (id: "2", name: "Center for spiced radium experiments, United Kingdom"),
-   (id: "3", name: "Bruce's Bar and Grill, London (near Susan's)"),
-   (id: "#", name: "Equal contributions"),
-  ),
-  doi: "https://doi.org/10.5802/fake.doi",
-  keywords: ("Scientific writing", "Typst", "PCI", "Example"),
-  correspondence: "a-lavois@lead-free-univ.edu",
-  numbered_sections: false,
-  pcj: false,
-)
 
-= Abstract
+Concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée
 
-Bonjour, test @reinventing-organisations
+= Idées en vrac
+
+Bouqin d'inspiration principale @reinventing-organisations-frederic-laloux
+
+Revue de littérature
+
+alignement stratégique (stratégie -> gouvernance -> IT)
+
+change management
+
+
+= Idée de structure
+
+*Résumé managerial*
+
+*Introduction*
+Contexte (entreprise et sa structure)
+gouvernance (avec revue littérature ?)
+gestion informatique actuelle
+Problémes à résoudre
+
+*Revue de littérature*
+Encrage de la gouvernance dans la littérature
+Analyse des ressources en lien avec la gouvernance distribuée et les SI
+
+Modélisation de la structure ? TOGAF ? ArchiMate ?
+
+*Partie pratique*
+Gouvernance Jobtrek -> différences et comment elle s'ancre dans l'holacratie (avec entretien codir a l'appui)
+Collecte des besoins et contraintes
+Stratégie IT ? ou simili stratégie
+Proposition d'un cadre numérique
+Proposition de process qui s'intégrent dans la gouvernance
+Propostion de mise en oeuvre ?
+Tests ?
+
+*Conclusion*
+Confrontation des
 
 #bibliography("bibliography.bib")
