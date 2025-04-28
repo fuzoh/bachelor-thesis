@@ -1,8 +1,16 @@
-= Suivi travail de Bachelor
+#import "./template.typ": template
+
+#show: template.with(
+  title: "Suivi en vrac du travail de Bachelor",
+  last_update: datetime.today(),
+  author: "Bastien Nicoud",
+)
+
+= Suivi en vrac travail de Bachelor
 
 _Bastien Nicoud, 2025, HE-ARC_
 
-== Séance du 10 avril 2025
+== Séance du 10 avril 2025 - Notes en vrac
 
 *Questions :*
 - Planification et liste de tâches ?
@@ -10,19 +18,13 @@ _Bastien Nicoud, 2025, HE-ARC_
 - Délai pour le rendu final ?
 - Poster ?
 
-
 - Demande de ratification
-  - Intra extra muros
+  - Extra muros
   - Dans quelle mesure sont contenu peut déjà être celui de la partie revue du TB
   - Délai
 
-
 *Resources*
 - Littérature pour la conception des entretiens
-
-
-#bibliography("bibliography.bib")
-
 
 fonctions de support pour une structure olacratique
 
@@ -40,3 +42,17 @@ choix d'un outils
 
 
 guide d'entretien -> quelles sont les infos que l'on souhaite -> après imaginer les questions ?
+
+== Séance avec Amélia - Notes en vrac
+
+Passage en revue du guide d'entretien.
+
+Rajouter des questionnements liés à l'IA. Est-ce que les collaborateurs se rendent compte des possibilités, les limites. Des risques terme de sécurité des données ?
+
+Question sur l'environnement de travail ? Le matériel mis a disposition est-il adapté ? Sont-ils confortables ?.
+
+== Séance du 30 avril 2025 - Notes en vrac
+
+Revue du modèle de guide d'entretien
+
+#bibliography("bibliography.bib")

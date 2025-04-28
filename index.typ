@@ -1,5 +1,10 @@
-#show heading: set text(font: "Articulat CF", weight: "semibold")
+#import "./template.typ": template
 
+#show: template.with(
+  title: "Concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée",
+  last_update: datetime.today(),
+  author: "Bastien Nicoud",
+)
 
 Concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée
 
@@ -40,6 +45,6 @@ Propostion de mise en oeuvre ?
 Tests ?
 
 *Conclusion*
-Confrontation des
+
 
 #bibliography("bibliography.bib")
