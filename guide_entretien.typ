@@ -9,14 +9,14 @@
 
 = Guide d'entretien
 
-Le présent guide d'entretien doit permettre de cadrer les échanges avec les collaborateurs de la fondation.
+Le présent guide d'entretien doit permettre de conduire les échanges avec les collaborateurs de la fondation.
 L'objectif est d'obtenir a minima les informations décrites aux chapitres suivants.
 
 Chaque chapitre représente une thématique, les sous-chapitres les informations qui sont recherchées. Pour finir, le contenu des sous-chapitres propose des questions standard. Les questions en italique ne sont adaptées que pour les collaborateurs qui ont un rôle de coordination d'un cercle.
 
 == Vocabulaire
 
-/ Role: Désigne une fonction et ses responsabilités. Un ou plusieurs rôles peuvent être attribués à un collaborateur.
+/ Rôle: Désigne une fonction et ses responsabilités. Un ou plusieurs rôles peuvent être attribués à un collaborateur.
 / Cercle: Regroupe différents rôles. Un cercle est comparable à un "département" ou "service".
 / Coordinateur: Désigne le rôle qui fait office de représentant d'un cercle. N'a pas de pouvoir hiérarchique sur les autres rôles, est responsable de la bonne marche du cercle.
 / Cercle IT: Désigne l'équipe qui met en œuvre la gestion informatique de la fondation Jobtrek. Comparable à un "département IT" ou "service informatique".
@@ -25,6 +25,7 @@ Chaque chapitre représente une thématique, les sous-chapitres les informations
 
 + Révéler les points positifs et à améliorer de la gestion informatique actuelle.
 + Comprendre l'utilisation actuelle des outils informatiques des collaborateurs.
++ Obtenir un apércu de la conscience des collaborateurs vis a vis des données qu'ils traitent.
 + Obtenir une vue d'ensemble des besoins IT des collaborateurs.
 + Quelles contraintes sont acceptables ou non pour les collaborateurs vis-à-vis du cercle IT.
 
@@ -35,7 +36,7 @@ Chaque chapitre représente une thématique, les sous-chapitres les informations
 == Préhension de l'informatique
 
 - Vous sentez-vous responsable de la sécurité de votre ordinateur ?
-- Selons-vous, qu'avez-vous le droit de faire ou pas avec votre ordinateur ?
+- Selons-vous, qu'avez-vous le droit de faire ou non avec votre ordinateur ?
 - Quelles sont les éventuelles limites qui vous sont imposées ?
 
 == Poste de travail et environnement
@@ -45,7 +46,7 @@ Chaque chapitre représente une thématique, les sous-chapitres les informations
 
 == Accès au support
 
-- Qui contactez-vous en cas de problème informatique ?
+- Qui contactez-vous en cas de problème informatique ? Par quel biais ?
 - Est-il facile d'obtenir du support ? Quels sont les éventuels freins ?
 - Une fois le support déclenché, obtenez-vous un retour rapide ? les problèmes sont-ils résolus ou mis en attente ?
 
@@ -72,14 +73,14 @@ Chaque chapitre représente une thématique, les sous-chapitres les informations
 
 === IA et outils d'automatisation
 
-- Utilisez-vous des outils d'IA ou d'automatisation ? (ex: ChatGPT, Zapier, IFTTT) ?
+- Utilisez-vous des outils d'IA ou d'automatisation ? (ex: ChatGPT, Zapier, IFTTT)
 - Êtes-vous à l'aise avec ces outils ?
 - Quelles données êtes-vous amené à traiter avec ces outils ?
 
 == Matériel et autres
 
 - Stockez-vous des données de Jobtrek en dehors de votre ordinateur ?
-- Lorsque vous partagez des données hors Jobtrek, comment déterminiez-vous si vous pouvez le faire ou non ?
+- Lorsque vous partagez des données hors Jobtrek, comment déterminez-vous si vous pouvez le faire ou non ? Que considérez vous comme paratager des données hors Jobtrek ? (e-mail, stockage cloud, outils d'IA)
 
 = Besoins des collaborateurs et contraintes
 
