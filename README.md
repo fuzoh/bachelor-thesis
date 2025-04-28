@@ -4,4 +4,6 @@
 > Bastien Nicoud
 > 2025
 
-Ce dépot git contient les sources qui ont sérvi à l'élaboration de ma thèse de Bachelor. Vous y trouvez notamment les sources du rapport au format [`typst`](https://typst.app/docs/). Mais aussi les données brutes, transcriptions et autres annexes.
+Ce dépot contient les sources au format [typst](https://typst.app/docs/) des différents documents de ma thèse de Bachelor.
+
+Il peuvent être compilés directement avec l'outil en ligne de commandes de typst, ou dans VScode via l'extension [TinyMist](https://github.com/Myriad-Dreamin/tinymist).
