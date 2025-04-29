@@ -9,7 +9,7 @@
 
 // Main page
 
-#align(right, image("HEG-ARC-logo-couleur-cmyk.png"))
+#align(center, image("HEG-ARC-logo-couleur-cmyk.png"))
 
 #v(8em)
 
@@ -71,6 +71,19 @@
 #pagebreak()
 
 = Description de la problématique à résoudre
+
+La problématique à étudier dans le cadre du travail est porposée par la Fondation Jobtrek. *En bref*, il s'agit d'étudier et de proposer des solutions qui permettraient de mieux intégrer les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée.
+
+== Présentation de la Fondation Jobtrek
+
+La Fondation Jobtrek est active depuis près de 10 ans dans l'insertion professionnelle et l'accompagnement des jeunes sur le canton de Vaud. Sa mission est de favoriser l'intégration durable des jeunes dans le monde du travail en s'appuyant sur une approche holistique et personnalisée.
+Les axes principaux de Jobtrek s'articulent autour de :
+- Insertion professionnelle (MISt): Aide les jeunes à trouver leur premier apprentissage ou emploi.
+- Centre de formation (JobtrekSchool): Accueille des apprentis en employé de commerce, informatique et autres métiers adaptés aux besoins du marché.
+- Programmes de réinsertion (Ecotrek): Soutient les adultes à retrouver un emploi en utilisant la durabilité comme levier motivationnel.
+- Placement en stage (Relai Entreprises): Facilite la mise en relation et le placement en stages des élèves en fin de scolarité obligatoire.
+Jobtrek se distingue par son modèle de gouvernance innovant, inspiré de l'holacratie @reinventing-organisations-frederic-laloux et adapté en interne sous le nom de Jobtrekracy. Ce modèle favorise la responsabilisation, l'autonomie des collaborateurs et l'adaptabilité face aux évolutions rapides du secteur.
+Actuellement, Jobtrek emploie 30 collaborateurs et s'appuie sur divers outils numériques pour la gestion et le suivi de ses activités.
 
 == Contexte
 
