@@ -3,6 +3,7 @@
 
 #show: template.with(
   title: "Demande de ratification",
+  description: "Gouvernance distribuée et gestion informatique",
   last_update: datetime.today(),
   author: "Bastien Nicoud",
 )
@@ -42,17 +43,16 @@
 #v(2em)
 
 #align(center)[
-  Prof. Boris Fritscher
+  HEG Arc - Haute école Arc - Gestion \
+  Directeur de travail : Prof. Boris Fritscher \
+  Réalisation : extra muros \
+  _Version 1_ \
+  Création : 29 avril 2025 \
+  Dèrnière modification : #custom-date-format(datetime.today(), "DD Month YYYY", "fr")
 ]
 
 #align(center)[
-  HEG Arc - Haute école Arc - Gestion
-]
-#align(center)[
-  Extra muros, crée le 29 avril 2025, modifié le #custom-date-format(datetime.today(), "DD Month YYYY", "fr") - version 1
-]
-#align(center)[
-  Début du travail le 1er avril 2025, fin du travail le 20 juillet 2025
+  Travail de bachelor du 1er avril 2025 au 20 juillet 2025
 ]
 
 #pagebreak()
@@ -99,7 +99,15 @@ Au cours de ces 10 années d'existence, Jobtrek est passé d'un collaborateur à
 
 Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'une planification particulière ou d'une réflexion sur le long terme. Il a été mis en place de manière pragmatique, en fonction des besoins immédiats et des opportunités qui se sont présentées.
 
-Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son système d’information, mais, en particulier, cherche à effectuer ces changements en tenant compte de la gouvernance distribuée.
+Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son système d'information, mais, en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave aux apports de la gouvernance distribuée.
+
+=== Gouvernance distribuée
+
+Comme évoqué précdemment, Jobtrek met en oeuvre un système de gouvernance inspiré de l'holacratie. En particuler des travaux de #cite(form: "prose", <reinventing-organisations-frederic-laloux>).
+
+Nommée "Jobtrekracy", il ne s'agit pas d'une application stricte de l'holacratie, mais d'une adaptation de ce modèle aux besoins et obejctifs de la Fondation.
+
+#text(red)[*todo*: reprendre doc sur la gouvernance + discussion avec Daniel]
 
 == Problèmes rencontrés
 
@@ -121,9 +129,27 @@ De par la nature distribuée de la Fondation, il est complexe de mettre en œuvr
 
 La Fondation ne dispose pas d'une vue d'ensemble de ses processus, outil et traitement de données. Ce qui empêche de proposer des outils adaptés, mais aussi de répondre à la loi sur les données.
 
+#text(red)[*todo*: ajouter les problèmes rencontrés + optimiser la mise en page]
+
 = Sénarios de résolutions projetés
 
+Afin de répondre aux problèmes rencontrés
+
+== Analyse, modélisation et proposition d'une stratégie IT
+
+== Proposition de procéssus pour les rôles et cercles
+
+== Mesure de l'impact des changements
+
 = Démarche
+
+#text(red)[*todo*: Décrire la méthode de travail et les itérations]
+
+#text(green)[*question*: Est-il possible de changer l'ordre ? proposition : objetifs puis démarche puis sénarios]
+
+== Revue de littérature
+
+#text(green)[*question*: Dois-je l'inclure déjà ici ? ou en annexe ?]
 
 = Objectifs
 
