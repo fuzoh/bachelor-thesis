@@ -9,7 +9,7 @@
 
 // Main page
 
-#align(center, image("HEG-ARC-logo-couleur-cmyk.png"))
+#align(center, image("assets/HEG-ARC-logo-couleur-cmyk.png"))
 
 #v(8em)
 
