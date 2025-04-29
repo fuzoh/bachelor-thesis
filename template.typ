@@ -6,7 +6,9 @@
   doc,
 ) = {
   set text(size: 11pt, lang: "fr")
+  set strong(delta: 200)
   set par(justify: true, leading: 0.7em)
+  show link: underline
 
   // PDF metadata
   set document(
@@ -26,18 +28,49 @@
     ),
     header-ascent: 1cm,
     footer-descent: 1cm,
-    header: context [
-      #text("IT et gouvernance distribuée - Fondation Jobtrek")
-      #h(1fr)
-      #text("Guide d'entretien")
-    ],
-    footer: context [
-      #last_update.display("[day] [month repr:long] [year]")
-      #h(1fr)
-      #counter(page).display("1")
-    ],
+    header: context {
+      if counter(page).get().first() > 1 {
+        [
+          #text("IT et gouvernance distribuée - Fondation Jobtrek")
+          #h(1fr)
+          #text("Guide d'entretien")
+        ]
+      }
+    },
+    footer: context {
+      if counter(page).get().first() > 1 {
+        [
+          #last_update.display("[day] [month repr:long] [year]")
+          #h(1fr)
+          Page #counter(page).display("1 sur 1", both: true)
+        ]
+      }
+    },
   )
   show heading: set text(font: "Articulat CF", weight: "semibold")
+
+  // Heading setup
+  set heading(numbering: "1.")
+  show bibliography: set heading(numbering: "1.")
+  show heading.where(level: 1): set text(size: 14pt)
+  show heading.where(level: 1): set block(below: 1em, above: 2em)
+  show heading.where(level: 2): set text(size: 13pt)
+  show heading.where(level: 2): set block(below: 0.8em, above: 1.6em)
+  show heading.where(level: 3): set text(size: 12pt)
+
+  // Figure and table setup
+  show figure.caption: emph
+  show figure.caption: set text(size: 9pt)
+  show figure: set block(breakable: true)
+  show table: set text(size: 10pt)
+  show table.cell.where(y: 0): strong
+  set table(
+    stroke: (x, y) => {
+      (bottom: 0.7pt + black)
+    },
+  )
+  set enum(indent: .4em)
+  set list(indent: .4em)
 
   // The document of the template user
   doc
