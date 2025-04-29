@@ -31,9 +31,9 @@
     header: context {
       if counter(page).get().first() > 1 {
         [
-          #text("IT et gouvernance distribuée - Fondation Jobtrek")
+          #text(title)
           #h(1fr)
-          #text("Guide d'entretien")
+          #text(description)
         ]
       }
     },
@@ -47,7 +47,7 @@
       }
     },
   )
-  show heading: set text(font: "Articulat CF", weight: "semibold")
+  show heading: set text(font: "Inter 18pt", weight: "semibold")
 
   // Heading setup
   set heading(numbering: "1.")

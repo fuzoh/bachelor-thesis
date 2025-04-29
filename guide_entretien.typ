@@ -4,7 +4,7 @@
   title: "Guide d'entretien",
   last_update: datetime.today(),
   author: "Bastien Nicoud",
-  description: "Guide d'entretien pour la collecte des besoins et contraintes des collaborateurs a propose de la gestion informatique de la Fondation.",
+  description: "Gouvernance distribuée et gestion informatique",
 )
 
 = Guide d'entretien
