@@ -3,6 +3,7 @@
   last_update: datetime.today(), // Date of the last document edition
   author: none, // Name of the collaborator who maintains this document, by priority
   description: none, // Short document description for PDF metadata
+  header_footer_start: 0,
   doc,
 ) = {
   set text(size: 11pt, lang: "fr")
@@ -29,7 +30,7 @@
     header-ascent: 1cm,
     footer-descent: 1cm,
     header: context {
-      if counter(page).get().first() > 1 {
+      if counter(page).get().first() > header_footer_start {
         [
           #text(title)
           #h(1fr)
@@ -38,7 +39,7 @@
       }
     },
     footer: context {
-      if counter(page).get().first() > 1 {
+      if counter(page).get().first() > header_footer_start {
         [
           #last_update.display("[day] [month repr:long] [year]")
           #h(1fr)

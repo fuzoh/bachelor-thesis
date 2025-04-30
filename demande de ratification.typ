@@ -9,6 +9,7 @@
   description: "Gouvernance distribuée et gestion informatique",
   last_update: datetime.today(),
   author: "Bastien Nicoud",
+  header_footer_start: 1,
 )
 
 // Main page

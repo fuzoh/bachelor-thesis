@@ -55,4 +55,24 @@ Question sur l'environnement de travail ? Le matériel mis a disposition est-il 
 
 Revue du modèle de guide d'entretien
 
+Revue -> notes directement dans le document
+
+=== Guide d'entretien
+
+Décrire le but de l'entretien.
+Pas la comme responsable IT, mais comme étudiant pour un TP. me voir plus comme un consultant. la pour apporter des solutions et non pas des problèmes.
+Auront accès aux documents a la fin
+
+commencer par la postion des collaborateurs par rapport a l'informatique. mentionner leur activité au quotidien. comment les outils sont utilisés pour accomplir ces missions.
+
+Envies, ou aller
+
+Rajouter des questions plus sur le processus de travail
+
+Retirer les questions sur le type de logiciels et les mettre plus dans un sondage.
+
+Avoir une questions, puis une liste a puce de thématique a aborder dans la question
+
+Mettre les truc concrets plus a la fin, pour éviter d'influencer la partie plus ouverte au début
+
 #bibliography("bibliography.bib")
