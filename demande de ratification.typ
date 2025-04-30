@@ -136,7 +136,7 @@ La Fondation ne dispose pas d'une vue d'ensemble de ses processus, outil et trai
 
 #text(red)[*todo*: ajouter les problèmes rencontrés + optimiser la mise en page]
 
-= Sénarios de résolutions projetés
+= Sénario de résolution projeté
 
 #text(green)[*question*: Quel niveuau de détail est attendu ? juste les "titres" de potentielles solutions, ou déjà du concret sur la solutions impliqulées ? notion de priorités ?
   Difficile de déjà décrire des solutions sans intégrer l'analyse ? possible de l'annexer]
@@ -183,41 +183,53 @@ Proposer des mesures qui permettent de lever ces tensions ou de les atténuer. I
 
 Proposer une stratégie de management du changement pour intégrer ces mesures.
 
-== Revue de littérature
+= Objectifs et livrables
 
-#text(green)[*question*: dois-je l'inclure déjà ici ? ou en annexe ?]
+== Compréhensions de la situation et analyse des besoins
 
-= Objectifs
+_Analyse et description de la situation de l'entreprise, analyse des besoins de la gouvernance et du cercle informatique. Identification de points de tensions._
 
-#text(red)[*todo*: reformuler, compléter]
+*Livrables :*
+- Guide d'entretiens, interview de collaborateurs
+- Sondage sur l'utilisation des outils
+- Revue de littérature
+- Analyse des besoins et shématisation
+- Identification des tensions
 
-- Décrire les besoins et prérequis de Jobtrek concernant la gouvernance distribuée.
-- Lister les impératifs du cercle informatique.
-- Lister et décrire les points de tensions entre la gouvernance distribuée et le cercle informatique.
-- Sonder les collaborateurs pour identifier leurs besoins, leurs attentes et les contraintes acceptables.
-- Proposer des solutions qui permettent de lever ces tensions ou de les atténuer.
-  - Décrire comment les intégrer
-  - Sur quelles tensions elles agissent
-  - Quel impact est attentu
-- Proposer une stratégie de mise en œuvre des changements.
+== Elaborations de recommandations et propositions de mesures
 
-#text(green)[*question*: Aussi ?]
-- Proposer une stratégie de communication et de formation pour les collaborateurs.
-- Proposer une stratégie de mesure de l'impact des changements.
+_Au regard de l'analyse, proposer des recommendations pour répondre à la broblématique et concevoir des mesures qui pourraient s'appliquer à Jobtrek._
+
+*Livrables :*
+- Liste de recommendations générales et leur description
+- Liste et description de mesures adaptées à la Fondation
+- Stratégie de mise en oeuvre de ces changements
+
+== Implémentation de recommandations et évaluation
+
+_Proposer une implémentation de quelques mesures et récolter des retours des collaborateurs pour en évaler la réalisabilité et l'acceptance._
+
+*Livrables :*
+- Documents internes, processus ou choix d'outils pour les mesures sélectionnées
+- Retours des collaborateurs
+
+// Idées
+// - Proposer une stratégie de communication et de formation pour les collaborateurs.
+// - Proposer une stratégie de mesure de l'impact des changements.
+
+#pagebreak()
 
 = Planification des tâches
 
 #include "planification.typ"
 
-= Livrables
-
-= Littérature
+= Bibliographie
 
 #bibliography("bibliography.bib")
 
 #pagebreak()
 
-= Athentification
+= Authentification
 
 Par leur signature, la direction de filière et le directeur de travail valident la démarche proposée et en aucun cas le contenu détaillé de la demande de ratification.
 
