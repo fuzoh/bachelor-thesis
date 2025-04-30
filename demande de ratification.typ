@@ -135,7 +135,18 @@ La Fondation ne dispose pas d'une vue d'ensemble de ses processus, outil et trai
 
 = Sénarios de résolutions projetés
 
-#text(green)[*question*: Quel niveuau de détail est attendu ? juste les "titres" de potentielles solutions, ou déjà du concret sur la solutions impliqulées ? notion de priorités ?]
+#text(green)[*question*: Quel niveuau de détail est attendu ? juste les "titres" de potentielles solutions, ou déjà du concret sur la solutions impliqulées ? notion de priorités ?
+  Difficile de déjà décrire des solutions sans intégrer l'analyse ? possible de l'annexer]
+
++ Analyse
+  - Identifier les besoins de la gouvernance distribuée
+  - Identifier les besoins du cercle informatique
+  - Identifier les points de tensions entre la gouvernance distribuée et le cercle informatique
+  - Identifier les outils, processus et traitements de données touchés par ces tensions
+  - Identifier les rôles et cercles impliqués dans ces tensions
+  - Identifier les besoins, attentes et contraintes des collaborateurs
++ Propositions de mesures
++ Stratégie de mise en oeuvre du changement
 
 == Analyse, modélisation et proposition d'une stratégie IT
 
