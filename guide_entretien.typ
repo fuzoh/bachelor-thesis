@@ -110,3 +110,7 @@ Chaque chapitre représente une thématique, les sous-chapitres les informations
 - À quelle fréquence accepteriez-vous de suivre des formations IT ? (1x par an, 2x par an)
 - Ces formations devraient-elles être en plus des formations actuelles de la Fondation, ou remplacer des formations existantes ?
 - Accepteriez-vous d'être régulièrement interrogé sur vos compétences informatiques (via un quizz) ?
+
+= Propositions
+
+#text(red)[*todo*: Rajouter ici quelques potentielles solutions, et sonder le collaborateur sur ces dérnieres. Comment il les perçoit, cela serait il contraignant, a quels endroits, y-voit-il des avantages ?]
