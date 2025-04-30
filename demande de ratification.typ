@@ -109,6 +109,8 @@ Nommée "Jobtrekracy", il ne s'agit pas d'une application stricte de l'holacrati
 
 #text(red)[*todo*: reprendre doc sur la gouvernance + discussion avec Daniel]
 
+#text(red)[*todo*: ajouter une image des cercles et rôles actuels]
+
 == Problèmes rencontrés
 
 === Gouvernance et Cercle informatique
@@ -133,7 +135,7 @@ La Fondation ne dispose pas d'une vue d'ensemble de ses processus, outil et trai
 
 = Sénarios de résolutions projetés
 
-Afin de répondre aux problèmes rencontrés
+#text(green)[*question*: Quel niveuau de détail est attendu ? juste les "titres" de potentielles solutions, ou déjà du concret sur la solutions impliqulées ? notion de priorités ?]
 
 == Analyse, modélisation et proposition d'une stratégie IT
 
@@ -143,15 +145,51 @@ Afin de répondre aux problèmes rencontrés
 
 = Démarche
 
-#text(red)[*todo*: Décrire la méthode de travail et les itérations]
+#text(red)[*todo*: reformuler en phrases complètes, ajouter graphique]
 
-#text(green)[*question*: Est-il possible de changer l'ordre ? proposition : objetifs puis démarche puis sénarios]
+#text(green)[*question*: est-il possible de changer l'ordre ? proposition : objectifs puis démarche, puis scénarios]
+
+Analyser et modéliser les besoins des 2 éléments impliqués (gouvernance distribuée et cercle informatique). Identifier les éléments supplémentaires qui pourraient influer sur ces 2 éléments.
+
+Classer les besoins pour chaque partie, identifier ceux qui sont prioritaires, ceux qui ne peuvent rester insatisfaits.
+
+Mettre en regard les besoins de chaque partie, identifier les points de tension. Identifier quels rôles et cercles sont impliqués dans ces tensions (proposer une visualisation).
+
+Lister les process, outils, traitement de données qui sont touchés par ces tensions.
+
+Parmi ces tensions et process, identifier :
+- S'ils doivent/peuvent être centralisés ou décentralisés
+- S'ils sont déléguable aux cercles et rôles
+
+Proposer des mesures qui permettent de lever ces tensions ou de les atténuer. Indiquer :
+- le champ d'action de la mesure (modification de la gouvernance, d'un process, du cadre de valeur de la Fondation)
+- Comment la mesure pourrait être mise en œuvre
+- Sur quelles tensions elle agit
+- L'impact attendu
+
+Proposer une stratégie de management du changement pour intégrer ces mesures.
 
 == Revue de littérature
 
-#text(green)[*question*: Dois-je l'inclure déjà ici ? ou en annexe ?]
+#text(green)[*question*: dois-je l'inclure déjà ici ? ou en annexe ?]
 
 = Objectifs
+
+#text(red)[*todo*: reformuler, compléter]
+
+- Décrire les besoins et prérequis de Jobtrek concernant la gouvernance distribuée.
+- Lister les impératifs du cercle informatique.
+- Lister et décrire les points de tensions entre la gouvernance distribuée et le cercle informatique.
+- Sonder les collaborateurs pour identifier leurs besoins, leurs attentes et les contraintes acceptables.
+- Proposer des solutions qui permettent de lever ces tensions ou de les atténuer.
+  - Décrire comment les intégrer
+  - Sur quelles tensions elles agissent
+  - Quel impact est attentu
+- Proposer une stratégie de mise en œuvre des changements.
+
+#text(green)[*question*: Aussi ?]
+- Proposer une stratégie de communication et de formation pour les collaborateurs.
+- Proposer une stratégie de mesure de l'impact des changements.
 
 = Planification des tâches
 
