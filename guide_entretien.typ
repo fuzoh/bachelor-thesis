@@ -1,5 +1,5 @@
 #import "@preview/datify:0.1.3": custom-date-format
-#import "./template.typ": template
+#import "lib/template.typ": template
 
 #show: template.with(
   title: "Guide d'entretien",
@@ -9,7 +9,7 @@
 )
 
 // Big margin en spacing to allow hand written notes
-#set page(margin: (right: 80mm))
+#set page(margin: (left: 10mm, right: 90mm))
 #set par(leading: 1em)
 
 #align(

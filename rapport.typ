@@ -1,5 +1,5 @@
 #import "@preview/datify:0.1.3": custom-date-format
-#import "./template.typ": template
+#import "lib/template.typ": template
 
 /// Demande de ratification du travail de bachelor
 /// 2025 - HE-Arc - Bastien Nicoud
@@ -89,7 +89,7 @@
 
 == Contexte
 
-= Revue de littérature
+#include "parts/revue_de_litterature.typ"
 
 = Recommandations générales
 

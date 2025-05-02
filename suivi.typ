@@ -1,4 +1,4 @@
-#import "./template.typ": template
+#import "lib/template.typ": template
 
 #show: template.with(
   title: "Suivi en vrac du travail de Bachelor",
@@ -57,7 +57,7 @@ Revue du modèle de guide d'entretien
 
 Revue -> notes directement dans le document
 
-=== Guide d'entretien
+*Guide d'entretien*
 
 Décrire le but de l'entretien.
 Pas la comme responsable IT, mais comme étudiant pour un TP. me voir plus comme un consultant. la pour apporter des solutions et non pas des problèmes.
