@@ -10,7 +10,7 @@
 
 _Bastien Nicoud, 2025, HE-ARC_
 
-== Séance du 10 avril 2025 - Notes en vrac
+== _10 avril_ - Notes en vrac séance avec Boris Fritscher
 
 *Questions :*
 - Planification et liste de tâches ?
@@ -43,7 +43,7 @@ choix d'un outils
 
 guide d'entretien -> quelles sont les infos que l'on souhaite -> après imaginer les questions ?
 
-== Séance avec Amélia - Notes en vrac
+== _28 avril_ - Séance avec Amélia
 
 Passage en revue du guide d'entretien.
 
@@ -51,7 +51,7 @@ Rajouter des questionnements liés à l'IA. Est-ce que les collaborateurs se ren
 
 Question sur l'environnement de travail ? Le matériel mis a disposition est-il adapté ? Sont-ils confortables ?.
 
-== Séance du 30 avril 2025 - Notes en vrac
+== _30 avril_ - Notes en vrac séance avec Boris Fritscher
 
 Revue du modèle de guide d'entretien
 
@@ -74,5 +74,30 @@ Retirer les questions sur le type de logiciels et les mettre plus dans un sondag
 Avoir une questions, puis une liste a puce de thématique a aborder dans la question
 
 Mettre les truc concrets plus a la fin, pour éviter d'influencer la partie plus ouverte au début
+
+*Notes papier*
+
+Sénario -> présenter l'ordre des choses imaginées, les éventuelles variations
+
+Démarche -> expliquer les outils a mettre en oeuvre, les méthodes
+
+Livrables et objectifs -> a quoi l'on souhaite arriver
+
+Analyse
+Lister les process, outils, traitement de données qui sont touchés par ces tensions.
+
+Parmi ces tensions et process, identifier :
+- S'ils doivent/peuvent être centralisés ou décentralisés
+- S'ils sont déléguable aux cercles et rôles
+
++ Analyse
+  - Identifier les besoins de la gouvernance distribuée
+  - Identifier les besoins du cercle informatique
+  - Identifier les points de tensions entre la gouvernance distribuée et le cercle informatique
+  - Identifier les outils, processus et traitements de données touchés par ces tensions
+  - Identifier les rôles et cercles impliqués dans ces tensions
+  - Identifier les besoins, attentes et contraintes des collaborateurs
++ Propositions de mesures
++ Stratégie de mise en oeuvre du changement
 
 #bibliography("bibliography.bib")
