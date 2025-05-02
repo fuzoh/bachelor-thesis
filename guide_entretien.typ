@@ -7,6 +7,11 @@
   author: "Bastien Nicoud",
   description: "Gouvernance distribuée et gestion informatique",
 )
+
+// Big margin en spacing to allow hand written notes
+#set page(margin: (right: 80mm))
+#set par(leading: 1em)
+
 #align(
   center,
   [
@@ -18,7 +23,6 @@
     _v3_ - #custom-date-format(datetime.today(), "DD Month YYYY", "fr")
   ],
 )
-
 
 = Informations
 
