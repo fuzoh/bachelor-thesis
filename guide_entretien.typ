@@ -15,7 +15,7 @@
       "Guide d'entretien",
     )
 
-    _v2_ - #custom-date-format(datetime.today(), "DD Month YYYY", "fr")
+    _v3_ - #custom-date-format(datetime.today(), "DD Month YYYY", "fr")
   ],
 )
 
@@ -63,7 +63,7 @@ Les questions ne sont pas forcément destinées à être posées telles quelles,
 
 - Décrivez votre utilisation générale des outils informatiques pour l'accomplissement de vos rôles.
   - processus impliqués
-  - comment les outils sont utilisés dans l'accomplissement des missions.
+  - comment les outils sont utilisés dans l'accomplissement des missions
   - y a-t-il des outils originaux, inattendus
   - utilisation de l'IA
 - Dans quelle proportion l'informatique et son fonctionnement à Jobtrek vous aident à accomplir vos tâches ou vous entravent ?
@@ -73,10 +73,12 @@ Les questions ne sont pas forcément destinées à être posées telles quelles,
 
 === Sécurité
 
-- Vous sentez-vous responsable de la sécurité de votre ordinateur et des données traitées ?
+- Comment gérez-vous la sécurité de votre ordinateur (session, données) ?
+  - responsabilité des données et actions
+  - pratiques d'utilisation
 - Quelles sont vos libertés et/ou limites quant à l'utilisation des outils informatiques dans le cadre de vos rôles ?
-- Est-ce que votre rôle vous amène à traiter des données sensibles ?
-  - conscience
+- Savez-vous ce qu'est une donnée sensible ?
+- Comment traitez-vous ces données dans le cadre de votre rôle ?
   - type de données traitées et processus/rôles impliqués
   - où sont stockées les données
 - Comment déterminez-vous si vous pouvez partager les données hors Jobtrek ? Que considérez-vous comme partagé "hors Jobtrek" ?
@@ -90,12 +92,18 @@ Les questions ne sont pas forcément destinées à être posées telles quelles,
   - utilisation du support ? Autres
   - types de problèmes
   - comment obtenir de l'aide
-- Est-il facile d'obtenir du support ? Quels sont les éventuels freins ?
-- Une fois le support déclenché, obtenez-vous un retour rapide ? les problèmes sont-ils résolus ou mis en attente ?
+- Comment se sont passées vos dernières interactions avec le support ?
+  - facilité d'accès
+  - freins rencontrés
+  - qualité des interactions
+- Une fois le support déclenché, comment se sont résolues vos dernières situations ?
+  - rapidité
+  - qualité de la résolution des problèmes
+  - remise à plus tard des problèmes
 
 == Formation
 
-- Vous sentez-vous alaise et compétent avec les outils informatiques mis à votre disposition ?
+- Comment estimez-vous votre niveau de compétences / fluidité d'utilisation avec les outils numériques utilisés pour vos rôles ?
   - outils de gestion standards (bureautique)
   - outils spécialisés (erp)
   - IA
