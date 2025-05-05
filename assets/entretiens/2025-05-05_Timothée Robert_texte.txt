@@ -1,0 +1,2158 @@
+Du coup, l'entretien est séparé en deux grandes parties.
+
+Il y a une première, où le but, c'est de faire le point sur l'utilisation des outils dans l'état actuel pour toi, au sein de la fondation.
+
+Je vais te poser certaines questions sur comment ça se passe pour toi actuellement.
+
+Le but, c'est de décrire ce que tu fais.
+
+Puis ensuite, dans une deuxième partie, on va discuter de si on pouvait faire un peu ce qu'on veut.
+
+Qu'est-ce que toi, tu apprécierais?
+
+Qu'est-ce que tu ferais?
+
+Quelles seraient tes contraintes en tant que collaborateur, etc.
+
+Du coup, la première chose que j'aurais besoin,
+
+c'est que tu me fasses un topo de manière générale.
+
+Comment tu utilises des outils informatiques à JobTrack
+
+pour l'accomplissement de tes rôles?
+
+Tu peux me faire une liste,
+
+m'expliquer un peu ce que tu fais avec l'informatique,
+
+dans quelle mesure l'informatique est impliquée
+
+pour l'accomplissement de tes rôles?
+
+Pour l'accomplissement de mes rôles, je veux dire l'informatique, elle est absolument fondamentale.
+
+Parce que, hormis pour les camps dans lesquels je suis dans la montagne avadrouillée,
+
+accessoirement, je vais un peu tout faire sur l'informatique.
+
+Donc, les outils qui vont être grandement utilisés, ça va être Teams, Outlook pour la communication.
+
+Enfin, communication, les échanges, projets, etc.
+
+pas forcément SharePoint pour les documents.
+
+Et puis après, c'est vrai que moi, j'utilise beaucoup Canva pour tout ce qui est création
+
+de contenu.
+
+On utilise aussi CapCut pour les vidéos.
+
+Et puis, bon, moi, je touche pas vraiment ça, mais je délègue, on va dire.
+
+Et puis voilà, ça, c'est vraiment les gros temps.
+
+j'ai réfléchi un peu, pire d'hommes, une fois par mois, faire un petit check.
+
+Je ne suis même pas sûr si une fois par mois, mais une fois toutes les 6, 8 semaines, je dirais quand même.
+
+Je vais checker.
+
+Je crois que ça a eu des changements aussi, ce genre de choses.
+
+Le vrai truc que j'utilise vraiment beaucoup, ça va être Mail et Teams.
+
+Ça, c'est vraiment assez fondamental.
+
+Et puis après, la suite Office.
+
+Donc l'utilisation de tous ces outils, en fait, toi, elle répond à ton rôle communication, c'est juste.
+
+Ouais.
+
+C'est le rôle com?
+
+Principalement, et puis planification, quoi.
+
+T'arrives à m'en dire plus?
+
+Planification, c'est?
+
+Planification des camps, par exemple.
+
+Ok, donc là, ça, c'est ton rôle de responsable camp, en gros.
+
+Ouais, c'est ça, parce que je dois quand même faire de la recherche, mettre tout ça sur un Excel, enfin voilà, des...
+
+Donc ton rôle formateur, en fait, tu fais découler dessus des tâches du rôle com.
+
+Donc les outils que tu as choisis là, ils sont plutôt pour répondre aux besoins du rôle com.
+
+Oui, c'est ça.
+
+Il n'y a pas d'autres outils ou d'autres processus dans lesquels tu es impliqué qui impliquerait des outils particuliers?
+
+Tu me prends de cours le lundi matin, non je plaisante, mais...
+
+Des outils...
+
+Par exemple, les plateformes web.
+
+Est-ce qu'il y a autre chose?
+
+Donc là, tu as cité CapCut,
+
+qui est aussi une plateforme,
+
+il me semble, Canva.
+
+Oui.
+
+Est-ce qu'il y a d'autres outils dans lesquels tu...
+
+Il y a ClickUp, ça, tu le sais.
+
+Mais que j'utilise assez rarement,
+
+puis je vais killer le truc.
+
+Il y a...
+
+Qu'est-ce que j'utilise encore?
+
+Attends, il y a un autre autre que j'utilise.
+
+Ah, des fois, WordPress,
+
+quand il s'agit de modifier des trucs et tout.
+
+Mais ça, c'est...
+
+On va dire que c'est plutôt sur demande
+
+et ça ne répond pas à...
+
+un process quotidien.
+
+Est-ce que tu mets en œuvre
+
+des assistants IA,
+
+des outils de génération
+
+X ou Y, dans le cadre
+
+de TeroEye?
+
+Non.
+
+En fait, ce que je remarque, c'est que j'utilise
+
+de moins en moins l'IA.
+
+C'est bizarre, mais en fait,
+
+ça te fait perdre un temps
+
+de malade mental.
+
+Franchement, je pense que je fais
+
+des bons prompts, je fais des bonnes données d'ordre,
+
+mais je remarque que souvent, on a
+
+temps de faire une chose même si elle n'est pas parfaite mais de l'envoyer que d'attendre,
+
+chercher, faire ses allers-retours et tout ça donc en fait j'ai tendance à moins en moins
+
+utiliser l'IA. C'est quand même des outils que tu mets en oeuvre. Là maintenant si je prends,
+
+par exemple si tu te fais une journée de travail, potentiellement tu vas impliquer l'IA à certains
+
+moments dans tes allers-retours. Ça va être peut-être sur un brainstorming que je vais intégrer l'IA,
+
+mais je ne vais pas le faire
+
+je ne sais pas
+
+ça va être que
+
+quasiment que dans un brainstorming
+
+ou si par exemple
+
+il y a un post sur LinkedIn
+
+et puis je ne suis pas content d'un truc
+
+qui me fasse une proposition
+
+mais je suis moyennement
+
+satisfait en général de ce qui est proposé
+
+donc je préfère
+
+disons que je vais toujours peut-être utiliser
+
+une base IA puis après je vais la modifier moi
+
+ma contenance.
+
+Est-ce qu'il y a d'autres éléments
+
+que tu aimerais mentionner
+
+par rapport à ton utilisation
+
+vraiment générale d'outils informatiques?
+
+Si on fait un peu
+
+l'inventaire de tes journées de travail,
+
+des rôles et des processus...
+
+Franchement, c'est à peu près ça.
+
+Je vois pas trop de trucs.
+
+Peut-être que j'en nommais, mais
+
+pas oubli.
+
+Si maintenant, tu devais
+
+essayer un peu
+
+d'estimer à quel point
+
+les outils que tu utilises
+
+actuellement, le setup
+
+actuel auquel tu as accès
+
+avec JobTrek, ils t'aident
+
+dans l'accomplissement de tes tâches.
+
+Qu'est-ce que tu dirais?
+
+En termes d'efficience?
+
+Tu vois où je veux en venir?
+
+C'est-à-dire que
+
+dans la liste des outils que j'ai citées,
+
+il y a des outils qui, à mon sens, sont très
+
+efficients, bien orientés
+
+loi de Pareto. Puis après, il y a des outils qui sont pour moi assez compliqués. Et notamment,
+
+en fait, il y a un manquement d'outils, à mon sens. J'ai oublié de mentionner Planner également.
+
+Mais disons que si je vais être franc, si je prends Canva, CapCut par exemple, qui sont
+
+utilisés plutôt pour la génération de contenu, là, on est dans un ratio en loi de Pareto qui est
+
+excellent. On est vraiment sur... En gros, on cut tout le bullshit et puis on va sur l'essentiel.
+
+Sur la suite Microsoft, c'est un autre délire. Mais après, c'est aussi des affinités personnelles.
+
+J'ai quand même grandi en ayant fait un apprentissage sur Microsoft et tout ça, mais c'est vrai que
+
+très rapidement aux études, je suis tout parti sur Google Workspace. Et tout ce qui est pour moi UX,
+
+c'est ultra important et là-dessus je trouve qu'ils sont complètement la ramasse notamment un des pires
+
+trucs à mon avis qu'on utilise actuellement qui est très handicapant pour moi c'est sharepoint
+
+notamment dans sa gestion média qui est un peu catastrophique là où je connais du privé de chez
+
+Google, par exemple, c'est infiniment supérieur.
+
+Donc ça, c'est vraiment, je dirais,
+
+le gros bloc.
+
+Les bons élèves, je dirais,
+
+dans la catégorie
+
+de la suite Office,
+
+ça va être Outlook,
+
+que je trouve plutôt assez bon.
+
+Puis je m'arrêterai là.
+
+Non, mais Outlook,
+
+je trouve que c'est vraiment pas mal.
+
+Mais après le reste, je suis un peu...
+
+Donc là, et je reviens juste sur un élément que je n'ai pas mentionné avant, c'est-à-dire qu'à mon avis, on ne peut pas utiliser Planner de manière sérieuse sur le nombre de projets qu'on a.
+
+C'est un outil qui peut aller pour une très petite entreprise avec des process un petit peu faciles et easy, mais dès qu'on est dans du recurring, dès qu'on est sur des tâches un peu plus complexes,
+
+je trouve que d'avoir un outil plus abouti,
+
+ce serait une bonne chose.
+
+Maintenant, je suis bien conscient
+
+qu'il y a cette contrainte
+
+de la localisation des serveurs.
+
+Donc là, tu dis,
+
+PlannerBuff,
+
+tu as cité des limites,
+
+les tâches complexes,
+
+les tâches récurrentes.
+
+Tu arrives à être plus précis
+
+sur ce qui te manquerait
+
+dans un outil de ce type-là, par exemple?
+
+Ou c'est que tu vois les limites
+
+au-delà de ces deux points?
+
+Tâches complexes, tu entends par là
+
+que tu ne peux pas décrire des tâches suffisamment avancées.
+
+Tu peux, mais les intégrations, je trouve, avec Microsoft,
+
+elles se font, mais elles se font moyennement bien, je trouve.
+
+Et puis en fait, surtout, un truc qui me manque, c'est qu'on n'est pas tous les mêmes
+
+sur la manière dont on visualise les tâches.
+
+Et sauf erreur, il n'y a que deux manières de visualiser les tâches.
+
+Et puis moi, c'était un des trucs que j'adorais avec ClickUp, par exemple.
+
+c'est le fait que si par exemple toi,
+
+tu es plus à l'aise avec une vision Kanban,
+
+une vision Ganttchart,
+
+je n'en sais rien, une to-do list,
+
+enfin bref, un fichier Excel,
+
+ou ce genre de trucs,
+
+mais en fait, tu peux choisir chacun de ces éléments.
+
+Et puis ça, je trouve que c'est ultra,
+
+enfin, c'est vraiment génial
+
+de pouvoir avoir cette option-là.
+
+Et on est tellement éparpillé
+
+entre du Teams, du Outlook,
+
+des choses comme ça,
+
+que d'avoir quelque chose qui peut
+
+regrouper
+
+des infos, des tâches,
+
+c'est ultra important. Et par exemple,
+
+on n'a pas ce que j'appellerais
+
+un Viki,
+
+et ce qui me semble super important, parce que
+
+d'avoir des processus
+
+écrits sur des fichiers Word,
+
+c'est la meilleure manière de, un,
+
+jamais les checker, deux,
+
+de jamais faire des liens entre
+
+les différents documents,
+
+il n'y a pas d'hierarchie, enfin c'est...
+
+Moi, j'ai quand même travaillé
+
+dans les startups ou bien quand moi j'ai eu été indépendant, c'était parmi les premières
+
+choses que je mettais en place, c'était un bon logiciel de gestion de tâches et un
+
+viki, plutôt sur une forme d'un Notion ou un ClickUp, et puis après qui te permet
+
+vraiment de… Je ne sais pas comment dire, tu vois une page web, tu as ton navigateur,
+
+tu peux revenir parce que tu as oublié le truc.
+
+Tu vois ce que je veux dire.
+
+Ok.
+
+Très bien.
+
+Thématique suivante.
+
+Comment tu
+
+gères
+
+la sécurité
+
+de ton ordinateur,
+
+des données que tu as dessus?
+
+Qu'est-ce que c'est pour toi
+
+la sécurité?
+
+La sécurité, ça va consister premièrement à avoir un code, un bon code.
+
+Et puis, en fait, moi, j'utilise tout le temps mon empreinte digitale.
+
+C'est ma session.
+
+Et puis, s'il y a d'autres utilisateurs qui doivent utiliser mon ordinateur,
+
+ils ont d'autres sessions à disposition.
+
+c'est aussi mettre des éléments comme si ton ordinateur est inactif, il va se loquer, des choses comme ça.
+
+Maintenant, je pense que je ne suis peut-être pas la personne qui ait la meilleure hygiène de sécurité,
+
+parce que je pense que je suis plus quelqu'un qui prend des risques,
+
+mais qui préfère de la fluidité et de la rapidité qu'inverse.
+
+Mais voilà, ça c'est aussi...
+
+Disons que là où je suis assez conscient d'un point de vue sécurité,
+
+ça veut dire par exemple tout ce qui est mail, les phishings, ce genre de choses.
+
+Il y a un type qui m'écrit complètement random avec une adresse bizarre et tout ça,
+
+je vais checker, je vois un URL, je tombe sur un site web, je check tout le temps l'URL.
+
+C'est des réflexes de base.
+
+Je pense que ça va être compliqué qu'on me chope là-dessus.
+
+Alors, je ne dis pas, mais...
+
+Là, tu mentionnais que tu vas aimer peut-être la prise de risque
+
+pour préférer par exemple la fluidité.
+
+Oui.
+
+Mais tu as des exemples concrets de ce que ça veut dire pour toi dans ton utilisation?
+
+Je n'en sais rien.
+
+Par exemple, quand on prend ClickUp, on arrête ClickUp
+
+parce que les datas sont stockées aux US.
+
+encore plus maintenant avec la gestion un peu délicate mais les data elles sont stockées aux us et nous on a des données d'entreprise
+
+qui rentrent dans le cadre scola rgpd et qu'on devrait avoir stocké de manière fiable maintenant moi j'ai quand même mis ça en place
+
+parce qu'un temps il fallait qu'on arrive sur du résultat j'étais conscient de cet élément là mais bon il n'y a jamais eu des données sensibles
+
+et confidentielles qui ont été glissées là-dedans,
+
+finalement, tu vas faire un bon scrapping,
+
+tu vas retrouver exactement les mêmes informations
+
+à peu de choses près.
+
+Et puis moi, j'étais OK avec cette zone grise
+
+pour pouvoir être plus efficient
+
+sur l'accomplissement de ma tâche.
+
+Du coup, là, par exemple, si on prend cet exemple,
+
+comment tu décrirais un peu la prise de responsabilité
+
+que tu as prise par rapport à ces données?
+
+Tu te sentais responsable de ces données?
+
+Du coup, tu es dit, je peux me permettre de faire ce choix-là.
+
+En fait, je me sentais plus responsable d'accomplir ma mission, coûte que coûte,
+
+plus que de me faire éventuellement pincer par un organe de révision du canton.
+
+Maintenant, peut-être que c'est aussi parce que je n'ai pas eu la vue d'ensemble de la chaîne potentielle de répression, ce genre de choses.
+
+Je ne vois pas la conséquence potentielle.
+
+Et en fait, même s'il y a un audit, par exemple, tu peux supprimer les données.
+
+Imaginons qu'il y a un audit en l'espace de deux heures, j'ai killé tout le click-up.
+
+Et on dit que c'était un projet pilote. Enfin voilà, j'en sais rien.
+
+Parce que par exemple, si on prend de la... C'est une vraie question.
+
+Je sais que tu poses des questions, mais tu peux noter.
+
+Peut-être c'est genre, si on parle de tâches, est-ce que des tâches, c'est considéré comme une activité sensible, une information sensible?
+
+Qu'est-ce que toi, t'en penses?
+
+Ça dépend du grain, on va dire.
+
+Si par exemple, c'est une tâche qui concerne un traiki en particulier sur, je ne sais pas,
+
+son lien avec ses parents toxico, des infos vraiment sensibles,
+
+pour moi, il y a un problème.
+
+Par contre, si c'est envoyer une newsletter avec une description assez générale,
+
+de toute façon, quelque chose qui doit être lu,
+
+qui se veut en lecture,
+
+par exemple sur la communication,
+
+il n'y a pas beaucoup de données sensibles, à mon sens.
+
+Quand elles sont
+
+planifiées pour être
+
+envoyées sur LinkedIn,
+
+tu vois.
+
+Est-ce que,
+
+quand tu utilises les outils que tu as mentionnés,
+
+est-ce que tu as
+
+des manières de faire
+
+pour déterminer si, oui ou non,
+
+Tu estimes que les données que tu vas traiter avec ces outils,
+
+elles peuvent l'être ou pas?
+
+Ou est-ce que tu procèdes, comme tu l'as mentionné,
+
+par efficience, mission en premier?
+
+Tu mentionnais que des fois, tu fais du brainstorming avec l'IA.
+
+Si, par exemple, tu es amené à envoyer des données particulières à l'IA,
+
+comment tu vas juger si tu peux le faire ou pas?
+
+Bon, déjà, si je réfléchis à ce que j'envoie à l'IA,
+
+il n'y a aucune de ces infos
+
+j'ai l'impression qu'ils ne pourraient pas être
+
+soit pris sur le site web
+
+ou je ne vais pas envoyer
+
+des trucs
+
+il n'y a aucune donnée sensible
+
+qui vont concerner des gens ou des choses comme ça
+
+ok
+
+donc ça toi tu as dit être con
+
+imaginons l'entretien qu'on a maintenant
+
+un somme par exemple
+
+un somme avec les apprentissages
+
+de choses
+
+si tu arrives, tu enregistres ça
+
+via ton ordi, un truc en ligne.
+
+Puis qu'après, tu rebalances ça sur des serveurs.
+
+Là, il y a un problème.
+
+C'est beaucoup plus pratique pour faire de la prise de note de ton...
+
+Enfin, une minute, mais là, il y a un potentiel chouette, quoi.
+
+Donc, tu as l'impression d'arriver assez bien à estimer, pour ton rôle,
+
+limite de ce que tu pourrais
+
+sortir comme données
+
+parce que, comme tu l'as mentionné, elles sont publiques
+
+de toute façon, ou qu'elles n'impliquent pas
+
+de secrets particuliers?
+
+Ça, c'est aussi ce que je fais
+
+à l'armée. À l'armée, on a
+
+un protocole qui s'appelle TODSA,
+
+ça veut dire troupe,
+
+emplacement,
+
+temps, site, et puis
+
+mission.
+
+Et puis ça, c'est
+
+les données que tu peux pas communiquer
+
+ou alors tu dois communiquer de manière suffisamment vague pour qu'on n'arrive pas à identifier.
+
+Et en fait, peut-être que je ne sais pas s'il y a un principe qui existe comme ça,
+
+mais vu qu'on est dans l'humain, si tu communiques des informations, par exemple,
+
+communiquer sur un CV, envoyer à une personne de plus un CV d'une personne qui, de toute façon, cherche du travail,
+
+Pour moi, ce n'est pas tellement un problème parce que ton CV, il est fait pour être lu par plein de monde.
+
+Par contre, glisser dans ce même email par erreur un document Word dans lequel toi,
+
+tu as noté des points sensibles sur son passé, ce genre de choses.
+
+Alors là, ça, c'est ultra chaud.
+
+Mais peut-être que tu vois, il y aurait un...
+
+Je me dis que peut-être il y a un...
+
+C'est quelque chose, finalement, peut-être à définir.
+
+C'est une sorte de protocole.
+
+Parce que même nous, à l'armée,
+
+en fait, tu as plusieurs éléments de granularité
+
+et de toute façon, c'est sujet à interprétation.
+
+C'est un peu comme ce que tu mentionnais avant,
+
+tu disais, c'est pas forcément
+
+un bon moment, tu disais...
+
+Oui, je peux venir après, parce que là, je suis
+
+interviewé.
+
+Ok, tu disais
+
+des fois, la limite,
+
+elle est pas forcément sensible et claire.
+
+Donc là,
+
+si j'entends bien ce que tu m'as dit,
+
+il y aurait quelque chose à faire sur
+
+comment les collaborateurs
+
+peuvent
+
+déterminer dans une certaine mesure
+
+où fixer la limite, en gros.
+
+C'est un peu ce que tu mentionnais avec ton exemple.
+
+Ça doit être intégré dans un viki.
+
+Parce que nous, on a, tu sais,
+
+les 15 000 règlements et j'en passe
+
+imbuvable, constat.
+
+Là, je ne dis pas qu'on est au même stade,
+
+mais il y a des règlements
+
+dans tous les SharePoints
+
+répartis.
+
+Et ça, ça génère, je pense, énormément de...
+
+Déjà qu'on est dans un groupement de métiers qui est complexe et ultra large,
+
+donc si en plus tu rajoutes un système de gouvernance qui est assez complexe,
+
+plus encore des processus assez complexes, retrouvables dans des endroits où tu t'imagines pas,
+
+ça génère je pense beaucoup, enfin moi je pense que ça m'a pris,
+
+quand je suis arrivé, alors que je suis assez au taquet pour essayer de comprendre mon environnement,
+
+Mais je pense que ça m'a quand même pris 3-4 mois pour bien comprendre mon environnement.
+
+Et encore parce que j'ai eu la chance d'être intégré dans plein de cercles
+
+et donc de comprendre plein de trucs.
+
+Mais tu es intégré que dans un cercle, tu ne comprends jamais ce que tes collègues,
+
+alors que tu les croises tous les jours, ils font.
+
+Enfin, tu vas comprendre, mais ça prend plus de temps.
+
+Est-ce qu'il y a des données?
+
+C'est intéressant, j'ai pris note.
+
+Est-ce qu'il y a des données qui sont stockées ailleurs
+
+que dans les rôles, dans les process que toi, tu utilises,
+
+que tu traites, les données que tu traites au quotidien,
+
+il y en a des qui sont stockées ailleurs
+
+que sur les outils fournis par l'entreprise,
+
+au-delà du disque de ton ordinateur?
+
+Il y a des outils que tu as mentionnés ici,
+
+tant est qu'ils stockent des données.
+
+Oui, mais par exemple, c'est des données
+
+que je considère non sociables,
+
+comme par exemple, sur mon camp, mon programme de camp,
+
+comme je travaille beaucoup plus vite sur
+
+sur Sheets
+
+que sur Excel, j'ai tout fait sur Sheets
+
+après je le télécharge puis je le balance sur SharePoint
+
+mais
+
+pour moi c'est quelque chose
+
+qui n'est pas sensible
+
+donc toi tu vas un peu déterminer
+
+et si tu estimes une donnée pas sensible
+
+tu t'autoriserais à utiliser
+
+un outil autre que ceux
+
+proposés par
+
+la fondation
+
+oui, même si ce n'est pas idéal
+
+mais je le fais, tu sais c'est comme
+
+quand tu es dans ces parcs, puis que tu vois que tu as
+
+les chemins
+
+déterminés par l'architecte du parc,
+
+puis après tu as les chemins qui sont au travers
+
+des trucs, bah moi c'est la même chose.
+
+J'utilise ça par défaut, pas parce que j'ai envie,
+
+mais juste parce qu'en fait, je me sens
+
+inefficient là-dessus.
+
+Après, c'est vrai, je suis
+
+peut-être des fois un peu rigide.
+
+Et si tu dois
+
+par exemple partager les données
+
+au-delà de JobTrek,
+
+envoie à des partenaires, à des jeunes, etc.
+
+Comment tu procèdes aussi pour déterminer le type de partage que tu vas faire?
+
+Comment tu vas partager avec un outil?
+
+Est-ce que là aussi tu appliques peut-être des règles?
+
+Ça dépend de ce que je partage.
+
+Par exemple, si je dois partager des vidéos,
+
+j'ai utilisé cas de transfert d'Infomaniac,
+
+parce que c'est suisse, ça fonctionne bien.
+
+c'est efficace
+
+si c'est des Forms
+
+ça va être via
+
+ça va être
+
+via Microsoft
+
+Forms
+
+et puis après
+
+qu'est-ce que je peux envoyer
+
+des PDF, alors avant j'utilisais un outil
+
+qui s'appelait markup.io
+
+pour faire rapport annuel, truc du genre
+
+maintenant ils sont passés à 47 balles
+
+par mois, donc voilà
+
+et en fait ce que je fais c'est
+
+j'uploade mon fichier sur SharePoint
+
+et puis j'annote
+
+les trucs et tout, puis en fait
+
+je trouve que c'est une solution qui va assez bien, que j'y avais pas pensé
+
+des fois on cherche
+
+à combler
+
+un truc qui existe déjà
+
+et puis ça fonctionne assez bien
+
+c'est pas autant bien
+
+mais franchement ça fait le taf
+
+Est-ce qu'il y a des fois où tu t'es dit
+
+ça je peux pas envoyer cette information à quelqu'un
+
+ou à ce document, il doit pas
+
+être visible à l'extérieur
+
+ou tu es confronté à ce genre de situation ou tu n'as pas l'impression?
+
+À vrai dire, assez rarement.
+
+C'est-à-dire que les informations que je vais obtenir,
+
+c'est des informations souvent orales.
+
+Et puis c'est là où c'est plus sur ma capacité,
+
+enfin, c'est plus sur la parole pour le coup.
+
+Tu vois, genre, quand je fais les camps,
+
+en fait, là, j'ai des informations sur les apprentis,
+
+mais c'est des informations très générales.
+
+Il y a un peu entre les coachs et tout ça,
+
+moi, je ne vais pas du tout chercher.
+
+si c'est vraiment l'usbel et tout, je vais peut-être chercher
+
+à avoir une discussion ouverte avec
+
+le jeune, mais je ne vais pas...
+
+Tu n'es pas confronté
+
+à des fois
+
+la situation, tu dois déterminer
+
+si oui ou non, telle ou telle donnée
+
+peut être extraite
+
+de JobTrack, donc on a déjà parlé des outils
+
+avant, mais typiquement
+
+je ne sais pas, tu fais un mail à quelqu'un, ah bah en fait
+
+est-ce que je peux vraiment laisser ces infos dans le PDF
+
+ou ce genre de choses?
+
+Tu vois, les camps,
+
+C'est juste une information d'un coach qui me dit, écoute, là, c'est un peu difficile parce que ça, ça et ça.
+
+Et après, à chaque fois, il y a la... Je ne sais pas trop ce que je dois te dire.
+
+Mais bon, moi, je ne vais pas le dire plus loin.
+
+C'est à mon avis même assez bien parce que je m'occupe de la sécurité d'avoir ces informations-là.
+
+Tout à fait, oui.
+
+Ok. Je te remercie.
+
+Je t'en prie.
+
+Au niveau...
+
+Comment tu procèdes
+
+quand tu es confronté
+
+face à un problème informatique?
+
+Bon, ça dépend
+
+déjà si je suis en télétravail ou si je suis chez moi.
+
+Enfin, si je suis ici.
+
+Si je suis ici,
+
+si je sais que vous êtes très occupé,
+
+j'envoie un support.
+
+Un petit mail à support,
+
+j'explique mon truc.
+
+Notamment, ça va surtout être, quand je dis problème informatique,
+
+honnêtement, moi, je n'ai pas eu beaucoup de problèmes informatiques,
+
+ça va surtout être, je ne sais pas, accès à un SharePoint,
+
+mais en fait, ça, c'est du coup très rapide,
+
+ou alors je dois donner accès à quelqu'un d'autre,
+
+puis je fais une demande dans ce sens-là.
+
+Sinon, je passe, je n'en sais rien si c'est du hardware,
+
+connerie du genre, je passe directement.
+
+J'ai un assez bon contact avec vous, j'ai l'impression aussi,
+
+donc du coup, ça, ça facilite le truc.
+
+et puis si
+
+imaginons
+
+on a
+
+un tableau des risques
+
+sur les données que j'ai
+
+j'ai une mission à accomplir
+
+avec un tableau
+
+de risque assez faible
+
+si je vais me mettre en route
+
+je vais chercher et tout ça
+
+et puis dans ce processus de recherche
+
+pour un outil
+
+je vais poser la question
+
+t'aurais pas un truc, je vais être un peu, je vais regarder sur internet, je vais peut-être
+
+utiliser, j'essaie de trouver une solution.
+
+Mais en fait, ça c'est toujours pour moi assez important, c'est-à-dire que je pense
+
+que c'est quand même bien qu'avant d'arriver avec un problème, on ait un peu fait une petite
+
+recherche sur qu'est-ce qu'il y aurait comme solution.
+
+Après moi, ça me fait kiffer aussi, qu'on s'entende bien.
+
+un des points
+
+à mon avis
+
+qui est
+
+qui est assez crucial
+
+c'est comment tu adoptes une structure
+
+de dossier
+
+et puis c'est là où
+
+je sais que toi tu es en train de travailler
+
+sur un truc comme ça
+
+et puis je pense que ça sera
+
+une excellente chose mais je pense que là
+
+Là, on est comme un buisson qui a grandi dans tous les sens.
+
+Puis maintenant, il faut tailler.
+
+Il faut regrouper, il faut tailler, il faut éliminer ce qui ne sert à rien et qui crée de la confusion.
+
+Par exemple, je discutais avec un gars qui travaille chez Salesforce vendredi passé.
+
+Et lui m'a dit, c'est génial, chez Salesforce, on ne reçoit pas de mail.
+
+À l'interne, il n'y a aucune communication qui est sur mail.
+
+Tout se passe sur Slack, mais au moins, on a un seul focus.
+
+Genre, tout ce qui est externe, donc relation client, ça peut se passer par mail,
+
+tout le reste, c'est sur Slack.
+
+Et je trouve qu'en termes de clarification,
+
+quand on sait qu'en plus, on a bien souvent des WhatsApp professionnels.
+
+Donc rien qu'à titre privé et professionnel,
+
+je pense que chaque collaborateur JobTrack a à peu près 8 inboxes.
+
+Entre 7 à 10, 11 inboxes, si on prend encore en plus les réseaux sociaux, ce genre de choses.
+
+Et je me dis si on peut déjà simplifier, expliciter comment ça fonctionne chez nous,
+
+parce qu'en vrai, qu'est-ce qu'il y aurait sur Teams qu'on ne pourrait pas communiquer?
+
+Qu'est-ce qu'on aurait par mail qu'on ne pourrait pas communiquer sur Teams ou l'inverse?
+
+C'est quoi la proposition que tu ferais si tu pouvais choisir la manière de communiquer qui serait idéale?
+
+Déjà, moi, ce ne serait pas utiliser Teams parce que Teams, c'est complètement le bordel en termes de channel.
+
+Moi, je n'ai jamais vu un...
+
+Pour moi, c'est le pire logiciel de message.
+
+Ce qu'il faudrait, en fait, c'est comme sur Slack, tu as les channels dans lesquels tu as incorporé.
+
+Ça veut dire les cercles, par exemple.
+
+Et puis, la fondation générale.
+
+Et ensuite, tu as les conversations perso.
+
+Et ce qui me manque beaucoup, c'est que par mail, moi, j'archive tout le temps.
+
+Dès que j'ai répondu un mail, je l'archive parce que pour moi, la balle, elle n'est plus dans mon camp, elle est dans le camp adverse.
+
+Enfin, adverse.
+
+Elle est dans l'autre camp.
+
+Et sur Teams, je n'ai pas du tout ça.
+
+Et en fait, j'ai l'impression qu'il y a un duplicata de groupe.
+
+C'est hallucinant.
+
+C'est comme s'ils mélangent les channels avec les petits groupes que tu crées de plusieurs personnes
+
+et encore les conversations de personnes.
+
+Et tout ça, c'est quasiment...
+
+C'est tout le temps mélangé.
+
+Moi, je trouve que c'est important que, par exemple, tu puisses avoir des...
+
+Alors, je sais qu'il y a des options et tout, mais je n'ai jamais trop cherché non plus.
+
+Mais j'ai quand même l'impression que Teams, ça, pour le coup, ce n'est quand même pas une grande panacée.
+
+Donc pour toi, ce serait soit de remplacer Teams par un outil plus adapté ou alors utiliser des mails correctement et virer les communications Teams, par exemple.
+
+Ou alors se dire tout ce qui concerne l'externe, ça passe par mail.
+
+Tout ce qui concerne, parce que quand même, le mail, tu ne peux pas ne pas l'utiliser.
+
+Mais tout ce qui concerne l'externe, pour moi, ça devrait passer par mail.
+
+Tout ce qui concerne l'interne, ça devrait passer par un logiciel.
+
+Actuellement, c'est Teams, mais dans l'idéal, je ne sais pas si tu pourrais avoir un Slack sur un serveur.
+
+En vrai, tu vois, un Discord, par exemple, je trouve que c'est bien meilleur qu'un Teams.
+
+Ou bien, par exemple, si on prend tout ce qui est, pour moi, la suite Google,
+
+en termes de...
+
+C'est dix fois plus facile, je trouve,
+
+avec Google Calendar, l'intégration, ce genre de choses.
+
+C'est tellement, je ne sais pas comment dire,
+
+c'est plus fluide, plus clair,
+
+d'intégrer ça avec Google Meet et tout.
+
+Alors, je sais que Google, ça ne correspond pas au standard JobTrack.
+
+Et puis bon, je ne pense pas que la suite informaniac
+
+arrive passée tout de suite.
+
+Maintenant, est-ce que je peux vivre avec?
+
+Tu vois, avec Outlook, oui, clairement, je peux vivre avec.
+
+Mais tu as l'impression que tu verrais une plus-value en efficience
+
+sur d'autres outils, au-delà de si les choses étaient un peu processées
+
+et qu'on disait qu'est-ce qu'on utilise, pourquoi, etc.
+
+Bon, ça peut-être, ça permettrait une amélioration,
+
+mais toi, tu verrais quand même un besoin d'aller au-delà
+
+de simplement restructurer la manière d'utiliser des outils?
+
+C'est une bonne question.
+
+C'est compliqué, faire du change.
+
+Il faut prendre tout le monde avec.
+
+Et c'est pour ça que si tu dois faire un changement d'outil,
+
+il faut faire un changement d'outil qui peut être utilisé par un débile mental,
+
+par quelqu'un qui ne connaît rien en informatique et qui comprend.
+
+Et puis, en fait, c'est là où, pour moi, des approches comme Apple ou Google,
+
+eux, ils ont une vision design et ils vont arriver avec l'ingénierie
+
+pour que ça conforme la version design.
+
+Chez Microsoft, on a une version ingénieur et on va arriver avec un design qui va conforter la vision d'ingénieur.
+
+Et je trouve que ça, ça crée beaucoup plus de confusion que l'autre.
+
+Ok, merci.
+
+Si je reviens juste, on pourra en reparler encore des outils, mais si je reviens juste à la partie résolution de problème,
+
+quand tu fais appel au support ou aux gens qui pourraient te conseiller au sein de JobTrek,
+
+Comment tu as mentionné que toi, tu vas plutôt y aller au feeling?
+
+Si tu vois qu'il n'y a pas de disponibilité, tu vas plutôt envoyer un mail,
+
+autrement, tu vas venir carrément à l'oral.
+
+Quand tu fais appel à ce genre de choses,
+
+qu'est-ce que tu dirais que tu obtiens les réponses que tu attendrais,
+
+ou que tu as l'impression de tout le temps être limité par le support
+
+et que tu obtiens les résolutions de problèmes qu'il faut?
+
+Est-ce que tu attendrais quelque chose de différent
+
+de la part d'une équipe informatique au sein de la fondation?
+
+Pour moi, ce qui est fait dans l'équipe informatique, c'est...
+
+Je sais que vous faites le maximum en fonction de vos possibilités de ressources, temps, de marge de manœuvre et ce genre de choses.
+
+Donc moi, tu vois, je dirais que c'est plus le statut d'une fondation qui travaille avec l'État qui est limitant.
+
+mais qui est limitant pas uniquement au niveau de l'informatique,
+
+qui est limitant à plein d'aspects.
+
+Et c'est là où il peut y avoir une frustration qui se gère,
+
+parce que tu te dis, dans la plupart des boîtes, ça ne se passerait pas comme ça.
+
+Mais si je dois faire une évaluation de la qualité de votre travail, par exemple,
+
+moi, je n'ai rien à reprocher.
+
+Parce qu'en fait, je demande dans la journée, j'ai une réponse, c'est ultra rapide, c'est réactif.
+
+Et puis, je sais aussi que ce n'est pas une position simple.
+
+Donc, je suis indulgent.
+
+Après, c'est vrai, je fais deux, trois petites remarques.
+
+Enfin bon, on fait nos blagues, même entre nous.
+
+OK.
+
+Et un dernier point un peu sur l'état des lieux, même si on a déjà un peu débordé avant sur l'avenir,
+
+mais ce n'est pas du tout un problème.
+
+Comment, toi, si tu devais estimer ton niveau de compétence,
+
+de fluidité avec les outils informatiques,
+
+ton niveau de formation,
+
+pour tes rôles, pour répondre à ta mission à JobTrek,
+
+comment tu te situerais en termes de
+
+est-ce que je suis un professionnel équipé
+
+pour l'utilisation des outils informatiques
+
+qui me permettent d'accomplir ma mission?
+
+Tu te situerais comment?
+
+Dans le tiers du haut, pas parce que je suis un type extraordinairement doué en informatique
+
+comme ça, mais c'est que je suis débrouille, que les outils que j'utilise en majorité,
+
+c'est des outils qui sont abordables, faciles à mettre en place.
+
+Imaginons que je dois utiliser toute la suite Adobe.
+
+Là, on risque d'avoir une inefficience majeure.
+
+Là, en l'occurrence, j'utilise Canva, CapCut.
+
+C'est des trucs que je connais déjà, que j'ai utilisés par le passé.
+
+Ça va vite, c'est efficace.
+
+On va dire la suite-office, pour les trucs que je fais,
+
+je ne suis pas en train de faire des macros et des calculations de finances.
+
+Donc, je dirais que je suis dans le bon tiers.
+
+Tu verrais des limites sur certains outils.
+
+Imaginons des situations dans lesquelles tu t'es déjà dit « Ah purée, là, je ne sais pas exactement comment je devrais faire ça, ou si je suis totalement dans le juste, et où tu aurais peut-être buté en touche quand tu cherchais de l'information, tu aurais eu besoin, là, tout d'un coup, de plus de connaissances ou d'un apport externe. »
+
+des formules que je ne connaissais pas
+
+et tout ça, mais ça m'a fait kiffer
+
+j'ai appris à utiliser ces formules
+
+Excel je pense
+
+c'est vraiment
+
+un des logiciels les plus
+
+complexes et en même temps
+
+simples pour accomplir des trucs très très simples
+
+et donc je dirais
+
+c'est sur Excel que j'aurais le plus de
+
+de marge de manœuvre en termes d'apprentissage
+
+mais
+
+Outlook, Word, tout ça
+
+Ah, il y a peut-être des trucs que je n'utilise pas.
+
+Mais par exemple, pour faire du publipostage sur Word,
+
+j'avoue que je ne le fais jamais,
+
+donc je ne suis pas super à l'aise.
+
+Mais je sais que c'est...
+
+Voilà, il faut un peu maîtriser.
+
+Tu as plein d'options sur chacun de ces logiciels,
+
+mais dans ton quotidien, tu ne les utilises jamais.
+
+Et donc, imaginons...
+
+Là, tu as cité quelques petits exemples.
+
+Imaginons que dans le cadre de ton travail,
+
+tu as identifié ces limites.
+
+Tu m'as dit, la plupart du temps, tu vas chercher sur Internet, trouver des solutions que tu trouves.
+
+Et puis, si tu n'étais pas satisfait de ce que tu trouves, comment tu penses qu'il faudrait pouvoir fonctionner
+
+pour trouver ces informations, ces nouvelles compétences au sein de JobTrack?
+
+Alors, c'est vrai que pour moi, la première phase, c'est que tu cherches toi sur Google.
+
+ce que j'ai dit aux apprentis, parce que moi ça m'insupporte
+
+quand on me pose des questions toutes les 3 minutes
+
+pour lesquelles tu trouves une réponse en 30 secondes
+
+donc c'est Google
+
+après tu peux utiliser l'intelligence artificielle
+
+dépendant de ton degré de confidentialité
+
+de la requête
+
+et puis après, troisième, c'est tu vas essayer
+
+déjà juste
+
+te référer à des gens
+
+tes collègues
+
+qui ont soit plus d'expérience ou tu sais qu'ils ont
+
+des compétences plus étendues là-dessus
+
+l'outil
+
+ce serait une sorte de viki qui est alimenté par une base, une data,
+
+dans laquelle tu aurais une IA, et tu soumets ta question,
+
+et lui, au lieu d'aller piocher dans des trucs qui n'ont rien à voir,
+
+totalement random, il va piocher sur cette data.
+
+Par exemple, imaginons si on a l'entièreté de notre base de données
+
+qui fournit finalement la matière à l'IA.
+
+Et puis qu'on a un Viki qui va synthétiser les éléments importants,
+
+cette base de données, des process, ce genre de choses.
+
+Et puis qu'on a l'IA intégré dans ce Viki, ça pourrait être sacrément utile.
+
+C'est ce qu'ils essaient de faire copilot.
+
+Et toi, tu alimenterais ce Viki?
+
+Imaginons que tu es un de ses collègues plus compétents que les autres dans un domaine.
+
+Moi, j'ai déjà fait mon Viki.
+
+Tu aurais alimenté le wiki d'entreprise pour que les gens aient accès, par exemple, à ces infos?
+
+Ou ça te semblerait quelque chose qui ne pourrait pas rentrer dans tes rôles, dans ton temps à disposition?
+
+Non, mais moi, je l'ai déjà fait.
+
+Par exemple, si on prend mes camps, demain, je me casse la jambe, je ne peux pas faire mes camps.
+
+Il y a tous les détails qui existent sur un document.
+
+Et pour moi, ça, c'est très important.
+
+Donc, c'est processé, c'est documenté.
+
+Ce n'est pas forcément encore dans un outil qui permet de l'exploiter.
+
+C'est là que se situe la limite.
+
+Juste une question, par rapport à ce fait de documenter ce que tu fais,
+
+ça, tu estimes que c'est un prérequis?
+
+Si on te donne un rôle, tu dois être capable de documenter ce que tu fais dans le cadre de ce rôle?
+
+Ou est-ce que c'est formalisé dans le cadre de tes rôles par la direction, par la gouvernance?
+
+Ou est-ce que c'est ta déontologie professionnelle qui t'a amené à faire ça?
+
+En fait, pour moi, j'ai envie de gagner du temps.
+
+Donc plus j'arrive à identifier des process, les mettre sur écrit, mieux c'est pour moi.
+
+Mieux c'est si j'ai un souci pour l'employeur.
+
+Et pour moi, ça c'est la vision que chaque chef d'entreprise aurait.
+
+C'est la différence entre un indépendant et un entrepreneur, à mon sens.
+
+C'est la capacité à faire effectuer des tâches par d'autres.
+
+Donc, tu as eu ton problème, tu as cherché sur Google, pas de réponse, tu as checké un peu que tes collègues, tu as regardé dans le Wi-Fi, tu n'arrives pas au résultat que tu veux ou à la compétence que tu veux.
+
+Qu'est-ce qui se passe après?
+
+Se faire du sport pour me dépouler.
+
+Oui, je suis ok, je change de idée, puis ensuite tu reviens à frais et tu te dis, bon, maintenant, il va quand même falloir résoudre ça.
+
+La vraie question à se poser, c'est est-ce que c'est un problème qui est absolument important et nécessaire pour réaliser la mission?
+
+Si tu arrives à trouver un évitement à ce problème-là, puis que tu arrives quand même à faire ta mission,
+
+bon, ben, mec, arrête de t'emmerder, quoi.
+
+Des fois, c'est aussi ça le problème, quand tu es un peu...
+
+Moi, je suis un geek sans la...
+
+J'aime comprendre l'informatique, j'aime l'utiliser,
+
+mais je ne suis pas un coder, c'est assez, un dev,
+
+mais des fois, avec l'informatique, tu as le danger de la perfection.
+
+Tu veux faire un truc nickel, trop beau, qui roule, machin,
+
+tu fais de l'automatisation,
+
+et en fait, ton output final, en termes de ta mission,
+
+il est ridicule et t'as passé 6 heures à configurer un logiciel pour mettre ça en place.
+
+Ça sert à rien.
+
+Et c'est ce danger-là que je vois aussi.
+
+Donc, il faudrait trouver un moyen que les gens soient conscients
+
+et soient capables d'évaluer si vraiment ils doivent creuser une piste ou pas,
+
+par rapport à leur rôle et leur mission.
+
+Et imaginons qu'on évalue que c'est bien là-dedans qu'il faut creuser, que c'est bien ça qu'il faut faire.
+
+Tu rêverais de quoi ensuite, du coup, pour pouvoir accéder à ça?
+
+Comment tu procéderais? Tu n'as pas trouvé les infos?
+
+Ah ben, je vais en parler.
+
+Soit l'équipe IT.
+
+Très rapidement, je vais parler avec l'équipe IT ou avec le responsable de cercle.
+
+Qui va savoir, par exemple, quand il y a eu ce problème du CRM,
+
+moi, Daniel Carrera, il s'est assez...
+
+Combien, je lui ai cassé les couilles pour dire, mais c'est quoi cette merde?
+
+En fait, tu sais, j'ai l'impression qu'à JobTrack, on a un point sur lequel il faut qu'on s'améliore.
+
+C'est actuellement, on a un turnover qui est très élevé.
+
+Et en fait, comme on a une documentation des process, de l'information qui est relativement problématique,
+
+en fait, c'est surtout quelque chose sur lequel on doit se concentrer.
+
+Parce qu'en fait, chaque personne qui part, c'est quelqu'un qui a accumulé de l'expérience, qui part.
+
+Et puis, ça coûte énormément d'argent, en fait, et de temps.
+
+Parce que quelqu'un, si on a une bonne manière de gérer les trekkies,
+
+que c'est ultra clair, que les process sont ultra clairs,
+
+la personne, tout de suite, va être beaucoup plus efficace.
+
+Je ne dis pas que c'est une tâche, je pense, qui est assez titanesque.
+
+Mais je pense que c'est une tâche qui demande du courage.
+
+Parce qu'il y a des choses qui sont à couper.
+
+Non, mais vraiment, il y a des choses qui sont à couper.
+
+Qu'est-ce que tu souhaiterais obtenir quand tu vas discuter avec ton coordinateur de cercle, ton équipe IT?
+
+Tu as identifié un problème pour lequel tu n'as pas forcément les connaissances pour le résoudre, etc.
+
+Tu souhaiterais obtenir quoi en échange? Une possibilité de formation?
+
+Même pas forcément. La première chose que je souhaite, c'est déjà qu'on puisse identifier est-ce que c'est un problème réel.
+
+parce que quand moi j'ai ma vision sur la situation,
+
+mais si je prends mon chef, lui, il aura encore un angle plus large.
+
+Et donc du coup, il va pouvoir déterminer si ça, c'est réellement urgent et important.
+
+Et donc du coup, est-ce que ça vaut la peine qu'on se focus là-dessus ou pas?
+
+Ça, c'est la première chose.
+
+Et ensuite de ça, c'est...
+
+moi je ne viens pas sans que je n'aie pas
+
+faire ma propre recherche ou mes propres suggestions
+
+ou ce genre de choses, qu'on puisse
+
+invalider ou valider une direction
+
+avec laquelle on est confortable
+
+et puis qu'à un moment donné
+
+tu fasses la paix avec cette décision
+
+tu dis bon ok, ma foi ça ne fonctionne pas
+
+dans ce sens là, on va trouver une autre solution
+
+Est-ce que tu estimerais que ce serait nécessaire
+
+pour toi en tant que collaborateur
+
+JobTrek d'avoir des
+
+formations
+
+ou des mises au point régulières
+
+sur les outils informatiques JobTrack,
+
+sur la manière de travailler avec les données, etc.
+
+Ou est-ce que toi, tu as l'impression,
+
+un peu comme tu le mentionnais avant,
+
+qu'un wiki devrait être l'outil et que ça devrait s'arrêter là?
+
+Moi, je crois beaucoup au wiki.
+
+Mais parce que peut-être que je fais partie de cette génération aussi
+
+où je me suis énormément formé en regardant des formations,
+
+des livres, des choses comme ça.
+
+Donc, je suis assez autonome.
+
+Maintenant, je pense qu'on pourrait avoir une forme un peu hybride,
+
+dans lequel quand il y a vraiment, par exemple, si on prend les Q1, Q2 et j'en passe,
+
+qu'on puisse avoir peut-être un moment d'update.
+
+Qu'est-ce qu'il y a eu comme update?
+
+Pas que au niveau de notre structuration, mais au niveau de la gestion informatique, ce genre de choses.
+
+Ça, ça vaudrait peut-être la peine.
+
+Parce que c'est un moment dans lequel tout le monde est présent,
+
+et dans lequel on peut se synchroniser.
+
+Mais ce qu'on évoque à ce moment-là, à mon avis, ça devrait figure dans le Viki,
+
+parce qu'on sait assez combien on se présente, on est dans ces entretiens, ces rendez-vous,
+
+puis en fait, après trois heures, trois jours, deux semaines, on se souvient de brides,
+
+mais on ne se souvient plus comment ça fonctionnait.
+
+Je trouve que pour moi, c'est un compas, en fait.
+
+c'est une boussole en fait
+
+toi quand t'es arrivé t'as eu un onboarding informatique
+
+on t'a expliqué des outils
+
+c'était pas utile, t'en as pas eu
+
+pour moi je peux pas appeler ça un onboarding
+
+par rapport à l'expérience que j'ai eu
+
+dans certaines boîtes
+
+j'arrivais comme ça
+
+on te donne tes outils
+
+hardware
+
+tu te connectes à ton mail
+
+et là, tu as déjà juste, bienvenue,
+
+clique sur le lien pour l'onboarding,
+
+tu cliques dessus, paf,
+
+et puis là, tu as présentation
+
+de l'entreprise, les valeurs, ce genre de choses,
+
+les outils informatiques.
+
+Moi, honnêtement, c'est ce que...
+
+Si je monte une boîte, c'est ce que je fais.
+
+Genre, il y a un truc
+
+qui est ultra...
+
+Pour moi, c'est trop important
+
+de rediriger très, très rapidement sur le Viki
+
+et puis quand tu es sur le Viki, tu as le type,
+
+tu as le formulaire, alors
+
+il nous faut peut-être une checklist,
+
+il nous faut une carte d'identité,
+
+tu cliques dessus, tu prends la photo,
+
+tu fais ton truc, tout ça.
+
+Donc l'onboarding, pour toi, dans l'idéal,
+
+ce serait un wiki
+
+avec guidé potentiellement.
+
+Ouais.
+
+Que les collègues font le...
+
+C'est ça.
+
+Et puis que, en fait, plutôt que tu prennes du temps
+
+sur une collaborateur, un collaborateur,
+
+une collaboratrice, pour qu'elle te fasse
+
+tout l'onboarding à côté de toi, ce qui ne sert à rien,
+
+tu as la collaboratrice qui prend 15 minutes
+
+un petit café avec toi, qui dit
+
+tiens, là, il y a ton ordi,
+
+tu peux l'ouvrir, tu as la session qui est ouverte,
+
+il faudra que tu changes ton mot de passe et tout,
+
+puis en fait, tu as ton petit onboarding, tu fais ton truc,
+
+puis pendant une heure et demie, c'est fini,
+
+et toi, tu as une bonne base de rêve, quoi.
+
+Et puis, si...
+
+Est-ce que toi,
+
+en tant que collaborateur, t'accepterais
+
+que de temps en temps, tu sois interrogé
+
+sous forme de quiz, par exemple, sur tes connaissances,
+
+par exemple, des règles de sécurité, des limites,
+
+de ce que tu as le droit de faire ou pas avec les outils informatiques?
+
+Bien sûr.
+
+Ça te semblerait intéressant comme garantie, entre guillemets?
+
+Là où je trouverais que ce serait intéressant,
+
+ce serait juste déjà pour estimer un niveau général, en fait.
+
+Nous, quand je travaillais dans les assurances, on avait ça.
+
+Tous les deux mois, généralement, on avait un questionnaire qui ne durait pas trop long, qui parlait, ça pouvait être la sécurité, parce qu'on communiquait des informations assez sensibles.
+
+Donc la sécurité des informations, des trucs basiques.
+
+Peut-être un dernier point qui m'intéresserait d'avoir ton analyse.
+
+On a parlé au début, on a fait un peu l'état des lieux, des process, de ce que tu fais,
+
+de comment tu procèdes, si tu as besoin d'un nouvel outil ou de connaître ce que tu peux faire avec des données, etc.
+
+Si tu te projettes maintenant un peu dans ton poste de travail idéal,
+
+donc tu as mentionné avant qu'il y a certains outils qu'il faudrait recentrer sur leur vraie utilisation,
+
+trier, retirer ce qui ne sert à rien, peut-être dans l'idéal changer certains outils, etc.
+
+Mais si on se concentre...
+
+Donc là, c'est plutôt des outils généraux
+
+qui sont partagés, on va dire,
+
+par les collaborateurs de la fondation.
+
+Si on se concentre sur toi,
+
+comment tu vis l'utilisation des outils au quotidien,
+
+ce serait quoi l'idéal pour toi?
+
+Donc, on t'a fourni un ordinateur.
+
+Où devraient-être les limites
+
+de ce que tu as le droit de faire ou pas
+
+avec des outils?
+
+Est-ce qu'il y a des limites
+
+que tu identifies?
+
+Tu dis, ça, ça doit faire partie des choses
+
+qu'un collègue ne peut pas faire
+
+ou que je ne peux pas faire.
+
+Ça, par contre, j'aimerais bien avoir des libertés là-dessus.
+
+Je ne comprends pas pourquoi dans certaines entreprises,
+
+on n'aurait pas le droit de faire ça, ce genre de choses.
+
+Comment se situerait pour toi le cadre?
+
+On a le cadre de valeur JobTrack.
+
+Et si on devait fournir le cadre de valeur ou d'utilisation numérique
+
+pour un collaborateur?
+
+Dans ton cas, qui aurait un ordi Bring Your Own Device,
+
+donc le sien.
+
+Est-ce que, bon, est-ce que, déjà, moi, si je prends Bring Your Own Device,
+
+est-ce que ce ne serait pas une bonne idée d'avoir un accès à un...
+
+Oh, putain, comment tu dis?
+
+Tu sais, une machine virtuelle, quoi.
+
+En termes de sécurité, tu vois, là, tu dois te connecter, tu mets ton VPN, tu rentres sur ton...
+
+Ça, ça pourrait être une bonne chose.
+
+Et puis, je pense qu'il serait une bonne chose, c'est d'avoir un minimum de logiciels avec lesquels travailler.
+
+Genre qu'en fait, bon, moi, c'est assez mon avis, c'est que plus t'as de trucs, plus tu vas te perdre dans les options.
+
+Et si par exemple, imaginons, on condamne déjà, je ne sais pas, on utilise Outlook, on utilise Teams, on utilise ça, ça, ça et ça.
+
+Et en fait, les autres outils Microsoft, on les condamne, on dit.
+
+Et c'est l'équipe d'IT qui a aussi un de ses rôles, c'est de faire de la recherche et de développement pour améliorer les trucs.
+
+En partenariat avec les remontées des cercles et puis des gens qui viennent se plaindre d'un truc qui ne fonctionne pas,
+
+qui vont faire ce travail-là.
+
+Ou alors à qui, tu sais, tu pourrais donner peut-être des mandats
+
+dans certains cercles d'une personne qui a, on va dire,
+
+une connaissance un peu plus grande que les autres.
+
+Dire, OK, là, tu peux faire cette recherche-là
+
+dans ton domaine, dans ton cercle, pour l'accomplissement de tes missions.
+
+Et puis, tu nous fais remonter l'info,
+
+puis après, on va prendre une décision, tu vois.
+
+Mais en tout cas, moi, je serais pour limiter énormément les programmes.
+
+Et par exemple, peut-être, ça vaudrait la peine.
+
+Je ne sais pas si vous pouvez faire, mais il me semble qu'on peut.
+
+Mais par exemple, rien que si on prend, par exemple, les navigateurs.
+
+Le navigateur, par défaut, c'est Edge.
+
+Si je m'abuse.
+
+Est-ce que ça ne vaudrait pas la peine d'avoir déjà une préconfiguration des favoris?
+
+tu sais, où tu as...
+
+Puis après, tu peux ajouter des favoris, mais tu vois,
+
+tu as déjà les essentiels de JobTrack, quoi.
+
+Et toi, ça te semblerait OK
+
+qu'il y ait des limites
+
+imposées par le service informatique
+
+sur ce genre de choses,
+
+en termes de choix d'outils, par exemple.
+
+Et
+
+dans quelle mesure, ou à partir
+
+de quel moment, ça te semble que ça va
+
+clasher, entre guillemets, avec
+
+la gouvernance distribuée qui, justement, est censée
+
+apporter autonomie et choix dans ta manière de travailler?
+
+J'ai connaissé mon avis sur la gouvernance distribuée.
+
+À mon avis, c'est...
+
+À mon sens, ça fonctionne
+
+moyennement. Je connais plusieurs personnes
+
+qui travaillent aussi dans des...
+
+dans des autres entreprises.
+
+En plus, c'est pas des fondations, mais c'est des vraies entreprises.
+
+C'est tout le temps le bordel. Alors, bon,
+
+il y a des entreprises qui sont très structurées
+
+et qui ont des grands bordels, puis il y a des entreprises
+
+où c'est beaucoup plus déstructuré, dans lesquelles c'est du grand bordel.
+
+La vie, c'est un bordel.
+
+Mais j'ai quand même l'impression que
+
+j'ai rarement vécu autant de bordel qu'en étant un job track.
+
+Mais donc, si je t'entends bien,
+
+si je reformule, ça ne te semblerait pas du tout gênant pour toi
+
+que le job track soit plus directif
+
+sur l'utilisation de ces outils.
+
+Alors ça, c'est ton avis personnel.
+
+Tu penses que la gouvernance distribuée n'est pas forcément idéale,
+
+mais on imagine de toute façon, la vision, c'est de conserver
+
+cette gouvernance distribuée. Ça ne te semblerait pas
+
+contrevenir à son bon fonctionnement,
+
+d'imposer des choses typiquement sur les outils informatifs.
+
+En fait, autant on peut imposer
+
+qu'on doit toujours permettre un référendum,
+
+et c'est JobTrek,
+
+on est très bon pour développer plein d'idées,
+
+par contre, la culture du feedback,
+
+à mon avis, à JobTrek,
+
+elle est vraiment à améliorer,
+
+Puisqu'on a l'impression que la culture de feedback à Job Trek,
+
+c'est un peu le mur des lamentations dans lequel tu vas dire,
+
+il y a des problèmes et tout.
+
+Mais comme tout le monde est de toute façon sur le pied de guerre,
+
+sur le pont du navire, personne ne va t'écouter.
+
+Je fais des grandes extrapolations.
+
+Mais je me dis, ce qui est très important, c'est que si c'est top-down,
+
+tu dis, OK, maintenant, on s'est concerté.
+
+Alors, il y a une période d'études, je pense, période d'études où une personne par cercle,
+
+ok, moi je vais m'occuper de l'informatique, de sentir l'informatique,
+
+puis il y a cette discussion avec l'IT.
+
+Une fois que tu as cette période d'études qui est terminée, on prend cette décision-là.
+
+Est-ce que vous êtes ok avec ça? On est ok avec ça?
+
+Ça, c'est le process qui est déterminé.
+
+Tous les nouveaux collaborateurs, ils vont s'y appliquer.
+
+Par contre, s'il y a des tensions à ce niveau-là, vous avez la possibilité, via le représentant IT dans votre cercle, de checker ça.
+
+Et puis, lui, il va faire cet élément-là.
+
+Alors, pour moi, le représentant IT, ça devrait être soit quelqu'un qui est passionné par ça, puis qui a vraiment envie de le faire, ou alors ça devrait être le chef de cercle.
+
+parce que j'aime une fois de plus que ce soit une personne qui règle des outils de management finalement,
+
+parce que des employés qui collaborent mieux, plus rapidement et plus efficacement, c'est des employés plus efficaces.
+
+Je te remercie. Est-ce qu'il y a d'autres éléments plus généraux qui sont venus au fil de notre discussion que tu apprécierais mentionner?
+
+Peut-être ce serait juste de lister les choses qui doivent être selon moi absolument mises
+
+en place et par ordre d'importance.
+
+Pour moi, la chose la plus importante à traiter à JobTrek, ça va être la...
+
+C'est en deux choses.
+
+C'est à la fois ce viki, je pense qu'il est très important, c'est de savoir où trouver l'information.
+
+Ultra important.
+
+Et autant important, à mon avis, c'est comment classer l'information.
+
+Où est-ce qu'elle est classée? Ce genre de choses.
+
+et puis après
+
+après
+
+ça peut être
+
+après le reste c'est je pense moins important
+
+mais ces deux éléments là je pense que c'est vraiment
+
+ultra important
+
+et puis non, alors troisième chose quand même
+
+c'est avoir à disposition
+
+je sais pas
+
+vrai dire un vrai mais un vrai logiciel de gestion tâches on a trop de projets
+
+trop d'éléments qui sont mis en cours pour qu'on puisse encore continuer à
+
+faire des fichiers excel excel s'est fait pour ça peut dépanner mais tu peux pas
+
+tu peux planifier les choses avec excel mais quand tu as une entreprise de 30
+
+personnes avec le nombre de projets constat pas c'est pas possible même ne
+
+ne serait-ce qu'en termes de lecture.
+
+Toi, tu es le chef de toute la fondation,
+
+tu devrais être en capacité de voir la charge de travail de tes collaborateurs,
+
+imaginer, planifier, et la charge réelle,
+
+quels sont les collaborateurs qui sont complètement débordés dans leurs tâches ou pas.
+
+Enfin, tout ça, c'est ultra important en termes de métriques pour gérer une entreprise.
+
+Et ça, tu peux avoir avec des bons logiciels de gestion de projet.
+
+donc si je compromets un peu tout ce que tu as dit pour toi
+
+il y a vraiment une lacune dans la gestion du temps des gens
+
+et de leur allocation des tâches
+
+et ça t'as pas l'impression que ça viendrait
+
+clasher justement avec cette approche de la gouvernance tribuée qui dit que
+
+vous êtes responsable de vos rôles et de la manière dont vous les gérez
+
+je pense qu'il faut poser la question inverse
+
+la mission avant l'ego
+
+Est-ce qu'on est en mesure d'accomplir la mission de manière efficace et qui soit suffisamment saine pour les collaborateurs?
+
+C'est bien joli de professer aux jeunes qu'il faut dormir, être les déstressés, mettre tout un tas de personnes autour d'eux.
+
+si les collaborateurs eux-mêmes sont ultra stressés et ne vont pas dans la bonne direction.
+
+Donc, pour moi, la base, c'est la mission.
+
+Mais la mission, c'est réparti entre la santé des collaborateurs,
+
+l'efficience, l'impact occasionné par la santé des collaborateurs.
+
+Et puis, à mon avis, ça résoudrait d'autres éléments assez importants.
+
+Ok. Mais tu vois, par exemple, moi, ce que je ne comprends pas, c'est genre comment, si on parle d'un onboarding ou des, je ne sais pas, on a des normes à faire passer, des choses comme ça, mais il faut qu'on puisse avoir un article dessus, qu'on puisse retrouver et puis facilement.
+
+Plutôt qu'on doive passer à, tu sais, genre, le nombre de fois, c'était quoi?
+
+On a eu plein d'entretiens, je ne sais plus quoi,
+
+pour parler d'un truc qui aurait pu être fait simplement par,
+
+on te donne un accès vidéo, on contrôle que tu l'as bien fait,
+
+on a la checklist, puis c'est bon, c'est terminé, quoi.
+
+Tu vois, tu passes peut-être trois fois plus de temps à mettre en place ta formation,
+
+on y met, et même encore, franchement, ça peut aller assez vite,
+
+après tu vas pas passer 15 fois plus de temps parce que tu dois voir chaque personne individuellement
+
+c'est des petites choses comme ça tu vois, on doit avoir quand même
+
+on doit avoir un peu un shift en termes de
+
+mentalité parce que oui on est dans le social mais on doit quand même être dans
+
+l'efficacité à mon sens quoi, de la même, après bon voilà
+
+je vais pas refaire le monde, parce que ça s'adresse pas du moins à l'informatique mais
+
+voilà je pense que t'as une assez bonne idée de ce que je pense de la situation
+
+pas. Trop bien. Je te remercie pour toutes ces réponses et moi je crois que j'en ai terminé.
+
+Merci d'avoir pris le temps. Avec plaisir.
+
