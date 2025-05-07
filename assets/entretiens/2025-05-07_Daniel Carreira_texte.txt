@@ -1,0 +1,4596 @@
+1
+00:00:00,080 --> 00:00:09,600
+— Parfait. Et donc la première chose que j'aimerais que tu me dises, c'est que tu me décrives un peu ton utilisation générale des outils informatiques à JobTrek,
+
+2
+00:00:10,280 --> 00:00:13,820
+par rapport à tes rôles, par rapport aux process que tu traites, aux données que tu traites.
+
+3
+00:00:13,820 --> 00:00:17,500
+Enfin, décris-moi un peu comment l'informatique est impliquée dans ton travail.
+
+4
+00:00:18,260 --> 00:00:23,780
+— OK. Comment elle est impliquée? Je parle pas du téléphone là.
+
+5
+00:00:25,620 --> 00:00:30,440
+Moi j'ai besoin d'un ordinateur, beaucoup dans mon rôle de facilitateur les entreprises.
+
+6
+00:00:30,760 --> 00:00:36,060
+Donc c'est là où je vais à la rencontre des jeunes dans des locaux externes à JobTrek plutôt.
+
+7
+00:00:38,100 --> 00:00:40,960
+Là j'ai besoin d'un ordinateur, j'ai besoin d'un téléphone,
+
+8
+00:00:42,660 --> 00:00:46,120
+du collection internet mais du coup c'est plus JobTrek, je suis à l'extérieur de JobTrek.
+
+9
+00:00:50,460 --> 00:01:00,720
+J'ai besoin de tablettes d'ordinateurs où j'ai besoin de matériel supplémentaire pour les jeunes.
+
+10
+00:01:01,740 --> 00:01:06,940
+Donc il faut faire un facilitator, tu peux mettre x3 pour les jeunes, parce qu'on voit des groupes de 3.
+
+11
+00:01:09,840 --> 00:01:17,440
+L'utilisation informatique dans ce rôle là, c'est beaucoup Word, le Drive, les recherches Internet.
+
+12
+00:01:19,580 --> 00:01:19,980
+Outlook.
+
+13
+00:01:23,940 --> 00:01:24,720
+voilà grosso modo
+
+14
+00:01:26,960 --> 00:01:28,620
+c'est dans mon rôle de facilitateur
+
+15
+00:01:28,660 --> 00:01:29,180
+à l'entreprise
+
+16
+00:01:29,880 --> 00:01:30,580
+maintenant j'ai un rôle
+
+17
+00:01:32,320 --> 00:01:34,020
+il s'appelle la même chose mais c'est un peu différent
+
+18
+00:01:34,220 --> 00:01:35,700
+facilitateur de l'insertion professionnelle
+
+19
+00:01:35,700 --> 00:01:38,040
+donc c'est mon rôle où je suis transversal
+
+20
+00:01:38,040 --> 00:01:38,800
+à tout job track
+
+21
+00:01:40,260 --> 00:01:41,260
+là j'ai besoin
+
+22
+00:01:43,000 --> 00:01:43,800
+de communiquer
+
+23
+00:01:44,600 --> 00:01:45,500
+avec les équipes
+
+24
+00:01:45,980 --> 00:01:47,080
+donc j'ai besoin de teams
+
+25
+00:01:48,000 --> 00:01:49,040
+j'ai besoin d'outlook
+
+26
+00:01:50,620 --> 00:01:52,200
+j'ai besoin de réserver des salles
+
+27
+00:01:56,020 --> 00:01:57,500
+et puis surtout
+
+28
+00:01:57,820 --> 00:01:59,760
+j'ai besoin d'un drive cohérent
+
+29
+00:02:00,500 --> 00:02:00,980
+organisé
+
+30
+00:02:02,240 --> 00:02:04,220
+parce que j'ai vu justement là où c'est
+
+31
+00:02:05,620 --> 00:02:06,200
+on va dire
+
+32
+00:02:06,280 --> 00:02:08,259
+pour partager un chemin
+
+33
+00:02:08,580 --> 00:02:09,399
+ou des outils
+
+34
+00:02:09,880 --> 00:02:12,700
+je vois qu'il y a 4-5 endroits
+
+35
+00:02:12,740 --> 00:02:14,580
+des outils qui sont plus ou moins la même chose
+
+36
+00:02:15,340 --> 00:02:16,300
+qui donnent une direction
+
+37
+00:02:16,380 --> 00:02:17,400
+un tout petit peu plus différente
+
+38
+00:02:17,440 --> 00:02:20,100
+J'ai besoin d'une architecture claire dans le drive.
+
+39
+00:02:20,790 --> 00:02:24,540
+Là, tu fais référence au fait que, comme ce rôle est transversal,
+
+40
+00:02:25,130 --> 00:02:28,940
+tu touches à plusieurs cercles qui ont leur propre architecture,
+
+41
+00:02:29,550 --> 00:02:30,880
+dans laquelle tu vois des redondances.
+
+42
+00:02:31,420 --> 00:02:31,780
+Exactement.
+
+43
+00:02:32,160 --> 00:02:34,860
+Je ne sais pas si ça va jusqu'à là, les outils informatiques,
+
+44
+00:02:34,980 --> 00:02:36,380
+mais c'est clair que moi...
+
+45
+00:02:39,720 --> 00:02:42,460
+Il y a une architecture, à mon avis, qui est un petit peu compliquée.
+
+46
+00:02:42,860 --> 00:02:43,860
+On en parlera après.
+
+47
+00:02:45,460 --> 00:02:47,260
+qu'est-ce que j'ai besoin encore dans mes autres...
+
+48
+00:02:47,290 --> 00:02:48,940
+Dans la boxe, ce que j'aurais besoin,
+
+49
+00:02:49,310 --> 00:02:51,140
+c'est d'un...
+
+50
+00:02:51,220 --> 00:02:51,780
+Est-ce que je n'ai pas?
+
+51
+00:02:52,610 --> 00:02:54,880
+C'est que les jeunes ou les coachs puissent inscrire
+
+52
+00:02:56,100 --> 00:02:57,980
+les élèves qui veulent venir,
+
+53
+00:02:58,580 --> 00:02:59,920
+enfin, les élèves, pardon,
+
+54
+00:03:00,660 --> 00:03:03,340
+leur trekkie qui souhaitent venir en boxe.
+
+55
+00:03:03,760 --> 00:03:04,260
+En boxe?
+
+56
+00:03:04,770 --> 00:03:05,600
+Parce qu'on fait de la boxe.
+
+57
+00:03:05,830 --> 00:03:06,860
+Ah, la boxe.
+
+58
+00:03:06,860 --> 00:03:07,360
+Le rôle de boxe.
+
+59
+00:03:08,680 --> 00:03:11,040
+Ça, c'est encore un de tes autres rôles, ça.
+
+60
+00:03:11,080 --> 00:03:12,140
+Ça, c'est encore un autre rôle.
+
+61
+00:03:15,000 --> 00:03:26,440
+Une liste d'attente ou un formulaire d'inscription et une liste d'attente qui est connectée avec mon agenda ou pas forcément mon agenda, mais en tout cas quelque chose qui soit plus simple dans la communication.
+
+62
+00:03:27,560 --> 00:03:29,340
+Parce que là, c'est toi qui donne des cours de boxe.
+
+63
+00:03:29,720 --> 00:03:29,820
+Ouais.
+
+64
+00:03:30,260 --> 00:03:31,340
+Et donc les gens s'inscrivent?
+
+65
+00:03:32,120 --> 00:03:38,080
+Le coach me parle plutôt à l'oral, ça pourrait être par Teams aussi.
+
+66
+00:03:38,460 --> 00:03:40,480
+Et après, c'est à moi de prendre contact avec le jeune,
+
+67
+00:03:40,500 --> 00:03:44,640
+c'est à moi de donner des disponibilités, des jours, des machins.
+
+68
+00:03:47,920 --> 00:03:51,120
+C'est assez compliqué parce que je n'ai pas la vision de l'agenda du coach,
+
+69
+00:03:51,240 --> 00:03:54,460
+je n'ai pas l'agenda du trekkie et j'ai mon agenda à moi.
+
+70
+00:03:54,500 --> 00:03:59,680
+Puis en fait, ce serait plus facile que le coach ait le trekkie par rapport à leur agenda,
+
+71
+00:04:00,000 --> 00:04:04,020
+trouver une solution, une plage qui est cohérente par rapport à mon agenda aussi.
+
+72
+00:04:05,280 --> 00:04:08,720
+Comme ça, on leur laisse vraiment toute la latitude nécessaire.
+
+73
+00:04:10,580 --> 00:04:13,000
+Et puis, je crois que c'est tout dans mes rôles.
+
+74
+00:04:13,460 --> 00:04:18,480
+Et donc, par rapport à ton rôle de facilitateur insertion dans lequel tu parlais justement de la gestion des documents,
+
+75
+00:04:19,560 --> 00:04:25,779
+est-ce que tu arrives à décrire un peu ce qui, selon toi, fait que les choses arrivent dans cette situation
+
+76
+00:04:26,880 --> 00:04:28,340
+de duplicates d'informations
+
+77
+00:04:28,940 --> 00:04:30,420
+de structures particulières
+
+78
+00:04:31,000 --> 00:04:32,560
+alors je pense qu'il y a
+
+79
+00:04:32,660 --> 00:04:34,180
+plusieurs choses, on est organisé
+
+80
+00:04:34,440 --> 00:04:36,340
+par, visiblement le drive
+
+81
+00:04:36,380 --> 00:04:38,600
+est organisé par produit, par prestation
+
+82
+00:04:39,420 --> 00:04:40,560
+donc on a EcoTrack
+
+83
+00:04:40,640 --> 00:04:42,400
+la mesure, on a plein de choses
+
+84
+00:04:44,460 --> 00:04:46,120
+alors qu'il y a des rôles transversales
+
+85
+00:04:46,500 --> 00:04:48,340
+donc déjà, c'est un choix
+
+86
+00:04:48,340 --> 00:04:49,460
+d'architecture qu'on a fait
+
+87
+00:04:50,140 --> 00:04:51,500
+et puis voilà, il y a bien
+
+88
+00:04:53,100 --> 00:04:53,640
+un onglet
+
+89
+00:04:54,340 --> 00:04:55,760
+fondation, sauf erreur
+
+90
+00:04:57,520 --> 00:04:57,840
+Mais voilà.
+
+91
+00:05:00,200 --> 00:05:01,620
+Pourquoi on en est peut-être arrivé là?
+
+92
+00:05:01,850 --> 00:05:04,640
+J'ai l'impression qu'il y a d'abord une personne qui s'occupait de ça,
+
+93
+00:05:04,790 --> 00:05:05,440
+qui a déjà...
+
+94
+00:05:06,880 --> 00:05:08,180
+Je pense qu'on a grandi,
+
+95
+00:05:08,710 --> 00:05:11,800
+et on a plutôt empilé les choses que plutôt de repenser les choses.
+
+96
+00:05:13,880 --> 00:05:15,520
+Je pense que c'est là où on a déjà fait des doublons,
+
+97
+00:05:16,490 --> 00:05:18,040
+des triplons, je ne sais pas ce que ça se dit.
+
+98
+00:05:19,300 --> 00:05:21,680
+On a plutôt empilé les choses au lieu de se dire
+
+99
+00:05:21,700 --> 00:05:23,680
+on va réfléchir aux choses et peut-être
+
+100
+00:05:25,280 --> 00:05:26,320
+faire une meilleure architecture
+
+101
+00:05:27,200 --> 00:05:28,380
+après il y a une personne
+
+102
+00:05:30,160 --> 00:05:31,700
+qui s'occupait de ce drive
+
+103
+00:05:31,920 --> 00:05:32,400
+sauf erreur
+
+104
+00:05:33,440 --> 00:05:35,640
+et après il y a eu l'informatique qui est venue
+
+105
+00:05:36,220 --> 00:05:37,280
+il y a eu une
+
+106
+00:05:38,360 --> 00:05:39,560
+c'était quoi une migration
+
+107
+00:05:39,860 --> 00:05:41,560
+sauf erreur et là ça a été aussi le bordel
+
+108
+00:05:42,420 --> 00:05:43,240
+moi j'ai plein de trucs
+
+109
+00:05:43,700 --> 00:05:45,340
+ouverts qui sont
+
+110
+00:05:46,160 --> 00:05:47,380
+qui devraient plus l'être
+
+111
+00:05:47,400 --> 00:05:48,540
+ou quoi que ce soit à mon avis
+
+112
+00:05:48,980 --> 00:05:50,199
+une migration informatique
+
+113
+00:05:50,220 --> 00:05:51,800
+qui selon moi
+
+114
+00:05:52,040 --> 00:05:54,840
+je sais même pas où ça n'a jamais été vraiment terminé
+
+115
+00:05:55,640 --> 00:05:56,080
+et puis
+
+116
+00:05:57,460 --> 00:05:58,980
+là je peine
+
+117
+00:05:59,010 --> 00:05:59,800
+à faire confiance
+
+118
+00:06:00,690 --> 00:06:01,580
+à ce qu'il y a dans le drive
+
+119
+00:06:02,360 --> 00:06:04,880
+en tant qu'utilisateur je me dis purée je vais passer trop de temps
+
+120
+00:06:04,880 --> 00:06:06,800
+à chercher, en tant que fascinateur
+
+121
+00:06:06,850 --> 00:06:08,800
+je me dis putain c'est le bordel je vais mettre ça
+
+122
+00:06:08,920 --> 00:06:10,480
+sur mon bureau et puis je vais le diffuser
+
+123
+00:06:10,670 --> 00:06:12,360
+ce qui est un mauvais réflexe au final
+
+124
+00:06:12,560 --> 00:06:13,180
+si on veut
+
+125
+00:06:14,500 --> 00:06:14,940
+et puis
+
+126
+00:06:16,340 --> 00:06:17,719
+je trouve un petit peu dommage
+
+127
+00:06:18,919 --> 00:06:20,180
+c'est même pas une perte de temps
+
+128
+00:06:20,220 --> 00:06:21,580
+c'est une perte de confiance du coup
+
+129
+00:06:24,319 --> 00:06:25,800
+la confiance de collaborateur
+
+130
+00:06:26,360 --> 00:06:28,240
+c'est la confiance dans les documents que tu vas trouver
+
+131
+00:06:28,800 --> 00:06:29,640
+est-ce qu'ils sont à jour
+
+132
+00:06:30,280 --> 00:06:31,300
+est-ce que c'est bon
+
+133
+00:06:31,520 --> 00:06:31,920
+ouais
+
+134
+00:06:33,539 --> 00:06:33,860
+ouais
+
+135
+00:06:40,680 --> 00:06:41,740
+et puis après il y a aussi
+
+136
+00:06:41,880 --> 00:06:43,900
+au delà de ça ça reflète aussi une certaine mentalité
+
+137
+00:06:43,900 --> 00:06:45,659
+à job track où tout le monde fait un peu de tout
+
+138
+00:06:45,680 --> 00:06:47,900
+et puis après il y a tout le monde qui fait des documents aussi à droite à gauche.
+
+139
+00:06:48,520 --> 00:06:50,380
+J'allais rebondir juste en te demandant.
+
+140
+00:06:50,790 --> 00:06:55,760
+Du coup, actuellement, tu es bloqué parce que tu ne sais pas trop les documents et tout.
+
+141
+00:06:55,900 --> 00:06:59,660
+Donc, quelles sont tes parades que tu mets en œuvre?
+
+142
+00:06:59,740 --> 00:07:04,320
+J'enregistre dans mon bureau, même pas dans mon drive.
+
+143
+00:07:05,340 --> 00:07:08,300
+Alors là, c'est par connaissance personnelle, on va dire plus qu'autre chose.
+
+144
+00:07:08,440 --> 00:07:10,740
+Je sais que j'ai un drive, job, après j'ai encore mon bureau.
+
+145
+00:07:11,370 --> 00:07:12,460
+Alors, j'enregistre sur mon bureau.
+
+146
+00:07:13,500 --> 00:07:18,660
+Et puis après, je diffuse par email ou par Teams.
+
+147
+00:07:20,060 --> 00:07:26,360
+Du coup, j'ai vraiment l'impression que ça fait d'autant plus une surcharge de fichiers ou de documents.
+
+148
+00:07:27,620 --> 00:07:31,880
+Et quand tu dois mettre à jour ces documents, interagir avec des collègues qui sont concernés,
+
+149
+00:07:32,080 --> 00:07:33,900
+du coup, tu vas leur envoyer, vont te le renvoyer.
+
+150
+00:07:34,360 --> 00:07:34,600
+Exact.
+
+151
+00:07:34,960 --> 00:07:36,240
+Vous n'allez pas vraiment passer par le drive.
+
+152
+00:07:36,800 --> 00:07:42,060
+D'autant plus qu'actuellement, je pense qu'Office 365 en ligne est vraiment à chier.
+
+153
+00:07:43,480 --> 00:07:45,860
+Et puis, entre...
+
+154
+00:07:46,450 --> 00:07:47,440
+Ouais, alors, voilà.
+
+155
+00:07:48,780 --> 00:07:52,300
+D'autant plus que là, je trouve que la solution informatique en ligne
+
+156
+00:07:52,550 --> 00:07:53,360
+est vraiment pas bonne.
+
+157
+00:07:54,050 --> 00:07:57,340
+Entre ça s'enregistre, ça s'enregistre pas, ça s'enregistrait,
+
+158
+00:07:58,320 --> 00:07:59,700
+on voit les choses, on voit pas les choses,
+
+159
+00:07:59,750 --> 00:08:02,060
+puis qu'est-ce que c'est compliqué pour pas grand-chose.
+
+160
+00:08:04,419 --> 00:08:06,480
+Visiblement, je prêche un convaincu, mais...
+
+161
+00:08:06,480 --> 00:08:07,980
+Voilà, c'est vraiment un peu le bordel.
+
+162
+00:08:10,420 --> 00:08:16,040
+Est-ce qu'il y a d'autres outils que tu utilises dans le cadre de tes rôles?
+
+163
+00:08:16,420 --> 00:08:20,620
+Je pense notamment à des outils online que tu accèderais via un navigateur.
+
+164
+00:08:22,320 --> 00:08:23,400
+Autre que la suite office.
+
+165
+00:08:31,160 --> 00:08:34,360
+Le réseau social, mais LinkedIn, c'est juste une recherche Internet.
+
+166
+00:08:34,560 --> 00:08:35,800
+Ça, c'est de localiser.
+
+167
+00:08:39,159 --> 00:08:40,580
+Qu'est-ce que...
+
+168
+00:08:41,839 --> 00:08:43,419
+Une plateforme, mais du content de vous,
+
+169
+00:08:43,500 --> 00:08:45,120
+mais ça, c'est vraiment chez eux aussi.
+
+170
+00:08:45,900 --> 00:08:47,120
+Ça n'a pas l'air beaucoup mieux non plus,
+
+171
+00:08:47,280 --> 00:08:48,780
+si je suis en toute honnêteté.
+
+172
+00:08:50,740 --> 00:08:52,000
+Qu'est-ce que je fais encore en ligne?
+
+173
+00:08:52,220 --> 00:08:54,260
+Des outils que tu aurais choisi d'utiliser toi
+
+174
+00:08:54,580 --> 00:08:56,260
+pour répondre à certains des rôles
+
+175
+00:08:56,260 --> 00:08:57,260
+ou des process que tu as à faire?
+
+176
+00:08:57,520 --> 00:09:01,440
+Moi, je suis l'inverse de Tim pour le truc.
+
+177
+00:09:01,920 --> 00:09:02,480
+Moi, j'ai...
+
+178
+00:09:02,480 --> 00:09:04,200
+Tu n'utilises pas trop d'outils?
+
+179
+00:09:04,580 --> 00:09:04,940
+Je ne sais rien.
+
+180
+00:09:05,860 --> 00:09:08,280
+Ce que j'appelle un outil, ça peut être typiquement Canva.
+
+181
+00:09:08,900 --> 00:09:10,420
+pour l'exemple de Tim ou
+
+182
+00:09:11,480 --> 00:09:13,300
+ChatGPT. Oui, alors j'utilise
+
+183
+00:09:13,380 --> 00:09:14,620
+un tout petit peu de ChatGPT,
+
+184
+00:09:14,890 --> 00:09:16,860
+j'essaie quand même de faire attention
+
+185
+00:09:16,970 --> 00:09:18,200
+avec son utilisation dans le sens
+
+186
+00:09:20,800 --> 00:09:21,340
+si on veut vraiment
+
+187
+00:09:21,480 --> 00:09:22,760
+faire bien le travail et surtout
+
+188
+00:09:23,100 --> 00:09:25,160
+transmettre bien le code, il faudrait que le jeune
+
+189
+00:09:25,240 --> 00:09:27,280
+comprenne à quoi, enfin, qu'est-ce qu'il doit
+
+190
+00:09:27,520 --> 00:09:29,260
+faire et après il utilise ChatGPT
+
+191
+00:09:29,290 --> 00:09:30,740
+avec ça. Là j'ai l'impression que parfois
+
+192
+00:09:31,740 --> 00:09:33,460
+il n'a pas envie de faire, il utilise ChatGPT
+
+193
+00:09:33,540 --> 00:09:34,780
+et c'est un petit peu dommage parce que
+
+194
+00:09:36,140 --> 00:09:37,559
+c'est un jour où il n'y a plus de ChatGPT
+
+195
+00:09:37,580 --> 00:09:39,040
+mais autre chose, voilà.
+
+196
+00:09:39,880 --> 00:09:41,460
+Donc, je l'utilise parce que c'est une aide,
+
+197
+00:09:41,580 --> 00:09:43,600
+mais pas trop non plus. Et puis, Canva,
+
+198
+00:09:43,980 --> 00:09:44,320
+je l'utilise,
+
+199
+00:09:46,080 --> 00:09:47,380
+je le maîtrise, non, je ne maîtrise pas,
+
+200
+00:09:47,500 --> 00:09:48,980
+je l'utilise s'il faut faire des CV.
+
+201
+00:09:50,280 --> 00:09:51,720
+Mais on ne peut pas dire que j'ai une très grande
+
+202
+00:09:51,900 --> 00:09:52,240
+utilisation.
+
+203
+00:09:53,520 --> 00:09:55,520
+Il y a encore juste les connexions Internet,
+
+204
+00:09:56,280 --> 00:09:57,060
+ça aussi, du coup,
+
+205
+00:09:57,800 --> 00:09:59,540
+je trouve quand même, j'ai été très frustré
+
+206
+00:09:59,720 --> 00:10:00,940
+que parfois, à la school,
+
+207
+00:10:01,440 --> 00:10:02,380
+on était une school,
+
+208
+00:10:03,459 --> 00:10:05,360
+on se tarde d'être une...
+
+209
+00:10:05,500 --> 00:10:07,540
+Alors, on ne fait pas du support informatique, mais
+
+210
+00:10:07,560 --> 00:10:08,560
+même en une school informatique.
+
+211
+00:10:09,230 --> 00:10:12,200
+Des fois, il y avait des gros problèmes de réseau à Morges quand j'y étais,
+
+212
+00:10:13,170 --> 00:10:15,420
+puis parfois à Lausanne.
+
+213
+00:10:15,450 --> 00:10:17,200
+Puis moi, ça me dépitait.
+
+214
+00:10:19,240 --> 00:10:24,160
+Dans le sens, il y a beaucoup trop de petits irritants
+
+215
+00:10:24,320 --> 00:10:25,640
+pour qu'en plus, je devrais faire un bon travail.
+
+216
+00:10:27,120 --> 00:10:28,360
+Mon but, c'est de faire un bon travail.
+
+217
+00:10:28,550 --> 00:10:31,660
+Mais si encore, je dois prendre la tête pour avoir une connexion Internet,
+
+218
+00:10:32,300 --> 00:10:36,200
+faire venir le jeune parce qu'il n'a pas sorti ses pouces du cul,
+
+219
+00:10:36,400 --> 00:10:37,260
+Et puis encore faire des trucs.
+
+220
+00:10:37,640 --> 00:10:40,020
+En fait, jusqu'à là, je n'ai pas encore commencé à faire mon travail.
+
+221
+00:10:40,640 --> 00:10:40,700
+Voilà.
+
+222
+00:10:41,780 --> 00:10:42,920
+Je ne sais pas comment ça marche.
+
+223
+00:10:43,880 --> 00:10:45,660
+Je n'y suis plus, mais je crois que ça a été réglé.
+
+224
+00:10:46,100 --> 00:10:48,840
+Et puis à Lausanne, ça fait longtemps aussi que je n'ai plus de problèmes.
+
+225
+00:10:49,060 --> 00:10:50,040
+Donc je m'allume que ça a réglé aussi.
+
+226
+00:10:53,140 --> 00:10:55,140
+Et par rapport à ces outils que tu utilises,
+
+227
+00:10:59,680 --> 00:11:01,040
+quel est ton niveau de conscience
+
+228
+00:11:01,480 --> 00:11:04,620
+et comment tu détermines ce que tu peux faire
+
+229
+00:11:04,640 --> 00:11:07,080
+en termes de sécurité des données que tu traites?
+
+230
+00:11:07,760 --> 00:11:08,840
+Transmission à d'autres personnes,
+
+231
+00:11:09,140 --> 00:11:10,280
+transmission à des outils en ligne,
+
+232
+00:11:10,580 --> 00:11:11,620
+stockage de ces données, etc.
+
+233
+00:11:12,260 --> 00:11:14,060
+Quelles sont un peu tes méthodes de travail?
+
+234
+00:11:14,540 --> 00:11:15,180
+Comment tu...
+
+235
+00:11:16,190 --> 00:11:18,020
+Quel est ton niveau de conscientisation de la sécurité?
+
+236
+00:11:18,440 --> 00:11:19,040
+Comment tu gères ça?
+
+237
+00:11:19,290 --> 00:11:20,240
+Qu'est-ce que ça représente pour toi?
+
+238
+00:11:20,880 --> 00:11:21,240
+Ouais...
+
+239
+00:11:23,300 --> 00:11:24,440
+Je pense que je suis conscient,
+
+240
+00:11:24,600 --> 00:11:25,960
+mais que je ne fais pas attention.
+
+241
+00:11:28,520 --> 00:11:29,420
+Dans le sens...
+
+242
+00:11:30,260 --> 00:11:30,800
+Finalement, je suis...
+
+243
+00:11:31,360 --> 00:11:33,000
+Si je vais jusqu'au bout du truc,
+
+244
+00:11:33,360 --> 00:11:36,260
+Un CV, il y a toujours un numéro de téléphone, puis je ne devrais pas le diffuser.
+
+245
+00:11:37,640 --> 00:11:39,260
+En fait, je ne fais que de les diffuser.
+
+246
+00:11:42,580 --> 00:11:44,960
+Aussi, il y a d'autres entreprises, aussi à l'extérieur, aussi à l'intérieur.
+
+247
+00:11:46,240 --> 00:11:48,780
+Après, X mois, je ne vais pas les supprimer.
+
+248
+00:11:49,590 --> 00:11:51,340
+Je ne sais pas ce qu'il se passe avec ça.
+
+249
+00:11:55,360 --> 00:11:56,880
+On communique avec les jeunes par WhatsApp.
+
+250
+00:11:57,070 --> 00:11:59,900
+Alors, c'est d'abord la demande du jeune.
+
+251
+00:12:00,860 --> 00:12:03,320
+Est-ce que tout ça, c'est...
+
+252
+00:12:03,320 --> 00:12:05,360
+utilisent WhatsApp professionnel. Eux, ils utilisent
+
+253
+00:12:05,380 --> 00:12:06,740
+leur WhatsApp privé, j'imagine.
+
+254
+00:12:08,580 --> 00:12:09,240
+J'ai aussi vu qu'ils ont
+
+255
+00:12:09,440 --> 00:12:11,440
+pas mal de numéros, puis quand ils veulent te répandre,
+
+256
+00:12:11,440 --> 00:12:13,560
+ils te répandent, puis quand ils veulent pas te répandre, ils te répandent pas.
+
+257
+00:12:15,360 --> 00:12:16,000
+Quoi d'autre?
+
+258
+00:12:19,260 --> 00:12:19,980
+Donc là, tu disais
+
+259
+00:12:20,160 --> 00:12:21,140
+transmission à l'extérieur.
+
+260
+00:12:22,279 --> 00:12:23,820
+T'as l'impression qu'il y a des choses
+
+261
+00:12:23,880 --> 00:12:25,240
+que tu devrais pas transmettre,
+
+262
+00:12:25,500 --> 00:12:26,180
+que tu fais quand même.
+
+263
+00:12:27,080 --> 00:12:27,600
+Ouais, mais alors,
+
+264
+00:12:28,920 --> 00:12:29,560
+je dis autrement,
+
+265
+00:12:30,180 --> 00:12:33,220
+Si je veux vraiment bien faire mon job et le promouvoir le mieux possible,
+
+266
+00:12:33,410 --> 00:12:35,820
+je vais être enquiquiné par la protection des données.
+
+267
+00:12:36,460 --> 00:12:36,960
+Sur quel point?
+
+268
+00:12:37,540 --> 00:12:40,700
+Le numéro de téléphone sur un CV, par exemple, sur l'adresse privée sur un CV.
+
+269
+00:12:41,880 --> 00:12:46,620
+Et puis du coup, il faudrait que ça soit encadré par une charte.
+
+270
+00:12:46,790 --> 00:12:51,540
+Donc de ton point de vue, normalement, tu ne devrais pas pouvoir transmettre des CV, toi,
+
+271
+00:12:51,950 --> 00:12:52,880
+avec des numéros et des emails.
+
+272
+00:12:53,430 --> 00:12:55,080
+C'est le jeune qui devrait le faire, c'est ça que tu essaies de dire.
+
+273
+00:12:55,360 --> 00:13:03,800
+Je pense que si je suis vraiment la protection des données, je pense que ça devrait...
+
+274
+00:13:04,150 --> 00:13:10,040
+Peut-être que je pourrais le faire, mais il faudrait qu'il y ait un contrat, une déresponsabilisation.
+
+275
+00:13:10,690 --> 00:13:11,300
+Je ne sais pas exactement.
+
+276
+00:13:11,430 --> 00:13:13,920
+Enfin, il faut qu'on me dise, Daniel, il a le droit de pouvoir faire ça.
+
+277
+00:13:14,380 --> 00:13:17,580
+Je ne suis pas sûr que dans la charte réelle entreprise qu'on signe, il y a ça.
+
+278
+00:13:19,060 --> 00:13:24,100
+Dans ce qu'on signe, dans l'entreprise, le jeune, il accepte que moi et le psychologue en orientation, en échange.
+
+279
+00:13:25,540 --> 00:13:27,820
+mais il n'y a rien qui dit entre moi et les entreprises
+
+280
+00:13:28,900 --> 00:13:30,780
+même si c'est le core business de mon métier
+
+281
+00:13:32,300 --> 00:13:34,460
+donc là toi ce que tu soulèves c'est qu'il y a
+
+282
+00:13:34,900 --> 00:13:35,660
+un flou
+
+283
+00:13:38,180 --> 00:13:40,760
+sur le cadre qu'on donne aux prestations
+
+284
+00:13:40,840 --> 00:13:42,360
+que tu as avec les jeunes
+
+285
+00:13:43,120 --> 00:13:45,420
+et tu as l'impression selon tes connaissances que c'est quelque chose
+
+286
+00:13:45,420 --> 00:13:48,300
+qui devrait être encadré par une charte ou quelque chose comme ça
+
+287
+00:13:48,460 --> 00:13:49,500
+j'imagine en tout cas que
+
+288
+00:13:51,340 --> 00:13:52,740
+pour la protection des données
+
+289
+00:13:52,760 --> 00:13:54,380
+je ne fais rien
+
+290
+00:13:54,650 --> 00:13:56,440
+qui est quelque chose
+
+291
+00:13:56,450 --> 00:13:58,440
+de illogique ou quoi que ce soit avec ces données là
+
+292
+00:13:59,400 --> 00:14:00,720
+je fais de l'insertion professionnelle
+
+293
+00:14:00,920 --> 00:14:01,520
+j'imagine que
+
+294
+00:14:02,490 --> 00:14:04,660
+on s'attend à ce que je vais transférer des
+
+295
+00:14:04,890 --> 00:14:06,720
+CV d'ailleurs le CV il est fait pour être transféré
+
+296
+00:14:06,750 --> 00:14:07,880
+à la base, maintenant
+
+297
+00:14:08,840 --> 00:14:10,480
+est-ce qu'il y a un accord préalable qui doit être
+
+298
+00:14:10,820 --> 00:14:12,700
+fourni, est-ce qu'il y a autre chose
+
+299
+00:14:12,810 --> 00:14:14,820
+qui doit être fait, ça peut-être que ça ne l'est pas
+
+300
+00:14:16,500 --> 00:14:17,240
+peut-être que ça
+
+301
+00:14:17,360 --> 00:14:18,120
+ça n'est pas encore en place
+
+302
+00:14:19,480 --> 00:14:21,200
+et au-delà de ces transmissions
+
+303
+00:14:21,300 --> 00:14:22,720
+de données avec des entreprises ou tout
+
+304
+00:14:23,140 --> 00:14:24,920
+quand tu traites des données job track
+
+305
+00:14:26,080 --> 00:14:27,600
+typiquement dans le cadre du comité de direction
+
+306
+00:14:28,040 --> 00:14:29,740
+peut-être des données qui sont soumises
+
+307
+00:14:30,010 --> 00:14:31,560
+aux secrets de fonction pour la stratégie
+
+308
+00:14:31,560 --> 00:14:32,720
+de l'entreprise ou genre de choses
+
+309
+00:14:33,400 --> 00:14:35,600
+est-ce que ça c'est aussi des choses sur lesquelles tu as une attention
+
+310
+00:14:36,120 --> 00:14:37,580
+particulière quand tu les utilises
+
+311
+00:14:37,640 --> 00:14:38,180
+dans des outils
+
+312
+00:14:40,640 --> 00:14:41,260
+quels sont tes
+
+313
+00:14:42,060 --> 00:14:43,600
+mécanismes qui vont te faire dire
+
+314
+00:14:43,800 --> 00:14:45,520
+ah ça je peux pas mettre là, ça je peux mettre là
+
+315
+00:14:45,800 --> 00:14:47,060
+ou là, ça je peux pas balancer ici
+
+316
+00:14:47,090 --> 00:14:48,320
+est-ce que tu as des techniques
+
+317
+00:14:49,560 --> 00:14:51,839
+ou tu fais ton job et puis tu t'es jamais trop
+
+318
+00:14:51,860 --> 00:15:01,660
+Non. Alors pour le comité de direction, on essaie le plus possible de parler à l'oral. Et puis il y a un PV qui est pris. J'ai de la chance de ne pas faire ce PV.
+
+319
+00:15:04,620 --> 00:15:20,180
+Mais effectivement, on parle dans Teams et par email. Effectivement, là, je ne me suis jamais trop posé la question sur les entraves que pourrait avoir cette protection des données par rapport à ce qu'on laisse écrit.
+
+320
+00:15:22,280 --> 00:15:22,820
+mais t'as jamais
+
+321
+00:15:23,780 --> 00:15:25,360
+je n'en sais rien, tu t'es jamais retrouvé
+
+322
+00:15:25,410 --> 00:15:27,140
+à te dire, ah bah tiens
+
+323
+00:15:27,740 --> 00:15:29,740
+j'ai ces données, j'aimerais les traiter avec tel et tel outil
+
+324
+00:15:30,320 --> 00:15:31,380
+4, 1, 1, 1, etc
+
+325
+00:15:31,880 --> 00:15:33,640
+mais en fait je suis pas trop sûr que je puisse
+
+326
+00:15:33,770 --> 00:15:34,240
+ou ce genre de choses
+
+327
+00:15:34,920 --> 00:15:36,960
+je suis, à part office
+
+328
+00:15:37,540 --> 00:15:38,380
+j'utilise aucune
+
+329
+00:15:39,560 --> 00:15:41,020
+avant j'utilisais même les photos
+
+330
+00:15:41,920 --> 00:15:43,200
+c'est les photos aussi, ça peut être aussi
+
+331
+00:15:43,750 --> 00:15:44,220
+encore sensible
+
+332
+00:15:45,640 --> 00:15:46,960
+puis là ils sont vraiment juste
+
+333
+00:15:47,480 --> 00:15:48,879
+bon alors oui, il y a
+
+334
+00:15:48,900 --> 00:15:51,940
+Rimouches.bg, vu que je suis une bille, je fais que je pars ça.
+
+335
+00:15:52,700 --> 00:15:55,100
+Alors là, effectivement, je mets des photos en ligne des jeunes,
+
+336
+00:15:55,840 --> 00:15:58,200
+avec leur consentement oral, encore une fois, mais...
+
+337
+00:16:00,140 --> 00:16:03,720
+Il n'y a que ça que j'utilise en dehors de la sphère job, je crois.
+
+338
+00:16:04,640 --> 00:16:05,880
+Enfin, en dehors de la sphère office.
+
+339
+00:16:06,440 --> 00:16:08,660
+Puis par rapport à la loi sur les données que tu mentionnais avant,
+
+340
+00:16:09,399 --> 00:16:12,500
+toi, tu penses être capable de dire qu'est-ce qui est une donnée sensible,
+
+341
+00:16:12,760 --> 00:16:13,940
+qu'est-ce qui est une donnée personnelle,
+
+342
+00:16:14,380 --> 00:16:15,800
+s'il y a ces deux niveaux de protection de la loi,
+
+343
+00:16:15,920 --> 00:16:17,879
+où ça ne te dit rien du tout, tu ne saurais pas...
+
+344
+00:16:17,900 --> 00:16:28,700
+Non, je pourrais te le dire avec logique, mais je ne pourrais pas te le dire sous la forme de la base de la loi de la protection de la donnée. Je ne la connais pas assez. Je la connais très peu, voire pas du tout.
+
+345
+00:16:31,120 --> 00:16:41,740
+Et puis, en tant que collaborateur qui traite des données potentiellement sensibles, est-ce que tu as l'impression qu'il te faudrait des choses supplémentaires autour de cette loi?
+
+346
+00:16:41,820 --> 00:16:42,980
+Donc là, tu as mentionné la charte.
+
+347
+00:16:44,420 --> 00:16:46,860
+Mais pour t'aider dans ta manière de traiter les données,
+
+348
+00:16:47,000 --> 00:16:47,680
+qu'est-ce qu'il te faudrait?
+
+349
+00:16:48,040 --> 00:16:48,640
+Moi, il faudrait...
+
+350
+00:16:48,660 --> 00:16:49,060
+Qu'est-ce que tu as l'impression?
+
+351
+00:16:49,500 --> 00:16:50,660
+Moi, il me faudrait...
+
+352
+00:16:51,020 --> 00:16:52,580
+Si je veux vraiment bien faire mon travail
+
+353
+00:16:52,740 --> 00:16:54,540
+et respecter la protection de la donnée,
+
+354
+00:16:54,560 --> 00:16:56,580
+je pense qu'il faut justement cette charte
+
+355
+00:16:56,600 --> 00:16:57,920
+qui me libère de...
+
+356
+00:16:59,500 --> 00:17:01,280
+Qui me libère de...
+
+357
+00:17:01,420 --> 00:17:02,380
+Donc ça, c'est avec le jeûne?
+
+358
+00:17:02,740 --> 00:17:03,560
+Avec le jeûne, oui.
+
+359
+00:17:04,760 --> 00:17:05,560
+Une sorte de consentement?
+
+360
+00:17:05,980 --> 00:17:07,579
+Oui, il me faut le consentement du jeûne.
+
+361
+00:17:09,819 --> 00:17:13,280
+Et puis, qu'est-ce que tu me dis? Est-ce que j'ai besoin d'outils?
+
+362
+00:17:14,220 --> 00:17:18,579
+Ou est-ce que tu aurais besoin d'informations, de process, de formation, j'en sais rien,
+
+363
+00:17:18,699 --> 00:17:22,600
+qui te permettraient d'être plus au clair sur les données que tu traites
+
+364
+00:17:22,640 --> 00:17:26,300
+ou tu as l'impression que par rapport au traitement que tu fais, c'est parfaitement clair?
+
+365
+00:17:26,880 --> 00:17:28,620
+Tu aurais pas besoin de...
+
+366
+00:17:30,320 --> 00:17:32,300
+Une formation, ça me paraît un peu trop fort pour moi,
+
+367
+00:17:32,380 --> 00:17:38,160
+mais une séance d'information, plus quelqu'un qui va rédiger, qui va cadrer tout ça,
+
+368
+00:17:38,260 --> 00:17:38,900
+je pense que...
+
+369
+00:17:39,120 --> 00:17:40,200
+Après, moi, je le fais.
+
+370
+00:17:40,840 --> 00:17:42,780
+En fait, moi, j'ai envie d'être informé et exécuté.
+
+371
+00:17:43,580 --> 00:17:47,640
+Je n'ai pas envie d'être un expert de la protection de données.
+
+372
+00:17:48,400 --> 00:17:49,080
+Si c'est possible.
+
+373
+00:17:49,600 --> 00:17:51,080
+Je ne suis pas sûr que ça soit possible.
+
+374
+00:17:51,360 --> 00:17:54,580
+Et du coup, comment ça devrait fonctionner?
+
+375
+00:17:54,640 --> 00:17:58,660
+Qu'est-ce que toi, t'attendrai en tant que membre de job-trait?
+
+376
+00:17:58,700 --> 00:18:02,180
+Qu'est-ce que t'attendrai comme outil qui t'informe?
+
+377
+00:18:02,680 --> 00:18:03,880
+Donc une séance d'information au lieu.
+
+378
+00:18:03,880 --> 00:18:05,760
+Une séance d'information annuelle, par exemple.
+
+379
+00:18:06,440 --> 00:18:07,120
+Avec des updates.
+
+380
+00:18:07,560 --> 00:18:08,640
+les updates
+
+381
+00:18:09,640 --> 00:18:11,140
+et puis sensibiliser
+
+382
+00:18:11,380 --> 00:18:13,240
+mais en fait ça c'est sensible, ça ça l'est moins
+
+383
+00:18:13,500 --> 00:18:14,500
+ça vous pouvez faire
+
+384
+00:18:15,480 --> 00:18:16,560
+libre ou ça
+
+385
+00:18:16,880 --> 00:18:19,400
+il faut demander le consentement, ça ils font un consentement
+
+386
+00:18:19,580 --> 00:18:20,940
+écrit, là il y a un support
+
+387
+00:18:21,280 --> 00:18:23,340
+donc j'ai déjà l'outil alors du coup plutôt physique
+
+388
+00:18:23,480 --> 00:18:24,200
+mais ça peut être aussi
+
+389
+00:18:25,660 --> 00:18:26,900
+ils vont tiquer en ligne
+
+390
+00:18:26,940 --> 00:18:28,460
+ça je m'en fous du comment
+
+391
+00:18:29,500 --> 00:18:30,680
+mais ça j'aimerais
+
+392
+00:18:31,320 --> 00:18:32,920
+je suis d'accord de le transmettre
+
+393
+00:18:32,920 --> 00:18:34,560
+je suis d'accord de le faire signer ou quoi que ça
+
+394
+00:18:34,560 --> 00:18:36,299
+mais je me verrais mal moi
+
+395
+00:18:36,980 --> 00:18:37,680
+travailler dessus
+
+396
+00:18:39,580 --> 00:18:40,720
+mais donc potentiellement
+
+397
+00:18:40,740 --> 00:18:42,480
+ça te semblerait utile pour toi
+
+398
+00:18:43,740 --> 00:18:44,740
+d'avoir quelque part
+
+399
+00:18:45,260 --> 00:18:46,860
+des informations auxquelles tu peux
+
+400
+00:18:46,860 --> 00:18:48,460
+te référer quand tu traites des données
+
+401
+00:18:49,500 --> 00:18:51,300
+oui, ça devient une machine à gaz
+
+402
+00:18:51,520 --> 00:18:52,780
+parce que pour moi je vois déjà
+
+403
+00:18:52,800 --> 00:18:54,860
+la protection des données
+
+404
+00:18:54,900 --> 00:18:55,840
+comme une machine à gaz
+
+405
+00:18:56,380 --> 00:18:58,760
+il faut quelqu'un qui arrive à faire
+
+406
+00:18:58,780 --> 00:19:00,920
+que cette machine à gaz devienne comestible
+
+407
+00:19:01,120 --> 00:19:02,260
+quand même, même si c'est chiant
+
+408
+00:19:02,260 --> 00:19:04,879
+mais quand même comestible, si c'est chiant et comestible là je suis prêt à venir
+
+409
+00:19:07,880 --> 00:19:08,480
+et puis
+
+410
+00:19:09,020 --> 00:19:09,660
+est-ce que de manière
+
+411
+00:19:09,840 --> 00:19:11,840
+donc là on a parlé d'outils, de sécurité etc
+
+412
+00:19:12,460 --> 00:19:14,100
+doit dans l'accomplissement
+
+413
+00:19:14,180 --> 00:19:15,420
+de tes rôles
+
+414
+00:19:16,580 --> 00:19:17,520
+est-ce que tu te sens
+
+415
+00:19:19,200 --> 00:19:19,600
+libre
+
+416
+00:19:19,940 --> 00:19:21,480
+en termes d'utilisation d'outils informatiques
+
+417
+00:19:22,380 --> 00:19:23,760
+limité dans quelle proportion
+
+418
+00:19:24,300 --> 00:19:24,820
+est-ce qu'il y a
+
+419
+00:19:26,080 --> 00:19:27,720
+comment dire, est-ce qu'il y a une frustration
+
+420
+00:19:28,580 --> 00:19:29,580
+par rapport à des limites
+
+421
+00:19:29,720 --> 00:19:31,480
+trop grandes, t'as l'impression qu'il te
+
+422
+00:19:31,740 --> 00:19:33,219
+péjorerait dans ton travail
+
+423
+00:19:33,240 --> 00:19:41,920
+au contraire c'était peut-être selon toi trop libre comment non je me sens pas péjoré parce
+
+424
+00:19:41,980 --> 00:19:47,480
+encore une fois mais alors il faudrait savoir si si mes habitudes si mon comportement est bien
+
+425
+00:19:47,660 --> 00:19:52,820
+déjà je te dis je me sens libre parce que finalement je fais à ma source et puis ça passe
+
+426
+00:19:53,400 --> 00:19:59,499
+mais comment dire je me sens pas limité parce que j'utilise très peu d'outils x ou y encore
+
+427
+00:19:59,520 --> 00:20:04,440
+une fois j'utilise Office et puis je me dis quand même si je peux pas utiliser Office ça
+
+428
+00:20:04,440 --> 00:20:07,980
+va être compliqué de faire mon travail et puis du coup je suis dans ce flou là à mon
+
+429
+00:20:08,180 --> 00:20:11,740
+avis et puis voilà maintenant est-ce que je fais tout juste j'imagine que non.
+
+430
+00:20:14,600 --> 00:20:19,820
+Et puis c'était quoi? Du coup peut-être que je me sentirais un peu plus limité ce qui
+
+431
+00:20:19,940 --> 00:20:23,020
+serait quand même une problématique pour moi si encore une fois moi je veux bien faire
+
+432
+00:20:23,080 --> 00:20:26,079
+mon travail mais s'il y a beaucoup il y a déjà beaucoup d'administratifs et du coup
+
+433
+00:20:26,100 --> 00:20:31,460
+ça pourrait rajouter une charge en plus qui serait quand même pas bienvenue mais voilà
+
+434
+00:20:34,160 --> 00:20:39,900
+ça veut pas dire que j'ai le choix donc là actuellement toi tu as pas l'impression de subir
+
+435
+00:20:40,120 --> 00:20:45,900
+des contraintes particulières de la part des outils informatiques ou des règles de sécurité
+
+436
+00:20:46,020 --> 00:20:56,060
+dans la conjoncture mais je sais aussi que je fais pas tout juste par exemple on a mis une caméra à la
+
+437
+00:20:56,080 --> 00:20:58,260
+C'est moi qui l'ai demandé, c'était plutôt pour me protéger,
+
+438
+00:20:58,430 --> 00:21:00,600
+parce que finalement, j'amène des filles à la cave.
+
+439
+00:21:01,860 --> 00:21:03,560
+Et ça, c'est pas...
+
+440
+00:21:04,760 --> 00:21:06,120
+C'est pas génial.
+
+441
+00:21:07,080 --> 00:21:07,980
+Et puis du coup, je me suis dit,
+
+442
+00:21:08,140 --> 00:21:10,940
+comme ça, tout le monde se sent plus en sécurité.
+
+443
+00:21:13,280 --> 00:21:14,220
+C'est ça, les l'ambas.
+
+444
+00:21:14,960 --> 00:21:16,580
+Ça peut aussi faire un peu de la formation,
+
+445
+00:21:16,750 --> 00:21:19,360
+voir la promotion, qu'est-ce qu'on fait avec le jeune, tout, machin.
+
+446
+00:21:19,600 --> 00:21:21,400
+Et puis, le jeune, il peut être aussi intéressé.
+
+447
+00:21:21,770 --> 00:21:23,460
+On peut revenir aussi sur certaines thématiques.
+
+448
+00:21:24,000 --> 00:21:26,000
+Donc la camarée, elle fait sens pour plusieurs raisons.
+
+449
+00:21:26,060 --> 00:21:28,440
+par contre, à chaque fois je leur dis à l'oral
+
+450
+00:21:28,800 --> 00:21:30,120
+mais il n'y a rien qui atteste
+
+451
+00:21:30,700 --> 00:21:31,760
+qu'il y a un truc écrit
+
+452
+00:21:31,920 --> 00:21:32,900
+je crois qu'il n'y a même pas
+
+453
+00:21:33,640 --> 00:21:35,580
+je crois qu'il y a un truc ici qui indique qu'il y a une caméra
+
+454
+00:21:35,720 --> 00:21:36,360
+mais en bas il n'y a pas
+
+455
+00:21:37,640 --> 00:21:39,000
+je sais que ce n'est pas tout juste
+
+456
+00:21:39,620 --> 00:21:42,160
+je ne suis pas limité mais je ne suis pas dans les clous
+
+457
+00:21:42,210 --> 00:21:42,460
+non plus
+
+458
+00:21:45,840 --> 00:21:47,340
+si on prend un peu de hauteur
+
+459
+00:21:47,450 --> 00:21:49,660
+puis qu'on réfléchit par rapport à la gouvernance
+
+460
+00:21:49,710 --> 00:21:51,240
+puis ta compréhension de la gouvernance
+
+461
+00:21:51,270 --> 00:21:53,000
+de ce qu'elle est censée t'apporter comme liberté
+
+462
+00:21:53,050 --> 00:21:53,900
+à ton collaborateur
+
+463
+00:21:55,560 --> 00:21:57,600
+jusqu'où tu serais prêt à accepter
+
+464
+00:21:58,380 --> 00:22:00,100
+des potentielles contraintes
+
+465
+00:22:00,420 --> 00:22:01,780
+plutôt top-down
+
+466
+00:22:02,320 --> 00:22:03,960
+type hiérarchique sur l'informatique
+
+467
+00:22:04,640 --> 00:22:05,660
+ou tu vois
+
+468
+00:22:05,960 --> 00:22:07,200
+ou c'est que t'as l'impression que
+
+469
+00:22:07,700 --> 00:22:09,440
+tout d'un coup des contraintes sécurité
+
+470
+00:22:09,620 --> 00:22:11,000
+d'outils informatiques pourraient venir
+
+471
+00:22:12,320 --> 00:22:13,820
+taper contre les libertés
+
+472
+00:22:13,820 --> 00:22:15,160
+que t'essayes d'obtenir grâce
+
+473
+00:22:16,200 --> 00:22:17,580
+qui te sont chères grâce à la
+
+474
+00:22:17,800 --> 00:22:19,260
+c'est que t'as l'impression que
+
+475
+00:22:20,700 --> 00:22:22,000
+qu'il pourrait y avoir un conflit
+
+476
+00:22:22,300 --> 00:22:23,880
+par rapport à tes rôles donc toujours
+
+477
+00:22:24,120 --> 00:22:25,580
+Moi, je ne vois pas le conflit là.
+
+478
+00:22:26,940 --> 00:22:28,600
+Je vois plutôt le conflit...
+
+479
+00:22:29,380 --> 00:22:31,500
+Je n'aime pas l'informatique, puis encore plus de complexité.
+
+480
+00:22:31,680 --> 00:22:33,160
+Le conflit, je le vois plutôt là.
+
+481
+00:22:34,720 --> 00:22:37,020
+Finalement, la liberté de l'holacratie à Job Trek,
+
+482
+00:22:38,680 --> 00:22:42,240
+on me demande de faire mes rôles comme je l'entends, avec responsabilité.
+
+483
+00:22:42,720 --> 00:22:45,240
+Je comprends bien que si l'informatique vient avec plus d'insistance,
+
+484
+00:22:45,260 --> 00:22:46,000
+c'est parce qu'il y a...
+
+485
+00:22:46,280 --> 00:22:47,300
+Tu vois, je comprends l'histoire.
+
+486
+00:22:50,559 --> 00:22:52,100
+Je ne vais pas me rebeller contre ça,
+
+487
+00:22:52,240 --> 00:22:58,760
+et je ne vais pas mettre en cause directement le lien entre l'acracie et la nouvelle loi qui vient de sortir.
+
+488
+00:23:01,460 --> 00:23:08,280
+Et si maintenant, le service informatique vient, impose des nouvelles règles
+
+489
+00:23:08,470 --> 00:23:17,120
+qui potentiellement viennent contraindre la manière dont tu travailles, l'efficacité, etc.
+
+490
+00:23:17,520 --> 00:23:26,140
+Comment tu réagis? Qu'est-ce qui te permettrait d'accepter ça? Qu'est-ce qui au contraire ferait que tu n'accepterais pas ou que ça t'emmerderait un peu?
+
+491
+00:23:26,760 --> 00:23:32,440
+Alors là, j'ai aucun problème avec le top-down, j'ai aucun problème avec une certaine forme de contrainte.
+
+492
+00:23:33,700 --> 00:23:37,540
+Par contre, il faudrait aussi, si ça rajoute du temps en plus, par contre, il faudrait me le laisser.
+
+493
+00:23:38,000 --> 00:23:43,860
+Il ne faut pas me demander que ce soit à moi de... Quelque chose que je fais en... Je vais prendre des extrêmes, évidemment, j'imagine que ce n'est pas le cas.
+
+494
+00:23:43,920 --> 00:23:46,460
+mais quelque chose que je fais en deux heures, si tout d'un coup il passe à trois heures,
+
+495
+00:23:47,040 --> 00:23:48,000
+laisse-moi trois heures.
+
+496
+00:23:48,180 --> 00:23:50,700
+Ce n'est pas deux heures et puis c'est un mode démerdé.
+
+497
+00:23:52,140 --> 00:23:54,020
+Donc moi, je n'ai aucun problème.
+
+498
+00:23:55,180 --> 00:23:57,380
+Si l'informatique doit prendre une autre place, elle le prendra.
+
+499
+00:23:57,740 --> 00:24:03,280
+Par contre, laisser le temps nécessaire, revoir le temps nécessaire avec ces nouvelles pratiques.
+
+500
+00:24:03,800 --> 00:24:04,720
+Il n'y a pas de...
+
+501
+00:24:05,120 --> 00:24:10,580
+Toi, tu n'attendrai pas forcément de justification particulière, de droit de recours.
+
+502
+00:24:11,020 --> 00:24:13,460
+Qu'est-ce qui faciliterait l'acceptation pour toi?
+
+503
+00:24:13,940 --> 00:24:17,940
+de nouveau dans le fait où on est une gouvernement distribué, donc on s'attend quand même un peu au
+
+504
+00:24:18,460 --> 00:24:25,360
+consentement de tous les collaboratrices quand on impose des choses, ou toi tu estimes que non, ça, ça fait partie des choses qui sont a priori pas à discuter?
+
+505
+00:24:26,260 --> 00:24:30,380
+Justement, alors moi, c'est a priori, il y a une loi fédérale, ça fait erreur.
+
+506
+00:24:31,380 --> 00:24:39,220
+Mais au-delà de la loi, alors la loi c'est clair que c'est une chose, mais demain on change un outil pour une raison, ça change ta manière de travailler,
+
+507
+00:24:40,100 --> 00:24:42,760
+t'as pas l'impression que c'est forcément lié à la loi sur les données
+
+508
+00:24:43,780 --> 00:24:44,720
+comment tu réagis?
+
+509
+00:24:45,750 --> 00:24:46,680
+j'ai quand même envie de le dire
+
+510
+00:24:46,950 --> 00:24:48,720
+si il y a une loi fédérale je comprends que JobTrack
+
+511
+00:24:48,750 --> 00:24:49,940
+elle doit s'adapter déjà
+
+512
+00:24:50,720 --> 00:24:51,980
+après pour des choses un peu plus
+
+513
+00:24:52,570 --> 00:24:53,920
+moins formelles on va dire
+
+514
+00:24:54,940 --> 00:24:57,160
+faut bien comprendre où elle est ma zone d'expertise
+
+515
+00:24:57,320 --> 00:24:58,260
+moi je peux dire
+
+516
+00:24:58,830 --> 00:25:00,300
+alors j'aimerais bien avoir à moi dire
+
+517
+00:25:00,820 --> 00:25:01,420
+si c'est nécessaire
+
+518
+00:25:02,070 --> 00:25:04,760
+mais si c'est pas moi qui ai l'expertise
+
+519
+00:25:09,600 --> 00:25:13,340
+si le service informatique décide d'utiliser Linux à la place de Microsoft
+
+520
+00:25:14,320 --> 00:25:17,060
+moi j'ai pas l'expertise nécessaire pour dire oui c'est bien, non c'est pas bien
+
+521
+00:25:18,340 --> 00:25:20,420
+et c'est ok pour moi, je suis encore assez jeune pour m'adapter
+
+522
+00:25:20,960 --> 00:25:23,940
+par contre si vous me dites que tous les CV doivent être faits par Canva
+
+523
+00:25:24,090 --> 00:25:26,840
+parce que c'est mieux, alors que je sais qu'un jeune ne maîtrise pas du tout Canva
+
+524
+00:25:26,940 --> 00:25:30,180
+et là ça va me faire chier, parce que je sais que le but c'est de transmettre des compétences
+
+525
+00:25:30,240 --> 00:25:33,940
+oui Canva c'est plus joli, mais notre mission c'est de transmettre des compétences
+
+526
+00:25:33,960 --> 00:25:34,900
+et là ça va plus avec
+
+527
+00:25:37,600 --> 00:25:38,600
+même s'il y a une
+
+528
+00:25:39,059 --> 00:25:40,520
+efficacité ou quelque chose de plus simple
+
+529
+00:25:40,550 --> 00:25:42,660
+ou j'en sais rien quoi, ça va plus avec notre mission
+
+530
+00:25:43,100 --> 00:25:44,880
+donc là je me dirais, là il faut me consulter
+
+531
+00:25:45,440 --> 00:25:46,760
+pas parce que j'ai envie qu'on me consulte
+
+532
+00:25:46,760 --> 00:25:48,620
+mais parce qu'on est hors de notre mission
+
+533
+00:25:49,300 --> 00:25:50,220
+donc en fait, toi
+
+534
+00:25:50,890 --> 00:25:52,700
+la limite, j'ai l'impression qu'elle se situerait au fait
+
+535
+00:25:52,770 --> 00:25:54,840
+où si tout d'un coup le changement
+
+536
+00:25:54,980 --> 00:25:55,740
+vient toucher
+
+537
+00:25:57,159 --> 00:25:58,820
+le domaine d'expertise de tes rôles
+
+538
+00:25:59,179 --> 00:26:01,000
+typiquement, t'es un facilitateur d'insertion
+
+539
+00:26:01,080 --> 00:26:02,940
+t'es censé être le spécialiste des CV
+
+540
+00:26:02,960 --> 00:26:07,280
+donc tu estimes avoir ton mot à dire sur les outils pour ce genre de choses par exemple.
+
+541
+00:26:08,000 --> 00:26:11,560
+Par contre, si ça ne touche pas ton domaine d'expertise de zéro,
+
+542
+00:26:12,180 --> 00:26:16,560
+tu aurais plutôt ton sens à dire « j'accepte la contrainte, je fais confiance aux choix des autres ».
+
+543
+00:26:16,560 --> 00:26:18,300
+Et même si c'est dans mes rôles, je pourrais accepter,
+
+544
+00:26:18,420 --> 00:26:20,920
+mais il faudrait juste qu'on vienne et qu'on réfléchisse aussi avec moi.
+
+545
+00:26:21,740 --> 00:26:22,800
+Je ne suis pas contre le changement.
+
+546
+00:26:23,280 --> 00:26:27,440
+Je dis juste que là, peut-être le service informatique a une vision des choses,
+
+547
+00:26:27,700 --> 00:26:29,900
+puis moi j'ai une autre vision des choses, puis il faudra qu'on…
+
+548
+00:26:29,920 --> 00:26:32,500
+Et comment tu souhaiterais être consulté?
+
+549
+00:26:33,430 --> 00:26:34,540
+Donc ça veut dire, en gros,
+
+550
+00:26:35,010 --> 00:26:37,180
+s'il y a des choses en lien avec l'informatique
+
+551
+00:26:37,740 --> 00:26:38,860
+qui touchent ton domaine d'expertise,
+
+552
+00:26:38,910 --> 00:26:40,140
+tu as l'impression que tu devrais être consulté,
+
+553
+00:26:40,290 --> 00:26:41,680
+tout comme on fonctionnerait dans les cercles,
+
+554
+00:26:41,720 --> 00:26:42,820
+où on va consulter les gens et tout.
+
+555
+00:26:43,340 --> 00:26:47,740
+Et comment faire pour que les gens soient au courant
+
+556
+00:26:48,040 --> 00:26:49,260
+des rôles qu'il faut consulter
+
+557
+00:26:50,620 --> 00:26:52,900
+quand il y a, typiquement,
+
+558
+00:26:53,330 --> 00:26:54,340
+du changement informatique
+
+559
+00:26:54,550 --> 00:26:56,980
+qui implique le domaine d'expertise de rôle hors du...
+
+560
+00:26:57,380 --> 00:26:58,680
+Comment on fait pour déduire ça?
+
+561
+00:26:59,140 --> 00:26:59,580
+Tu as l'impression.
+
+562
+00:27:00,380 --> 00:27:05,560
+Il y aurait Peer Dome, qui mériteraient d'être simplifié aussi, mais il y aurait Peer Dome.
+
+563
+00:27:06,270 --> 00:27:10,480
+Et donc là, on arriverait à identifier, selon toi, clairement, si tout d'un coup...
+
+564
+00:27:10,570 --> 00:27:15,420
+Par exemple, si maintenant je vais regarder des rôles sur Peer Dome, j'arriverais à déduire que tu es un spécialiste CV.
+
+565
+00:27:16,980 --> 00:27:18,280
+Et que du coup, il y a un impact là-hautour.
+
+566
+00:27:18,320 --> 00:27:19,440
+Oui, quand même.
+
+567
+00:27:20,660 --> 00:27:21,200
+Oui, quand même.
+
+568
+00:27:21,380 --> 00:27:23,280
+Après, ce que tu arriverais à déduire...
+
+569
+00:27:23,920 --> 00:27:32,540
+Oui, je pense que si tu changes word pour autre chose, tu vas déduire que ça va être la merde pour plusieurs jeunes, pour les coachs et pour plusieurs choses.
+
+570
+00:27:36,960 --> 00:27:41,840
+J'ai l'impression que pour mon cas, par exemple pour la boxe, ça aurait été plus compliqué de s'imaginer.
+
+571
+00:27:41,960 --> 00:27:45,400
+En fait, il y a une caméra, il n'y a pas le consentement, tout ça.
+
+572
+00:27:46,240 --> 00:27:48,680
+Il y a certains rôles qui sont...
+
+573
+00:27:53,140 --> 00:27:56,760
+Maintenant, comment? Juste avec le peer-dom, je pense que ça ne marcherait pas vraiment.
+
+574
+00:27:57,070 --> 00:28:01,540
+Il faudrait aussi faire remonter l'information au comité de direction.
+
+575
+00:28:02,820 --> 00:28:05,980
+Donc l'informatique par le CSC support, j'imagine.
+
+576
+00:28:06,180 --> 00:28:08,280
+On veut faire ça.
+
+577
+00:28:08,800 --> 00:28:10,660
+Il y a le comité de direction, puis le comité de direction,
+
+578
+00:28:11,050 --> 00:28:13,420
+il a la vision d'ensemble, et lui, il pourrait faire le peer-dom.
+
+579
+00:28:13,810 --> 00:28:16,900
+C'est-à-dire, lui, il sait comment ça va impacter, normalement.
+
+580
+00:28:18,800 --> 00:28:20,100
+Mais en gros, ça devrait être un...
+
+581
+00:28:21,500 --> 00:28:23,680
+ce serait un mix entre le peer-dom et le comité de direction.
+
+582
+00:28:24,100 --> 00:28:26,180
+Mais du coup, on revient à quelque chose de top-down,
+
+583
+00:28:29,200 --> 00:28:31,460
+même si c'est de la vision ou de l'information.
+
+584
+00:28:34,060 --> 00:28:34,260
+OK.
+
+585
+00:28:37,200 --> 00:28:38,680
+Je saute un peu sur un autre sujet.
+
+586
+00:28:39,670 --> 00:28:40,800
+En termes de...
+
+587
+00:28:43,060 --> 00:28:43,780
+d'accès...
+
+588
+00:28:44,800 --> 00:28:46,820
+Quand toi, tu travailles avec des outils informatiques
+
+589
+00:28:47,030 --> 00:28:47,880
+pour accomplir tes missions,
+
+590
+00:28:48,280 --> 00:28:50,380
+maintenant que tu te retrouves confronté à des problèmes,
+
+591
+00:28:51,200 --> 00:28:53,640
+un bug, un truc qui ne marche pas comme tu te souhaiterais,
+
+592
+00:28:53,900 --> 00:28:55,720
+un accès à Internet que tu mentionnais avant,
+
+593
+00:28:57,600 --> 00:29:00,880
+comment tu vas réagir, toi, en tant que membre d'une gouvernement distribuée?
+
+594
+00:29:01,260 --> 00:29:02,200
+Qu'est-ce que tu mets en œuvre?
+
+595
+00:29:02,460 --> 00:29:03,400
+Quelle est ta procédure, un peu?
+
+596
+00:29:07,960 --> 00:29:13,140
+Là, je suis très abandonniste, actuellement,
+
+597
+00:29:13,880 --> 00:29:15,360
+je t'avoue, pour beaucoup de choses.
+
+598
+00:29:19,880 --> 00:29:23,420
+Par exemple, hier, en début de semaine, j'ai eu des problèmes avec le drive.
+
+599
+00:29:23,840 --> 00:29:25,860
+Finalement, je me suis dit : « Je fais un ticket ou pas? »
+
+600
+00:29:26,350 --> 00:29:29,280
+Et puis là, j'ai dit : « Mais putain, ça fait longtemps, c'est déjà su.
+
+601
+00:29:29,410 --> 00:29:30,320
+» Du coup, je n'ai rien fait.
+
+602
+00:29:30,430 --> 00:29:33,080
+Puis j'ai juste m'harmonné.
+
+603
+00:29:33,390 --> 00:29:34,520
+Et puis j'ai fait : « Bon, ben voilà.
+
+604
+00:29:34,800 --> 00:29:35,900
+Et puis j'attends que ça passe.
+
+605
+00:29:36,240 --> 00:29:38,000
+Et puis je revois ma connexion Internet.
+
+606
+00:29:38,340 --> 00:29:40,880
+Et puis moi, j'ai des gros problèmes avec le drive.
+
+607
+00:29:41,000 --> 00:29:43,200
+Enfin, encore une fois, c'est un petit irritant dans le sens…
+
+608
+00:29:44,660 --> 00:29:46,860
+par exemple je passe de Word à PDF
+
+609
+00:29:47,720 --> 00:29:49,120
+je le fais genre tout le temps
+
+610
+00:29:49,300 --> 00:29:50,360
+parce que c'est un peu mon rôle
+
+611
+00:29:51,320 --> 00:29:52,480
+mais putain il faut que j'attende 5 minutes
+
+612
+00:29:52,560 --> 00:29:54,300
+que le Word se transforme en PDF
+
+613
+00:29:54,660 --> 00:29:56,140
+puis en fait moi je le dirais que l'envoyer
+
+614
+00:29:56,240 --> 00:29:57,180
+puis je fais là j'envoie et puis je fais
+
+615
+00:29:57,260 --> 00:29:58,840
+il n'est pas encore là, j'attends
+
+616
+00:29:59,140 --> 00:30:02,240
+je dois rouvrir le dossier, je vois que le PDF il est là
+
+617
+00:30:02,360 --> 00:30:04,360
+mais il est super chiant en fait
+
+618
+00:30:04,620 --> 00:30:05,980
+et puis ça ça m'énerve
+
+619
+00:30:06,440 --> 00:30:07,080
+mais voilà
+
+620
+00:30:08,600 --> 00:30:09,300
+je ne fais pas de ticket
+
+621
+00:30:12,540 --> 00:30:13,180
+pour Teams
+
+622
+00:30:13,180 --> 00:30:19,780
+moment que j'avais demandé à Thierry par Teams que, hé, fais en sorte que ça puisse s'effacer.
+
+623
+00:30:22,200 --> 00:30:27,300
+Parce que j'avais demandé à Daniel, il m'a dit, mais moi j'ai déjà demandé à Thierry. Donc je
+
+624
+00:30:27,330 --> 00:30:31,580
+dis, je sais pas si je dis Tim ou Thierry. Daniel a demandé à Thierry, moi j'ai demandé à Thierry,
+
+625
+00:30:31,710 --> 00:30:36,320
+après je crois que je t'avais même aussi peut-être partagé une fois. Puis en fait, ça se fait pas,
+
+626
+00:30:36,590 --> 00:30:39,960
+puis je suis là, bon, ben on laisse tomber. Puis c'est super chiant, parce qu'il y a quand même
+
+627
+00:30:39,980 --> 00:30:41,500
+des trucs où tu as vite envie de l'effacer.
+
+628
+00:30:42,790 --> 00:30:43,820
+Là, tu parles de message Teams.
+
+629
+00:30:44,840 --> 00:30:46,120
+En fait, j'aimerais
+
+630
+00:30:46,150 --> 00:30:47,580
+qu'on puisse retrouver...
+
+631
+00:30:47,640 --> 00:30:49,860
+Je sais pourquoi on a dû l'enlever,
+
+632
+00:30:50,600 --> 00:30:51,340
+mais j'ai l'impression que nous,
+
+633
+00:30:51,370 --> 00:30:52,100
+on aimerait...
+
+634
+00:30:52,720 --> 00:30:54,540
+Je parle de comité de direction, mais on peut tout le monde.
+
+635
+00:30:54,670 --> 00:30:56,500
+Peut-être qu'on aimerait pouvoir effacer
+
+636
+00:30:56,740 --> 00:30:57,900
+des conneries qu'on dit sur Teams.
+
+637
+00:30:59,800 --> 00:31:00,100
+Et puis,
+
+638
+00:31:00,630 --> 00:31:02,440
+on peut pas. J'ai l'impression que c'est super simple
+
+639
+00:31:02,450 --> 00:31:03,900
+à faire, mais que ça se fait pas.
+
+640
+00:31:06,200 --> 00:31:07,280
+Là, on est un peu dans un cas.
+
+641
+00:31:07,760 --> 00:31:11,080
+On parlait avant de la gouvernance et d'imposer des choses.
+
+642
+00:31:12,120 --> 00:31:17,440
+On est quand même dans un cas là où il y a quelque chose qui est mis en œuvre,
+
+643
+00:31:17,820 --> 00:31:21,180
+une contrainte qui est mise en œuvre par le service informatique qui ne te convient pas.
+
+644
+00:31:21,580 --> 00:31:25,540
+Ah, en fait, j'avais pas... En fait, j'ai pas eu l'information.
+
+645
+00:31:25,860 --> 00:31:30,380
+En fait, moi, j'ai cru qu'on pouvait effacer sur Teams,
+
+646
+00:31:30,820 --> 00:31:34,980
+qu'il y a eu une histoire à Lausanne à cause de deux apprentis.
+
+647
+00:31:35,720 --> 00:31:38,060
+Du coup, les deux apprentis, c'est réglé, ils ne sont plus là.
+
+648
+00:31:38,480 --> 00:31:40,040
+Du coup, je pensais qu'on avait un retour à la normale.
+
+649
+00:31:41,520 --> 00:31:44,100
+Mais en fait, du coup, il n'y a pas eu de retour à la normale et je n'ai pas été informé.
+
+650
+00:31:44,180 --> 00:31:46,860
+Et du coup, moi, je me dis qu'on devrait retourner à la normale.
+
+651
+00:31:47,360 --> 00:31:49,580
+Mais alors, du coup, je ne savais pas que c'était une nouvelle...
+
+652
+00:31:50,440 --> 00:31:51,340
+Peut-être que vous l'avez communiqué.
+
+653
+00:31:51,420 --> 00:31:54,980
+Donc, il y a quand même besoin pour toi, si je reviens aux contraintes avant qu'on discutait.
+
+654
+00:31:55,540 --> 00:32:03,220
+Il y a quand même un besoin de justification, information et même éventuellement temporalité de la mesure.
+
+655
+00:32:04,540 --> 00:32:06,600
+Ouais. Mais pourquoi pas
+
+656
+00:32:06,930 --> 00:32:08,380
+via une newsletter ou quelque chose comme ça?
+
+657
+00:32:10,820 --> 00:32:12,100
+En tout cas, moi, là, j'ai l'impression,
+
+658
+00:32:12,860 --> 00:32:14,320
+dans ce point-là en particulier, j'ai l'impression
+
+659
+00:32:14,590 --> 00:32:16,500
+que c'est juste qu'on n'a pas fait le retour en arrière
+
+660
+00:32:16,630 --> 00:32:17,780
+parce que Thierry était malade, tu vois.
+
+661
+00:32:18,759 --> 00:32:19,560
+Enfin, il était absent.
+
+662
+00:32:20,370 --> 00:32:21,660
+Alors qu'en fait, ça n'a peut-être rien à voir.
+
+663
+00:32:22,900 --> 00:32:24,260
+Moi, je crois que c'est une règle qui a été...
+
+664
+00:32:24,340 --> 00:32:26,020
+Ah ouais, d'accord. Tu vois, je ne savais pas.
+
+665
+00:32:26,130 --> 00:32:28,140
+Puis visiblement, comme Daniel m'a dit ça,
+
+666
+00:32:28,230 --> 00:32:29,360
+il était beaucoup remonté.
+
+667
+00:32:31,720 --> 00:32:32,700
+Peut-être même qu'il a validé,
+
+668
+00:32:32,870 --> 00:32:34,500
+j'en sais rien, mais...
+
+669
+00:32:34,560 --> 00:32:37,260
+En tout cas, on n'est pas totalement courant.
+
+670
+00:32:40,000 --> 00:32:45,240
+Et donc, pas trop de tickets, tu vas résoudre les problèmes par toi-même?
+
+671
+00:32:45,500 --> 00:32:46,140
+Ou pas les résoudre.
+
+672
+00:32:47,680 --> 00:32:49,660
+Pas trop de tickets, mais j'en ai fait quelques-uns.
+
+673
+00:32:50,540 --> 00:32:53,120
+Et puis j'essaye aussi de démarrer mon ordinateur avant qu'on me le dise,
+
+674
+00:32:53,230 --> 00:32:56,820
+parce qu'il ne faut pas se mentir, je ne suis pas la bête en informatique.
+
+675
+00:32:56,950 --> 00:33:01,900
+Je ne suis pas le pire non plus, mais je peux concevoir que la plupart de mes demandes sont un peu chiants.
+
+676
+00:33:03,520 --> 00:33:06,200
+Il y a aussi un problème, c'est qu'on n'a pas actuellement de support informatique.
+
+677
+00:33:06,400 --> 00:33:09,300
+Donc c'est un petit peu les gens que tu vas contacter, tu leur fais chier.
+
+678
+00:33:09,680 --> 00:33:10,540
+J'arrive à en comprendre.
+
+679
+00:33:10,790 --> 00:33:14,300
+Mais en fait, toi, tes petits problèmes que tu sais pas, c'est aussi légitime.
+
+680
+00:33:14,940 --> 00:33:17,200
+Puis peut-être aussi, il faut qu'il y ait un support informatique.
+
+681
+00:33:17,940 --> 00:33:18,900
+Non, moi, je suis la maîtrise de savoir.
+
+682
+00:33:19,010 --> 00:33:21,000
+Qu'est-ce que tu entends parce qu'il n'y a pas de support?
+
+683
+00:33:23,379 --> 00:33:25,400
+Oui, non, mais est-ce que...
+
+684
+00:33:26,550 --> 00:33:28,400
+Pour toutes ces conneries, genre installer une imprimante,
+
+685
+00:33:30,170 --> 00:33:32,300
+ou j'ai Internet qui ne fonctionne pas, ou des choses comme ça,
+
+686
+00:33:32,440 --> 00:33:34,080
+j'ai vite l'impression que je vais pouvoir déranger
+
+687
+00:33:34,810 --> 00:33:36,120
+des personnes qui sont pas forcément
+
+688
+00:33:36,460 --> 00:33:38,260
+dans leur rôle à eux, à elles.
+
+689
+00:33:39,460 --> 00:33:40,360
+Maintenant, je sais qu'il y a Brian
+
+690
+00:33:40,470 --> 00:33:42,520
+qui est à deux jours par semaine, mais c'est vrai qu'un support,
+
+691
+00:33:42,630 --> 00:33:44,720
+j'ai l'impression qu'il faudrait qu'il soit à cinq fois par semaine.
+
+692
+00:33:48,420 --> 00:33:49,140
+Donc toi...
+
+693
+00:33:49,500 --> 00:33:51,140
+Et attention, je pense que Brian,
+
+694
+00:33:51,430 --> 00:33:52,140
+c'est un bon apprenti.
+
+695
+00:33:52,580 --> 00:33:54,040
+Toi, t'as l'impression,
+
+696
+00:33:55,320 --> 00:33:56,340
+de nouveau dans le cadre de tes rôles,
+
+697
+00:33:56,630 --> 00:33:57,820
+t'as l'impression que ce serait nécessaire
+
+698
+00:33:58,560 --> 00:33:59,420
+qu'il y ait du support
+
+699
+00:34:00,840 --> 00:34:01,380
+toute la semaine.
+
+700
+00:34:03,000 --> 00:34:04,560
+là pour que le job track fonctionne bien
+
+701
+00:34:04,760 --> 00:34:05,180
+soit fluide
+
+702
+00:34:05,540 --> 00:34:06,640
+ou tu fixerais ça
+
+703
+00:34:07,340 --> 00:34:08,440
+qu'est-ce que t'attendrais
+
+704
+00:34:09,240 --> 00:34:10,260
+tous les deux jours
+
+705
+00:34:11,200 --> 00:34:12,159
+le ticket doit être réglé
+
+706
+00:34:13,960 --> 00:34:15,320
+c'est comme des tickets assez simples
+
+707
+00:34:15,340 --> 00:34:16,760
+je pense pour la majorité des personnes
+
+708
+00:34:17,139 --> 00:34:18,419
+en tout cas c'est comme ça que je vois la chose
+
+709
+00:34:18,639 --> 00:34:19,520
+je ne sais rien
+
+710
+00:34:29,980 --> 00:34:30,300
+et
+
+711
+00:34:31,040 --> 00:34:31,399
+ok
+
+712
+00:34:33,560 --> 00:34:36,020
+Et qu'est-ce que tu appelles un ticket réglé?
+
+713
+00:34:37,379 --> 00:34:40,080
+C'est en cours de traitement ou que la solution soit là?
+
+714
+00:34:44,399 --> 00:34:46,879
+Selon les problèmes, tu vois, ça change quand même de la perception.
+
+715
+00:34:47,080 --> 00:34:54,320
+Moi, je suis soulagé et déjà un peu satisfait si je sais qu'il y a quelqu'un qui prend soin de ça.
+
+716
+00:34:56,800 --> 00:34:59,640
+Après, effectivement, du moment où c'est réglé, je pense que c'est cool.
+
+717
+00:35:00,240 --> 00:35:05,620
+Par exemple, moi, j'ai changé de rôle, puis le CRM, ils m'ont envoyé toujours des notifications.
+
+718
+00:35:06,380 --> 00:35:07,860
+Ça, j'ai dû le dire trois fois, quand même.
+
+719
+00:35:09,160 --> 00:35:10,940
+Puis c'est chiant de faire des tickets juste pour ça.
+
+720
+00:35:11,020 --> 00:35:14,140
+Parce que moi, je passe pour un peu...
+
+721
+00:35:14,520 --> 00:35:19,260
+Soit un gars super exigeant, soit un gars qui veut que ma boîte mail soit clean.
+
+722
+00:35:21,079 --> 00:35:27,440
+Puis voilà, ça a été Thierry, puis après Brian, puis finalement, il y en a changé le mail, puis c'est réglé.
+
+723
+00:35:27,820 --> 00:35:32,960
+Encore une fois, moi, de mon point de vue utilisateur, j'ai l'impression que c'est plutôt des tickets faciles et qui prennent beaucoup de temps.
+
+724
+00:35:33,080 --> 00:35:33,540
+Puis c'est chiant.
+
+725
+00:35:34,600 --> 00:35:36,760
+De mon point de vue utilisateur, après, j'en sais rien.
+
+726
+00:35:36,820 --> 00:35:47,160
+Toi, tu ressens un delta entre ta perception de la complexité et le temps qui est réellement...
+
+727
+00:35:52,580 --> 00:35:57,860
+J'ai l'impression que si tu veux, la résolution du cas, ça a pris, je pense, 5 minutes.
+
+728
+00:35:59,200 --> 00:36:00,660
+Mais je comprends que je ne peux pas être tout en priorité.
+
+729
+00:36:00,730 --> 00:36:01,480
+Ça, je comprends.
+
+730
+00:36:02,060 --> 00:36:03,940
+Par contre, ça fait 6 mois que j'ai fait la demande.
+
+731
+00:36:04,020 --> 00:36:04,840
+Puis j'ai dû venir 3 fois.
+
+732
+00:36:04,910 --> 00:36:06,320
+Puis je fais, putain, 5 minutes, 3 fois?
+
+733
+00:36:06,960 --> 00:36:09,160
+Et ça, c'était passé par des tickets officiels?
+
+734
+00:36:09,400 --> 00:36:11,560
+Alors, ça a été d'abord par...
+
+735
+00:36:11,720 --> 00:36:12,440
+Mais je crois que j'avais suivi.
+
+736
+00:36:12,490 --> 00:36:15,080
+Du moment où vous avez dit que c'est des tickets, j'ai fait des tickets.
+
+737
+00:36:15,520 --> 00:36:19,620
+Et est-ce que toi, tu ressentirais la nécessité d'un support téléphonique,
+
+738
+00:36:19,720 --> 00:36:20,820
+d'une helpline
+
+739
+00:36:20,960 --> 00:36:22,800
+ou officielle en guillemets
+
+740
+00:36:23,500 --> 00:36:24,060
+ou pas
+
+741
+00:36:26,779 --> 00:36:27,860
+notamment pour avoir moins
+
+742
+00:36:27,950 --> 00:36:29,100
+cette impression de déranger toujours
+
+743
+00:36:30,240 --> 00:36:31,260
+l'impression de déranger
+
+744
+00:36:31,290 --> 00:36:32,580
+tu peux l'avoir au téléphone aussi
+
+745
+00:36:33,700 --> 00:36:35,060
+oui mais si tu sais que c'est officiel
+
+746
+00:36:35,120 --> 00:36:36,080
+que c'est ce numéro qu'il faut appeler
+
+747
+00:36:40,099 --> 00:36:41,260
+ça pourrait être intéressant
+
+748
+00:36:42,220 --> 00:36:43,240
+je me dis qu'on est
+
+749
+00:36:43,900 --> 00:36:45,580
+à JetTrek on passe beaucoup de temps
+
+750
+00:36:45,580 --> 00:36:47,400
+à écrire et c'est peut-être un petit peu dommage aussi
+
+751
+00:36:47,960 --> 00:36:49,640
+je pense que ça pourrait être mieux
+
+752
+00:36:49,640 --> 00:36:52,100
+y compris pour ceux qui reçoivent 150 millions de tickets,
+
+753
+00:36:52,730 --> 00:36:54,820
+de se dire par téléphone que c'est du traigler.
+
+754
+00:36:55,020 --> 00:37:02,600
+Et si il y avait une Alpine, ce serait quoi pour toi le taux de présence, d'horaire minimum pour que ce soit utile?
+
+755
+00:37:02,640 --> 00:37:03,080
+Ah ouais.
+
+756
+00:37:04,580 --> 00:37:07,640
+Tous les matins, un jour par semaine...
+
+757
+00:37:08,720 --> 00:37:09,500
+Ouais, bah ouais.
+
+758
+00:37:12,240 --> 00:37:14,080
+En tant qu'utilisateur ou en tant que...
+
+759
+00:37:14,140 --> 00:37:15,080
+Dans ton rôle.
+
+760
+00:37:15,660 --> 00:37:16,940
+en tant qu'utilisateur dans ton travail.
+
+761
+00:37:17,920 --> 00:37:19,920
+Si il y a une night play, j'aimerais bien qu'elle soit 10 semaines tout le temps.
+
+762
+00:37:21,540 --> 00:37:21,620
+Maintenant,
+
+763
+00:37:21,820 --> 00:37:23,220
+en connaissant un petit peu de job track, je me dis,
+
+764
+00:37:23,280 --> 00:37:25,140
+si il y a déjà un jour par semaine, c'est déjà bien aussi.
+
+765
+00:37:25,340 --> 00:37:26,000
+Je peux m'adapter.
+
+766
+00:37:29,760 --> 00:37:29,960
+Ok.
+
+767
+00:37:32,540 --> 00:37:32,800
+Merci.
+
+768
+00:37:34,240 --> 00:37:35,480
+Et une dernière question
+
+769
+00:37:36,220 --> 00:37:37,420
+avant qu'on discute un peu plus de
+
+770
+00:37:37,820 --> 00:37:39,480
+perspectives, même si on a déjà un peu abordé des choses.
+
+771
+00:37:40,780 --> 00:37:41,420
+En termes de
+
+772
+00:37:41,760 --> 00:37:43,680
+formation aux outils informatiques,
+
+773
+00:37:44,320 --> 00:37:45,620
+comment toi, tu te
+
+774
+00:37:46,500 --> 00:37:47,380
+quel est ton ressenti?
+
+775
+00:37:47,500 --> 00:37:49,860
+Tu as l'impression d'être plutôt quelqu'un de compétent
+
+776
+00:37:49,860 --> 00:37:51,580
+en informatique, pas limité
+
+777
+00:37:51,760 --> 00:37:52,920
+par ses connaissances des outils,
+
+778
+00:37:53,360 --> 00:37:54,960
+ou au contraire, tu te rends bien compte que
+
+779
+00:37:55,420 --> 00:37:57,280
+ce n'est pas ton domaine et que tu perds du temps
+
+780
+00:37:57,400 --> 00:37:59,480
+peut-être au quotidien pour des choses que tu as l'impression que des collègues
+
+781
+00:37:59,620 --> 00:38:01,160
+arrivent à faire parce qu'ils connaissent mieux l'informatique,
+
+782
+00:38:01,240 --> 00:38:01,880
+j'en sais rien, tu vois.
+
+783
+00:38:03,380 --> 00:38:04,620
+Comment tu te sens en termes de
+
+784
+00:38:06,020 --> 00:38:07,860
+niveau de compétence informatique
+
+785
+00:38:08,060 --> 00:38:09,560
+numérique pour l'accomplissement
+
+786
+00:38:09,620 --> 00:38:10,200
+de tes rôles?
+
+787
+00:38:14,460 --> 00:38:16,320
+Je trouve que JobTrek, on n'est pas...
+
+788
+00:38:16,880 --> 00:38:18,540
+Et on ne devrait pas, mais on n'est pas...
+
+789
+00:38:19,420 --> 00:38:20,380
+On n'est pas Koudelski.
+
+790
+00:38:21,140 --> 00:38:23,660
+J'ai l'impression que mon niveau est suffisant pour JobTrek.
+
+791
+00:38:23,860 --> 00:38:25,140
+Après, je sais très bien...
+
+792
+00:38:25,760 --> 00:38:27,860
+Je ne vois pas où je pourrais faire des améliorations.
+
+793
+00:38:28,400 --> 00:38:30,820
+Où est-ce que l'informatique, actuellement, pourrait m'aider?
+
+794
+00:38:31,540 --> 00:38:33,580
+Par exemple, on a parlé de chat GPT,
+
+795
+00:38:33,640 --> 00:38:35,780
+et je t'ai dit oui, mais attention,
+
+796
+00:38:36,020 --> 00:38:38,200
+je préfère avoir la base et après m'aider de chat GPT.
+
+797
+00:38:45,140 --> 00:38:47,460
+Oui, traitement d'image, mais c'est quand même très marginal.
+
+798
+00:38:55,080 --> 00:38:59,360
+J'imagine que j'ai le bagage suffisant pour ce qui est demandé dans mes rôles et à JobTrack
+
+799
+00:38:59,700 --> 00:39:04,160
+actuellement. Par contre, non, pas du tout. Je ne suis pas du tout un expert. Ce ne serait pas à moi
+
+800
+00:39:04,180 --> 00:39:06,660
+de prendre la décision pour l'informatique,
+
+801
+00:39:06,920 --> 00:39:07,280
+vraiment pas.
+
+802
+00:39:08,000 --> 00:39:09,080
+Je suis plutôt...
+
+803
+00:39:10,180 --> 00:39:10,940
+Moi, je suis plutôt quelqu'un
+
+804
+00:39:11,000 --> 00:39:11,900
+en lien avec le jeune,
+
+805
+00:39:12,980 --> 00:39:13,580
+en lien à la machine.
+
+806
+00:39:13,900 --> 00:39:14,680
+Donc, tu te sens...
+
+807
+00:39:15,120 --> 00:39:15,940
+En tout cas, pas légitime
+
+808
+00:39:15,960 --> 00:39:16,740
+à prendre des décisions.
+
+809
+00:39:16,920 --> 00:39:17,660
+Ouais, mais je parle vraiment
+
+810
+00:39:17,720 --> 00:39:18,800
+pour l'accomplissement de tes rôles.
+
+811
+00:39:19,100 --> 00:39:20,460
+Tu te sens compétent
+
+812
+00:39:20,800 --> 00:39:21,980
+pour les outils que tu utilises,
+
+813
+00:39:22,240 --> 00:39:23,340
+tu ressens pas le besoin
+
+814
+00:39:25,079 --> 00:39:27,120
+de formation supplémentaire,
+
+815
+00:39:30,239 --> 00:39:31,160
+d'information supplémentaire
+
+816
+00:39:31,740 --> 00:39:32,340
+pour être capable
+
+817
+00:39:32,420 --> 00:39:34,020
+d'utiliser correctement tes outils.
+
+818
+00:39:37,080 --> 00:39:37,180
+non
+
+819
+00:39:39,079 --> 00:39:40,140
+pour les outils que j'utilise
+
+820
+00:39:40,260 --> 00:39:40,860
+pour l'instant c'est bon
+
+821
+00:39:44,080 --> 00:39:44,260
+et
+
+822
+00:39:47,060 --> 00:39:47,560
+si t'avais
+
+823
+00:39:47,680 --> 00:39:49,680
+quartier libre, est-ce qu'il y a quand même des domaines
+
+824
+00:39:49,700 --> 00:39:50,580
+dans l'utilisation de tes outils
+
+825
+00:39:51,079 --> 00:39:52,440
+là t'as mentionné le traitement d'image
+
+826
+00:39:54,599 --> 00:39:55,660
+si c'était possible
+
+827
+00:39:55,840 --> 00:39:57,920
+j'apprécierais être mieux formé
+
+828
+00:39:57,940 --> 00:39:59,480
+là dessus ou je trouverais intéressant
+
+829
+00:39:59,680 --> 00:40:01,060
+ou j'ai l'impression que je pourrais gagner du temps
+
+830
+00:40:01,600 --> 00:40:02,460
+et si oui sur quoi
+
+831
+00:40:03,520 --> 00:40:03,920
+Bon après
+
+832
+00:40:04,920 --> 00:40:05,680
+En fait ce serait
+
+833
+00:40:06,840 --> 00:40:08,880
+Est-ce qu'aujourd'hui j'ai envie d'être formé sur le CRM
+
+834
+00:40:09,020 --> 00:40:10,760
+Non parce que le CRM m'emmerde
+
+835
+00:40:12,560 --> 00:40:13,840
+Est-ce que je devrais être formé
+
+836
+00:40:13,920 --> 00:40:15,160
+Et on devrait utiliser le CRM
+
+837
+00:40:15,380 --> 00:40:16,620
+Oui je pense tu vois
+
+838
+00:40:17,360 --> 00:40:19,020
+Donc est-ce que tu me demandes si je veux être formé
+
+839
+00:40:19,020 --> 00:40:19,580
+Je te dirais non
+
+840
+00:40:20,740 --> 00:40:22,020
+Mais c'est parce que l'outil en lui même
+
+841
+00:40:22,600 --> 00:40:23,500
+Encore une fois j'ai pas confiance
+
+842
+00:40:23,920 --> 00:40:24,840
+Ou pas assez confiance
+
+843
+00:40:25,680 --> 00:40:27,000
+Mais si tu me dis dans un monde d'idée
+
+844
+00:40:27,120 --> 00:40:28,800
+Est-ce qu'un CRM devrait être efficace
+
+845
+00:40:29,220 --> 00:40:31,340
+Complet de qualité et nous on devrait tous aller dedans
+
+846
+00:40:31,380 --> 00:40:32,440
+Je te dirais oui
+
+847
+00:40:32,460 --> 00:40:33,520
+et j'aurais besoin de formation.
+
+848
+00:40:40,240 --> 00:40:41,680
+Typiquement, pour le cas du CRM,
+
+849
+00:40:41,770 --> 00:40:43,280
+qu'est-ce que tu as l'impression que tu ne maîtrises pas?
+
+850
+00:40:45,200 --> 00:40:46,420
+Alors, déjà, je n'ai pas confiance.
+
+851
+00:40:46,640 --> 00:40:48,260
+Donc, du coup, je délaisse.
+
+852
+00:40:48,860 --> 00:40:49,940
+Et puis après, qu'est-ce que je ne maîtrise pas?
+
+853
+00:40:50,060 --> 00:40:52,040
+En fait, encore une fois, j'ai l'impression
+
+854
+00:40:52,300 --> 00:40:53,740
+qu'un job track, c'est toujours un peu le même problème.
+
+855
+00:40:53,810 --> 00:40:56,320
+C'est qu'on veut tellement bien faire qu'on arrive à des machines à gaz,
+
+856
+00:40:56,430 --> 00:40:58,020
+que ce soit le drive, le CRM, tout machin.
+
+857
+00:40:58,070 --> 00:41:00,820
+Puis en fait, il y a tellement de choses que tu peux faire.
+
+858
+00:41:00,940 --> 00:41:04,200
+Tu peux faire des chiffres d'extraction avec des onglets.
+
+859
+00:41:04,300 --> 00:41:04,600
+Oui, non.
+
+860
+00:41:05,260 --> 00:41:06,480
+Avec pas mal de choses.
+
+861
+00:41:06,900 --> 00:41:09,940
+Mais ça, je ne sais même pas tout ce que le CRM me permettrait de faire.
+
+862
+00:41:10,960 --> 00:41:11,880
+Pourquoi? Parce que c'est une machine.
+
+863
+00:41:12,040 --> 00:41:14,840
+Je n'arrive pas à venir dedans et à me sentir libre de nager.
+
+864
+00:41:15,580 --> 00:41:17,580
+La piscine est trop profonde, alors je ne vais pas dans l'eau.
+
+865
+00:41:17,700 --> 00:41:18,740
+Alors que je sais un peu nager.
+
+866
+00:41:21,240 --> 00:41:23,680
+Et du coup, je n'utilise pas l'outil.
+
+867
+00:41:26,440 --> 00:41:27,980
+Qu'est-ce qu'il faudrait pour que tu l'utilises?
+
+868
+00:41:32,080 --> 00:41:33,140
+Quelque chose de plus simple.
+
+869
+00:41:37,900 --> 00:41:39,100
+Qui doit me faire gagner du temps.
+
+870
+00:41:44,820 --> 00:41:45,360
+Et fiable.
+
+871
+00:41:50,620 --> 00:41:51,840
+Ça cramait quelque part.
+
+872
+00:41:57,700 --> 00:41:59,780
+Donc ça, c'est ce que tu voudrais de l'outil.
+
+873
+00:42:00,700 --> 00:42:03,720
+Et ensuite, là, tu disais, il faudrait que tu sois informé.
+
+874
+00:42:04,299 --> 00:42:04,660
+Formé.
+
+875
+00:42:05,359 --> 00:42:10,620
+Du coup, CRM 2.0, oui, parce que je sais que c'est intéressant pour moi.
+
+876
+00:42:11,460 --> 00:42:17,160
+Même, ça peut dire, c'est top-down, maintenant, vous avez des informations, des data de qualité, vous y allez.
+
+877
+00:42:17,620 --> 00:42:21,340
+Et du coup, oui, j'aimerais savoir jusqu'où je peux pousser l'outil.
+
+878
+00:42:21,380 --> 00:42:28,040
+Donc là, ce serait une newsletter, un PDF qui explique, une vidéo de formation, un webinaire.
+
+879
+00:42:28,799 --> 00:42:33,480
+Ouais, puis il ne faut pas oublier ces séances d'équipe de team building.
+
+880
+00:42:33,680 --> 00:42:39,380
+Des fois, j'ai l'impression qu'on essaie de faire des trucs cools, des trucs machins qui sortent un petit peu de l'ordinaire.
+
+881
+00:42:40,440 --> 00:42:42,800
+Tu n'étais pas là quand il y avait les moutons, l'heure de mettre des moutons en cage.
+
+882
+00:42:42,920 --> 00:42:47,200
+Enfin, c'est hyper cool, mais des fois, il y a des trucs aussi transversal, un peu plus chiant qu'on doit parler à tout le monde.
+
+883
+00:42:47,740 --> 00:42:51,820
+C'est un peu le bon moment quand même, quand on a tout le monde de parler à tout le monde.
+
+884
+00:42:51,820 --> 00:42:52,740
+Ou les séances cul aussi.
+
+885
+00:42:56,460 --> 00:42:59,260
+Pourquoi pas faire qu'il y a juste une petite partie informative quand même.
+
+886
+00:43:00,140 --> 00:43:05,160
+On pourrait aussi tous essayer de moins parler, de mettre plus de choses par écrit en amont,
+
+887
+00:43:05,320 --> 00:43:06,980
+puis ça y est un peu plus vite la séance.
+
+888
+00:43:07,660 --> 00:43:10,260
+J'ai l'impression qu'on peut mieux faire.
+
+889
+00:43:12,360 --> 00:43:23,020
+Si on reprend un peu de manière générale l'informatique, la gouvernance par rapport à tes rôles et tout, qu'est-ce que...
+
+890
+00:43:23,140 --> 00:43:26,120
+Donc là, tu as déjà cité un certain nombre de choses que tu apprécierais et tout.
+
+891
+00:43:26,460 --> 00:43:35,480
+Est-ce qu'il y a encore des éléments où tu te dis, là, je vois de l'amélioration, ou là, j'apprécierais des choses supplémentaires,
+
+892
+00:43:35,500 --> 00:43:38,420
+ou si ce serait comme ça, ce serait idéal.
+
+893
+00:43:40,140 --> 00:43:47,480
+Donc on a parlé d'outils, de traitement de données, de CRM, de support, de formation.
+
+894
+00:43:48,260 --> 00:43:53,340
+Alors ce qui serait idéal, mais ça c'est quelque chose, j'ai de la peine à entrevoir ça à JobTrack,
+
+895
+00:43:53,730 --> 00:44:00,300
+mais peut-être, j'ai l'impression que par notre business model, par notre structure, donc fondation,
+
+896
+00:44:00,850 --> 00:44:05,000
+où l'argent provient de l'État, faire du développement informatique c'est très compliqué,
+
+897
+00:44:06,060 --> 00:44:07,360
+en termes de moyens financiers.
+
+898
+00:44:08,040 --> 00:44:10,360
+Pas forcément en termes de compétences, mais en termes de moyens financiers.
+
+899
+00:44:10,740 --> 00:44:14,020
+Parce que le canton nous demande de faire preuve d'économicité.
+
+900
+00:44:15,280 --> 00:44:18,260
+Et puis j'ai l'impression qu'il nous bride un peu toute l'innovation,
+
+901
+00:44:18,440 --> 00:44:21,780
+et je mets beaucoup l'innovation avec le développement informatique aujourd'hui.
+
+902
+00:44:22,760 --> 00:44:24,480
+Et puis du coup, c'est quand même vachement compliqué
+
+903
+00:44:25,020 --> 00:44:28,660
+de faire des économies et faire du développement informatique en même temps.
+
+904
+00:44:30,480 --> 00:44:32,760
+Moi, je trouverais génial qu'on puisse faire du développement informatique,
+
+905
+00:44:33,420 --> 00:44:34,440
+faire nos propres sites internet,
+
+906
+00:44:35,920 --> 00:44:37,680
+bon, ça, c'est même pas du développement informatique,
+
+907
+00:44:37,770 --> 00:44:37,840
+mais
+
+908
+00:44:41,080 --> 00:44:41,660
+on a une idée,
+
+909
+00:44:41,950 --> 00:44:43,320
+on peut créer à l'interne ou quoi que ce soit,
+
+910
+00:44:43,440 --> 00:44:44,760
+par contre, j'ai l'impression qu'on n'a pas les moyens.
+
+911
+00:44:46,200 --> 00:44:47,680
+Et au-delà qu'on n'a pas les moyens,
+
+912
+00:44:47,770 --> 00:44:49,480
+c'est qu'on nous coupe les moyens aussi.
+
+913
+00:44:51,400 --> 00:44:51,660
+Donc toi,
+
+914
+00:44:51,710 --> 00:44:53,580
+tu ressens vraiment
+
+915
+00:44:54,360 --> 00:44:55,420
+que des outils
+
+916
+00:44:56,210 --> 00:44:56,300
+custom
+
+917
+00:44:58,260 --> 00:44:59,260
+auraient une vraie plus-value?
+
+918
+00:44:59,590 --> 00:45:01,300
+Ah oui, moi, je suis convaincu, par contre,
+
+919
+00:45:01,380 --> 00:45:03,380
+je suis aussi convaincu que ça va être difficilement
+
+920
+00:45:03,400 --> 00:45:05,020
+cas dans JobTrek
+
+921
+00:45:06,120 --> 00:45:07,040
+et qu'est-ce qui te
+
+922
+00:45:09,660 --> 00:45:10,100
+qu'est-ce qui te
+
+923
+00:45:10,460 --> 00:45:11,440
+qu'est-ce qui te donne l'impression
+
+924
+00:45:11,640 --> 00:45:12,980
+qu'il te convaincre des outils custom
+
+925
+00:45:13,660 --> 00:45:14,660
+ça donnerait mieux que
+
+926
+00:45:15,500 --> 00:45:16,860
+ça vient de CRM actuel
+
+927
+00:45:17,619 --> 00:45:18,840
+va dans le CRM
+
+928
+00:45:19,980 --> 00:45:21,280
+c'est la frustration
+
+929
+00:45:22,000 --> 00:45:23,640
+des outils actuels qui te fait dire ça
+
+930
+00:45:23,880 --> 00:45:25,000
+ou c'est ce que tu
+
+931
+00:45:25,230 --> 00:45:26,260
+j'en sais rien peut-être tu as vu
+
+932
+00:45:27,180 --> 00:45:28,180
+ailleurs des outils vraiment
+
+933
+00:45:29,210 --> 00:45:30,660
+custom qui marchent bien tu vois ou c'est une
+
+934
+00:45:31,659 --> 00:45:33,360
+projection de ce que tu
+
+935
+00:45:33,380 --> 00:45:38,000
+imagine l'image d'épinal de l'outil custom de dev super performant.
+
+936
+00:45:38,420 --> 00:45:39,140
+Tu vois ce que je veux dire?
+
+937
+00:45:39,280 --> 00:45:42,720
+Et ça va contredire ce que je viens de te dire juste avant,
+
+938
+00:45:43,260 --> 00:45:45,840
+dans le sens où l'innovation peut, à mon avis,
+
+939
+00:45:46,319 --> 00:45:48,140
+difficilement la faire dans la fondation JobTrek.
+
+940
+00:45:49,480 --> 00:45:51,500
+En fait, j'ai l'impression que c'est aussi souvent ça
+
+941
+00:45:51,660 --> 00:45:54,240
+qu'il y a eu dans le développement d'autres profs d'application,
+
+942
+00:45:54,320 --> 00:45:56,860
+que ce soit l'application pour les Trekkies ou le CRM ou quoi que ce soit.
+
+943
+00:45:57,180 --> 00:45:58,160
+C'est tout d'un coup, à un moment,
+
+944
+00:45:58,360 --> 00:46:01,540
+on explique un besoin à un informaticien, à un développeur, on va dire.
+
+945
+00:46:02,620 --> 00:46:07,620
+Lui, il le comprend, il l'entend, puis après, il va façonner une application d'un point de vue informatique ou même logique.
+
+946
+00:46:07,720 --> 00:46:09,840
+Et puis, elle est très logique, comme elle passe en question.
+
+947
+00:46:10,400 --> 00:46:14,680
+Par contre, elle perd sa mission de base fonctionnelle.
+
+948
+00:46:15,540 --> 00:46:20,060
+Et en fait, pour le coup, il faudrait vraiment toujours qu'un informaticien, enfin un développeur,
+
+949
+00:46:20,140 --> 00:46:23,260
+soit lié à la réalité de pourquoi on veut utiliser cette application.
+
+950
+00:46:23,720 --> 00:46:25,440
+Et du coup, il faudrait réunir les deux mondes.
+
+951
+00:46:25,760 --> 00:46:27,520
+Ce que le comptant ne veut pas du tout qu'on fasse.
+
+952
+00:46:36,460 --> 00:46:37,920
+et pourquoi les trucs custom
+
+953
+00:46:38,380 --> 00:46:39,580
+seraient mieux qu'un truc standard
+
+954
+00:46:39,780 --> 00:46:40,200
+on va dire
+
+955
+00:46:41,940 --> 00:46:43,660
+j'ai l'impression qu'ils répondraient mieux
+
+956
+00:46:43,660 --> 00:46:44,420
+à nos besoins
+
+957
+00:46:47,100 --> 00:46:47,280
+après
+
+958
+00:46:47,680 --> 00:46:49,740
+si j'ai pas la connaissance de tout ce qu'il y a
+
+959
+00:46:49,760 --> 00:46:51,080
+par exemple le CRM, je ne sais pas
+
+960
+00:46:51,300 --> 00:46:52,700
+qui a un Kikop qui a
+
+961
+00:46:53,180 --> 00:46:54,040
+150 millions de trucs
+
+962
+00:46:56,079 --> 00:46:57,160
+mais j'ai pas l'impression
+
+963
+00:46:57,220 --> 00:46:59,100
+qu'on est toujours obligé d'avoir des solutions
+
+964
+00:46:59,100 --> 00:47:00,540
+très complexe en fait.
+
+965
+00:47:01,000 --> 00:47:02,440
+J'ai l'impression que notre corps de métier,
+
+966
+00:47:03,600 --> 00:47:05,160
+ce qui est complexe, c'est l'humain en lui-même.
+
+967
+00:47:05,520 --> 00:47:06,640
+Après, ce qu'on fait avec l'humain,
+
+968
+00:47:06,740 --> 00:47:08,840
+il est fondamentalement assez simple.
+
+969
+00:47:10,800 --> 00:47:12,700
+Et là, tu mentionnais la limite
+
+970
+00:47:12,760 --> 00:47:14,100
+un peu du canton
+
+971
+00:47:14,600 --> 00:47:17,600
+et de sa mainmise budgétaire,
+
+972
+00:47:18,000 --> 00:47:18,360
+contrainte et tout.
+
+973
+00:47:19,740 --> 00:47:21,240
+Est-ce que tu as l'impression
+
+974
+00:47:21,380 --> 00:47:22,220
+qu'il y a quand même des choses
+
+975
+00:47:22,320 --> 00:47:23,200
+qu'on pourrait mettre en place
+
+976
+00:47:23,420 --> 00:47:25,060
+dans notre gestion, dans notre gouvernance,
+
+977
+00:47:25,880 --> 00:47:27,200
+dans la manière dont on s'organise
+
+978
+00:47:27,220 --> 00:47:31,360
+qui permettraient de faciliter un peu l'émergence de ce genre de projet?
+
+979
+00:47:31,680 --> 00:47:37,400
+Ou pour toi, c'est vraiment une contrainte externe sur laquelle on n'a aucune marge de manœuvre?
+
+980
+00:47:37,620 --> 00:47:45,280
+Alors, hier, pour un bout, bon, moi, je pense que pour un bout, il faut déjà avoir des bonnes bases avant de construire quelque chose dessus.
+
+981
+00:47:45,400 --> 00:47:50,260
+Je pense que, par exemple, une des priorités qu'on pourrait avoir, c'est avoir un support informatique qui tourne maintenant.
+
+982
+00:47:50,600 --> 00:47:54,480
+Alors, c'est peut-être le cas, mais c'est d'abord ça. D'abord, c'est du support qu'il nous faut.
+
+983
+00:47:55,120 --> 00:47:59,620
+Et du moment où on a le support, il y a aussi la formation des apprentis.
+
+984
+00:47:59,720 --> 00:48:00,780
+Parce que c'est quand même ce qu'on fait.
+
+985
+00:48:01,300 --> 00:48:03,400
+Après, du moment où on a ces deux choses qui tournent bien,
+
+986
+00:48:04,579 --> 00:48:09,880
+là, on s'amuse à faire du développement pour nos propres outils.
+
+987
+00:48:10,920 --> 00:48:13,580
+Et puis, qu'est-ce qui peut être mis en place?
+
+988
+00:48:14,440 --> 00:48:18,620
+J'ai l'impression que les projets, il faut qu'on arrive toujours à les créer.
+
+989
+00:48:18,660 --> 00:48:21,700
+Du moment où on n'a plus de projet, c'est quand même assez mauvais signe.
+
+990
+00:48:22,400 --> 00:48:25,060
+Mais après, il faut qu'au moins certains d'entre eux puissent se concrétiser.
+
+991
+00:48:25,260 --> 00:48:26,980
+Maintenant, il faudrait peut-être qu'on ose se dire
+
+992
+00:48:27,060 --> 00:48:30,840
+« ça ne sera pas à l'intérieur de JobTrack, mais ce sera à l'extérieur de JobTrack ».
+
+993
+00:48:32,860 --> 00:48:38,260
+Et là, je parle très clairement d'un partenaire informatique dans le privé
+
+994
+00:48:38,800 --> 00:48:43,160
+qui a été fondé par JobTrack ou aidé par JobTrack ou par l'association, du coup,
+
+995
+00:48:44,480 --> 00:48:46,820
+où ils sont alignés à notre mission ou quoi que ça,
+
+996
+00:48:46,860 --> 00:48:49,940
+puis on crée des trucs qu'on puisse revendre par après,
+
+997
+00:48:50,120 --> 00:48:54,560
+mais on arrive à vraiment mettre la force sur le développement.
+
+998
+00:48:54,730 --> 00:48:57,460
+Puis on ne fait pas, oui, développe un truc super complexe
+
+999
+00:48:58,000 --> 00:48:59,300
+avec des professionnels du métier,
+
+1000
+00:48:59,880 --> 00:49:01,420
+fais-le avec deux, trois apprentis,
+
+1001
+00:49:01,470 --> 00:49:02,740
+puis fais que le support, ça tourne.
+
+1002
+00:49:02,860 --> 00:49:04,900
+Parce que j'ai l'impression que c'est trop complexe.
+
+1003
+00:49:05,720 --> 00:49:07,380
+C'est une mission impossible au développeur.
+
+1004
+00:49:11,320 --> 00:49:14,220
+Donc, en fait, avoir une solution
+
+1005
+00:49:14,330 --> 00:49:15,540
+qui te paraît très réaliste
+
+1006
+00:49:15,920 --> 00:49:16,860
+pour pouvoir développer des outils,
+
+1007
+00:49:16,960 --> 00:49:18,940
+justement, en fait, ce serait de le faire d'une manière
+
+1008
+00:49:18,960 --> 00:49:22,880
+à ce que ça puisse être valorisé
+
+1009
+00:49:23,720 --> 00:49:24,780
+aussi en dehors de JobTrack.
+
+1010
+00:49:27,200 --> 00:49:29,120
+Je pense qu'il faut qu'on ait ce courage-là
+
+1011
+00:49:29,320 --> 00:49:30,120
+de développer,
+
+1012
+00:49:30,380 --> 00:49:32,480
+d'avoir envie de faire le first mover advantage,
+
+1013
+00:49:32,700 --> 00:49:34,000
+c'est de développer nous
+
+1014
+00:49:34,400 --> 00:49:38,020
+et après revendre tout en revendant à JobTrack
+
+1015
+00:49:38,060 --> 00:49:40,080
+de manière beaucoup plus préférentielle.
+
+1016
+00:49:40,260 --> 00:49:41,780
+Mais je pense qu'il faut qu'on fasse ça aujourd'hui.
+
+1017
+00:49:42,380 --> 00:49:43,400
+Si on attend sur les autres,
+
+1018
+00:49:43,460 --> 00:49:44,020
+il n'y a rien qui se passe.
+
+1019
+00:49:44,080 --> 00:49:44,920
+Si on attend sur le canton,
+
+1020
+00:49:44,960 --> 00:49:45,720
+il n'y a rien qui se passe.
+
+1021
+00:49:45,820 --> 00:49:46,700
+Et tant qu'il n'y a rien qui se passe,
+
+1022
+00:49:46,760 --> 00:49:47,720
+c'est nous qui nous fatiguons.
+
+1023
+00:49:53,140 --> 00:49:56,760
+Est-ce qu'il y a d'autres aspects liés à l'IT?
+
+1024
+00:49:58,790 --> 00:50:01,600
+Comment la gouvernance interagit avec l'IT?
+
+1025
+00:50:04,099 --> 00:50:06,240
+Tu dirais que ce serait super de faire ça?
+
+1026
+00:50:08,640 --> 00:50:10,880
+Est-ce que ça serait possible de mettre en place quelque chose?
+
+1027
+00:50:11,819 --> 00:50:13,700
+Je vais juste revenir sur le point d'avoir.
+
+1028
+00:50:13,790 --> 00:50:15,520
+Il y a aussi l'IA. Je n'ai pas parlé.
+
+1029
+00:50:15,860 --> 00:50:17,460
+je ne maîtrise pas vraiment.
+
+1030
+00:50:18,240 --> 00:50:20,320
+Donc peut-être ça peut être aussi une piste,
+
+1031
+00:50:21,460 --> 00:50:22,200
+mais peut-être pas,
+
+1032
+00:50:22,300 --> 00:50:22,740
+je n'en sais rien.
+
+1033
+00:50:24,180 --> 00:50:25,920
+Pour créer ces projets ou pour aider ces projets,
+
+1034
+00:50:26,000 --> 00:50:27,000
+peut-être les apprentis, finalement,
+
+1035
+00:50:27,180 --> 00:50:28,460
+ils vont devenir beaucoup plus performants
+
+1036
+00:50:28,520 --> 00:50:29,620
+parce qu'il y a l'IA, je n'en sais rien.
+
+1037
+00:50:30,240 --> 00:50:31,060
+J'aurais quand même des doutes
+
+1038
+00:50:31,140 --> 00:50:31,580
+parce que finalement,
+
+1039
+00:50:31,900 --> 00:50:32,880
+ils ne sont pas à JobTrek pour rien
+
+1040
+00:50:33,040 --> 00:50:34,280
+et peut-être les problèmes sont autre chose.
+
+1041
+00:50:36,760 --> 00:50:37,500
+Qu'est-ce qui pourrait être cool?
+
+1042
+00:50:37,620 --> 00:50:39,200
+Je pense que ça peut être vraiment cool
+
+1043
+00:50:39,500 --> 00:50:40,620
+à JobTrek, mais pour tout,
+
+1044
+00:50:40,820 --> 00:50:41,800
+pour la facilitation.
+
+1045
+00:50:42,760 --> 00:50:43,880
+Tous les rôles transversales
+
+1046
+00:50:43,900 --> 00:50:45,920
+devraient avoir une présence au moins
+
+1047
+00:50:46,220 --> 00:50:48,260
+minimum mensuelle sur les sites.
+
+1048
+00:50:53,600 --> 00:50:55,340
+Et juste faire un petit recueil,
+
+1049
+00:50:55,540 --> 00:50:57,540
+juste passer ou quoi que ce soit,
+
+1050
+00:50:57,610 --> 00:51:01,500
+et ça, je trouve que ça peut être intéressant quand même.
+
+1051
+00:51:04,360 --> 00:51:06,320
+Donc une fois par mois, ça me semble faisable,
+
+1052
+00:51:06,560 --> 00:51:09,460
+et puis je pense qu'on se comprendrait tous
+
+1053
+00:51:09,730 --> 00:51:10,440
+un tout petit peu mieux.
+
+1054
+00:51:16,800 --> 00:51:17,160
+Donc là
+
+1055
+00:51:18,720 --> 00:51:19,640
+Si je reformule
+
+1056
+00:51:20,050 --> 00:51:22,100
+C'est vraiment avoir un des informaticiens
+
+1057
+00:51:22,790 --> 00:51:23,980
+Du Cercle IT qui vient
+
+1058
+00:51:24,550 --> 00:51:25,560
+Au moins une fois par mois
+
+1059
+00:51:25,710 --> 00:51:25,960
+Une journée
+
+1060
+00:51:27,980 --> 00:51:28,800
+Peu importe
+
+1061
+00:51:29,260 --> 00:51:30,860
+Je te dis ça pour l'informatique
+
+1062
+00:51:30,860 --> 00:51:32,540
+Mais je te dis ça dans mon rôle de facilitateur
+
+1063
+00:51:32,600 --> 00:51:34,600
+C'est super cool
+
+1064
+00:51:34,940 --> 00:51:35,700
+J'envoie des billes
+
+1065
+00:51:36,300 --> 00:51:37,240
+Mais il dure 5 minutes
+
+1066
+00:51:37,390 --> 00:51:38,920
+Et si je ne bouge pas à Aigle
+
+1067
+00:51:38,940 --> 00:51:42,080
+pour leur dire « ça, c'est cool, ça ne prend pas ».
+
+1068
+00:51:42,780 --> 00:51:44,920
+J'ai l'impression qu'avec l'informatique, ça pourrait être un peu la même chose.
+
+1069
+00:51:47,740 --> 00:51:51,640
+En fait, je vois ce que tu veux dire.
+
+1070
+00:51:53,300 --> 00:51:58,580
+Ce serait dans le but d'abord que la personne du cercle transversal se rende compte de ce qui se passe,
+
+1071
+00:51:59,160 --> 00:52:02,580
+et pour que les gens voient aussi ce qu'il en est,
+
+1072
+00:52:02,640 --> 00:52:04,680
+et aussi que les gens retrouvent une certaine confiance,
+
+1073
+00:52:05,040 --> 00:52:06,760
+et puis qu'ils retrouvent une certaine…
+
+1074
+00:52:06,780 --> 00:52:10,020
+On travaille aussi avec l'informatique ou par l'informatique, peu importe.
+
+1075
+00:52:10,060 --> 00:52:15,080
+Mais qu'il y ait plus d'échanges entre le support et le...
+
+1076
+00:52:15,440 --> 00:52:16,340
+C'est quoi l'inverse de support?
+
+1077
+00:52:18,780 --> 00:52:20,820
+Les fonctions support et les fonctions directes.
+
+1078
+00:52:25,080 --> 00:52:29,160
+Les rôles de facilitateur que tu as, c'est dans le cercle support ou pas?
+
+1079
+00:52:30,640 --> 00:52:32,980
+Non, ils sont dans le rôle direction en fait.
+
+1080
+00:52:33,940 --> 00:52:35,360
+Mais on a le même problème.
+
+1081
+00:52:35,540 --> 00:52:38,640
+En fait, vu qu'on est transversal, on est plutôt support à mon avis.
+
+1082
+00:52:38,980 --> 00:52:40,260
+Mais le cercle et direction, il est dans support.
+
+1083
+00:52:40,480 --> 00:52:41,280
+Ah, alors il est dans...
+
+1084
+00:52:41,380 --> 00:52:42,660
+C'est une question, c'est une question, je suis pas sûr.
+
+1085
+00:52:43,420 --> 00:52:47,180
+Je pense qu'il est même encore dans autre chose, mais oui, la direction, ça devrait être dans le...
+
+1086
+00:52:47,260 --> 00:52:52,100
+Donc toi, tu verrais une tension entre ces rôles support, qui en fait sont transversales à la fondation,
+
+1087
+00:52:52,660 --> 00:52:56,020
+et les cercles plus en silo, par produit.
+
+1088
+00:52:57,220 --> 00:52:58,960
+Encore une fois, je trouve que c'est une architecture, ouais.
+
+1089
+00:52:59,560 --> 00:53:04,900
+Parce qu'on veut tout faire pour augmenter le travail d'équipe,
+
+1090
+00:53:04,940 --> 00:53:07,000
+Donc on va se diriger vers quelque chose de plus géographique.
+
+1091
+00:53:07,700 --> 00:53:08,980
+Mais du coup, comment on fait avec ces supports?
+
+1092
+00:53:09,420 --> 00:53:16,360
+Et puis du coup, je pense que ça va être intéressant quand même d'avoir une présence limitée.
+
+1093
+00:53:17,020 --> 00:53:20,840
+Enfin, il n'y a pas besoin que ce soit un informaticien à 100% sur site, on est d'accord.
+
+1094
+00:53:22,519 --> 00:53:28,600
+Mais j'ai l'impression, je ne sais pas, un lundi, il y a un informaticien qui bouge sur tous les sites une fois par mois.
+
+1095
+00:53:30,260 --> 00:53:31,440
+Voilà, c'est son lundi.
+
+1096
+00:53:36,560 --> 00:53:37,180
+d'autres choses?
+
+1097
+00:53:39,799 --> 00:53:40,900
+j'aimais bien l'idée
+
+1098
+00:53:41,050 --> 00:53:42,720
+de la centrale téléphonique
+
+1099
+00:53:43,839 --> 00:53:45,580
+je pense que ça peut être plus frustrant
+
+1100
+00:53:45,760 --> 00:53:47,580
+s'il y a une centrale mais qu'il n'y a personne qui répond
+
+1101
+00:53:47,620 --> 00:53:49,460
+ça peut être plus frustrant que s'il n'y a pas de centrale
+
+1102
+00:53:50,000 --> 00:53:51,940
+donc si on met cette centrale
+
+1103
+00:53:51,950 --> 00:53:53,980
+je pense que ça doit être intéressant
+
+1104
+00:53:54,599 --> 00:53:56,160
+je pense qu'elle serait quand même disponible
+
+1105
+00:53:56,170 --> 00:53:56,880
+du lundi au jeudi
+
+1106
+00:53:59,319 --> 00:54:00,300
+sinon les tickets
+
+1107
+00:54:00,320 --> 00:54:03,100
+juste aussi dire, il y a deux jours de traitement.
+
+1108
+00:54:03,280 --> 00:54:04,340
+Il y a deux jours, en tout cas,
+
+1109
+00:54:04,940 --> 00:54:07,200
+pour prendre connaissance du ticket,
+
+1110
+00:54:07,400 --> 00:54:08,760
+et d'en faire quelque chose.
+
+1111
+00:54:11,000 --> 00:54:14,100
+Mais ça, je crois que j'ai l'impression que ça joue.
+
+1112
+00:54:16,260 --> 00:54:17,420
+Est-ce qu'il y a d'autres outils
+
+1113
+00:54:19,900 --> 00:54:21,140
+que tu as l'impression...
+
+1114
+00:54:21,320 --> 00:54:22,980
+Donc là, je dis outils, ça peut être des outils informatiques,
+
+1115
+00:54:23,040 --> 00:54:24,040
+mais ça peut aussi être, je ne sais pas,
+
+1116
+00:54:24,100 --> 00:54:25,540
+un document qui t'explique comment faire un truc,
+
+1117
+00:54:26,120 --> 00:54:27,040
+ou des normes, je ne sais pas,
+
+1118
+00:54:28,580 --> 00:54:29,560
+dont tu ressens tirerais le besoin,
+
+1119
+00:54:29,700 --> 00:54:30,460
+tu te dis ah ouais
+
+1120
+00:54:31,720 --> 00:54:32,960
+je pense que je suis pas le meilleur
+
+1121
+00:54:33,140 --> 00:54:34,900
+mais quand même un FAQ
+
+1122
+00:54:35,280 --> 00:54:37,260
+sur tout ce qui est internet, je sais que ça existe
+
+1123
+00:54:37,440 --> 00:54:38,980
+installe ton imprimante, fais pas chier
+
+1124
+00:54:39,800 --> 00:54:41,340
+mais du coup, si le drive
+
+1125
+00:54:42,020 --> 00:54:43,500
+j'y vais pas parce que je sais pas où trouver l'information
+
+1126
+00:54:43,960 --> 00:54:45,880
+en fait c'est chiant
+
+1127
+00:54:46,100 --> 00:54:47,200
+mais une FAQ
+
+1128
+00:54:47,380 --> 00:54:49,400
+et puis une newsletter pour tout ce qui est
+
+1129
+00:54:50,920 --> 00:54:51,560
+changement interne
+
+1130
+00:54:51,560 --> 00:54:53,320
+ou des trucs comme ça, je pense que c'est vraiment intéressant
+
+1131
+00:54:53,320 --> 00:55:08,400
+On va faire un petit peu
+
+1132
+00:55:25,580 --> 00:55:25,880
+ok
+
+1133
+00:55:36,280 --> 00:55:39,640
+écoute moi je crois que j'ai fait un peu le tour des questions que j'avais
+
+1134
+00:55:40,040 --> 00:55:43,740
+je pense il ya des divers qui te seraient venus d'autres trucs que tu trouvais
+
+1135
+00:55:43,960 --> 00:55:48,880
+intéressant de mentionner par rapport à la thématique du travail aussi non
+
+1136
+00:55:54,540 --> 00:55:57,680
+Je trouve que les trucs les plus intéressants, c'est que je ne suis pas contre le top-down
+
+1137
+00:55:57,840 --> 00:56:01,060
+tant que je suis informé, ou tant que je comprends plus ou moins le sens, on va dire.
+
+1138
+00:56:01,160 --> 00:56:03,160
+Donc effectivement, il y a une partie de justification aussi.
+
+1139
+00:56:04,580 --> 00:56:07,100
+Je pense peut-être même le support, ça doit être un peu plus top-down,
+
+1140
+00:56:07,250 --> 00:56:08,920
+parce qu'on ne peut pas s'adapter forcément à tout le monde.
+
+1141
+00:56:10,700 --> 00:56:14,340
+Et puis, c'était quoi le dernier truc?
+
+1142
+00:56:15,400 --> 00:56:18,160
+Ouais, ce truc développeur ou support, moi j'aime bien qu'il y ait les bases,
+
+1143
+00:56:18,440 --> 00:56:22,600
+et puis après on va de l'avant, mais j'ai vraiment cette idée pour tout job trek.
+
+1144
+00:56:23,400 --> 00:56:27,000
+Des fois j'ai l'impression qu'on fait la fuite en avant,
+
+1145
+00:56:27,540 --> 00:56:29,880
+et puis peut-être que ce serait cool de dire,
+
+1146
+00:56:30,200 --> 00:56:33,000
+et on est dans un bon moment pour faire ça, on améliore ce qu'il y a,
+
+1147
+00:56:33,480 --> 00:56:36,880
+maintenant on se renforce, on devient robuste et puis après on va de l'avant.
+
+1148
+00:57:05,640 --> 00:57:07,040
+...
+
+1149
+00:57:07,040 --> 00:57:07,280
+...
+
