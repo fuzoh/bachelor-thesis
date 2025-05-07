@@ -1,5 +1,5 @@
 #import "@preview/datify:0.1.3": custom-date-format
-#import "lib/template.typ": template
+#import "../../lib/template.typ": template
 
 #show: template.with(
   title: "Résumé de l'entretien",
