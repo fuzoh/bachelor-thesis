@@ -82,9 +82,9 @@
 / Coordinateur: Désigne le rôle qui fait office de représentant d'un cercle. N'a pas de pouvoir hiérarchique sur les autres rôles, est responsable de la bonne marche du cercle.
 / Cercle IT: Désigne l'équipe qui met en œuvre la gestion informatique de la fondation Jobtrek. Comparable à un "département IT" ou "service informatique".
 
-= Description de la problématique à résoudre
+= Description du cas problématique à résoudre
 
-La problématique à étudier dans le cadre du travail est porposée par la Fondation Jobtrek. *En bref*, il s'agit d'étudier et de proposer des solutions qui permettraient de mieux intégrer les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée.
+Le cas à étudier dans le cadre du travail de bachelor est porposée par la Fondation Jobtrek. Il s'agit d'un cas axé gestion d'entreprise et de ses systèmes d'information.
 
 == Présentation de la Fondation Jobtrek
 
@@ -103,7 +103,7 @@ Au cours de ces 10 années d'existence, Jobtrek est passé d'un collaborateur à
 
 Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'une planification particulière ou d'une réflexion sur le long terme. Il a été mis en place de manière pragmatique, en fonction des besoins immédiats et des opportunités qui se sont présentées.
 
-Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son système d'information, mais, en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave aux apports de la gouvernance distribuée.
+Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, mais, en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave aux apports de la gouvernance distribuée.
 
 === Gouvernance distribuée
 
@@ -137,9 +137,13 @@ La Fondation ne dispose pas d'une vue d'ensemble de ses processus, outil et trai
 
 #text(red)[*todo*: ajouter les problèmes rencontrés + optimiser la mise en page]
 
-= Scénario de résolution projeté
+== Question de recherche
+
+Les chapitres précédents montrent qu'il existe des tensions entre la gouvernance mise en place par la fondation et l'intégration du cercle IT et de ses systèmes. Le travail s'intéressera donc au pistes et recommandations qui peuvent êtres mise en oeuvre. Il s'agit d'étudier et de proposer des solutions qui permettraient de mieux intégrer les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée.
 
 *Question de recherche* : Quelles recommandations mettre en place pour concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée ?
+
+= Scénario de résolution projeté
 
 Après une analyse initiale de la situation et besoin, le scénario proposé pour la résolution de la problématique s'articulerait en 3 phases :
 
