@@ -100,4 +100,35 @@ Parmi ces tensions et process, identifier :
 + Propositions de mesures
 + Stratégie de mise en oeuvre du changement
 
+== _8 mai_ - Notes en vrac séance avec Maximiliano Jeanneret
+
+Rajouter une petite ancrage dans la littérature.
+-> ressortir un ou deux artciles qui permettent d'ancrer le travail
+
+Faire des personas (dire que l'on va les faire)
+
+Représenter l'existant
+Urba des SI ? utiliser les 2 couches du haut pour modéliser le business et la vision.
+longépé
+
+Revue de littérature -> avoir un chapitre sur les erreurs déjà comises.
+
+Se projetter sur le résultat et sa forme
+
+Analyse des entretiens -> analyse avec une grille (porpositions / personnes) -> pour voir le "succès" des mesures. Ensuite évaluer les propositions avec une grille multicitère (compatibilité avec la gouvernance) -> les critères peuvent être tirès de la littérature.
+
+Matrice d'analyse des process de hammer "The process audit". Faire une analyse des process.
+Justification de l'utilisation ou non dans la méthodologie (pourquoi architecture du SI, togaf, matrice des process.)
+
+Faire un tableau avec la liste des problèmes et des mesures possibles. puis les faire évaluer.
+
+(Phase d'analyse des mesures)
+Analyse, faire évaluer des propositions sur une *matrice de kano*
+
+Pour les diffentes mesures, on peut refaire une partie de revue.
+
+*Entretiens* -> rajouter l'expérience, le domaine métier, les rôles.
+
+Rajouter au fil de l'eau les éventuels thèmes.
+
 #bibliography("bibliography.bib")
