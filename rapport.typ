@@ -64,12 +64,16 @@
 
 #pagebreak()
 
-#outline(depth: 3, indent: 0em, title: text(
-  font: "Articulat CF",
-  size: 14pt,
-  weight: "semibold",
-  [Table des matières],
-))
+#outline(
+  depth: 3,
+  indent: 0em,
+  title: text(
+    font: "Articulat CF",
+    size: 14pt,
+    weight: "semibold",
+    [Table des matières],
+  ),
+)
 
 #pagebreak()
 
@@ -83,7 +87,21 @@
 
 = Introduction
 
-== Contexte
+== La fondation Jobtrek
+
+== Cadre du travail
+
+= Analyse
+
+== Vision et mission
+
+== Fonctionnement de la gouvernance
+
+=== Objectifs de la gouvernance
+
+=== Éléments constituants
+
+=== Rôles des meetings
 
 #include "parts/revue_de_litterature.typ"
 
@@ -95,6 +113,14 @@
 
 = Proposition de mesures
 
+== Processus de proposition d'améliorations revisité
+
+== Outil de documentation centralisé
+
+= Évaluation des mesures
+
+== Analyse critérielle
+
 = Stratégie de mise en œuvre
 
 = Implémentation de mesures
@@ -103,6 +129,6 @@
 
 == Ouverture
 
-= Bibliographie
+#bibliography("bibliography.bib", style: "apa")
 
 = Annexes
