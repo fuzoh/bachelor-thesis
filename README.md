@@ -11,6 +11,9 @@ Il peuvent être compilés directement avec l'outil en ligne de commandes de typ
 ## Compiler tous les documents d'un coup
 
 ```shell
-fd -d1 .typ -e typ -x typst compile {} {.}.pdf
 # Uses fd to find all top level typst documents, and run the typst compiler
+fd -d1 -e typ -x typst compile {} {.}.pdf
+
+# Compile documents of a specific directory
+fd . assets/entretiens -e typ -x typst compile {} {.}.pdf --root .
 ```
