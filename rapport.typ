@@ -64,16 +64,12 @@
 
 #pagebreak()
 
-#outline(
-  depth: 3,
-  indent: 0em,
-  title: text(
-    font: "Articulat CF",
-    size: 14pt,
-    weight: "semibold",
-    [Table des matières],
-  ),
-)
+#outline(depth: 3, indent: 0em, title: text(
+  font: "Articulat CF",
+  size: 14pt,
+  weight: "semibold",
+  [Table des matières],
+))
 
 #pagebreak()
 

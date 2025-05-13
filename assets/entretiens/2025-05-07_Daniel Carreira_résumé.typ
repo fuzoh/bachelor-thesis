@@ -8,14 +8,7 @@
   author: "Bastien Nicoud",
 )
 
-#align(
-  center,
-  text(
-    size: 18pt,
-    weight: "bold",
-    "Résumé d'entretien",
-  ),
-)
+#align(center, text(size: 18pt, weight: "bold", "Résumé d'entretien"))
 
 = Informations
 

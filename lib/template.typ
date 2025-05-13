@@ -65,11 +65,9 @@
   show figure: set block(breakable: true)
   show table: set text(size: 10pt)
   show table.cell.where(y: 0): strong
-  set table(
-    stroke: (x, y) => {
-      (bottom: 0.7pt + black)
-    },
-  )
+  set table(stroke: (x, y) => {
+    (bottom: 0.7pt + black)
+  })
   set enum(indent: .4em)
   set list(indent: .4em)
 

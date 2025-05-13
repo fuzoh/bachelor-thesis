@@ -12,17 +12,11 @@
 #set page(margin: (left: 10mm, right: 90mm))
 #set par(leading: 1em)
 
-#align(
-  center,
-  [
-    #text(
-      size: 16pt,
-      "Guide d'entretien",
-    )
+#align(center, [
+  #text(size: 16pt, "Guide d'entretien")
 
-    _v3_ - #custom-date-format(datetime.today(), "DD Month YYYY", "fr")
-  ],
-)
+  _v3_ - #custom-date-format(datetime.today(), "DD Month YYYY", "fr")
+])
 
 = Informations
 

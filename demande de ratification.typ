@@ -61,16 +61,12 @@
 
 #pagebreak()
 
-#outline(
-  depth: 3,
-  indent: 0em,
-  title: text(
-    font: "Articulat CF",
-    size: 14pt,
-    weight: "semibold",
-    [Table des matières],
-  ),
-)
+#outline(depth: 3, indent: 0em, title: text(
+  font: "Articulat CF",
+  size: 14pt,
+  weight: "semibold",
+  [Table des matières],
+))
 
 #pagebreak()
 
@@ -175,7 +171,9 @@ Liste des techniques et méthodes qui seront mises en œuvre:
 
 - Revue de littérature
   - Analyse sur les concepts
-  - #text(red)[*todo*: voir quelles méthodes de revues pourraient être utilisées]
+  - #text(
+      red,
+    )[*todo*: voir quelles méthodes de revues pourraient être utilisées]
 - Analyse de la situation
   - Entretiens avec les collaborateurs (guide d'entretien)
   - Sondage sur l'utilisation des outils
@@ -186,11 +184,17 @@ Liste des techniques et méthodes qui seront mises en œuvre:
 == Propositions de recommandations et mesures
 
 - Recommandations générales
-  - #text(red)[*todo*: chercher s'il existe des outils ou manières de structurer des recommandations pour une gouvernance]
+  - #text(
+      red,
+    )[*todo*: chercher s'il existe des outils ou manières de structurer des recommandations pour une gouvernance]
 - Mesures concrètes
-  - #text(red)[*todo*: chercher comment les structurer et les présenter efficacement]
+  - #text(
+      red,
+    )[*todo*: chercher comment les structurer et les présenter efficacement]
 - Stratégie de mise en œuvre
-  - #text(red)[*todo*: voir ce qu'il existe dans le champ du management du changement]
+  - #text(
+      red,
+    )[*todo*: voir ce qu'il existe dans le champ du management du changement]
   - #text(red)[*todo*: diagrammes pour représenter la mise en œuvre ?]
 
 == Implémentation
