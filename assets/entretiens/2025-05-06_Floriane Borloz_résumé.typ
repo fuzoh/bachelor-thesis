@@ -3,7 +3,7 @@
 
 #show: template.with(
   title: "Résumé de l'entretien",
-  description: "Lausanne, le 5 mai 2025 - Floriane Borloz",
+  description: "Lausanne, le 6 mai 2025 - Floriane Borloz",
   last_update: datetime.today(),
   author: "Bastien Nicoud",
 )
@@ -12,11 +12,11 @@
 
 = Informations
 
-- *Personne interviewée* : Daniel Carreira
-- *Rôles* : Facilitateur R-E, Facilitateur insertion pro, Entraineur box éducative
-- *Date de l'entretien* : 7 mai 2025
+- *Personne interviewée* : Floriane Borloz
+- *Rôles* : Responsable RH
+- *Date de l'entretien* : 6 mai 2025
 - *Durée de l'entretien* : 1h10
-- *Lieu de l'entretien* : Yverdon-les-Bains
+- *Lieu de l'entretien* : Lausanne
 - *Intervieweur* : Bastien Nicoud
 
 = Synthèse

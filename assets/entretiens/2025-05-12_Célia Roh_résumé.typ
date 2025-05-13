@@ -3,7 +3,7 @@
 
 #show: template.with(
   title: "Résumé de l'entretien",
-  description: "Lausanne, le 5 mai 2025 - Célia Roh",
+  description: "Lausanne, le 12 mai 2025 - Célia Roh",
   last_update: datetime.today(),
   author: "Bastien Nicoud",
 )
