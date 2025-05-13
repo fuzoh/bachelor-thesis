@@ -1,0 +1,15 @@
+{
+    "ltex.language": "fr",
+    "ltex.enabled": [
+        "bibtex",
+        "context",
+        "context.tex",
+        "html",
+        "latex",
+        "markdown",
+        "org",
+        "restructuredtext",
+        "rsweave",
+        "typst"
+    ]
+}
