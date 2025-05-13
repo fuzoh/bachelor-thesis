@@ -1,0 +1,3544 @@
+1
+00:00:00,020 --> 00:00:02,180
+Enregistré. Parfait.
+
+2
+00:00:03,940 --> 00:00:08,300
+Et ce que je te proposerais, avant qu'on parcourt les éléments du document,
+
+3
+00:00:09,240 --> 00:00:11,380
+est-ce que tu arriverais pour commencer à me décrire
+
+4
+00:00:13,220 --> 00:00:16,020
+qu'est-ce qui avait amené à vouloir créer ce type de gouvernance?
+
+5
+00:00:16,800 --> 00:00:20,060
+Et puis, quelle était l'étincelle, entre guillemets,
+
+6
+00:00:20,460 --> 00:00:22,240
+de la vision de ce type de gouvernance?
+
+7
+00:00:22,820 --> 00:00:25,520
+Pourquoi on s'est orienté dans cette direction plutôt qu'une autre?
+
+8
+00:00:25,580 --> 00:00:28,140
+Je m'en doute bien de certains trucs, mais comme ça, la version...
+
+9
+00:00:28,160 --> 00:00:31,400
+Oui. Bon, alors, il faut...
+
+10
+00:00:34,280 --> 00:00:36,880
+Dans le cadre du développement de JobTrack,
+
+11
+00:00:37,680 --> 00:00:40,580
+c'était une association, et puis on développait,
+
+12
+00:00:40,800 --> 00:00:42,560
+et puis effectivement, dans les discussions,
+
+13
+00:00:43,320 --> 00:00:44,880
+il y a eu une proposition de lecture,
+
+14
+00:00:46,740 --> 00:00:53,260
+et regardez, il y a des nouveaux types de management qui apparaissent,
+
+15
+00:00:53,900 --> 00:00:57,400
+puis du coup, en fin de compte, on s'est plongé un peu là-dedans,
+
+16
+00:00:57,500 --> 00:01:02,800
+Puis en fait, moi, j'ai trouvé que c'était vraiment génial, que ça correspondait bien à ce que moi, j'avais envie de faire.
+
+17
+00:01:03,760 --> 00:01:13,960
+Aussi parce qu'en étant chez Bobst auparavant, pour moi, en fait, j'ai vu les limites aussi de la gouvernance, on va dire, pyramidale,
+
+18
+00:01:14,630 --> 00:01:22,780
+avec des choses complètement absurdes, du genre, tout d'un coup, Jean-Pascal Bobst dit que Bobst a des valeurs
+
+19
+00:01:22,800 --> 00:01:27,180
+et qu'il faut travailler dans un cadre de valeur.
+
+20
+00:01:27,340 --> 00:01:30,100
+Puis en fait, on nous affiche des valeurs, mais en fait, elles ne sont jamais vécues.
+
+21
+00:01:30,440 --> 00:01:35,140
+Et du coup, en fait, c'était plus risible pour la part des employés
+
+22
+00:01:35,520 --> 00:01:38,220
+qu'être un vrai cadre.
+
+23
+00:01:39,260 --> 00:01:40,440
+Puis après, de fil en aiguille,
+
+24
+00:01:41,540 --> 00:01:45,360
+en rencontrant aussi un certain nombre de responsables, de structures,
+
+25
+00:01:46,140 --> 00:01:47,320
+l'idée, c'était...
+
+26
+00:01:47,580 --> 00:01:49,759
+Moi, je voulais quelque chose de plus simple possible
+
+27
+00:01:50,040 --> 00:01:56,880
+et puis qu'il soit agile et qu'il fonctionne rapidement avec des choses sans trop de papier,
+
+28
+00:01:57,200 --> 00:01:57,800
+voire zéro papier.
+
+29
+00:01:57,970 --> 00:01:59,200
+Ça, c'était un début au départ.
+
+30
+00:02:00,080 --> 00:02:06,280
+Puis j'en avais parlé avec M. Rapin du golf de Payern.
+
+31
+00:02:07,000 --> 00:02:08,080
+Je ne sais plus son prénom.
+
+32
+00:02:09,080 --> 00:02:12,380
+Et lui, en fait, il avait mis en place des règles et des règles et des règles,
+
+33
+00:02:12,610 --> 00:02:14,980
+mais au point qu'en fait, ça ne fonctionnait plus.
+
+34
+00:02:15,640 --> 00:02:20,840
+Et un jour, il a dit, on arrête avec toutes ces règles, on va édicter les valeurs du golf.
+
+35
+00:02:21,580 --> 00:02:23,460
+Puis après, les gens, ils doivent se calquer aux valeurs.
+
+36
+00:02:24,140 --> 00:02:27,500
+Puis en fait, en gros, moi, ça m'avait beaucoup parlé.
+
+37
+00:02:27,840 --> 00:02:32,200
+Puis pour lui, en fait, la structure, elle avait beaucoup changé grâce à ça.
+
+38
+00:02:33,240 --> 00:02:39,600
+Puis du coup, du fait des lectures, du fait que je ne voulais plus avoir une structure non plus pyramidale
+
+39
+00:02:39,620 --> 00:02:44,560
+à cause des incohérences du coup et puis du nombre de personnes qui ne font rien,
+
+40
+00:02:45,600 --> 00:02:45,820
+finalement
+
+41
+00:02:46,990 --> 00:02:48,740
+et du manque de liberté aussi
+
+42
+00:02:49,840 --> 00:02:50,360
+tu vois je sais pas
+
+43
+00:02:50,360 --> 00:02:51,080
+parce qu'à un moment donné
+
+44
+00:02:52,460 --> 00:02:53,200
+on devait travailler
+
+45
+00:02:53,640 --> 00:02:56,200
+il y avait toute une équipe qui a travaillé pendant un an et demi
+
+46
+00:02:56,270 --> 00:02:57,960
+à savoir comment on va faire des podiums
+
+47
+00:02:58,760 --> 00:02:59,960
+ils sont arrivés à dire
+
+48
+00:03:00,040 --> 00:03:01,600
+on va refaire les podiums la même chose
+
+49
+00:03:01,830 --> 00:03:02,980
+que ce qu'on a toujours fait
+
+50
+00:03:04,060 --> 00:03:05,620
+et il y en a un de mon équipe
+
+51
+00:03:05,670 --> 00:03:06,880
+qui avait pété un câble
+
+52
+00:03:07,230 --> 00:03:07,720
+qui avait dit
+
+53
+00:03:08,290 --> 00:03:10,400
+non mais moi on t'en masquait
+
+54
+00:03:10,540 --> 00:03:10,960
+donc le soir
+
+55
+00:03:12,120 --> 00:03:13,660
+il a développé une solution
+
+56
+00:03:14,260 --> 00:03:19,880
+qui n'a rien coûté à Bupst et puis en fait on pouvait économiser 3 millions par année grâce à ça.
+
+57
+00:03:20,780 --> 00:03:27,280
+Un million et demi ou que ça. Puis en fait ça a été mis sous le tapis du fait que sinon ça veut
+
+58
+00:03:27,380 --> 00:03:34,020
+dire que les autres chefs c'est des incapables etc. Puis ça c'est exclu. Moi je veux qu'on puisse créer
+
+59
+00:03:34,080 --> 00:03:39,980
+de la valeur, qu'on puisse justement responsabiliser les gens, que si toi tu arrives avec une idée qui
+
+60
+00:03:40,000 --> 00:03:46,100
+change, on prend ton idée et puis pas qu'on suive forcément la voix du chef parce que c'est le chef.
+
+61
+00:03:47,560 --> 00:03:55,820
+Quand le chef sait mieux c'est bien, mais si on suit juste parce que voilà c'est pas top. Donc si
+
+62
+00:03:55,820 --> 00:04:02,040
+on veut bien, le départ c'est un peu ça, c'est lecture du livre de Frédéric Laloux, c'est changer
+
+63
+00:04:02,540 --> 00:04:09,760
+ce que j'ai connu, j'ai pas trouvé top dans la partie pyramidal chez Bobst ou ailleurs.
+
+64
+00:04:11,720 --> 00:04:12,140
+et puis
+
+65
+00:04:13,240 --> 00:04:14,820
+voilà, aussi que ce soit
+
+66
+00:04:15,150 --> 00:04:16,980
+simple, incarné, que ce soit pour de vrai
+
+67
+00:04:17,420 --> 00:04:19,180
+pas qu'on dise qu'on a des valeurs
+
+68
+00:04:19,290 --> 00:04:20,959
+pour faire genre, mais que ce soit pour de vrai
+
+69
+00:04:21,340 --> 00:04:21,440
+etc.
+
+70
+00:04:22,860 --> 00:04:23,620
+C'est un peu ça le départ.
+
+71
+00:04:24,900 --> 00:04:26,520
+Et juste pour clarifier un point
+
+72
+00:04:26,830 --> 00:04:28,000
+tu as mentionné agile
+
+73
+00:04:28,280 --> 00:04:29,860
+et puis je sais que tu en parles souvent
+
+74
+00:04:30,010 --> 00:04:31,460
+et puis dans le document il ressort aussi
+
+75
+00:04:32,200 --> 00:04:33,280
+toi tu arriverais à décrire
+
+76
+00:04:34,570 --> 00:04:35,580
+quelle est la définition
+
+77
+00:04:35,900 --> 00:04:37,340
+job track de l'agilité
+
+78
+00:04:37,640 --> 00:04:38,919
+parce qu'elle n'a pas la même signification
+
+79
+00:04:38,940 --> 00:04:40,540
+entre le développement logiciel?
+
+80
+00:04:42,180 --> 00:04:45,340
+Alors, je pense qu'on peut dire agile
+
+81
+00:04:45,680 --> 00:04:47,760
+ou faire preuve de souplesse,
+
+82
+00:04:47,880 --> 00:04:49,180
+ou en tout cas de flexibilité,
+
+83
+00:04:49,650 --> 00:04:52,960
+c'est-à-dire s'adapter en fin de compte aux circonstances.
+
+84
+00:05:06,680 --> 00:05:13,620
+C'est-à-dire qu'on est dans un monde où il y a des changements permanents et puis c'est réussir à...
+
+85
+00:05:14,419 --> 00:05:15,780
+Réaction intelligente aux changements.
+
+86
+00:05:16,010 --> 00:05:17,280
+Voilà, exactement, c'est ça.
+
+87
+00:05:20,020 --> 00:05:25,460
+Ou qui permettent justement, malgré tous les changements permanents, de passer au travers.
+
+88
+00:05:31,800 --> 00:05:39,740
+Ok. Et donc là, tu fais le constat de certaines limites de ce que tu as vécu dans ton expérience,
+
+89
+00:05:40,140 --> 00:05:41,680
+tu as une idée de ce que tu as envie pour...
+
+90
+00:05:41,940 --> 00:05:46,100
+Donc là, on est à la création de JobTrek, tu ne fais pas encore de JobTrek, c'est dans ta tête.
+
+91
+00:05:47,040 --> 00:05:47,520
+Tu lis...
+
+92
+00:05:47,580 --> 00:05:49,520
+En fait, c'est dans le cadre de l'association.
+
+93
+00:05:49,720 --> 00:05:50,680
+Oui, dans le cadre de l'association.
+
+94
+00:05:50,820 --> 00:05:52,460
+Déjà, on est en train de construire JobTrek.
+
+95
+00:05:53,120 --> 00:05:56,100
+Et puis, on va commencer JobTrek, mais je suis tout seul.
+
+96
+00:05:56,300 --> 00:05:58,240
+Donc, le système de gouvernance, il n'est pas fou.
+
+97
+00:06:00,420 --> 00:06:03,200
+Et donc, toi, tu lis et c'est toi qui pose les bases de ça.
+
+98
+00:06:04,620 --> 00:06:06,980
+Parce qu'à un moment, tu disais que Clément avait apporté des idées.
+
+99
+00:06:07,080 --> 00:06:12,460
+Non, je pose les bases de ça et puis je les soumets au conseil de fondation, petit à petit,
+
+100
+00:06:13,000 --> 00:06:15,640
+qui finalement, à chaque fois qu'on se pose des questions,
+
+101
+00:06:17,300 --> 00:06:23,020
+en fait, je vais puiser au début, quand tu es tout seul, tu es tout seul.
+
+102
+00:06:23,280 --> 00:06:27,000
+Quand tu es deux, après tu te dis, OK, puis comment est-ce qu'on va faire la fête de Noël?
+
+103
+00:06:27,860 --> 00:06:31,720
+Et puis après, comment est-ce qu'on fait les bilans de fin d'année?
+
+104
+00:06:31,980 --> 00:06:34,380
+Est-ce qu'on fait des bilans? On ne fait pas de bilans? On fait des qualifications?
+
+105
+00:06:35,410 --> 00:06:35,940
+Qu'est-ce qu'on fait?
+
+106
+00:06:36,800 --> 00:06:42,040
+Et puis au fur et à mesure, j'ai pris dans cette littérature, dans ces manières de faire,
+
+107
+00:06:42,460 --> 00:06:43,620
+les idées que j'ai trouvées intéressantes.
+
+108
+00:06:43,960 --> 00:06:48,800
+Qui s'appliquaient en chemin faisant, aux nouvelles contraintes, à l'agrandissement, etc.
+
+109
+00:06:49,040 --> 00:06:49,540
+Voilà, exactement.
+
+110
+00:06:52,340 --> 00:06:57,960
+Et puis aussi une volonté de départ, c'était de ne pas sélectionner une gouvernance,
+
+111
+00:06:58,160 --> 00:07:00,660
+comme le lacratie, et puis dire « ce sera comme ça » à point final,
+
+112
+00:07:00,830 --> 00:07:03,380
+mais c'est vraiment plutôt dire « chemin faisant »,
+
+113
+00:07:03,820 --> 00:07:06,980
+on construit quelque chose qui est organique, vivant,
+
+114
+00:07:08,060 --> 00:07:08,380
+et puis voilà.
+
+115
+00:07:08,740 --> 00:07:13,640
+Et puis en vrai, aussi, à chaque fois que j'ai pu discuter avec des gens
+
+116
+00:07:13,650 --> 00:07:14,700
+qui ont créé des structures,
+
+117
+00:07:17,000 --> 00:07:20,160
+Et très rapidement, on explique que,
+
+118
+00:07:22,160 --> 00:07:25,040
+oui, il y a ce mythe ou cette volonté de croire
+
+119
+00:07:25,160 --> 00:07:27,360
+qu'on peut créer une structure qui ira toujours,
+
+120
+00:07:28,020 --> 00:07:30,280
+mais en réalité, la structure, elle s'adapte.
+
+121
+00:07:30,580 --> 00:07:31,680
+Parce que quand tu es tout seul,
+
+122
+00:07:31,710 --> 00:07:33,780
+ça ne sert à rien de te faire des meetings de régulation.
+
+123
+00:07:35,940 --> 00:07:36,320
+Bien sûr.
+
+124
+00:07:38,380 --> 00:07:42,780
+Et puis, il y a cette notion de semi-distribué.
+
+125
+00:07:44,320 --> 00:07:49,920
+Et le document, là, il parle essentiellement plutôt des aspects distribués, holacratiques, etc.
+
+126
+00:07:50,420 --> 00:07:55,160
+Mis à part la mention, à certains moments, justement, de cette notion quand même de rôle hiérarchique
+
+127
+00:07:55,160 --> 00:07:56,580
+qui est gardée par le comité de direction.
+
+128
+00:07:59,380 --> 00:08:03,860
+Est-ce que tu arrives à expliquer pourquoi on s'est retrouvé à cet entre-deux?
+
+129
+00:08:04,560 --> 00:08:06,660
+Et puis, ce que ça apporte pour toi à JobTrek?
+
+130
+00:08:07,600 --> 00:08:09,740
+Bon, on est à cet entre-deux pour plusieurs raisons.
+
+131
+00:08:10,100 --> 00:08:18,220
+La première raison, c'est qu'en Suisse, il y a de toute façon quelqu'un qui est responsable
+
+132
+00:08:18,820 --> 00:08:20,440
+et quelqu'un qui doit être au registre du commerce.
+
+133
+00:08:21,120 --> 00:08:23,980
+On aurait pu imaginer que tous les collaborateurs soient au registre du commerce.
+
+134
+00:08:24,220 --> 00:08:27,480
+Ils portent tous la même part de responsabilité.
+
+135
+00:08:28,300 --> 00:08:32,520
+Mais enfin, c'est compliqué, on va dire.
+
+136
+00:08:33,460 --> 00:08:36,500
+Et puis l'autre chose, c'est effectivement le fait de travailler avec l'État.
+
+137
+00:08:37,039 --> 00:08:41,419
+L'État veut aussi un interlocuteur et veut une structure.
+
+138
+00:08:42,120 --> 00:08:49,480
+En fin de compte, quand même, savoir qui est responsable de quoi, qui s'équivre en prison, si ça se passe mal, ce genre de choses.
+
+139
+00:08:51,280 --> 00:08:59,160
+Et puis du coup, c'est pour ça que faire que du distribué, ça paraît un peu utopique.
+
+140
+00:09:00,300 --> 00:09:06,420
+Par contre, de passer du coup à du complètement pyramidal
+
+141
+00:09:06,820 --> 00:09:09,100
+parce que le distribuer par est utopique,
+
+142
+00:09:09,380 --> 00:09:11,920
+ben non, autant essayer de faire un truc un peu entre deux.
+
+143
+00:09:13,920 --> 00:09:17,140
+Donc c'est une sorte de passerelle
+
+144
+00:09:18,500 --> 00:09:20,540
+entre la manière de fonctionner de l'État,
+
+145
+00:09:21,240 --> 00:09:23,240
+des entreprises en Suisse de manière générale
+
+146
+00:09:23,720 --> 00:09:29,019
+et la vision job trade qui semble ne pouvoir être accomplie
+
+147
+00:09:29,040 --> 00:09:30,940
+que par une vision plus distribuée.
+
+148
+00:09:31,520 --> 00:09:35,220
+Oui, là, cet aspect semi-distribué qui prend la forme,
+
+149
+00:09:35,800 --> 00:09:37,380
+en tout cas de ma compréhension de la gouvernance,
+
+150
+00:09:37,380 --> 00:09:40,960
+qui prend la forme vraiment juste de par le rôle hiérarchique du Codir
+
+151
+00:09:46,279 --> 00:09:50,440
+sur les engagements, les éventuels recadrages,
+
+152
+00:09:50,920 --> 00:09:52,620
+la responsabilité vis-à-vis de l'État.
+
+153
+00:09:54,060 --> 00:09:56,280
+Et qu'est-ce qu'il y aurait d'autre pour lequel...
+
+154
+00:09:56,300 --> 00:09:56,960
+La stratégie.
+
+155
+00:09:57,020 --> 00:09:57,780
+La stratégie.
+
+156
+00:09:58,740 --> 00:10:01,660
+le choix des projets.
+
+157
+00:10:02,960 --> 00:10:04,640
+Quel projet on fait, quel projet on ne fait pas.
+
+158
+00:10:05,680 --> 00:10:06,900
+L'attribution des ressources.
+
+159
+00:10:09,420 --> 00:10:11,140
+Et donc ça, a priori,
+
+160
+00:10:13,080 --> 00:10:14,740
+c'est des éléments de discussion
+
+161
+00:10:14,840 --> 00:10:16,200
+sur lesquels on ne consulte pas
+
+162
+00:10:16,760 --> 00:10:18,660
+la gouvernance au sens large.
+
+163
+00:10:18,940 --> 00:10:21,020
+On se concentre de consulter le codir.
+
+164
+00:10:22,740 --> 00:10:24,860
+Tu dis par exemple stratégie, attribution des ressources,
+
+165
+00:10:24,940 --> 00:10:25,980
+choix des projets et tout.
+
+166
+00:10:27,260 --> 00:10:33,600
+Une fois que le CODIR a décidé, c'est pris à bras-le-corps par les rôles qui vont...
+
+167
+00:10:35,760 --> 00:10:36,540
+Oui et non.
+
+168
+00:10:36,880 --> 00:10:43,500
+Disons qu'il y a quand même une recherche de redonner du pouvoir à agir au cercle, toujours plus.
+
+169
+00:10:44,440 --> 00:10:52,380
+Mais effectivement, à la base, le comité de direction a la responsabilité de la stratégie,
+
+170
+00:10:53,780 --> 00:10:59,740
+de la gouvernance et puis justement, gestion des priorités en fait des projets.
+
+171
+00:11:01,440 --> 00:11:04,500
+Après, c'est une manière, ça ne dit pas comment c'est fait,
+
+172
+00:11:04,600 --> 00:11:12,000
+ça ne veut pas dire qu'il n'y a pas une volonté d'intégrer un maximum ce qui vient des cercles,
+
+173
+00:11:12,440 --> 00:11:17,460
+mais effectivement, la responsabilité, elle incombe au comité de direction.
+
+174
+00:11:20,100 --> 00:11:21,420
+C'est lui qui après...
+
+175
+00:11:22,760 --> 00:11:24,480
+Le comité de direction pourrait très bien dire
+
+176
+00:11:24,780 --> 00:11:27,840
+« Voilà, maintenant, on va établir la stratégie,
+
+177
+00:11:27,880 --> 00:11:30,580
+mais nous, on veut vraiment impliquer tous les cercles. »
+
+178
+00:11:30,580 --> 00:11:32,340
+Donc, pour chaque cercle, c'est important pour nous
+
+179
+00:11:32,380 --> 00:11:35,960
+de bien entendre qu'est-ce que vous sentez, etc.
+
+180
+00:11:36,380 --> 00:11:37,860
+On pourrait faire tout un travail comme ça
+
+181
+00:11:38,380 --> 00:11:39,460
+de récolte des données,
+
+182
+00:11:40,640 --> 00:11:42,520
+jusqu'à ce que ça donne une grande image
+
+183
+00:11:42,960 --> 00:11:44,920
+plutôt que l'inverse,
+
+184
+00:11:45,320 --> 00:11:47,300
+de dire « En fait, on va là-bas,
+
+185
+00:11:47,940 --> 00:11:50,060
+et puis inscrivez-vous dedans. »
+
+186
+00:11:52,460 --> 00:11:53,080
+C'est pas défini.
+
+187
+00:11:54,320 --> 00:11:54,500
+Ok.
+
+188
+00:11:57,600 --> 00:11:57,940
+Et puis,
+
+189
+00:11:58,920 --> 00:11:59,880
+ça me fait penser à un truc,
+
+190
+00:12:00,040 --> 00:12:00,760
+je rebondis.
+
+191
+00:12:01,930 --> 00:12:03,120
+Dans les objectifs stratégiques
+
+192
+00:12:03,240 --> 00:12:05,700
+qu'il y a dans la magnifique liste
+
+193
+00:12:05,760 --> 00:12:06,120
+GPT,
+
+194
+00:12:07,600 --> 00:12:08,840
+il y a libérer les potentiels,
+
+195
+00:12:08,980 --> 00:12:10,340
+c'est quelque chose qui est souvent mentionné
+
+196
+00:12:12,020 --> 00:12:12,720
+de ta part
+
+197
+00:12:13,100 --> 00:12:14,020
+ou d'autres personnes,
+
+198
+00:12:14,690 --> 00:12:16,860
+dans les envies de job track, aussi par rapport aux jeunes
+
+199
+00:12:16,870 --> 00:12:17,280
+qu'on suit.
+
+200
+00:12:18,800 --> 00:12:21,520
+Là, chaque GPT a mis chaque personne
+
+201
+00:12:21,610 --> 00:12:23,400
+agit dans une sphère d'autorité claire.
+
+202
+00:12:24,220 --> 00:12:25,020
+Donc, ce qui définit,
+
+203
+00:12:25,230 --> 00:12:26,460
+juste pour valider ma compréhension,
+
+204
+00:12:26,490 --> 00:12:27,720
+ce qui définit la sphère d'autorité,
+
+205
+00:12:27,920 --> 00:12:31,560
+c'est la définition des rôles
+
+206
+00:12:32,510 --> 00:12:34,000
+et donc des responsabilités dans le rôle.
+
+207
+00:12:37,880 --> 00:12:43,240
+En fait, c'est quelque chose de bancal
+
+208
+00:12:43,250 --> 00:12:44,460
+à JobTrack depuis le début.
+
+209
+00:12:45,070 --> 00:12:45,780
+C'est-à-dire qu'en fait,
+
+210
+00:12:45,780 --> 00:12:48,340
+on a décidé de fonctionner avec des rôles,
+
+211
+00:12:48,480 --> 00:12:50,140
+avec ce système de gouvernance,
+
+212
+00:12:50,740 --> 00:12:51,640
+on a dit clairement,
+
+213
+00:12:52,020 --> 00:12:53,840
+on veut responsabiliser les gens
+
+214
+00:12:54,560 --> 00:12:56,460
+et donc leur donner un maximum de liberté.
+
+215
+00:12:57,100 --> 00:12:57,880
+Seulement après,
+
+216
+00:13:00,760 --> 00:13:02,460
+en fait, on a de la peine à définir
+
+217
+00:13:02,900 --> 00:13:05,180
+le cadre pour chaque personne.
+
+218
+00:13:05,500 --> 00:13:06,660
+Donc les sphères d'autorité,
+
+219
+00:13:07,000 --> 00:13:07,940
+justement, pour chaque personne,
+
+220
+00:13:08,080 --> 00:13:10,140
+ça, on arrive difficilement
+
+221
+00:13:12,540 --> 00:13:13,240
+à le définir.
+
+222
+00:13:13,340 --> 00:13:14,040
+Certaines personnes,
+
+223
+00:13:14,980 --> 00:13:16,000
+c'est très rare,
+
+224
+00:13:16,320 --> 00:13:22,380
+certaines personnes prennent tout ce qui leur est laissé. Donc s'il n'y a pas de cadre, elles vont naviguer partout.
+
+225
+00:13:22,980 --> 00:13:26,320
+Mais en fait, la majorité des personnes, s'il n'y a pas de cadre, elles ne bougent pas.
+
+226
+00:13:27,530 --> 00:13:35,720
+Dans le sens, c'était dans une cour d'école par exemple, c'est juste un champ, les élèves vont rester au centre.
+
+227
+00:13:36,570 --> 00:13:42,099
+Et puis si tu mets des barrières, ils vont directement aller jusqu'aux barrières parce qu'ils savent exactement comment...
+
+228
+00:13:43,080 --> 00:13:47,480
+Donc là, j'avais mis dans mes notes avant comment cette sphère est clarifiée.
+
+229
+00:13:48,030 --> 00:13:52,700
+Donc je mets quand même le doigt sur un truc sur lequel la gouvernance actuellement n'arrive pas
+
+230
+00:13:52,820 --> 00:13:56,160
+forcément totalement à répondre au sens global. Comment on clarifie...
+
+231
+00:13:56,160 --> 00:14:07,100
+On n'arrive pas à répondre. On n'arrive ni financièrement, ni verbalement, on va dire.
+
+232
+00:14:07,600 --> 00:14:09,460
+il y a juste les responsabilités
+
+233
+00:14:09,860 --> 00:14:10,440
+elles captent de valeur
+
+234
+00:14:12,020 --> 00:14:13,760
+les responsabilités elles sont claires
+
+235
+00:14:14,360 --> 00:14:14,700
+par contre
+
+236
+00:14:15,620 --> 00:14:17,180
+un hôtelier par exemple
+
+237
+00:14:17,560 --> 00:14:18,800
+il est responsable
+
+238
+00:14:19,840 --> 00:14:20,980
+du lieu dans lequel
+
+239
+00:14:21,320 --> 00:14:22,220
+il est, super
+
+240
+00:14:24,000 --> 00:14:24,940
+mais il peut faire quoi?
+
+241
+00:14:25,500 --> 00:14:26,520
+est-ce qu'il a le droit de repeindre?
+
+242
+00:14:27,060 --> 00:14:29,280
+est-ce qu'il peut
+
+243
+00:14:30,100 --> 00:14:31,340
+dépenser 100 000 francs
+
+244
+00:14:31,420 --> 00:14:33,300
+pour mettre un four à pizza
+
+245
+00:14:33,460 --> 00:14:34,040
+et je ne sais pas quoi
+
+246
+00:14:36,120 --> 00:14:37,080
+tu vois
+
+247
+00:14:37,100 --> 00:14:37,440
+ce n'est pas clair.
+
+248
+00:14:39,200 --> 00:14:40,380
+Du coup, ce que ça a provoqué,
+
+249
+00:14:41,220 --> 00:14:41,760
+c'est que justement,
+
+250
+00:14:42,420 --> 00:14:43,560
+puisqu'il y a peu de cadres,
+
+251
+00:14:43,740 --> 00:14:44,700
+les gens bougent peu.
+
+252
+00:14:46,020 --> 00:14:46,600
+Donc, en fait,
+
+253
+00:14:47,700 --> 00:14:49,140
+d'un côté, c'est rassurant
+
+254
+00:14:49,740 --> 00:14:50,760
+pour la direction,
+
+255
+00:14:51,020 --> 00:14:51,480
+parce que du coup,
+
+256
+00:14:53,320 --> 00:14:54,700
+il n'y a pas besoin de mettre de cadre,
+
+257
+00:14:54,740 --> 00:14:55,420
+ils ne bougent pas beaucoup.
+
+258
+00:14:55,940 --> 00:14:56,620
+Puis d'un autre côté,
+
+259
+00:14:57,200 --> 00:14:57,620
+ce n'est pas bien,
+
+260
+00:14:57,860 --> 00:14:59,240
+parce qu'on a une volonté
+
+261
+00:14:59,940 --> 00:15:01,220
+d'innovation, de développement,
+
+262
+00:15:01,860 --> 00:15:03,060
+qui ne peut pas être vécue,
+
+263
+00:15:03,120 --> 00:15:04,300
+puisque les gens ne savent pas
+
+264
+00:15:04,340 --> 00:15:04,960
+jusqu'où ils peuvent aller,
+
+265
+00:15:05,520 --> 00:15:06,980
+donc ils ne sont pas bien libérés.
+
+266
+00:15:09,260 --> 00:15:10,560
+et ça c'est un truc qu'on doit travailler
+
+267
+00:15:11,180 --> 00:15:12,500
+Amélia elle est là aussi pour ça
+
+268
+00:15:15,519 --> 00:15:17,260
+et ça recadrer plus
+
+269
+00:15:17,780 --> 00:15:18,440
+on est d'accord que
+
+270
+00:15:19,400 --> 00:15:20,280
+cette sphère d'autorité
+
+271
+00:15:20,760 --> 00:15:22,560
+ça sort un peu du rôle du cadre de valeur
+
+272
+00:15:22,680 --> 00:15:23,680
+qui lui est trop vague
+
+273
+00:15:23,840 --> 00:15:26,220
+on a besoin d'un cadre qui est vraiment lié au rôle
+
+274
+00:15:26,340 --> 00:15:28,000
+ou au cercle a priori
+
+275
+00:15:28,500 --> 00:15:30,620
+pour donner les murs
+
+276
+00:15:30,640 --> 00:15:31,900
+sur lesquels peut vraiment jouer
+
+277
+00:15:32,580 --> 00:15:33,240
+la personne
+
+278
+00:15:33,300 --> 00:15:33,920
+Voilà, exactement.
+
+279
+00:16:03,240 --> 00:16:08,920
+de la valeur et de ne pas avoir des rôles qui font du management dans le vide, du travail dans le vide, etc.
+
+280
+00:16:11,280 --> 00:16:19,320
+Et là, c'est noté aussi, le système encourage à mesurer ce qui compte sans transformer les indicateurs en absolu.
+
+281
+00:16:21,579 --> 00:16:25,000
+Comment on mesure ce qui compte actuellement dans la gouvernance job track?
+
+282
+00:16:25,940 --> 00:16:32,580
+Ça, c'est chaque cercle doit définir justement ce qui est important, ce qui est mesuré comme indicateur.
+
+283
+00:16:33,220 --> 00:16:34,580
+mais les indicateurs ils doivent jamais
+
+284
+00:16:35,250 --> 00:16:36,100
+donc ça c'est une traduction
+
+285
+00:16:37,280 --> 00:16:37,660
+j'ai pété
+
+286
+00:16:39,440 --> 00:16:40,880
+en gros les indicateurs
+
+287
+00:16:41,000 --> 00:16:42,960
+ils doivent jamais devenir un but en soi
+
+288
+00:16:44,000 --> 00:16:44,720
+c'est à dire ok
+
+289
+00:16:45,230 --> 00:16:46,720
+on mesure le taux de présence
+
+290
+00:16:47,660 --> 00:16:48,540
+des apprentis
+
+291
+00:16:51,200 --> 00:16:52,660
+et puis du coup en fait
+
+292
+00:16:53,400 --> 00:16:54,580
+on se bat pour que
+
+293
+00:16:54,780 --> 00:16:56,040
+les apprentis viennent
+
+294
+00:16:56,560 --> 00:16:58,860
+mais en fait c'est pas forcément ça qui compte
+
+295
+00:16:58,980 --> 00:17:00,819
+on a une indication qu'ils ne viennent pas
+
+296
+00:17:01,060 --> 00:17:02,740
+Pourquoi ils ne viennent pas? Qu'est-ce qu'il faut corriger?
+
+297
+00:17:03,180 --> 00:17:04,660
+Évidemment, après, c'est une incidence.
+
+298
+00:17:06,060 --> 00:17:09,760
+C'est comme si tu as de la fièvre, tu ne te mets pas dans un bain enjelé.
+
+299
+00:17:09,939 --> 00:17:13,959
+Peut-être dans certains cas, oui, mais en règle générale, tu cherches pourquoi tu as de la fièvre.
+
+300
+00:17:15,000 --> 00:17:19,900
+Donc le système JobTrack pour mesurer ce qui compte, c'est les OKR en gros?
+
+301
+00:17:20,520 --> 00:17:22,560
+C'est des indicateurs pour l'instant.
+
+302
+00:17:23,650 --> 00:17:30,100
+Alors les OKR, oui et non, parce que les OKR, justement, à la base, on voulait un tableau de bord.
+
+303
+00:17:30,540 --> 00:17:36,200
+et puis en fait on a fait venir une consultante qui est venue avec des OKR justement et puis en
+
+304
+00:17:36,240 --> 00:17:41,540
+fin de compte en nous disant c'est pareil. En fait pas tout à fait pareil parce que nous ce
+
+305
+00:17:41,580 --> 00:17:45,740
+qu'on voulait c'était avoir quelque chose qui mesure justement qu'est-ce qui est important.
+
+306
+00:17:46,560 --> 00:17:51,520
+Tandis que les OKR c'est censé être des objectifs à atteindre. Donc si tu dis que c'est un objectif
+
+307
+00:17:51,540 --> 00:17:58,720
+fait atteindre, c'est pas la même chose que justement des indicateurs.
+
+308
+00:17:59,360 --> 00:18:03,300
+Si je reformule, là on est plutôt dans le choix de sur quoi on doit mettre les efforts
+
+309
+00:18:04,100 --> 00:18:08,140
+plutôt que dans la mesure de performance en guillemets sur des choix qu'on aurait
+
+310
+00:18:08,200 --> 00:18:09,980
+déjà fait. Quand tu dis mesurer ce qui compte.
+
+311
+00:18:10,720 --> 00:18:17,920
+Ouais, c'est plutôt dire ce qui compte c'est que le centre de formation il soit
+
+312
+00:18:18,720 --> 00:18:23,820
+remplis. Ce qui compte, c'est que le nombre d'apprentis qui sont placés en entreprise
+
+313
+00:18:23,950 --> 00:18:32,740
+soit proche de 100%, etc. Mais on pourrait très bien avoir un objectif basé sur des résultats
+
+314
+00:18:32,810 --> 00:18:39,380
+clés justement qui seraient l'objectif cette année, c'est que tous les postes de travail
+
+315
+00:18:39,500 --> 00:18:42,640
+sont tout le temps occupés.
+
+316
+00:18:44,100 --> 00:18:48,240
+Et ça, comment ça remonte au-delà du niveau du cercle?
+
+317
+00:18:48,980 --> 00:18:50,960
+Parce que les cercles déterminent leurs indicateurs,
+
+318
+00:18:52,200 --> 00:18:53,480
+ce qu'ils vont mesurer, par exemple.
+
+319
+00:18:54,340 --> 00:18:56,560
+Et est-ce qu'actuellement, il y a un mécanisme
+
+320
+00:18:56,560 --> 00:19:00,300
+qui permet d'avoir cette vision au niveau global de JobTrek?
+
+321
+00:19:00,700 --> 00:19:01,340
+Oui, c'est le PeerDom.
+
+322
+00:19:02,060 --> 00:19:02,240
+OK.
+
+323
+00:19:02,840 --> 00:19:06,080
+Donc après, on a la vision avec tous les cercles sur PeerDom
+
+324
+00:19:07,060 --> 00:19:12,780
+et on n'a pas d'intervention du comité de direction pour ce type de mesures, par exemple.
+
+325
+00:19:13,360 --> 00:19:16,540
+Le but, c'est que ça s'auto-construise par les différents cercles.
+
+326
+00:19:17,760 --> 00:19:18,840
+Cette mesure de...
+
+327
+00:19:19,040 --> 00:19:19,880
+Oui, dans l'absolu, oui.
+
+328
+00:19:20,260 --> 00:19:25,600
+Après, le comité de direction, s'il n'arrive pas à diriger parce qu'il n'y a pas les mesures nécessaires,
+
+329
+00:19:25,620 --> 00:19:29,700
+il pourrait très bien dire, non, mais là, on veut quand même savoir à quelle vitesse on a,
+
+330
+00:19:29,900 --> 00:19:32,220
+ou je ne sais pas, est-ce qu'on a assez d'essence dans la voiture?
+
+331
+00:19:34,380 --> 00:19:41,320
+Et puis c'est pour ça que c'est un des rôles de Amélia, c'est justement faire en sorte que la structure elle soit bien.
+
+332
+00:19:41,500 --> 00:19:43,140
+Pour l'instant c'est le pire d'homme et les OCR.
+
+333
+00:19:43,860 --> 00:19:45,500
+Franchement on pourrait avoir aussi autre chose.
+
+334
+00:19:47,640 --> 00:19:49,340
+Ça c'est des réflexions qui sont en chemin.
+
+335
+00:19:49,760 --> 00:19:53,660
+C'est des réflexions qui sont en chemin et qui le seront sûrement toujours.
+
+336
+00:19:53,960 --> 00:19:54,400
+Toujours, oui.
+
+337
+00:19:57,840 --> 00:20:01,540
+Et je rebondis pour un truc pour essayer de clarifier cette notion de semi-distribuer.
+
+338
+00:20:02,560 --> 00:20:03,760
+Est-ce qu'il y a des...
+
+339
+00:20:06,640 --> 00:20:09,520
+Comment la limite d'intervention du codire,
+
+340
+00:20:09,570 --> 00:20:11,940
+elle est définie?
+
+341
+00:20:11,950 --> 00:20:12,640
+Là, tu dis tout d'un coup,
+
+342
+00:20:12,640 --> 00:20:13,680
+on pourrait imaginer que le codire dise,
+
+343
+00:20:13,800 --> 00:20:15,360
+en fait, ce n'est pas clair comme indicateur,
+
+344
+00:20:15,400 --> 00:20:16,200
+on veut faire différemment.
+
+345
+00:20:17,820 --> 00:20:19,500
+Qu'est-ce qui définit
+
+346
+00:20:20,600 --> 00:20:22,820
+si on a une intervention de l'autorité
+
+347
+00:20:23,910 --> 00:20:27,080
+qui est mise vraiment dans son coin,
+
+348
+00:20:27,920 --> 00:20:30,840
+qui est clarifiée à travers l'entité du codire?
+
+349
+00:20:31,920 --> 00:20:34,240
+Est-ce que vous avez défini des règles qui disent
+
+350
+00:20:34,300 --> 00:20:35,820
+par rapport à notre gouvernance,
+
+351
+00:20:36,260 --> 00:20:38,200
+voilà ce qui définit où est la limite
+
+352
+00:20:38,510 --> 00:20:39,760
+entre une intervention directe
+
+353
+00:20:39,890 --> 00:20:41,260
+ou on reste en mode distribué,
+
+354
+00:20:41,590 --> 00:20:42,980
+ou est-ce que c'est plutôt quelque chose qui se fait
+
+355
+00:20:44,340 --> 00:20:46,980
+à la discussion, au consensus du codir?
+
+356
+00:20:48,720 --> 00:20:49,680
+Tu vois où je vais en venir?
+
+357
+00:20:49,690 --> 00:20:51,540
+Oui, je vois. Il n'y a pas de règles qui existent
+
+358
+00:20:51,570 --> 00:20:55,320
+qui sont écrites, on va dire.
+
+359
+00:20:55,760 --> 00:20:57,960
+Il y a des règles du moment que c'est hiérarchique,
+
+360
+00:20:58,920 --> 00:21:00,840
+du moment qu'il y a un recadrage nécessaire,
+
+361
+00:21:01,360 --> 00:21:05,500
+il y a une notion d'hierarchie qui rentre en ligne de compte. Il y a forcément le codir,
+
+362
+00:21:05,720 --> 00:21:12,420
+puisque un coordinateur super-cercle est de toute façon au codir. Donc du coup,
+
+363
+00:21:12,980 --> 00:21:19,580
+forcément ça implique le codir à ce niveau-là. Du moment qu'en fait un cercle sort de la volonté
+
+364
+00:21:20,300 --> 00:21:29,660
+du cercle supérieur, ça génère aussi... le codir est utilisé, parce que de nouveau il y a le C,
+
+365
+00:21:29,680 --> 00:21:32,020
+C'est ce qui fait partie du codir.
+
+366
+00:21:41,320 --> 00:21:46,100
+Quelque part, c'est noté que c'est le rôle du directeur qui porte la vision.
+
+367
+00:21:47,570 --> 00:21:49,300
+Ça veut dire que là, on fait une différence.
+
+368
+00:21:49,530 --> 00:21:50,220
+Je ne sais plus où c'est noté.
+
+369
+00:21:51,220 --> 00:21:55,040
+Directeur général porte la vision, soutient les transformations, arbitre les tensions.
+
+370
+00:21:57,280 --> 00:22:02,760
+Est-ce que ça veut dire que je comprends ça comme le directeur, en fait, il est le porte-parole du conseil de fondation, en fait?
+
+371
+00:22:03,180 --> 00:22:07,980
+Parce qu'en réalité, c'est un peu le conseil de fondation qui porte la vision officielle.
+
+372
+00:22:08,420 --> 00:22:11,200
+Oui, après, là, ça, c'est du tchat GPT.
+
+373
+00:22:11,620 --> 00:22:26,200
+Oui, mais c'est actuellement, en fait, la réalité, c'est aussi que le directeur actuel est aussi, en fait, le fondateur, celui qui a la vision.
+
+374
+00:22:26,560 --> 00:22:38,560
+effectivement je porte la vision et je dirige mais si je disparaisais, la vision devrait être
+
+375
+00:22:38,560 --> 00:22:45,600
+effectivement portée par le conseil de fondation qui nomme un directeur qui est effectivement
+
+376
+00:22:45,720 --> 00:22:55,180
+le représentant ou l'exécutif du conseil de fondation. Je me posais cette question pour savoir
+
+377
+00:22:55,200 --> 00:23:02,580
+aussi dans quelle mesure il y avait une notion de distribution au sein du comité de direction sur
+
+378
+00:23:02,700 --> 00:23:08,360
+les choix de vision par exemple ou si ça c'est vraiment quelque chose qui est défini c'est dans
+
+379
+00:23:08,360 --> 00:23:13,460
+les statuts j'imagine et en fait le comité direction il n'a pas son mot à dire au delà des aspects
+
+380
+00:23:13,640 --> 00:23:19,240
+opérationnels j'ai essayé de comprendre si la gouvernance distribuée elle rentre en jeu aussi
+
+381
+00:23:19,260 --> 00:23:24,420
+dans la définition de la vision? Non, la vision elle ne change pas effectivement.
+
+382
+00:23:25,700 --> 00:23:30,940
+Vision, mission en gros? Alors la mission elle pourrait éventuellement évoluer quelque peu,
+
+383
+00:23:31,560 --> 00:23:38,460
+mais a priori elle ne change pas non plus la mission de la fondation, la vision en tout cas pas.
+
+384
+00:23:39,170 --> 00:23:47,060
+Puis effectivement ça, ça fait partie du conseil de fondation qui porte la responsabilité de ça.
+
+385
+00:23:50,920 --> 00:23:51,620
+même des valeurs
+
+386
+00:23:57,120 --> 00:23:59,240
+et donc ça veut dire que si on voulait changer
+
+387
+00:24:01,140 --> 00:24:02,020
+la gouvernance
+
+388
+00:24:02,900 --> 00:24:04,400
+tant qu'elle est encore dans le cadre de valeurs
+
+389
+00:24:04,520 --> 00:24:05,740
+définies par le conseil de fondation
+
+390
+00:24:06,280 --> 00:24:08,440
+a priori ce ne serait pas
+
+391
+00:24:08,540 --> 00:24:10,920
+un choix que le conseil de fondation aurait à prendre
+
+392
+00:24:11,800 --> 00:24:14,340
+j'essaie de déterminer si c'est la gouvernance qui découle
+
+393
+00:24:14,660 --> 00:24:15,900
+qui fait sortir les valeurs
+
+394
+00:24:15,920 --> 00:24:18,360
+ou c'est les valeurs qui définissent les gouvernances qu'on peut choisir?
+
+395
+00:24:20,080 --> 00:24:20,840
+Tu vois où je veux en venir?
+
+396
+00:24:20,840 --> 00:24:21,260
+Oui, je vois.
+
+397
+00:24:21,340 --> 00:24:21,800
+De quelle et où?
+
+398
+00:24:21,960 --> 00:24:23,460
+Alors, je pense qu'il y en a...
+
+399
+00:24:24,220 --> 00:24:27,340
+Alors, clairement, dans l'ordre, c'est les valeurs.
+
+400
+00:24:27,920 --> 00:24:30,160
+Et après, tu as un système de gouvernance qui...
+
+401
+00:24:30,600 --> 00:24:33,060
+Mais qui ont des coûts, peut-être que oui, peut-être que non.
+
+402
+00:24:33,560 --> 00:24:34,380
+Peut-être que ça n'a rien à voir.
+
+403
+00:24:35,560 --> 00:24:37,680
+Mais en tout cas, le système de gouvernance,
+
+404
+00:24:38,580 --> 00:24:42,320
+le comité de direction aurait le loisir de le faire évoluer.
+
+405
+00:24:43,620 --> 00:24:45,220
+Et puis, par contre, les valeurs, non.
+
+406
+00:24:49,620 --> 00:24:52,820
+Mais le système de gouvernance ne nourrit pas forcément le système,
+
+407
+00:24:53,360 --> 00:24:56,440
+n'est pas le fruit forcément du système de valeur.
+
+408
+00:24:56,640 --> 00:24:58,360
+Oui, ça j'ai compris.
+
+409
+00:24:59,020 --> 00:25:00,460
+C'était juste pour essayer de comprendre
+
+410
+00:25:01,900 --> 00:25:04,380
+où se situaient aussi les possibilités de transformation
+
+411
+00:25:05,260 --> 00:25:06,740
+qui viennent de la gouvernance distribuée.
+
+412
+00:25:07,460 --> 00:25:10,080
+Ça fixe aussi cette limite un peu de semi-distribuée justement.
+
+413
+00:25:13,460 --> 00:25:16,140
+Et puis, il y a un point aussi qui m'intéressait d'éclaircir,
+
+414
+00:25:16,820 --> 00:25:19,360
+c'est compatibilité avec la génération Z.
+
+415
+00:25:20,120 --> 00:25:22,220
+Ça, c'est lié vraiment à la mission d'accompagnement des jeunes.
+
+416
+00:25:23,300 --> 00:25:25,080
+Oui, parce qu'il y a un renouvellement aussi.
+
+417
+00:25:26,520 --> 00:25:29,320
+Enfin, clairement, là maintenant, les baby-boomers vont gentiment partir.
+
+418
+00:25:29,820 --> 00:25:31,900
+Ceux qui vont remplacer, c'est la génération Z.
+
+419
+00:25:36,980 --> 00:25:40,520
+C'est noté là, ce que cherche la génération Z est au cœur du système.
+
+420
+00:25:41,960 --> 00:25:51,300
+Et je me posais la question, sur quelle base, en fait, on s'est basé sur quoi?
+
+421
+00:25:51,500 --> 00:25:53,280
+Comment on sait que c'est ce que cherche la Gen Z?
+
+422
+00:25:53,840 --> 00:25:56,000
+Comment on sait que la gouvernance, elle répond à ça?
+
+423
+00:25:56,260 --> 00:26:00,320
+Est-ce que c'est juste quelque chose qui est dit comme ça, parce que ça fait partie de notre mission?
+
+424
+00:26:00,570 --> 00:26:02,580
+Ou si c'est vraiment recherché, en quelque sorte?
+
+425
+00:26:03,500 --> 00:26:05,780
+Non, alors, recherché, oui et non.
+
+426
+00:26:07,040 --> 00:26:17,740
+disons que le système de gouvernance, il doit pouvoir intégrer des collaborateurs, évidemment.
+
+427
+00:26:18,130 --> 00:26:23,260
+Et donc, du coup, il doit pouvoir intégrer les collaborateurs d'aujourd'hui et de demain.
+
+428
+00:26:23,950 --> 00:26:32,820
+Et donc, du coup, en fin de compte, pour la génération Z, alors c'est des stéréotypes.
+
+429
+00:26:34,360 --> 00:26:42,140
+Et puis, du coup, en fin de compte, ce qu'il y a, c'est que le fait d'avoir la possibilité de choisir un peu ses horaires,
+
+430
+00:26:42,610 --> 00:26:51,120
+de donner du sens, de pouvoir avoir de la flexibilité au travail, ce genre de choses-là, ça correspond bien.
+
+431
+00:26:51,440 --> 00:26:55,640
+D'avoir aussi une partie d'autorité, etc.
+
+432
+00:26:56,180 --> 00:27:04,320
+Ce qui correspond moins bien, c'est par exemple, on ne sait pas trop si la Gen Z veut vraiment travailler par exemple.
+
+433
+00:27:05,920 --> 00:27:07,300
+Non mais, comment on pourrait dire?
+
+434
+00:27:08,580 --> 00:27:09,900
+Ce n'est pas tout à fait ça que je veux dire.
+
+435
+00:27:13,120 --> 00:27:16,660
+Est-ce que l'implication sera suffisante dans un système missionnel?
+
+436
+00:27:17,240 --> 00:27:22,420
+Est-ce que l'aspect missionnel est intéressant pour la Gen Z?
+
+437
+00:27:23,080 --> 00:27:23,440
+Ou pas?
+
+438
+00:27:24,060 --> 00:27:38,100
+Ou c'est plutôt la flexibilité, le fait qu'il y a un peu d'autorité paternaliste, entre guillemets, plus latérales comme ça, qui est recherchée.
+
+439
+00:27:38,160 --> 00:27:39,240
+et puis...
+
+440
+00:27:41,160 --> 00:27:41,340
+Oui.
+
+441
+00:27:43,200 --> 00:27:44,020
+Mais c'est pas...
+
+442
+00:27:44,560 --> 00:27:45,500
+Peut-être un point,
+
+443
+00:27:46,430 --> 00:27:48,200
+ça n'a pas été construit dans l'idée...
+
+444
+00:27:48,460 --> 00:27:50,240
+Le système de gouvernance n'a pas été construit
+
+445
+00:27:50,240 --> 00:27:50,660
+dans l'idée
+
+446
+00:27:52,220 --> 00:27:53,500
+de s'adapter, en fait,
+
+447
+00:27:53,550 --> 00:27:54,400
+à la génération Z.
+
+448
+00:27:54,660 --> 00:27:56,300
+C'est plutôt une propriété qui émerge
+
+449
+00:27:57,130 --> 00:27:59,000
+et qui correspond bien à ce qui se passe actuellement.
+
+450
+00:28:01,640 --> 00:28:02,940
+Robustez dans un monde incertain,
+
+451
+00:28:03,030 --> 00:28:04,180
+tu sais ce que c'est l'acronyme, là,
+
+452
+00:28:04,270 --> 00:28:05,800
+qui a généré VUCA?
+
+453
+00:28:06,300 --> 00:28:06,660
+VUCA.
+
+454
+00:28:06,960 --> 00:28:09,400
+Vous, je n'ai pas réussi à savoir de dire comme ça.
+
+455
+00:28:09,660 --> 00:28:12,080
+Oui, c'est en fait toute une théorie sur...
+
+456
+00:28:12,180 --> 00:28:13,320
+Mais non, c'est W, je crois.
+
+457
+00:28:16,080 --> 00:28:16,880
+Je ne sais plus...
+
+458
+00:28:17,560 --> 00:28:18,020
+Je ne sais plus...
+
+459
+00:28:18,780 --> 00:28:20,400
+Je ne sais plus ce que ça veut dire derrière.
+
+460
+00:28:21,480 --> 00:28:23,120
+Mais en fait, c'est vraiment...
+
+461
+00:28:23,120 --> 00:28:28,220
+En fait, c'est un monde qui change constamment au...
+
+462
+00:28:29,500 --> 00:28:30,660
+Mais normalement, on doit trouver...
+
+463
+00:28:30,660 --> 00:28:32,920
+Je rechercherai un indice pour avoir des pistes.
+
+464
+00:28:34,500 --> 00:28:35,220
+Je ne sais plus...
+
+465
+00:28:35,400 --> 00:28:36,920
+Je ne sais plus trop...
+
+466
+00:28:37,940 --> 00:28:42,020
+En fait, ça a mal vieilli, on va dire.
+
+467
+00:28:43,020 --> 00:28:46,720
+Mais en fait, effectivement, il y avait toute une partie,
+
+468
+00:28:50,460 --> 00:28:54,560
+toutes des théories sur le WCAWARD, justement.
+
+469
+00:28:54,700 --> 00:28:55,280
+Qu'est-ce que ça fait?
+
+470
+00:29:01,720 --> 00:29:09,000
+C'est volatility, uncertainty, complexity et ambiguity.
+
+471
+00:29:11,800 --> 00:29:13,100
+Ça décrit le monde moderne, donc.
+
+472
+00:29:13,470 --> 00:29:14,880
+Oui, c'est ça.
+
+473
+00:29:20,260 --> 00:29:23,660
+J'irai chercher et je regarderai si ça peut s'intéresser.
+
+474
+00:29:24,180 --> 00:29:25,840
+En gros, c'est simplement que
+
+475
+00:29:26,920 --> 00:29:27,700
+deux amandes
+
+476
+00:29:28,110 --> 00:29:29,880
+qui sont incertaines
+
+477
+00:29:30,040 --> 00:29:32,060
+et dans lesquelles on avance.
+
+478
+00:29:32,720 --> 00:29:34,280
+Nous, on veut pouvoir être robuste
+
+479
+00:29:34,320 --> 00:29:35,040
+et travailler ça.
+
+480
+00:29:38,520 --> 00:29:40,260
+Ce qui est intéressant, c'est la robustesse
+
+481
+00:29:40,380 --> 00:29:42,660
+et l'agilité, finalement, ça peut se rejoindre.
+
+482
+00:29:43,240 --> 00:29:44,820
+L'agilité, c'est quelque chose
+
+483
+00:29:45,240 --> 00:29:46,720
+qui permet de traverser tout ça,
+
+484
+00:29:47,360 --> 00:29:48,240
+mais on s'adapte.
+
+485
+00:29:48,860 --> 00:29:51,700
+La robustesse, tu arrives à traverser tout ça
+
+486
+00:29:52,080 --> 00:29:53,720
+et puis peut-être tu t'adaptes,
+
+487
+00:29:54,200 --> 00:29:55,440
+peut-être tu as doublé les équipes
+
+488
+00:29:55,580 --> 00:29:56,760
+pour justement,
+
+489
+00:29:58,480 --> 00:29:59,260
+tu as la moitié qui tombe,
+
+490
+00:29:59,380 --> 00:29:59,600
+c'est pas grave.
+
+491
+00:29:59,660 --> 00:30:01,180
+C'est ça, en fait, il faut une équipe
+
+492
+00:30:01,200 --> 00:30:02,620
+qui est suffisamment robuste
+
+493
+00:30:02,640 --> 00:30:03,580
+pour prendre tes coups,
+
+494
+00:30:04,640 --> 00:30:06,220
+mais suffisamment agile
+
+495
+00:30:06,700 --> 00:30:08,180
+pour pouvoir se faufiler
+
+496
+00:30:08,260 --> 00:30:09,020
+dans les bonnes solutions.
+
+497
+00:30:09,740 --> 00:30:10,960
+Et puis, ce qui est problématique,
+
+498
+00:30:11,120 --> 00:30:11,640
+c'est qu'en fait,
+
+499
+00:30:13,480 --> 00:30:15,140
+c'est pour ça que c'est assez intéressant.
+
+500
+00:30:17,920 --> 00:30:19,520
+On est persuadé qu'il faut être robuste,
+
+501
+00:30:20,140 --> 00:30:21,000
+mais en fait, la robustesse,
+
+502
+00:30:21,180 --> 00:30:27,900
+va à l'encontre de l'efficacité. Bien souvent. Et puis du coup, en fait, c'est compliqué
+
+503
+00:30:28,100 --> 00:30:37,540
+parce qu'on essaye avec l'agilité, on essaye quand même d'être efficace. Je te donne un
+
+504
+00:30:37,780 --> 00:30:43,680
+exemple. Ce qui est efficace chez nous, ce serait qu'on ait un coach par site, par exemple. Ça,
+
+505
+00:30:43,700 --> 00:30:49,040
+serait efficace parce que c'est une personne tu perds pas de temps
+
+506
+00:30:50,060 --> 00:30:53,340
+enfin voilà mais en fait c'est pas du tout robuste parce qu'il tombe malade une
+
+507
+00:30:53,460 --> 00:31:00,800
+fois puis en fait tu n'as personne pour le remplacer tu vois le corps humain il
+
+508
+00:31:00,940 --> 00:31:04,300
+fonctionne bien là où il fonctionne le mieux où il est le plus efficace c'est à
+
+509
+00:31:04,520 --> 00:31:10,260
+40 degrés 40 degrés c'est là où en fait il y a tous les anticorps qui s'anime
+
+510
+00:31:10,280 --> 00:31:15,200
+le plus, etc. Mais en fait, ce n'est pas du tout efficace. Enfin, c'est efficace, mais
+
+511
+00:31:15,200 --> 00:31:17,600
+ce n'est pas robuste parce qu'en fait, tu ne vas pas tenir sur la durée si tu restes
+
+512
+00:31:17,660 --> 00:31:20,360
+à 40 toute la vie. Tu vois?
+
+513
+00:31:20,940 --> 00:31:21,480
+Oui, bien sûr.
+
+514
+00:31:24,600 --> 00:31:28,340
+Et du coup, ce qui est intéressant, c'est que finalement, le corps humain, il est assez
+
+515
+00:31:28,580 --> 00:31:33,820
+agile parce qu'il va s'adapter. S'il a besoin, il monte en température. Sinon, en règle
+
+516
+00:31:34,020 --> 00:31:38,480
+générale, il va rester à quelque chose de robuste qui ne va pas le cramer tout le
+
+517
+00:31:43,060 --> 00:31:45,540
+C'est ça qui est intéressant. Je ne sais pas si tu vois.
+
+518
+00:31:45,910 --> 00:31:46,540
+Oui, je vois très bien.
+
+519
+00:31:48,980 --> 00:31:53,200
+Nous, on aurait toujours tendance, moi en particulier, à faire efficace,
+
+520
+00:31:53,380 --> 00:31:57,540
+efficient, efficace, efficient, efficace, efficient. En fait, ce n'est pas robuste.
+
+521
+00:31:57,770 --> 00:32:02,640
+Et puis du coup, en fait, comment tu fais pour être agile et robuste? C'est plus intéressant
+
+522
+00:32:03,080 --> 00:32:06,040
+que efficace, efficient, puis après, tu fermes tout.
+
+523
+00:32:06,060 --> 00:32:09,740
+Et là, si tu devais dire spontanément ce qui, dans la gouvernance,
+
+524
+00:32:09,860 --> 00:32:11,460
+distribuer tel qu'elle est implémentée actuellement,
+
+525
+00:32:12,600 --> 00:32:15,640
+quels éléments des valeurs ou de tous ces points qu'on a abordés
+
+526
+00:32:16,820 --> 00:32:21,680
+qui permettent de trouver l'entre-deux, entre robustesse et agilité.
+
+527
+00:32:22,580 --> 00:32:23,720
+Je ne pense pas qu'il y a un entre-deux.
+
+528
+00:32:23,960 --> 00:32:26,540
+L'agilité et la robustesse, elles peuvent aller de pair.
+
+529
+00:32:26,840 --> 00:32:29,240
+Ce que je voulais dire par là, c'est que c'est la combinaison,
+
+530
+00:32:29,430 --> 00:32:34,220
+si je comprends bien, c'est un peu la combinaison de robustesse et d'agilité
+
+531
+00:32:34,260 --> 00:32:37,400
+qui va permettre de naviguer sur cette limite
+
+532
+00:32:38,440 --> 00:32:41,560
+entre on est trop figé et on est trop...
+
+533
+00:32:42,720 --> 00:32:44,000
+Enfin, on est trop figé, puis on n'évolue pas,
+
+534
+00:32:44,540 --> 00:32:46,220
+ou on est trop volatile, puis en fait,
+
+535
+00:32:46,400 --> 00:32:47,400
+on prend les coups de tout partout,
+
+536
+00:32:47,460 --> 00:32:48,380
+puis on n'arrive pas à être stable.
+
+537
+00:32:49,380 --> 00:32:49,480
+Oui.
+
+538
+00:32:51,560 --> 00:32:53,760
+Et la gouvernance, elle est quand même censée,
+
+539
+00:32:53,760 --> 00:32:57,240
+à priori, permettre de provoquer le bon mix
+
+540
+00:32:57,900 --> 00:32:59,580
+entre robustesse et agilité, en fait,
+
+541
+00:32:59,980 --> 00:33:01,020
+entre ces deux compétences.
+
+542
+00:33:01,220 --> 00:33:03,300
+Oui, justement, en fait, bizarrement,
+
+543
+00:33:03,420 --> 00:33:04,840
+c'est un curseur que tu peux bouger.
+
+544
+00:33:05,360 --> 00:33:07,560
+Ou tu peux dire, là, par exemple,
+
+545
+00:33:07,720 --> 00:33:09,140
+on doit réfléchir pour la suite.
+
+546
+00:33:09,840 --> 00:33:13,660
+Est-ce qu'on met le curseur sur la robustesse à fond?
+
+547
+00:33:15,360 --> 00:33:19,100
+Ou est-ce qu'on met le curseur sur l'efficacité?
+
+548
+00:33:19,640 --> 00:33:21,740
+Donc, tu aurais plutôt tendance à dire que la gouvernance,
+
+549
+00:33:21,770 --> 00:33:25,240
+elle doit nous permettre de se déplacer là-dessus.
+
+550
+00:33:26,240 --> 00:33:27,880
+En tout cas, on n'a pas...
+
+551
+00:33:28,260 --> 00:33:30,560
+Moi, je pense que la gouvernance,
+
+552
+00:33:30,730 --> 00:33:31,960
+elle doit être robuste,
+
+553
+00:33:32,080 --> 00:33:43,000
+notre système de gouvernance ne dit pas si on est robuste ou pas. Tu peux faire un système
+
+554
+00:33:43,480 --> 00:33:50,320
+complètement de gouvernance comme ça, très robuste, comme tu peux en faire un très efficace on va dire,
+
+555
+00:33:50,400 --> 00:33:59,960
+mais alors qu'il ne dure pas dans le temps. Je regarde encore deux ou trois trucs. Pour les
+
+556
+00:33:59,980 --> 00:34:03,840
+composants structurels, donc bon il y a les cercles, les super cercles, toutes ces définitions, ça je
+
+557
+00:34:03,840 --> 00:34:11,020
+crois que c'est clair. Le facilitateur, là c'est noté interbranche, donc j'imagine que c'est lié,
+
+558
+00:34:11,270 --> 00:34:16,679
+c'est ça veut dire plutôt intercompétence ou domaine métier. On est d'accord que le facilitateur
+
+559
+00:34:16,710 --> 00:34:23,679
+c'est une personne qui n'est pas par cercle mais par domaine métier a priori. Par insertion pro,
+
+560
+00:34:25,100 --> 00:34:25,639
+psychosociales et puis
+
+561
+00:34:26,520 --> 00:34:28,139
+formation. Et puis effectivement
+
+562
+00:34:28,399 --> 00:34:30,440
+c'est transversal
+
+563
+00:34:30,440 --> 00:34:31,300
+à toute la fondation.
+
+564
+00:34:32,419 --> 00:34:33,760
+Donc là le but c'est d'apporter
+
+565
+00:34:34,940 --> 00:34:36,200
+aux personnes dans leur rôle
+
+566
+00:34:36,200 --> 00:34:38,260
+à droite à gauche, une vision
+
+567
+00:34:39,420 --> 00:34:39,820
+experte
+
+568
+00:34:40,540 --> 00:34:41,540
+sur un domaine métier.
+
+569
+00:34:42,000 --> 00:34:42,840
+Voilà, par exemple.
+
+570
+00:34:44,360 --> 00:34:45,540
+Et ce qui est très marrant c'est que
+
+571
+00:34:45,700 --> 00:34:47,600
+ChatGPT, là il me l'a sorti à l'envers
+
+572
+00:34:48,179 --> 00:34:49,860
+et puis moi je ne l'avais jamais vu à l'envers.
+
+573
+00:34:50,340 --> 00:34:51,500
+Et il dit mais en fait
+
+574
+00:34:51,840 --> 00:34:53,079
+dans le comité de direction
+
+575
+00:34:53,100 --> 00:34:55,580
+les facilitateurs sont la voix
+
+576
+00:34:55,980 --> 00:34:58,200
+en fait des collaborateurs
+
+577
+00:34:58,520 --> 00:34:59,780
+puis moi j'avais jamais
+
+578
+00:35:00,300 --> 00:35:02,100
+vu ça dans ce sens là et je trouvais que c'était
+
+579
+00:35:02,480 --> 00:35:03,080
+assez pertinent
+
+580
+00:35:03,560 --> 00:35:05,360
+parce que le facilitateur est un membre du Codire?
+
+581
+00:35:05,960 --> 00:35:06,980
+est un membre du Codire, oui
+
+582
+00:35:07,300 --> 00:35:08,020
+dans tous les cas
+
+583
+00:35:09,720 --> 00:35:10,340
+à priori
+
+584
+00:35:10,880 --> 00:35:11,840
+actuellement c'est le cas
+
+585
+00:35:12,480 --> 00:35:13,480
+après ça pourrait changer
+
+586
+00:35:15,160 --> 00:35:16,560
+en fait potentiellement
+
+587
+00:35:16,840 --> 00:35:18,840
+il y a des informations qui remontent au Codire
+
+588
+00:35:18,980 --> 00:35:20,320
+par les coordinateurs
+
+589
+00:35:21,040 --> 00:35:22,359
+de Cercut Supercercle
+
+590
+00:35:23,000 --> 00:35:26,880
+puis il y aurait des informations qui remontent au Codir par les facilitateurs.
+
+591
+00:35:27,980 --> 00:35:31,420
+Du coup, les cercles, ce serait plutôt les informations sur les...
+
+592
+00:35:31,740 --> 00:35:35,620
+En réalité, tu vois, on pourrait très bien imaginer que les CSC,
+
+593
+00:35:35,680 --> 00:35:41,780
+là, en fait, c'est le chemin descendant, puis le facilitateur,
+
+594
+00:35:41,840 --> 00:35:43,140
+ce serait le chemin remontant.
+
+595
+00:35:44,360 --> 00:35:46,560
+Actuellement, ce n'est pas totalement figé.
+
+596
+00:35:46,560 --> 00:35:47,200
+Actuellement, ce n'est pas comme ça.
+
+597
+00:35:47,340 --> 00:35:51,819
+Et justement, c'est un problème parce que les facilitateurs cherchent leur...
+
+598
+00:35:51,840 --> 00:35:58,080
+On a un rôle hiérarchique, on doit recadrer, on doit dire aux gens comment faire leur travail,
+
+599
+00:35:58,450 --> 00:36:00,020
+où est-ce qu'on doit être là en soutien.
+
+600
+00:36:00,130 --> 00:36:06,260
+Puis en fait, l'idée, c'est plutôt qu'ils soient là en soutien, qui facilite le travail de tout le monde.
+
+601
+00:36:06,920 --> 00:36:09,600
+Là, je me pose justement la question, là je saute un peu,
+
+602
+00:36:10,060 --> 00:36:13,920
+mais je me pose la question justement par rapport à l'intégration de l'informatique,
+
+603
+00:36:14,640 --> 00:36:16,580
+puis justement à cette tension qu'il y a un peu entre l'informatique.
+
+604
+00:36:16,630 --> 00:36:19,380
+Puis je me demande aussi, j'en discutais aussi plusieurs fois avec Amélia,
+
+605
+00:36:19,480 --> 00:36:23,520
+à quel point un rôle de facilitateur ne pourrait pas être la clé
+
+606
+00:36:25,060 --> 00:36:28,860
+dans certaines tensions qu'on a entre la liberté des collaborateurs avec les outils
+
+607
+00:36:29,360 --> 00:36:31,120
+et ce qu'on doit imposer, entre guillemets.
+
+608
+00:36:31,680 --> 00:36:34,860
+Je pense typiquement aussi à la loi sur les données qui nous forcent de lister,
+
+609
+00:36:34,960 --> 00:36:38,620
+par exemple, les process, les traitements de données de tout le monde.
+
+610
+00:36:39,320 --> 00:36:41,500
+Est-ce qu'en fait, ce n'est pas quelque chose qui peut se faire par cercle
+
+611
+00:36:41,640 --> 00:36:45,840
+avec un facilitateur qui est l'expert de ces sujets,
+
+612
+00:36:45,980 --> 00:36:48,960
+qui permet de s'assurer que les listings soient bien faits.
+
+613
+00:36:49,720 --> 00:36:53,860
+D'où mes questions sur comment on doit se situer le facilitateur et à quoi il sert.
+
+614
+00:36:54,780 --> 00:36:58,000
+C'est aussi dans mes réflexions sur est-ce que ça fait partie des solutions
+
+615
+00:36:58,260 --> 00:37:03,040
+qui permettraient d'aider l'intégration des outils informatiques dans les cercles
+
+616
+00:37:03,120 --> 00:37:04,320
+et chez les collaborateurs, en fait.
+
+617
+00:37:06,220 --> 00:37:07,240
+C'est une réflexion.
+
+618
+00:37:09,140 --> 00:37:10,960
+Mais là, en fait, si tu veux, par rapport à ça,
+
+619
+00:37:13,100 --> 00:37:14,760
+c'est aussi justement
+
+620
+00:37:15,730 --> 00:37:17,020
+là où on en est aujourd'hui
+
+621
+00:37:17,800 --> 00:37:19,640
+le support est un super cercle
+
+622
+00:37:20,780 --> 00:37:22,280
+et il est transversal à tout
+
+623
+00:37:22,330 --> 00:37:24,400
+mais en fait est-ce que c'est logique
+
+624
+00:37:24,400 --> 00:37:25,180
+que ce soit comme ça
+
+625
+00:37:25,580 --> 00:37:29,220
+est-ce qu'il ne devrait pas exister
+
+626
+00:37:29,360 --> 00:37:31,080
+et puis être réparti dans tous les cercles
+
+627
+00:37:31,300 --> 00:37:32,580
+d'une manière ou d'une autre
+
+628
+00:37:32,610 --> 00:37:33,980
+pour vraiment travailler en équipe
+
+629
+00:37:34,500 --> 00:37:36,040
+par super cercle etc
+
+630
+00:37:37,220 --> 00:37:38,640
+et puis pour l'instant
+
+631
+00:37:38,880 --> 00:37:39,699
+c'est pas le cas
+
+632
+00:37:39,860 --> 00:37:57,880
+Mais du coup, Amélia se retrouve de facto dans un rôle de responsable opérationnel avec un lien descendant et en même temps avec quelque chose de facilitatrice pour l'ensemble de la fondation qui est plutôt un lien remontant.
+
+633
+00:37:58,760 --> 00:38:04,320
+Puis effectivement, structurellement, c'est questionnant comment c'est structuré aujourd'hui.
+
+634
+00:38:05,200 --> 00:38:09,920
+Comme l'informatique est là-dedans, c'est aussi assez questionnant.
+
+635
+00:38:11,820 --> 00:38:14,000
+C'est ce que tu viens de dire, mais dis autrement.
+
+636
+00:38:15,300 --> 00:38:16,260
+Oui, c'est clair.
+
+637
+00:38:23,320 --> 00:38:24,640
+Ça, on a déjà discuté.
+
+638
+00:38:26,660 --> 00:38:28,320
+Ça, c'est bon.
+
+639
+00:38:31,160 --> 00:38:34,720
+Les points de tension rapide, ça, c'est la résolution entre personnes.
+
+640
+00:38:35,280 --> 00:38:36,280
+Je ne sais pas. C'est une invention.
+
+641
+00:38:36,400 --> 00:38:36,660
+C'est une invention.
+
+642
+00:38:37,660 --> 00:38:40,500
+Je ne savais pas si ça faisait référence à quelque chose qui existe vraiment dans...
+
+643
+00:38:40,660 --> 00:38:42,380
+Parce que le meeting de régulation, ça, c'est clair.
+
+644
+00:38:42,550 --> 00:38:43,620
+Les stand-up, c'est clair.
+
+645
+00:38:44,740 --> 00:38:45,460
+Que dire? Bon, voilà.
+
+646
+00:38:45,880 --> 00:38:48,040
+Mais du coup, les points de tension rapide, je me demandais si c'était...
+
+647
+00:38:48,040 --> 00:38:50,120
+Je pense que c'est la résolution de tension entre personnes.
+
+648
+00:38:50,280 --> 00:38:50,920
+Entre personnes, oui.
+
+649
+00:38:51,500 --> 00:38:54,280
+Dès qu'il y a un problème, on résout le problème.
+
+650
+00:38:54,340 --> 00:38:56,000
+C'est ce que j'avais déduit.
+
+651
+00:38:56,880 --> 00:38:57,820
+OK, ça, c'est clair.
+
+652
+00:38:59,420 --> 00:39:01,180
+Ah oui, alors je viens aussi sur une question
+
+653
+00:39:01,400 --> 00:39:03,080
+où je trouvais intéressant d'avoir ton avis.
+
+654
+00:39:03,700 --> 00:39:06,440
+Là, il note aussi, le codire n'est pas un organe de contrôle.
+
+655
+00:39:07,560 --> 00:39:08,920
+Et du coup, la question que je me posais,
+
+656
+00:39:09,020 --> 00:39:12,060
+c'est comment on fait quand on doit contrôler actuellement
+
+657
+00:39:12,540 --> 00:39:14,380
+ou comment on fait si on veut contrôler des choses?
+
+658
+00:39:16,040 --> 00:39:17,920
+Soit par obligation, soit parce qu'on se rend compte
+
+659
+00:39:17,980 --> 00:39:18,860
+que c'est ce qui est le mieux au final
+
+660
+00:39:19,020 --> 00:39:20,760
+pour que les choses se passent bien, j'en sais rien.
+
+661
+00:39:21,020 --> 00:39:22,700
+Après, il faut définir c'est quoi contrôle.
+
+662
+00:39:24,420 --> 00:39:25,500
+Comment toi, tu perçois ça?
+
+663
+00:39:27,839 --> 00:39:29,240
+Pour toi, ça fait référence à quoi?
+
+664
+00:39:29,400 --> 00:39:30,320
+comment tu...
+
+665
+00:39:33,920 --> 00:39:35,600
+En fait, l'idée, c'est d'être
+
+666
+00:39:35,800 --> 00:39:36,600
+basé sur la confiance.
+
+667
+00:39:37,380 --> 00:39:39,320
+Dans ce sens-là, si quelqu'un
+
+668
+00:39:39,390 --> 00:39:41,100
+dit qu'il fait quelque chose, il fait quelque chose
+
+669
+00:39:41,110 --> 00:39:42,960
+et puis en fait, on ne va pas contrôler
+
+670
+00:39:43,240 --> 00:39:44,600
+ou vérifier, etc.
+
+671
+00:39:46,140 --> 00:39:47,120
+Par contre, on doit avoir
+
+672
+00:39:47,290 --> 00:39:48,720
+des indicateurs suffisants
+
+673
+00:39:49,310 --> 00:39:51,460
+qui permettent de voir si ça va ou si ça ne va pas.
+
+674
+00:39:53,860 --> 00:39:55,480
+Et puis du coup, à ce moment-là,
+
+675
+00:39:56,080 --> 00:39:57,820
+s'il n'y a pas assez d'indicateurs,
+
+676
+00:39:58,000 --> 00:39:59,840
+Il faut dire, là, il nous en manque.
+
+677
+00:40:02,100 --> 00:40:03,880
+Et puis, il faudrait que...
+
+678
+00:40:03,880 --> 00:40:07,000
+En fait, ce qu'on avait remarqué en cours de route,
+
+679
+00:40:07,060 --> 00:40:10,420
+c'est que si on reste que sur le résultat, par exemple,
+
+680
+00:40:10,880 --> 00:40:12,540
+en fait, tu le vois juste à la fin de l'année.
+
+681
+00:40:13,640 --> 00:40:15,820
+Puis à ce moment-là, tu te dis, ah, c'est la merde.
+
+682
+00:40:17,280 --> 00:40:18,160
+On aurait dû changer.
+
+683
+00:40:18,940 --> 00:40:20,320
+Du coup, on a dit, on va changer.
+
+684
+00:40:20,500 --> 00:40:22,880
+Puis on va essayer de mettre des indicateurs en cours de route.
+
+685
+00:40:23,000 --> 00:40:25,100
+C'est aussi pour ça que maintenant, on fait les quarter, etc.
+
+686
+00:40:27,440 --> 00:40:37,740
+Et puis, mis à part ça, sinon, l'idée, c'est d'essayer de libérer un maximum les gens et puis effectivement de faire confiance.
+
+687
+00:40:39,120 --> 00:40:42,400
+Donc là, on parle bien des indicateurs qui sont définis par les cercles.
+
+688
+00:40:42,960 --> 00:40:43,060
+Oui.
+
+689
+00:40:43,480 --> 00:40:49,840
+Ceux qu'on disait les mêmes qu'au début, qui seraient en fait le mécanisme d'attention de la gouvernance.
+
+690
+00:40:50,000 --> 00:40:50,820
+Oui, exactement.
+
+691
+00:40:50,920 --> 00:40:58,100
+pour voir le rouge tout d'un coup à l'endroit où il faudrait éventuellement aller contrôler pour potentiellement agir.
+
+692
+00:40:58,100 --> 00:40:59,160
+En tout cas, agir.
+
+693
+00:41:04,299 --> 00:41:15,160
+Je m'arrête là-dessus justement parce que je me questionne justement sur les choses potentiellement sur lesquelles on pourrait être forcé de contrôler.
+
+694
+00:41:15,680 --> 00:41:19,980
+Par exemple, il y a la loi sur les données, mais ça pourrait être autre chose qui n'est pas forcément dans l'informatique.
+
+695
+00:41:20,380 --> 00:41:23,580
+j'en sais rien. Et je me demande du coup...
+
+696
+00:41:25,290 --> 00:41:26,200
+Là, il y a des limites.
+
+697
+00:41:26,450 --> 00:41:31,600
+Dans le sens que ça fait partie du cadre.
+
+698
+00:41:32,500 --> 00:41:35,200
+Et puis, c'est cette partie-là qu'on ne fait peut-être pas bien.
+
+699
+00:41:35,700 --> 00:41:39,340
+C'est justement... On pourrait dire quand ça sort du cadre.
+
+700
+00:41:39,640 --> 00:41:40,880
+Ah, mais comment on ne définit pas le cadre?
+
+701
+00:41:42,560 --> 00:41:45,020
+C'est là où il faudrait avoir des fois peut-être des cadres
+
+702
+00:41:45,520 --> 00:41:47,840
+pour certains domaines, métiers ou des techniques.
+
+703
+00:41:47,980 --> 00:41:50,060
+Il faudrait peut-être un cadre plus serré, entre guillemets.
+
+704
+00:41:50,620 --> 00:41:51,400
+que le cap de valeur.
+
+705
+00:41:52,340 --> 00:41:54,240
+Typiquement, on dirait que les outils numériques,
+
+706
+00:41:54,940 --> 00:41:55,960
+il y a un cadre qui est plus clair
+
+707
+00:41:56,620 --> 00:41:57,300
+lié à ce domaine de métier.
+
+708
+00:41:57,820 --> 00:41:59,140
+Le coaching, il y a un cadre.
+
+709
+00:41:59,210 --> 00:42:00,240
+Vous n'avez pas le droit de faire ça en coaching.
+
+710
+00:42:00,490 --> 00:42:01,260
+Vous n'avez pas le droit de dire ça.
+
+711
+00:42:03,619 --> 00:42:04,440
+Pour chaque rôle,
+
+712
+00:42:04,850 --> 00:42:05,980
+on devrait avoir...
+
+713
+00:42:06,200 --> 00:42:09,720
+Il y a une sphère d'autorité
+
+714
+00:42:10,100 --> 00:42:11,560
+qui définit un cadre
+
+715
+00:42:11,650 --> 00:42:13,580
+dans lequel tu peux faire ce que tu veux dans ce cadre.
+
+716
+00:42:13,960 --> 00:42:15,080
+Mais en fait, il y a quand même un cadre.
+
+717
+00:42:15,580 --> 00:42:16,420
+Et puis, en l'occurrence,
+
+718
+00:42:17,260 --> 00:42:18,600
+il y a la loi sur la protection des données.
+
+719
+00:42:19,460 --> 00:42:23,860
+il y a les finances, il y a ceci, cela.
+
+720
+00:42:23,860 --> 00:42:26,960
+Ça, c'est intéressant, parce que c'est peut-être une composante
+
+721
+00:42:27,690 --> 00:42:29,180
+qui manque actuellement dans notre système
+
+722
+00:42:29,390 --> 00:42:32,940
+et qui en fait permettrait de résoudre, peut-être, j'en sais rien,
+
+723
+00:42:35,339 --> 00:42:37,160
+plusieurs qui pourraient apporter...
+
+724
+00:42:38,100 --> 00:42:39,360
+Parce qu'au début, tu disais justement,
+
+725
+00:42:39,640 --> 00:42:41,140
+quand on parlait de la sphère d'autorité au début,
+
+726
+00:42:41,420 --> 00:42:44,940
+tu disais justement que c'est un point sur lequel on n'est pas clair.
+
+727
+00:42:45,440 --> 00:42:46,080
+Oui, on n'est pas au point là.
+
+728
+00:42:47,500 --> 00:42:49,480
+Et tu disais justement, si les gens n'ont pas un cadre,
+
+729
+00:42:50,160 --> 00:42:51,760
+ils vont rester ensemble au milieu, justement.
+
+730
+00:42:52,020 --> 00:42:53,380
+Tu donnais l'exemple de la cour de recré.
+
+731
+00:42:54,060 --> 00:42:55,380
+Et peut-être qu'en clarifiant,
+
+732
+00:42:56,479 --> 00:42:58,120
+par rôle ou par cercle,
+
+733
+00:42:58,900 --> 00:42:59,980
+par domaine de métier,
+
+734
+00:43:01,540 --> 00:43:02,520
+un cadre plus clair,
+
+735
+00:43:03,310 --> 00:43:04,960
+peut-être qu'on obtiendrait aussi plus de mouvements.
+
+736
+00:43:05,599 --> 00:43:06,500
+Exactement, c'est ça.
+
+737
+00:43:07,460 --> 00:43:09,560
+En tout cas, ce serait potentiellement quelque chose qui est recherché.
+
+738
+00:43:09,820 --> 00:43:09,900
+Oui.
+
+739
+00:43:14,160 --> 00:43:14,500
+Par exemple,
+
+740
+00:43:15,400 --> 00:43:16,899
+normalement, il n'y a jamais personne
+
+741
+00:43:17,380 --> 00:43:19,600
+qui va acheter un logiciel pour acheter un logiciel.
+
+742
+00:43:21,720 --> 00:43:23,300
+Mais, toujours, y a-t-il.
+
+743
+00:43:25,570 --> 00:43:25,860
+Tu vois?
+
+744
+00:43:26,630 --> 00:43:28,880
+Et puis, c'est typiquement, lui...
+
+745
+00:43:29,130 --> 00:43:30,460
+Là, on touche typiquement...
+
+746
+00:43:30,640 --> 00:43:31,480
+Il court partout.
+
+747
+00:43:31,530 --> 00:43:32,680
+Il va découvrir tout.
+
+748
+00:43:32,920 --> 00:43:33,560
+Voilà, exactement.
+
+749
+00:43:35,920 --> 00:43:36,520
+En fait, c'est ça.
+
+750
+00:43:36,550 --> 00:43:37,720
+Avec ce cadre, on aimerait...
+
+751
+00:43:37,820 --> 00:43:39,560
+Mais oui, parce qu'on dit souvent la même chose, tu sais,
+
+752
+00:43:40,420 --> 00:43:41,760
+quand on est à l'école, par exemple,
+
+753
+00:43:41,810 --> 00:43:43,800
+on dit aussi qu'il faut donner un cadre aux élèves.
+
+754
+00:43:44,840 --> 00:43:47,540
+Sinon, on ne va pas favoriser l'apprentissage.
+
+755
+00:43:47,660 --> 00:43:50,060
+Parce qu'il y a justement ceux qui vont être trop fouillis,
+
+756
+00:43:50,100 --> 00:43:52,160
+puis qui vont partir dans tous les sens, qui vont faire des bêtises, etc.
+
+757
+00:43:52,240 --> 00:43:53,840
+Puis au contraire, il y a ceux qui vont être perdus dans ce cadre,
+
+758
+00:43:53,880 --> 00:43:55,460
+puis qui ne vont jamais expérimenter.
+
+759
+00:43:56,420 --> 00:44:01,660
+Et en fait, on voudrait un cadre qui provoque la découverte
+
+760
+00:44:01,880 --> 00:44:04,380
+chez les gens qui auraient tendance à rester en troupeau au milieu,
+
+761
+00:44:04,900 --> 00:44:09,540
+mais qui contient les personnes qui auraient tendance à être peut-être trop exploratrices.
+
+762
+00:44:11,120 --> 00:44:12,680
+Et après, ce n'est pas juste la découverte.
+
+763
+00:44:13,720 --> 00:44:14,900
+Tu peux agir.
+
+764
+00:44:15,150 --> 00:44:17,000
+Oui, l'action dans tout ça.
+
+765
+00:44:20,140 --> 00:44:23,280
+Et donc ça, ça doit passer par potentiellement un cadre clair,
+
+766
+00:44:23,940 --> 00:44:25,420
+donc cette sphère d'autorité claire,
+
+767
+00:44:25,960 --> 00:44:33,900
+mais aussi, j'ai l'impression qu'il y aurait aussi besoin d'indicateurs.
+
+768
+00:44:37,780 --> 00:44:40,559
+Avec cette sphère d'autorité, j'ai l'impression qu'il y aurait besoin aussi d'indicateurs
+
+769
+00:44:40,580 --> 00:44:42,320
+qui permettent aux collaborateurs en autonomie
+
+770
+00:44:42,630 --> 00:44:44,480
+de déterminer s'ils touchent les limites
+
+771
+00:44:45,220 --> 00:44:46,220
+ou pas, en fait.
+
+772
+00:44:46,530 --> 00:44:48,420
+Je pense à la protection de données, par exemple.
+
+773
+00:44:49,180 --> 00:44:50,340
+Ah, vous devez la respecter,
+
+774
+00:44:50,340 --> 00:44:51,660
+mais en fait, comment je fais pour savoir?
+
+775
+00:44:52,419 --> 00:44:53,500
+Ou le coaching.
+
+776
+00:44:55,280 --> 00:44:56,440
+Ah, j'ai dit ça, mais comment je fais
+
+777
+00:44:56,470 --> 00:44:56,840
+pour savoir?
+
+778
+00:45:08,660 --> 00:45:10,100
+Justement, ça, c'est vrai.
+
+779
+00:45:10,380 --> 00:45:14,940
+Comment tu fais pour savoir que tu es sorti du cadre, en fait?
+
+780
+00:45:16,150 --> 00:45:19,760
+Et c'est là où, en fait, la direction, elle devrait quelque part apparaître.
+
+781
+00:45:22,760 --> 00:45:25,280
+Mais je me disais, avant d'avoir cette intervention, je me disais des fois,
+
+782
+00:45:25,610 --> 00:45:26,720
+parce que tu sais, des fois, tu as des choses, c'est clair.
+
+783
+00:45:27,050 --> 00:45:27,820
+Ah, tu n'as pas le droit de faire ça.
+
+784
+00:45:28,300 --> 00:45:30,620
+Genre, tu n'as pas le droit d'acheter une licence pour remplir le formulaire de l'IT.
+
+785
+00:45:31,180 --> 00:45:31,840
+OK, ça, c'est facile.
+
+786
+00:45:32,400 --> 00:45:34,660
+Je crois que personne ici ne comprendrait pas cette règle, tu vois.
+
+787
+00:45:35,300 --> 00:45:37,200
+Au sens, c'est du français, que tout le monde...
+
+788
+00:45:37,360 --> 00:45:37,540
+Oui, oui.
+
+789
+00:45:37,850 --> 00:45:39,139
+Mais des fois, tu as des...
+
+790
+00:45:39,160 --> 00:45:40,920
+Ah, ne pas transmettre de données sensibles.
+
+791
+00:45:43,599 --> 00:45:45,300
+Même la loi, elle n'est pas très claire et tout.
+
+792
+00:45:45,720 --> 00:45:47,420
+Et donc là, comment tu fais pour...
+
+793
+00:45:47,780 --> 00:45:49,680
+Est-ce que tu fournis un outil aux gens
+
+794
+00:45:49,780 --> 00:45:51,400
+qui leur permettent de déterminer tout seul
+
+795
+00:45:52,940 --> 00:45:54,940
+si ça rentre dans le cadre d'une donnée sensible ou pas?
+
+796
+00:45:55,060 --> 00:45:56,560
+Puis comme ça, tu conserves l'autonomie.
+
+797
+00:45:56,960 --> 00:45:58,260
+Il n'y a pas quelqu'un qui vient dire...
+
+798
+00:45:59,239 --> 00:46:01,360
+Ou est-ce que tu attends que ça se produise
+
+799
+00:46:01,420 --> 00:46:02,840
+puis que le comité de direction intervient?
+
+800
+00:46:03,559 --> 00:46:05,080
+Le comité de direction, il sait comment.
+
+801
+00:46:05,460 --> 00:46:06,280
+Oui, c'est ça, justement.
+
+802
+00:46:06,620 --> 00:46:13,940
+Dans ces cas-là, voilà. Mais c'est plutôt dans le cas où une personne franchit le cadre de libéral.
+
+803
+00:46:13,960 --> 00:46:19,420
+Là, c'est plutôt leur cadrage. Mais donc, j'ai l'impression, si je suis un peu ce qu'on discute,
+
+804
+00:46:19,810 --> 00:46:25,560
+j'ai l'impression que ce cadre d'autorité, cette sphère d'autorité qui serait potentiellement par rôle
+
+805
+00:46:25,650 --> 00:46:33,160
+ou par domaine métier, elle devrait s'accompagner aussi des outils qui permettent aux gens en autonomie
+
+806
+00:46:33,200 --> 00:46:33,800
+de savoir
+
+807
+00:46:35,760 --> 00:46:36,660
+où ils en sont dans le cadre.
+
+808
+00:46:37,520 --> 00:46:37,620
+Ouais.
+
+809
+00:46:39,200 --> 00:46:41,260
+Pour une partie, tu peux compter sur les compétences
+
+810
+00:46:41,600 --> 00:46:43,160
+professionnelles de la personne, parce qu'il est peut-être
+
+811
+00:46:43,320 --> 00:46:44,960
+formé dans ce domaine, mais il y a peut-être
+
+812
+00:46:45,080 --> 00:46:46,340
+des domaines plus spécifiques
+
+813
+00:46:47,819 --> 00:46:48,460
+qui nécessitent...
+
+814
+00:46:49,860 --> 00:46:50,760
+Pour les enfants, justement,
+
+815
+00:46:51,000 --> 00:46:53,280
+tu mets un cadre, puis toi, ils en freinent le cadre.
+
+816
+00:46:53,780 --> 00:46:54,940
+Et puis, c'est comme ça.
+
+817
+00:46:55,180 --> 00:46:57,120
+Pour une vache, tu peux lui dire que ça, c'est le champ,
+
+818
+00:46:57,160 --> 00:46:57,820
+puis c'est sa limite.
+
+819
+00:47:00,180 --> 00:47:01,040
+S'il n'y a pas de fil,
+
+820
+00:47:01,080 --> 00:47:01,560
+ça ne va pas.
+
+821
+00:47:03,499 --> 00:47:10,500
+Je réfléchis à tout ça parce que je pense qu'une des choses qui pourra beaucoup aider pour l'informatique, mais qui s'appliquerait peut-être à d'autres choses,
+
+822
+00:47:10,860 --> 00:47:17,620
+je pense notamment aux coachs qui m'ont parlé aussi dans les entretiens des problèmes de confidentialité, mais même juste sans même parler de l'informatique,
+
+823
+00:47:18,220 --> 00:47:22,180
+de la manière dont on a les entretiens, de ce qui est dit par les coachs ou pas, de ce qu'on peut faire.
+
+824
+00:47:23,760 --> 00:47:28,580
+Et par exemple, quand je posais des questions, j'ai demandé aux gens, qu'est-ce que c'est la sécurité des données pour vous?
+
+825
+00:47:29,200 --> 00:47:32,060
+Comment vous déterminer si oui ou non vous pouvez transmettre une information ou pas?
+
+826
+00:47:32,740 --> 00:47:35,120
+Et en fait, j'ai l'impression que ce n'est pas forcément clair pour tout le monde.
+
+827
+00:47:35,240 --> 00:47:38,380
+Et tout le monde y bat sa propre technique de détermination.
+
+828
+00:47:39,980 --> 00:47:43,500
+Mais c'est là où je pense que dire « vous n'avez pas le droit de faire ci, ça, ça »,
+
+829
+00:47:43,840 --> 00:47:44,300
+très bien.
+
+830
+00:47:45,030 --> 00:47:47,800
+Et d'ailleurs, les gens que j'ai interviewés sont tous assez prêts,
+
+831
+00:47:47,810 --> 00:47:50,820
+j'ai l'impression, à avoir des contraintes supplémentaires potentielles là-dessus.
+
+832
+00:47:52,940 --> 00:47:57,220
+Mais il faut accompagner ça de comment je fais pour décider, tu vois.
+
+833
+00:47:57,380 --> 00:47:57,480
+Oui.
+
+834
+00:48:14,620 --> 00:48:15,180
+Je regarde encore.
+
+835
+00:48:16,780 --> 00:48:17,960
+Ça, on a répondu aussi.
+
+836
+00:48:25,460 --> 00:48:27,300
+Et du coup, là, je vais me poser une question aussi.
+
+837
+00:48:27,420 --> 00:48:31,040
+donc Job Trek donne le livre de Frédéric Laloux
+
+838
+00:48:32,400 --> 00:48:34,480
+sur les styles de gouvernance.
+
+839
+00:48:35,640 --> 00:48:37,040
+C'est un peu, on va dire, la documentation
+
+840
+00:48:37,210 --> 00:48:38,400
+qu'on donne aux collaborateurs
+
+841
+00:48:39,100 --> 00:48:40,780
+sur comment on veut fonctionner en termes de gouvernance.
+
+842
+00:48:40,790 --> 00:48:42,120
+Mais en réalité, on n'est pas tout à fait
+
+843
+00:48:42,170 --> 00:48:43,360
+dans ce style-là de gouvernance.
+
+844
+00:48:43,780 --> 00:48:45,840
+Si, parce que Frédéric Laloux,
+
+845
+00:48:46,630 --> 00:48:48,400
+il montre une direction
+
+846
+00:48:48,700 --> 00:48:50,880
+avec plein d'entreprises différentes.
+
+847
+00:48:52,040 --> 00:48:52,740
+Mais effectivement, non,
+
+848
+00:48:52,810 --> 00:48:54,420
+on n'est pas dans des entreprises opales
+
+849
+00:48:54,490 --> 00:48:57,360
+vu qu'en fait, on n'y arrive pas...
+
+850
+00:48:58,700 --> 00:49:17,080
+Alors je reformule, ce que je voulais dire, c'est plutôt, est-ce qu'en fait, on manque pas aussi d'une introduction plus claire à où sont les nuances avec ce truc totalement distribué, qui pourrait aussi aider les gens à mieux naviguer dans leur rôle, etc.
+
+851
+00:49:17,540 --> 00:49:21,520
+Oui, clairement. Alors ça, c'est une volonté depuis longtemps de faire une BD à nous.
+
+852
+00:49:22,360 --> 00:49:28,200
+Ou de faire un document en tout cas, un job très crassi, mais si possible, un peu fun.
+
+853
+00:49:30,270 --> 00:49:33,180
+Fun et en même temps dessiner juste pour bien comprendre en fait.
+
+854
+00:49:33,710 --> 00:49:47,400
+Parce que justement, il y a des choses, c'est conceptuel et puis c'est intéressant quand même
+
+855
+00:49:47,420 --> 00:49:51,800
+lacratie, justement. C'est intéressant, mais on ne fait pas de lacratie, donc c'est aussi
+
+856
+00:49:52,800 --> 00:50:01,240
+les limites. Ok. Très bien. Bon, c'est bien. Je vois qu'on a répondu à mes trois dernières
+
+857
+00:50:01,340 --> 00:50:04,980
+questions dans la discussion, donc ça veut dire qu'elles n'étaient pas totalement débiles.
+
+858
+00:50:06,760 --> 00:50:12,440
+Tu aurais des choses que tu voudrais ajouter? Ou tu dis qu'il faudrait qu'ils sachent ça?
+
+859
+00:50:12,440 --> 00:50:13,460
+ou... Ok.
+
+860
+00:50:14,720 --> 00:50:14,940
+Trop bien.
+
+861
+00:50:15,220 --> 00:50:16,940
+Toi, tu as l'impression que c'est complet
+
+862
+00:50:17,040 --> 00:50:18,960
+et que c'était pas mal,
+
+863
+00:50:19,120 --> 00:50:20,100
+franchement, ce qu'il a fourni comme ça.
+
+864
+00:50:20,100 --> 00:50:21,340
+Oui, alors bon, il y a des trucs...
+
+865
+00:50:21,720 --> 00:50:23,040
+La philosophie chrétienne du leadership,
+
+866
+00:50:23,280 --> 00:50:25,080
+j'ai bien compris pourquoi il disait ça.
+
+867
+00:50:25,540 --> 00:50:27,340
+Je ne sais pas exactement si je pourrais le formuler
+
+868
+00:50:27,420 --> 00:50:28,900
+comme ça. Il faut que je trouve une manière...
+
+869
+00:50:29,180 --> 00:50:30,920
+Non, je sais bien, mais c'est intéressant.
+
+870
+00:50:31,160 --> 00:50:32,340
+Je suis assez d'accord. Là, il dit
+
+871
+00:50:33,160 --> 00:50:35,540
+au moment, il dit, service du prochain.
+
+872
+00:50:36,180 --> 00:50:37,260
+C'est clair que ça fait peut-être
+
+873
+00:50:37,380 --> 00:50:38,840
+old school, formulé comme ça, mais en réalité,
+
+874
+00:50:38,920 --> 00:50:40,620
+c'est quand même ce qu'on fait.
+
+875
+00:50:40,960 --> 00:50:42,300
+C'est quand même la mission de JobTrek.
+
+876
+00:50:45,460 --> 00:50:47,320
+Moi j'ai trouvé assez cool qu'il me fasse ce résumé.
+
+877
+00:50:49,800 --> 00:50:51,080
+Ce qui m'embête c'est que c'est trop long.
+
+878
+00:50:52,450 --> 00:50:55,900
+Je ne sais pas comment on va écrire ça en deux pages.
+
+879
+00:50:56,190 --> 00:50:56,480
+Je vais trouver.
+
+880
+00:50:58,130 --> 00:50:59,380
+Non mais en relevé il y a des choses qui se répètent.
+
+881
+00:50:59,720 --> 00:51:01,180
+Oui il y a beaucoup de choses qui se répètent.
+
+882
+00:51:02,010 --> 00:51:02,260
+Trop bien.
+
+883
+00:51:04,390 --> 00:51:04,480
+Ok.
+
+884
+00:51:08,080 --> 00:51:11,600
+Ok moi ça me va pour cette partie de façon je t'écris ou je te dis si il y a des points
+
+885
+00:51:11,620 --> 00:51:12,520
+qui ne vont pas.
+
+886
+00:51:12,920 --> 00:51:14,380
+Si tu fais un truc...
+
