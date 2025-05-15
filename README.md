@@ -4,9 +4,9 @@
 > Bastien Nicoud
 > 2025
 
-Ce dépot contient les sources au format [typst](https://typst.app/docs/) des différents documents de ma thèse de Bachelor.
+Ce dépôt contient les sources au format [typst](https://typst.app/docs/) des différents documents de ma thèse de Bachelor.
 
-Il peuvent être compilés directement avec l'outil en ligne de commandes de typst, ou dans VScode via l'extension [TinyMist](https://github.com/Myriad-Dreamin/tinymist).
+Ils peuvent être compilés directement avec l'outil en ligne de commandes de typst, ou dans VS Code via l'extension [TinyMist](https://github.com/Myriad-Dreamin/tinymist).
 
 ## Compiler tous les documents d'un coup
 
@@ -15,5 +15,9 @@ Il peuvent être compilés directement avec l'outil en ligne de commandes de typ
 fd -d1 -e typ -x typst compile {} {.}.pdf
 
 # Compile documents of a specific directory
-fd . assets/entretiens -e typ -x typst compile {} {.}.pdf --root .
+fd . assets/entretiens -d1 -e typ -x typst compile {} {.}.pdf --root .
+# . <folder name> -> serach all (`.` wildcard) in indicated path
+# -d1 -> 1 level deep in file structure
+# -e typ -> Only typst files
+# -x ... -> Execute a command in parallel (here the typst compiler)
 ```
