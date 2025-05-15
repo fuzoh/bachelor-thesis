@@ -91,6 +91,8 @@
 
 == Cadre du travail
 
+== Plan d'actions
+
 = Analyse
 
 == Vision et mission
@@ -111,13 +113,30 @@
 
 == Entretiens
 
+#include "parts/synthèse_entretiens.typ"
+
 = Proposition de mesures
 
 == Processus de proposition d'améliorations revisité
 
-== Outil de documentation centralisé
+Pour pouvoir proposer des changements via les canneaux habituels de la gouvernance. Même quant ils concernent des cercles support (donc transverses).
+
+== Outil de documentation centralisé (wiki + learning platform ?)
+
+== Sphère d'autorité
+
+Une charte numérique
+
+== Meilleure disponibilité du support, clarification des rôles
+
+== Proposer un outil pour évaluer en autonomie les actions a prendre
+
+Lié au type de données sensibles et a ce que l'on peut faire avec
+Mais pourrait aller au-delà de la loi sur les données. Par ex, un outil qui permet aux collaborateurs d'estimer quand supprimer quelles données. Ou comment procéder pour la suppression de tel ou tel donnée.
 
 = Évaluation des mesures
+
+Lors de la réunion des coordinateurs de cercles, propose un atelier d'évaluation des mesures
 
 == Analyse critérielle
 
