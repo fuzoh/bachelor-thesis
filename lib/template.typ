@@ -48,7 +48,7 @@
       }
     },
   )
-  show heading: set text(font: "Inter 18pt", weight: "semibold")
+  show heading: set text(font: "Articulat CF", weight: "semibold")
 
   // Heading setup
   set heading(numbering: "1.1")
@@ -72,6 +72,14 @@
   )
   set enum(indent: .4em)
   set list(indent: .4em)
+
+  show raw.where(block: false): it => box(
+    fill: rgb("#efefef"),
+    inset: (x: 0.2em),
+    outset: (y: 0.3em),
+    radius: 1mm,
+    text(font: "Iosevka", size: 10pt, it),
+  )
 
   // The document of the template user
   doc

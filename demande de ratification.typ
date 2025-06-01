@@ -77,14 +77,14 @@
 = Vocabulaire
 
 / Système d'information (SI): Désigne l'ensemble des systèmes et outils informatiques qui sont mis en œuvre pour répondre aux besoins de la fondation Jobtrek.
-/ Rôle: Désigne une fonction et ses responsabilités au sein de la gouvernance Jobtrek. Un ou plusieurs rôles peuvent être attribués à un ou plusieurs collaborateur.
+/ Rôle: Désigne une fonction et ses responsabilités au sein de la gouvernance Jobtrek. Un ou plusieurs rôles peuvent être attribués à un ou plusieurs collaborateurs.
 / Cercle: Regroupe différents rôles. Un cercle est comparable à un "département" ou "service".
 / Coordinateur: Désigne le rôle qui fait office de représentant d'un cercle. N'a pas de pouvoir hiérarchique sur les autres rôles, est responsable de la bonne marche du cercle.
 / Cercle IT: Désigne l'équipe qui met en œuvre la gestion informatique de la fondation Jobtrek. Comparable à un "département IT" ou "service informatique".
 
-= Description du cas problématique à résoudre
+= Introduction et description du cas
 
-Le cas à étudier dans le cadre du travail de bachelor est porposée par la Fondation Jobtrek. Il s'agit d'un cas axé gestion d'entreprise et de ses systèmes d'information.
+Le cas à étudier dans le cadre du travail de bachelor est proposé par la Fondation Jobtrek. Il s'agit d'un cas axé gestion d'entreprise et de ses systèmes d'information. La fondation Jobtrek cherche à mieux intégrer son cercle informatique, notamment en lui permettant de mieux travailler avec la gouvernance semi-distribuée en place.
 
 == Présentation de la Fondation Jobtrek
 
@@ -92,7 +92,7 @@ La Fondation Jobtrek est active depuis près de 10 ans dans l'insertion professi
 Les axes principaux de Jobtrek s'articulent autour de :
 - Insertion professionnelle (MISt): Aide les jeunes à trouver leur premier apprentissage ou emploi.
 - Centre de formation (JobtrekSchool): Accueille des apprentis en employé de commerce, informatique et autres métiers adaptés aux besoins du marché.
-- Programmes de réinsertion (Ecotrek): Soutient les adultes à retrouver un emploi en utilisant la durabilité comme levier motivationnel.
+- Programmes de réinsertion (Ecotrek): Soutient les adultes pour retrouver un emploi en utilisant la durabilité comme levier motivationnel.
 - Placement en stage (Relai Entreprises): Facilite la mise en relation et le placement en stages des élèves en fin de scolarité obligatoire.
 Jobtrek se distingue par son modèle de gouvernance innovant, inspiré de l'holacratie @reinventing-organisations-frederic-laloux et adapté en interne sous le nom de Jobtrekracy. Ce modèle favorise la responsabilisation, l'autonomie des collaborateurs et l'adaptabilité face aux évolutions rapides du secteur.
 Actuellement, Jobtrek emploie 30 collaborateurs et s'appuie sur divers outils numériques pour la gestion et le suivi de ses activités.
@@ -105,23 +105,66 @@ Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'un
 
 Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, mais, en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave aux apports de la gouvernance distribuée.
 
-=== Gouvernance distribuée
+=== Création de la gouvernance Jobtrek
 
-Comme évoqué précédemment, Jobtrek met en œuvre un système de gouvernance inspiré de l'holacratie. En particulier des travaux de #cite(form: "prose", <reinventing-organisations-frederic-laloux>).
+Comme évoqué précédemment, Jobtrek met en œuvre un système de gouvernance semi-distribuée inspiré de l'holacratie. En particulier des travaux de #cite(form: "prose", <reinventing-organisations-frederic-laloux>) et de #cite(form: "prose", <holacracy-brian-robertson>).
 
-Nommée "Jobtrekracy", il ne s'agit pas d'une application stricte de l'holacratie, mais d'une adaptation de ce modèle aux besoins et objectifs de la Fondation.
+Nommée "Jobtrekracy", il ne s'agit pas d'une application stricte de l'holacratie, mais d'une adaptation de ce modèle aux besoins et objectifs de la Fondation. Cette gouvernance a été mise en œuvre peu de temps après l'engagement des premiers collaborateurs Jobtrek et a subi diverses améliorations au fil des années. Lors de la création initiale de la gouvernance, les directions suivantes étaient souhaitées par la direction :
 
-#text(red)[*todo*: reprendre doc sur la gouvernance + discussion avec Daniel]
+- Proposer une gouvernance alternative aux structures pyramidales qui limitent les collaborateurs et créer du bruit administratif.
+- Disposer d'une gouvernance simple.
+- Permettre de réagir de manière agile et intelligente aux changements.
+- Responsabiliser les collaborateurs, donner des libertés dans l'accomplissement des tâches.
+- Favoriser l'apparition d'idées et de solutions par le bas, libérer les potentiels.
+- Basé sur la confiance.
+- Faciliter l'intégration des nouvelles générations.
 
-#text(red)[*todo*: ajouter une image des cercles et rôles actuels]
+Suite à des discussions et rencontres, l'approche de l'holacratie semblait remplir ces conditions et nécessiter peu d'adaptations pour correspondre aux besoins d'une Fondation suisse. C'est alors que les briques essentielles de la gouvernance ont été créées :
 
-== Problèmes rencontrés
+- Un comité de direction, seule entité avec un pouvoir hiérarchique. Garant de la stratégie et de la gouvernance.
+- Des cercles imbriqués constitués de rôles.
+  - Les rôles définissent les responsabilités des collaborateurs.
+  - Les cercles regroupent les rôles par produits ou domaines métiers selon les besoins.
+- Les collaborateurs sont libres d'agir dans leur sphère d'autorité.
+- Des mécanismes pour permettre aux rôles de résoudre leurs tensions, mais aussi de remonter des pistes d'améliorations sont prévus.
+
+À noter que la sphère d'autorité n'a à ce jour jamais encore été implémentée de manière satisfaisante. L'implémentation actuelle de la gouvernance est donc toujours en travail et n'est pas intégralement finalisée. Retrouvez d'avantage de détails dans @annexe-entretien-gouvernance[l'annexe].
+
+=== Objectifs stratégiques de la gouvernance Jobtrek
+
+Aujourd'hui, en 2025, les objectifs stratégiques de la gouvernance ont été formalisés comme suit :
+
+- *Alignement avec la mission* \ Les Rôles, projets et cercles sont justifiés par leur contribution à la mission. La mission est incarnée par les rôles, portée collectivement.
+- *Libérer le potentiel* \ Chaque personne agit dans un cadre de valeurs et une sphère d'autorité claire. Les talents sont encouragés et mobilisés. Les rôles sont attribués selon les forces et évoluent. Les rôles sont libres de choisir leur manière de travailler.
+- *Agilité et amélioration continue, décisions rapides* \ Adaptation permanente, les tensions sont traitées dès qu'elles apparaissent. Les changements se font progressivement, ajustement après ajustement.
+- *Création de valeur* \ Les cercles et les rôles génèrent de la valeur. Les indicateurs ne sont pas des absolus, mais mesurent ce qui compte.
+- *Renforcement de l'équipe* \ Favoriser la construction d'une équipe qui est investie dans la mission. Collaboration et entraide en évitant les silos. Confiance entre les rôles. Permettre des moments pour gérer les tensions et malentendus.
+- *Ouverture avec les nouvelles générations* \ Offre du sens et de l'autonomie. Feedback et valorisation régulière. Cadre structurant sans être rigide.
+- *Favorise l'intrapreneuriat* \ Encourage la prise d'initiatives, la construction. Responsabilise les personnes et leur permet de créer de la valeur. Stimule l'innovation.
+- *Robustesse* \ Permet des adaptations rapides tout en gardant le cap. Favorise la résilience, ne s'effondre pas face aux changements.
+
+=== Implémentation actuelle de la gouvernance
+
+La gouvernance suit actuellement un modèle de répartition des rôles en cercles. L'outil #link("https://peerdom.com/")[Peerdom] est utilisé pour lister les cercles, rôles et leurs responsabilités. Ci-dessous un aperçu global, chaque petit point représente un rôle, regroupé en cercles puis en super-cercles.
+
+#figure(
+  image("image.png", width: 70%),
+  caption: "Capture d'écran de la vue d'ensemble des cercles de la fondation.",
+) <fig-cercles-jobtrek>
+
+=== Implémentation actuelle du cercle informatique
+
+Pendant longtemps, la taille de la structure Jobtek était trop petite pour justifier un "service informatique" complet. Dans ces premières heures, Jobtrek a régulièrement fait appel à des prestataires externes ou des connaissances pour mettre en place ces outils informatiques. Puis, pendant plusieurs années, un informaticien seul se chargeait de toute l'informatique Jobtrek.
+
+Récemment, la structure ayant grandi, il s'est avéré nécessaire de créer une équipe à part entière pour la gestion de l'informatique. C'est notamment en mettant en place cette équipe que les problèmes présentés au @chap-problemes-rencontres se sont trouvés exacerbés. D'autres éléments ont freiné la mise en place du cercle informatique et de ses rôles. Actuellement les objectifs du cercle IT sont définis, ainsi que ces rôles. Cependant, les rôles ne sont pas tous incarnés par un collaborateur par manque de ressources. Nous souhaitons notamment profiter de l'élan de ce travail pour relancer la constitution de cette équipe IT.
+
+== Problèmes rencontrés <chap-problemes-rencontres>
 
 === Gouvernance et Cercle informatique
 
 Les mécanismes de gouvernance mis en place au sein de Jobtrek ont pour objectif de favoriser la responsabilisation et l'autonomie des collaborateurs. Ainsi, ils offrent de grandes libertés aux cercles et à leurs rôles quant à l'accomplissement de leurs missions et le choix de leurs outils. Aucune chaine hiérarchique n'est impliquée, les rôles et cercles décident en autonomie et de manière consensuelle des meilleurs choix à mettre en place pour l'accomplissement de la mission.
 
-À l'opposé, le cercle informatique a pour mission de garantir la sécurité du système d'information, le respect de la loi et son bon fonctionnement. Pour ce faire il doit avoir connaissance de tout ce qui est mis en place au sein de la Fondation par les différents rôles et cercles, et, le cas échéant emmètre d'éventuelles recommandations voir restrictions.
+À l'opposé, le cercle informatique a pour mission de garantir la sécurité du système d'information, le respect de la loi et son bon fonctionnement. Pour ce faire, il doit avoir connaissance de tout ce qui est mis en place au sein de la Fondation par les différents rôles et cercles, et, le cas échéant, emmètre d'éventuelles recommandations ou restrictions.
 
 La fondation rencontre donc des difficultés à concilier les impératifs du cercle informatique, qui nécessite une grande connaissance de l'ensemble des systèmes et du contrôle sur ces derniers, avec la gouvernance qui favorise la prise d'initiative et l'autonomie.
 
@@ -135,23 +178,21 @@ De par la nature distribuée de la Fondation, il est complexe de mettre en œuvr
 
 La Fondation ne dispose pas d'une vue d'ensemble de ses processus, outil et traitement de données. Ce qui empêche de proposer des outils adaptés, mais aussi de répondre à la loi sur les données.
 
-#text(red)[*todo*: ajouter les problèmes rencontrés + optimiser la mise en page]
-
 == Question de recherche
 
-Les chapitres précédents montrent qu'il existe des tensions entre la gouvernance mise en place par la fondation et l'intégration du cercle IT et de ses systèmes. Le travail s'intéressera donc au pistes et recommandations qui peuvent êtres mise en oeuvre. Il s'agit d'étudier et de proposer des solutions qui permettraient de mieux intégrer les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée.
+Les chapitres précédents montrent qu'il existe des tensions entre la gouvernance mise en place par la fondation et l'intégration du cercle IT et de ses systèmes. Le travail s'intéressera donc aux pistes et aux recommandations qui peuvent être mises en œuvre. Il s'agit d'étudier et de proposer des solutions qui permettraient de mieux intégrer les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée.
 
 *Question de recherche* : Quelles recommandations mettre en place pour concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée ?
 
 = Scénario de résolution projeté
 
-Après une analyse initiale de la situation et besoin, le scénario proposé pour la résolution de la problématique s'articulerait en 3 phases :
+Après une analyse initiale de la situation et des besoins, le scénario proposé pour la résolution de la problématique s'articulerait en 3 phases :
 
 == Analyse et modélisation
 
 Cette première phase d'analyse et de recherche aura pour but de clarifier la situation et d'établir un état des lieux de la situation de Jobtrek. Au travers d'une revue de littérature, elle permettra de comprendre les enjeux généraux de ce type de gouvernance.
 
-Pour l'analyse de la situation, il s'agira de comprendre les besoins et attentes de la Fondation Jobtrek et de ses collaborateurs. Tant du point de vue de la gouvernance distribuée que du cercle informatique. L'identification des besoins et contraintes des 2 parties permettra de mieux comprendre les enjeux, d'identifier les points de tensions, d'identifier les rôles impliqués et d'identifier les process, outils ou traitements de données qui sont touchés.
+Pour analyser la situation, il s'agira de comprendre les besoins et attentes de la Fondation Jobtrek et de ses collaborateurs. Tant du point de vue de la gouvernance distribuée que du cercle informatique. L'identification des besoins et contraintes des 2 parties permettra de mieux comprendre les enjeux, d'identifier les points de tensions, d'identifier les rôles impliqués et d'identifier les process, outils ou traitements de données qui sont touchés. De plus cette partie doit permettre de comprendre où sont réellement les problèmes, afin d'écarter les éventuelles fausses pistes.
 
 == Propositions de recommandations et mesures
 
@@ -161,43 +202,48 @@ Les recommandations générales seraient une réponse à la revue de littératur
 
 En seconde partie, une série de mesures concrètes seraient proposées. Ces dernières seraient adaptées à la Fondation Jobtrek et à son fonctionnement, elles auraient pour but de lever les tensions identifiées lors de l'analyse. Pour chaque mesure, il s'agirait de définir le champ d'action, la mise en œuvre, les tensions qu'elle pourrait lever, l'impact attendu.
 
-Cette phase serait clôturée par une proposition de stratégie de mise en œuvre des changements pour la Fondation.
+== Évaluation et implémentation
 
-== Implémentation et évaluation
-
-Pour les mesures proposées les plus pertinentes et réalisables, cette dernière phase proposerait une implémentation concrète. Sous la forme d'un document interne, d'un processus ou d'un choix d'outil. Le retour des collaborateurs pourrait être récolté pour évaluer la réalisabilité et l'acceptation des mesures proposées.
+Pour les mesures proposées, cette dernière phase collecterait le retour des collaborateurs afin d'évaluer la réalisabilité et l'acceptation des mesures proposées. Il s'agirait aussi de prioriser les mesures pour répondre aux besoins et de proposer une stratégie de mise en œuvre réaliste.
 
 = Démarche
 
-Liste des techniques et méthodes qui seront mises en œuvre:
+Liste des techniques et méthodes qui seront mises en œuvre au cours du travail :
 
 == Analyse et modélisation
 
 - Revue de littérature
-  - Analyse sur les concepts
-  - #text(red)[*todo*: voir quelles méthodes de revues pourraient être utilisées]
+  - Analyse sur les concepts liés à la gouvernance distribuée et la gouvernance des SI
+  - Ressortir les recommandations générales admises s'il en existe
 - Analyse de la situation
-  - Entretiens avec les collaborateurs (guide d'entretien)
+  - Entretiens avec les collaborateurs à l'aide d'un guide d'entretien
   - Sondage sur l'utilisation des outils
 - Modélisations
-  - #text(red)[*todo*: voir si les diagrammes Archi peuvent être utilisés]
-  - #text(red)[*todo*: autres types de diagrammes ?]
+  - Utilisation de digrammes ArchiMate
+  - Utiliser les visualisations actuelles de la fondation (ou des versions simplifiées).
+  - Autres types de modélisations
 
 == Propositions de recommandations et mesures
 
 - Recommandations générales
-  - #text(red)[*todo*: chercher s'il existe des outils ou manières de structurer des recommandations pour une gouvernance]
+  - Établir une liste générale de recommandations sur la base de la revue de littérature
+  - Suggérer des pistes à explorer pour l'implémentation de ces recommandations
 - Mesures concrètes
-  - Evaluer l'acceptation des recommandations par les collaborateurs avec une table criteriée ?
-  - #text(red)[*todo*: chercher comment les structurer et les présenter efficacement]
+  - Sur la base des entretiens de l'analyse de ces derniers, proposer une série de mesures concrètes qui peuvent être mises en place par Jobtrek.
+  - Indiquer ce que les mesures peuvent résoudre
+  - Les risques éventuels et prérequis pour la mise en place des mesures
+  - Sélectionner les mesures à garder selon la pertinence
 - Stratégie de mise en œuvre
-  - #text(red)[*todo*: voir ce qu'il existe dans le champ du management du changement]
-  - #text(red)[*todo*: diagrammes pour représenter la mise en œuvre ?]
+  - Proposer une stratégie de mise en œuvre
+  - Lister les mesures à mettre en œuvre et dans quel ordre
 
-== Implémentation
+== Implémentation et évaluation des mesures
 
+- Évaluation
+  - Évaluer l'acceptation des mesures auprès des collaborateurs
+  - Prioriser les mesures selon leur urgence, faisabilité et acceptance par les collaborateurs
 - Implémentation
-  - #text(red)[*todo*: rédaction de processus aux standard de la Fondation]
+  - Selon le temps, proposer l'implémentation 2-3 mesures concrètes (sous forme d'un process ou choix d'outil)
 
 = Objectifs et livrables
 
@@ -206,8 +252,8 @@ Liste des techniques et méthodes qui seront mises en œuvre:
 _Analyse et description de la situation de l'entreprise, analyse des besoins de la gouvernance et du cercle informatique. Identification de points de tensions._
 
 *Livrables :*
-- Guide d'entretiens, interview de collaborateurs
-- Sondage sur l'utilisation des outils
+- Guide d'Entretien
+- Données des interviews des différents collaborateurs (transcriptions, notes, résumés)
 - Revue de littérature
 - Analyse des besoins et schématisation
 - Identification des tensions
@@ -219,29 +265,40 @@ _Au regard de l'analyse, proposer des recommandations pour répondre à la probl
 *Livrables :*
 - Liste de recommandations générales et leur description
 - Liste et description de mesures adaptées à la Fondation
-- Stratégie de mise en œuvre de ces changements
+  - Pour les mesures, quels problèmes la mesure traite, quels sont les prérequis.
+- Stratégie de mise en œuvre de ces changements avec un ordre de mise en place des mesures
 
-== Implémentation de recommandations et évaluation
+== Évaluation et implémentation de recommandations
 
 _Proposer une implémentation de quelques mesures et récolter des retours des collaborateurs pour en évaluer la faisabilité et l'acceptance._
 
 *Livrables :*
 - Documents internes, processus ou choix d'outils pour les mesures sélectionnées
-- Retours des collaborateurs
+- Atelier d'évaluation des mesures
+- Liste des mesures avec leurs évaluations selon les critères sélectionnés
 
-// Idées
-// - Proposer une stratégie de communication et de formation pour les collaborateurs.
-// - Proposer une stratégie de mesure de l'impact des changements.
+= Planification initiale
 
-#pagebreak()
-
-= Planification des tâches
+Le travail se déroule sur 3 mois (en décomptant les vacances d'avril), voici une proposition de planification des tâches sur la durée du travail.
 
 #include "parts/planification.typ"
 
 = Bibliographie
 
-#bibliography("bibliography.bib")
+#bibliography(title: none, "bibliography.bib", style: "apa")
+
+= Table des figures
+
+#outline(title: none, target: figure)
+
+= Annexes
+
+== Annexe - Entretien sur la gouvernance distribuée avec Daniel Cazes <annexe-entretien-gouvernance>
+
+Un entretien a été mené avec le Directeur pour bien cadrer les objectifs actuels de la gouvernance Jobtrek. Documents annexes liés a l'entretien :
+- Transcription : `2025-05-13_entretien de présentation de la gouvernance.srt`.
+- Notes manuscrites : `2025-05-13_entretien de présentation de la gouvernance distribuée.pdf`.
+- Résumé synthétique : `2025-05-13_entretien de présentation de la gouvernance.pdf`.
 
 #pagebreak()
 
@@ -259,7 +316,7 @@ Par leur signature, la direction de filière et le directeur de travail valident
   rows: (6em, 6em, 6em),
   [
     _*Fabrice Camus*_ \
-    Direction de filière \
+    Pour la direction de filière \
     #v(1fr)
     Lieux, date et visa :
   ],
