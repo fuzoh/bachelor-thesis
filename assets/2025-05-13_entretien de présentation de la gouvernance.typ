@@ -47,20 +47,19 @@ La gouvernance Jobtrek est semi-distribuée. Elle offre ainsi un pont entre :
 == Objectifs stratégiques de la gouvernance
 
 - *Alignement avec la mission* \ Les Rôles, projets et cercles sont justifiés par leur contribution à la mission. La mission est incarnée par les rôles, portée collectivement.
-- *Libérer le potentiel* \ Chaque personne agit dans un cadre de valeurs et une sphère d'autorité claire. Les talents sont encouragés et mobilisés. Les rôles sont attribués selon les forces et évoluent.
-- *Agilité et amélioration continue* \ Adaptation permanente, les tensions sont traitées dès qu'elles apparaissent. Les changements se font progressivement, ajustement après ajustement.
+- *Libérer le potentiel* \ Chaque personne agit dans un cadre de valeurs et une sphère d'autorité claire. Les talents sont encouragés et mobilisés. Les rôles sont attribués selon les forces et évoluent. Les rôles sont libres de choisir leur manière de travailler.
+- *Agilité et amélioration continue, décisions rapides* \ Adaptation permanente, les tensions sont traitées dès qu'elles apparaissent. Les changements se font progressivement, ajustement après ajustement.
 - *Création de valeur* \ Les cercles et les rôles génèrent de la valeur. Les indicateurs ne sont pas des absolus, mais mesurent ce qui compte.
-- *Renforcement de l'équipe* \ Favoriser la construction d'une équipe qui est investie dans la mission. Collaboration et entraide en évitant les silos. Permettre des moments pour gérer les tensions et malentendus.
+- *Renforcement de l'équipe* \ Favoriser la construction d'une équipe qui est investie dans la mission. Collaboration et entraide en évitant les silos. Confiance entre les rôles. Permettre des moments pour gérer les tensions et malentendus.
 - *Ouverture avec les nouvelles générations* \ Offre du sens et de l'autonomie. Feedback et valorisation régulière. Cadre structurant sans être rigide.
-- *Favorise l'entrepreneuriat* \ Encourage la prise d'initiatives, la construction. Responsabilise les personnes et leur permet de créer de la valeur. Stimule l'innovation.
+- *Favorise l'intrapreneuriat* \ Encourage la prise d'initiatives, la construction. Responsabilise les personnes et leur permet de créer de la valeur. Stimule l'innovation.
 - *Robustesse* \ Permet des adaptations rapides tout en gardant le cap. Favorise la résilience, ne s'effondre pas face aux changements.
 
 == Notes supplémentaires
 
-Jobtrek souhaite pouvoir affronter les challenges avec robustesse et agilité. Il s'agit de pouvoir place un curseur au bon endroit selon la période et les défis qui se présentent.
-La gouvernance doit être compatible avec ces 2 modes de fonctionnement :
-*Robustesse*: redondance, process bien établis, permets d'affronter certains challenges, mais peu efficient
-*Agilité*: mise en place de nouvelles solutions, rapidité de réaction, mais sensible aux aléas, moins stable.
+Jobtrek souhaite pouvoir affronter les challenges avec robustesse et agilité, la gouvernance doit être compatible avec ces 2 modes de fonctionnement :
+*Robustesse*: redondance, process bien établis, permets d'affronter certains challenges, mais entrave généralement l'efficience.
+*Agilité*: mise en place de nouvelles solutions, rapidité de réaction, mais sensible aux aléas, potentiellement instable.
 
 Actuellement la _sphère d'autorité_ des rôles et cercles n'est pas clairement définie. Il manque un outil pour répondre à cela.
 
