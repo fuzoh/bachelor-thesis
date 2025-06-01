@@ -128,15 +128,56 @@ Intégrer un diagramme de qui est respobsable de quelle partie (notamment les ar
 #pagebreak()
 = Analyse du cas Jobtrek
 
+Afin de clarifier les problèmes étudiés dans ce rapport, une phase d'analyse a été mise en oeuvre pour mieux définir les problèmes et, en particulier, déterminer s'ils sont réellement ressentis comme des problèmes par les collaborateurs. Cet analyse à aussi permis d'identifier certaines tensions supplémentaires.
+
 == Méthodologie
+
+Afin de récolter ces données, il a été décidé de réaliser des entretiens auprès des collaborateurs. Cela afin d'obtenir des données de qualités et de permettre de détailler les éléments remontés par les collaborateurs en posant des questions supplémentaires.
+
+Un guide d'entretien a été conçu, voir @annexe-guide-entretien[l'annexe]. Ce dernier est axé en 2 grandes phases, une première qui fait l'état des lieux du collaborateur par rapport à l'informatique. Il est attendu que le collaborateur puisse se prononcer sur son utilisation actuelle des outils pour l'accomplissement des tâches de ses rôles. Une seconde porte sur l'avenir, afin de recueillir des informations sur comment le collaborateur proposerait de faire évoluer la situation.
+
+6 personnes ont été sélectionnées pour réaliser les entretiens, avec des rôles relativement différents afin d'être représentatif des collaborateurs de Jobtrek. Rôles interviewés (certaines personnes en tiennent plusieurs) :
+
+- Coach d'apprentis
+- Coach dans la mesure d'insertion
+- Coordinateur d'un site
+- Démarcheur
+- Représentant de la fondation
+- Coordinateur du super-cercle support (responsable opérationnel)
+- Directeur
+- Membre du comité de direction
+- Coordinateur du cercle communication
+- Formateur d'apprentis
+- Responsable RH
+
+=== Déroulement des entretiens
+
+Les entretiens sont réalisés de manière individuelle, une personne interviewée et l'intervieweur. Les entretiens sont enregistrés afin d'en générer une transcription. L'intervieweur effectue aussi une prise de notes active au cours de l'entretien (directement sur le guide d'entretien), cela afin de synthétiser au cours de l'entretien les éléments importants.
+
+Au début de l'entretien, la personne est avertie du cadre de l'entretien et de l'enregistrement de ce dernier, voir les détails dans @annexe-guide-entretien[l'annexe].
+
+L'entretien est mené en "antonire", les questions sont initialement posées de façon très ouverte pour laisser le collaborateur s'exprimer avec un minimum d'ancrages externes, puis au besoin, l'intervieweur rebondis en précisant les questions pour obtenir les détails souhaités.
+
+À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse.
+
+=== Buts des entretiens
+
+- Comprendre l'utilisation actuelle des outils informatiques des collaborateurs. Révéler les tensions.
+- Obtenir une vue d'ensemble des besoins IT des collaborateurs.
+- Quelles contraintes sont acceptables ou non pour les collaborateurs vis-à-vis du cercle IT.
 
 == Entretiens
 
-== Résumé général des thématiques abordées en entretien
+Les entretiens se sonts déroulés entre le 5 mai 2025 et le 19 mai 2025 au sein des locaux Jobtrek. Sont disponibles en @annexe-entretiens[annexe] les transcriptions, notes et résumés des 6 entretiens menés.
 
-== Tableau synthétique des préoccupations
+== Tableau synthétique des thématiques abordées
 
 #include "parts/synthèse_entretiens.typ"
+
+== Tensions entre la gouvernance et le cercle IT
+
+Parmis les préoccupations ressorties lors des entretiens, lesquelles rentrent réellement en conflit avec la gouvernance Jobtrek.
+
 
 /**
  * ----------------------------------
@@ -171,22 +212,26 @@ Le @table-propositions-mesures ci dessous résume chaque mesures proposées et l
 
 == Descriptions des mesures <chap-description-des-mesures>
 
+Un chapitre par mesure étudiée
+
 === Processus de proposition d'améliorations revisité
 
 Pour pouvoir proposer des changements via les canneaux habituels de la gouvernance. Même quant ils concernent des cercles support (donc transverses).
 
 === Outil de documentation centralisé (wiki + learning platform ?)
 
-== Sphère d'autorité
+=== Sphère d'autorité et cadre d'utilisation des outils
 
 Une charte numérique
 
-== Meilleure disponibilité du support, clarification des rôles
+=== Meilleure disponibilité du support, clarification des rôles
 
-== Proposer un outil pour évaluer en autonomie les actions a prendre
+=== Proposer un outil pour évaluer en autonomie les actions a prendre liées aux données
 
 Lié au type de données sensibles et a ce que l'on peut faire avec
 Mais pourrait aller au-delà de la loi sur les données. Par ex, un outil qui permet aux collaborateurs d'estimer quand supprimer quelles données. Ou comment procéder pour la suppression de tel ou tel donnée.
+
+=== ... suite des mesures
 
 /**
  * ----------------------------------
@@ -201,11 +246,12 @@ Lors de la réunion des coordinateurs de cercles, propose un atelier d'évaluati
 
 Evaluation de la perception des coordinateurs selon certains critères (5 juin lors formation CC)
 
-== Sondage ?
+== Sondage quantitatif ?
 
 Effectuer un sondage auprès de tous les collaborateurs pour obtenir un avis plus "quantitaif sur les mesures"
 
 == Matrice de kano
+
 A voir si utilisable pour représenter et ou comparer les mesures
 
 == Evaluation des mesures selon la revue de littérature
@@ -216,7 +262,9 @@ Propose un chapitre qui évalue les mesures en regard de ce qui est ressorti des
 
 Proposer un découpage en itérations pour mettre en place les mesures sélectionnées/recommandées
 
-== Choix des mesures a implémenter
+== Choix des mesures à implémenter
+
+== Ordre d'implémentation
 
 = Implémentation de mesures
 
@@ -226,14 +274,24 @@ Parmis les mesures, en choisir quelques unes qui pourraient être mises en place
 
 == Ouverture
 
-#bibliography("bibliography.bib", style: "apa")
+= Bibliographie
 
+#bibliography(title: none, "bibliography.bib", style: "apa")
+
+= Table des figures
+
+#outline(title: none, target: figure)
+
+
+#pagebreak()
 = Annexes
 
 == Guide d'entretien <annexe-guide-entretien>
 
-Disponible au format PDF dans le fichier joint : `guide d'entretien.pdf`.
+Disponible au format PDF dans le fichier joint : `guide_entretien.pdf`.
 
 == Description des objectifs stratégiques de la gouvernance Jobtrek <annexe-objectifs-gouvernance>
 
 Disponible au format PDF dans le fichier joint : `objectif stratégique gouvernance Jobtrek.pdf`.
+
+== Entretiens <annexe-entretiens>
