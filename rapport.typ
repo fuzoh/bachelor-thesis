@@ -170,9 +170,9 @@ L'entretien est mené en "antonire", les questions sont initialement posées de 
 
 Les entretiens se sonts déroulés entre le 5 mai 2025 et le 19 mai 2025 au sein des locaux Jobtrek. Sont disponibles en @annexe-entretiens[annexe] les transcriptions, notes et résumés des 6 entretiens menés.
 
-== Tableau synthétique des thématiques abordées
+== Résumé général des thématiques abordées lors des entretiens
 
-#include "parts/synthèse_entretiens.typ"
+Résumer ici les principeaux points qui ressortent de la partie "état des lieux" des entretiens.
 
 == Tensions entre la gouvernance et le cercle IT
 
@@ -269,6 +269,9 @@ Proposer un découpage en itérations pour mettre en place les mesures sélectio
 = Implémentation de mesures
 
 Parmis les mesures, en choisir quelques unes qui pourraient être mises en place pour en proposer une implémentation.
+
+== Implémentation 1
+== Implémentation 2
 
 = Conclusion
 
