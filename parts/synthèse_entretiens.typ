@@ -1,10 +1,7 @@
-Table de synthèse
-
 #figure(
   table(
-    columns: (1fr, auto, auto, auto, auto, auto, auto),
-    inset: 10pt,
-    align: horizon,
+    columns: (60%, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
+    align: horizon + left,
     table.header(
       [*Element mis en avant*],
       [*P1*],
@@ -15,8 +12,7 @@ Table de synthèse
       [*P6*],
     ),
 
-    [Simplification et uniformisation de l'architecture d'accès aux fichiers.], [], [], [], [], [], [],
-    [Simplification et uniformisation de l'architecture d'accès aux fichiers.], [], [], [], [], [], [],
+    [test test.], [#sym.circle.filled], [], [], [], [], [],
   ),
   caption: [Fréquence d'apparition des constats parmi les personnes interviewées.],
 )

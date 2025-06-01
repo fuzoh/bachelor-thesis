@@ -51,8 +51,8 @@
   show heading: set text(font: "Inter 18pt", weight: "semibold")
 
   // Heading setup
-  set heading(numbering: "1.")
-  show bibliography: set heading(numbering: "1.")
+  set heading(numbering: "1.1")
+  show bibliography: set heading(numbering: "1.1")
   show heading.where(level: 1): set text(size: 14pt)
   show heading.where(level: 1): set block(below: 1em, above: 2em)
   show heading.where(level: 2): set text(size: 13pt)
@@ -65,9 +65,11 @@
   show figure: set block(breakable: true)
   show table: set text(size: 10pt)
   show table.cell.where(y: 0): strong
-  set table(stroke: (x, y) => {
-    (bottom: 0.7pt + black)
-  })
+  set table(
+    stroke: (x, y) => {
+      (bottom: 0.7pt + black)
+    },
+  )
   set enum(indent: .4em)
   set list(indent: .4em)
 

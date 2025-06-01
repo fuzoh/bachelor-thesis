@@ -111,7 +111,7 @@ Représenter l'existant
 Urba des SI ? utiliser les 2 couches du haut pour modéliser le business et la vision.
 longépé
 
-Revue de littérature -> avoir un chapitre sur les erreurs déjà comises.
+Revue de littérature -> avoir un chapitre sur les erreurs déjà comises et connues.
 
 Se projetter sur le résultat et sa forme
 
@@ -130,5 +130,17 @@ Pour les diffentes mesures, on peut refaire une partie de revue.
 *Entretiens* -> rajouter l'expérience, le domaine métier, les rôles.
 
 Rajouter au fil de l'eau les éventuels thèmes.
+
+== _15 mai_ - Notes en vrac séance avec Boris Fritscher
+
+TAM https://en.wikipedia.org/wiki/Technology_acceptance_model
+
+matrice de kano -> envie, acceptance, besoin institutionnel
+
+voir les contraintes de la stratégie IT et de la stratégie de gouvernance
+
+qu'est qui peut être fait pour limiter la friction quant on impose une nouvelle rêgle
+
+place du change management -> prèt a laisser du contrôle centralisé, mais les collaborateurs veulent être dans la boucle.
 
 #bibliography("bibliography.bib")
