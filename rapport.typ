@@ -177,6 +177,15 @@ Les discussions menées en entretien on permis de cibler un certain nombres de m
 
 === Utilisation des outils informatique
 
+Tous les roles interviewés dépendent grandement des outils numériques, en effet la quasi totalité des activités de la Fondation sont menées via des outils informatiques, ou a minima les outils sont le support principal pour la réalisation des missions.
+
+Les rôles ont prinicipalement une utilisation bureautique des outils informatiques, en premier lieu les outils de la suite Microsoft 365. L'essentiel des tâches sont réalisées avec les outils de communication de la suite (Teams et Outlook) et la suite bureautique (Word, Excel). Personne ne semble reposer sur d'autres applications bureautiques.
+
+Le traitement de fichiers et leur gestion avec des dossiers synchronisées (OneDrive et Sharepoint) est central pour les rôles. L'essentiel des missions demandent de traitées des données qui sont consignées, mise sous forme de rapports ou tableaux. Des difficultés dans l'organisation des documents et l'apptitude a les retrouver efficacement sont régulièrement relevées. Les dossiers partagés (Sharepoint) semblement notamment assez mal exploités et ne pas bénéficier d'une organisation adaptée.
+
+Quelques autres outils sont utilisés de manière plus spécifique. Les roles liés a du coaching travaillent avec le CRM Dynamics 365 pour la gestion du suivi des bénéficiaires. L'outil semble fonctionnel mais mal exploité ou pas totalemnt adapté.
+
+Pour finir, l'essentiel du reste de l'activité des collaborateurs est réalisée avec des outils web. Notamment de petits outils spécialisés pour répondre a de petits besoins (modification PDF, modification d'images, dessin de digrammes). Les outils d'IA online sont aussi régulièrement sollicités. Les collaborateurs semblent conscients des problèmatiques liées aux données sans pout autant être au clair sur les limites et actions à prendre.
 
 === Besoins des collaborateurs
 
@@ -187,6 +196,14 @@ Les discussions menées en entretien on permis de cibler un certain nombres de m
 Parmis les préoccupations ressorties lors des entretiens, lesquelles rentrent réellement en conflit avec la gouvernance Jobtrek.
 
 #include "parts/tensions_relevees_lors_entretiens.typ"
+
+== Gouvernance distribuée et IT
+
+Au fil des entretiens, il sembre ressortir que la tension principale rencontrées par la Fondation (consilier les impératifs IT avec la gouvernance) pourrait dans les fait n'être que le résultats de tensions plus opérationnelles.
+
+Peu des interviewés on manifesté qu'il manquaient de libertés ou pourraient se sentir limités par des contraintes supplémentaires. Il semble même tout a fait envisageable que le cercle IT puisse avoir une attitude plus "centralisatrice" dans ses actions. En revanche il ressort régulièrement que le manque de clarté du cadre informatique ou le flou dans l'architecture du SI crée de la frustration et des incompréhension.
+
+Ces éléments laissent pesner que la tension ressentie au niveau stratégique entre les libertés offertes par la gouvernance et les impératifs IT pourrait être principalement due a des tensions opérationnelles. Tensions à traiter par des mesures concrétes (mise en place d'outils et process) plus que par une transformation du fonctionnement de la gouvernance.
 
 
 /**
