@@ -126,6 +126,7 @@ Intégrer un diagramme de qui est respobsable de quelle partie (notamment les ar
  * Analyse de l'état gouvernance VS IT a travers jobtrek
  * */
 #pagebreak()
+
 = Analyse du cas Jobtrek
 
 Afin de clarifier les problèmes étudiés dans ce rapport, une phase d'analyse a été mise en oeuvre pour mieux définir les problèmes et, en particulier, déterminer s'ils sont réellement ressentis comme des problèmes par les collaborateurs. Cet analyse à aussi permis d'identifier certaines tensions supplémentaires.
@@ -160,7 +161,7 @@ L'entretien est mené en "entonoire", les questions sont initialement posées de
 
 À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse.
 
-=== Buts des entretiens
+=== Buts des entretiens <chap-but-entretiens>
 
 - Comprendre l'utilisation actuelle des outils informatiques des collaborateurs. Révéler les tensions.
 - Obtenir une vue d'ensemble des besoins IT des collaborateurs.
@@ -172,11 +173,20 @@ Les entretiens se sonts déroulés entre le 5 mai 2025 et le 19 mai 2025 au sein
 
 == Résumé général des thématiques abordées lors des entretiens
 
-Résumer ici les principeaux points qui ressortent de la partie "état des lieux" des entretiens.
+Les discussions menées en entretien on permis de cibler un certain nombres de mesures d'amélioration qui pourraient être mises en oeuvre, voir @chap-mesures-suggerees-dans-les-entretiens. Les 3 prochaines chapitres résument quant a eux l'état des lieux énoncés par les interviewés. Chaque chapitre répond à un des buts du @chap-but-entretiens. Pour finir l'analyse des entretiens a pérmi de lister les tensions ressenties par les collaborateurs vis à vis de l'IT et de la gouvernance, voir le @table-tensions-relevées.
+
+=== Utilisation des outils informatique
+
+
+=== Besoins des collaborateurs
+
+=== Contraintes acceptables par les collaborateurs
 
 == Tensions entre la gouvernance et le cercle IT
 
 Parmis les préoccupations ressorties lors des entretiens, lesquelles rentrent réellement en conflit avec la gouvernance Jobtrek.
+
+#include "parts/tensions_relevees_lors_entretiens.typ"
 
 
 /**
@@ -219,7 +229,7 @@ Le @table-propositions-mesures ci dessous résume chaque mesures proposées et l
 
 Le @table-matrice-apparition-mesures classe les mesures proposées par fréquence d'apparition dans les entretiens. Les mesures ont été traites de la façon suivantes :
 - *3, 4 et 5 apparitions :* Conception de la mesure, évaluation de la pertinance de la mesure. Si évaluation satisafaisante, proposition d'implémentation.
-- *2 apparitions :* Conception de la mesure, évaluation de la pertinance de la mesure.
+- *2 apparitions :* Conception succinte de la mesure, évaluation de la pertinance de la mesure.
 - *1 apparition :* Pas de concéption, les mesures ont juste été décrites pour permettre une future implémentation.
 
 #include "parts/mesures/matrice_priorites.typ"
@@ -238,20 +248,20 @@ Les interviewés semblent convaincus q'un accès simplifié et centralisé a l'i
 
 #include "parts/mesures/m3_base de connaissances.typ"
 
-=== Outil de documentation centralisé (wiki + learning platform ?)
-
-=== Sphère d'autorité et cadre d'utilisation des outils
-
-Une charte numérique
-
-=== Meilleure disponibilité du support, clarification des rôles
-
-=== Proposer un outil pour évaluer en autonomie les actions a prendre liées aux données
+=== _M2_ - Outil de déscision autonome pour le traitement des données
 
 Lié au type de données sensibles et a ce que l'on peut faire avec
 Mais pourrait aller au-delà de la loi sur les données. Par ex, un outil qui permet aux collaborateurs d'estimer quand supprimer quelles données. Ou comment procéder pour la suppression de tel ou tel donnée.
 
-=== ... suite des mesures
+=== _M5_ - Cadre d'utilisation des outils numériques (sphère d'autorité IT)
+
+=== _M4_ - Outils de formation en autonomie (e-learning)
+=== _M6_ - Nouveau mécanisme de proposition d'améliorations
+=== _M17_ - Stratégie qui pérénise avant d'améliorer et/ou changer
+
+=== Description succinte des mesures à 2 apparitions
+
+=== Descriptions des mesures à 1 apparition
 
 /**
  * ----------------------------------

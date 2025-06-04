@@ -15,7 +15,7 @@
       [*P6*],
     ),
 
-    [*M1* <test>],
+    [*M1*],
     [Simplification et uniformisation de l'architecture d'accès aux fichiers. Retirer les doublonset y intégrer une partie commune a tous les cercles.],
     [#sym.circle.filled],
     [],
