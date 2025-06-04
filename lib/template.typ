@@ -59,6 +59,8 @@
   show heading.where(level: 2): set block(below: 0.8em, above: 1.6em)
   show heading.where(level: 3): set text(size: 12pt)
 
+  show outline.entry.where(level: 1): set block(above: 1.2em)
+
   // Figure and table setup
   show figure.caption: emph
   show figure.caption: set text(size: 9pt)
