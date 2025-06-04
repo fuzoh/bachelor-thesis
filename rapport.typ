@@ -5,7 +5,7 @@
 /// 2025 - HE-Arc - Bastien Nicoud
 
 #show: template.with(
-  title: "Demande de ratification",
+  title: "Thèse de bachelor - Bastien Nicoud",
   description: "Gouvernance distribuée et gestion informatique",
   last_update: datetime.today(),
   author: "Bastien Nicoud",
@@ -66,7 +66,7 @@
 
 #outline(
   depth: 3,
-  indent: 0em,
+  indent: 0.6em,
   title: text(
     font: "Articulat CF",
     size: 14pt,
@@ -156,7 +156,7 @@ Les entretiens sont réalisés de manière individuelle, une personne interview�
 
 Au début de l'entretien, la personne est avertie du cadre de l'entretien et de l'enregistrement de ce dernier, voir les détails dans @annexe-guide-entretien[l'annexe].
 
-L'entretien est mené en "antonire", les questions sont initialement posées de façon très ouverte pour laisser le collaborateur s'exprimer avec un minimum d'ancrages externes, puis au besoin, l'intervieweur rebondis en précisant les questions pour obtenir les détails souhaités.
+L'entretien est mené en "entonoire", les questions sont initialement posées de façon très ouverte pour laisser le collaborateur s'exprimer avec un minimum d'ancrages externes, puis au besoin, l'intervieweur rebondis en précisant les questions pour obtenir les détails souhaités selon les thématiques.
 
 À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse.
 
@@ -187,16 +187,23 @@ Parmis les préoccupations ressorties lors des entretiens, lesquelles rentrent r
 
 = Proposition de mesures
 
-Les chapitres précédents nous on permis de mieux comprendre l'état actuel de la gouvernance Jobtrek, de nous situer par rapport a l'existant et aussi de voir ou sont situées les frustrations et questionnements des collaborateurs.
-La suite du rapport s'intéresse aux mesures concrètes qui peuvent être recommandées à Jobtrek afin de répondre à la problématique.
+Les chapitres précédents nous on permis de mieux comprendre l'état actuel de la gouvernance Jobtrek, de nous situer par rapport a l'existant et, pour finir, de voir ou sont situées les frustrations et questionnements des collaborateurs.
+La suite du rapport s'intéresse aux mesures concrètes qui peuvent être recommandées à Jobtrek afin de répondre aux problèmes encontrés.
 
-Toutes les mesures proposées sont partiellement ou totalement inspirées des propositions que les collaborateurs ont eu l'occasion de faire au cours des entretiens.
+Toutes les mesures proposées plus loin sont partiellement ou totalement inspirées des propositions que les collaborateurs ont eu l'occasion de faire au cours des entretiens. Certaines sont des regroupements de propositions.
 
 == Méthode de construction des mesures
 
-Dans un premier temps, les mesures ont été identifiées, regroupées et synthètisées sur la base des entretiens, voir le @chap-mesures-suggerees-dans-les-entretiens. Sur la base de la fréquence d'apparition des mesures ont été plus ou moins développées (les plus fréquentes ont bénéficié d'un traitement plus approfondi).
+Dans un premier temps, les mesures ont été identifiées, regroupées et synthètisées sur la base des entretiens, voir le @chap-mesures-suggerees-dans-les-entretiens. La fréquence d'apparition des propositions lors des entretiens permet de se faire une première idée de l'intéret de la mesure. Elles ont été développées de la plus fréquente aux moins fréquentes.
 
-Pour chaque mesures, .... voir @chap-description-des-mesures.
+Pour chaque mesures, les éléments suivants ont été proposés :
+- Titre et sysnthèse de la mesures proposées
+- Résumé des suggestions lors d'entretiens pour cette mesures
+- Objectifs de la mesure
+- Quelle problèmes cette mesure adresse
+- Quelles actions cette msure propose de mettre en place
+
+Vous trouvez au @chap-description-des-mesures une table synoptique pour chaque mesures étudiées.
 
 == Mesures suggérées dans les entretiens <chap-mesures-suggerees-dans-les-entretiens>
 
@@ -210,13 +217,26 @@ Le @table-propositions-mesures ci dessous résume chaque mesures proposées et l
 
 === Priorisation des mesures à explorer
 
+Le @table-matrice-apparition-mesures classe les mesures proposées par fréquence d'apparition dans les entretiens. Les mesures ont été traites de la façon suivantes :
+- *3, 4 et 5 apparitions :* Conception de la mesure, évaluation de la pertinance de la mesure. Si évaluation satisafaisante, proposition d'implémentation.
+- *2 apparitions :* Conception de la mesure, évaluation de la pertinance de la mesure.
+- *1 apparition :* Pas de concéption, les mesures ont juste été décrites pour permettre une future implémentation.
+
+#include "parts/mesures/matrice_priorites.typ"
+
+#pagebreak()
+
 == Descriptions des mesures <chap-description-des-mesures>
 
-Un chapitre par mesure étudiée
+=== _M3_ - Base de connaissance interne co-construite <mesure-M3>
 
-=== Processus de proposition d'améliorations revisité
+Proposition la plus fréquente, les collaborateurs manquent de visibilité sur les différents aspects informatiques, en particulier les bonnes pratiques et les règles de sécurité. Il est ressorti que cette problpmatique d'accès était plus large que l'informatique, mais touche aussi l'accès aux informations générales utile pour un collaborateur : Processus d'entreprise, règlements, sphères d'autorité des rôles.
 
-Pour pouvoir proposer des changements via les canneaux habituels de la gouvernance. Même quant ils concernent des cercles support (donc transverses).
+De façon générale, les informations évoquées existent déjà, mais ne sont pas accessible de façon efficace ou simplement pas connures des collaborateurs. Pour l'IT en particulier, il n'existe actuellement aucun docuemnt particulier a destination des collaborateurs (au dela d'informations eparses transmises à l'oral ou par mail).
+
+Les interviewés semblent convaincus q'un accès simplifié et centralisé a l'information utile pour l'accomplissement de leurs tâches résoudrait déjà grandement les incompréhensions et tensions actuelles.
+
+#include "parts/mesures/m3_base de connaissances.typ"
 
 === Outil de documentation centralisé (wiki + learning platform ?)
 

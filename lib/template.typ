@@ -69,7 +69,7 @@
   show table.cell.where(y: 0): strong
   set table(
     stroke: (x, y) => {
-      (bottom: 0.7pt + black)
+      (bottom: 0.7pt + black, left: if x > 0 { 0.8pt + gray })
     },
   )
   set enum(indent: .4em)
