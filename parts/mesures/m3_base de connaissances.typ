@@ -8,13 +8,34 @@
     ],
     table.cell(colspan: 2)[
       *Objectifs* \
+      - Toutes les informations utiles au bon accomplissement de ses rôles sont disponibles.
+      - Consultable en tout temps.
+      - L'information est structurée de manière a la rendre accecible pour les rôles.
+      - Dispose d'un système de recherche.
+      - Du contenu peut être ajouté par les collaborateurs.
     ],
 
     [
       *Problématiques adressées* \
+      - #link(<t1>)[*T1*] - Difficulté d'accès aux informations
+      - #link(<t4>)[*T4*] - Manque de connaissances IT
+      - #link(<t8>)[*T8*] - Manque de directives sur la gestion des données
     ], [
-      *Apports souhaités* \
+      *Apports attendus* \
+      - Autonomie des rôles pour trouver l'information.
+      - Source de vérité unique d'information
+    ],
+
+    [
+      *Possibilités d'implémentation* \
+      - Plateforme web
+      - Sharepoint M365 type intranet
+      - Document "classique" distribué en PDF ou papier
+    ], [
+      *Questionnements ouverts* \
+      - Accès aux informations ? Doit-il y avoir des données visibles uniquement par certains rôles ?
+      - Comment structurer l'information efficacement, par cercles, par rôles ? Quelle place au cercles transverses (support).
     ]
   ),
-  caption: [Vue d'ensemble mesure _M3_ - Base de connaissances],
-)
+  caption: [Vue d'ensemble mesure : _M3_ - Base de connaissances],
+) <mesure-M3>
