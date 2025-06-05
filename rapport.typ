@@ -339,6 +339,8 @@ A lissue de la description des mesures qui ont récolté le plus de succès lors
 
 == Description des mesures secondaires
 
+#include "parts/mesures/mesures_secondaires.typ"
+
 === Description succinte des mesures à 2 apparitions
 
 === Descriptions des mesures à 1 apparition
