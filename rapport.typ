@@ -278,7 +278,7 @@ Le @table-matrice-apparition-mesures classe les mesures proposées par fréquenc
 
 #pagebreak()
 
-== Descriptions des mesures <chap-description-des-mesures>
+== Descriptions des mesures principales <chap-description-des-mesures>
 
 === _M3_ - Base de connaissance
 
@@ -308,13 +308,34 @@ Cette proposition est celle qui touche le plus l'implémentation de la gouvernan
 
 Cette mesure propose de créer une sphére d'autrorité pour la partie outils informatiques, qui touche tous les rôles de la fondation.
 
-[.....]
+[...]
 
 #include "parts/mesures/m5_cadre utilisation outils numériques.typ"
 
 === _M4_ - Outils de formation en autonomie (e-learning)
+
+[...]
+
+#include "parts/mesures/m4_plateforme de formation.typ"
+
 === _M6_ - Nouveau mécanisme de proposition d'améliorations
+
+[...]
+
+#include "parts/mesures/m6_mecanisme de proposition améliorations.typ"
+
 === _M17_ - Stratégie qui pérénise avant d'améliorer et/ou changer
+
+[...]
+
+#include "parts/mesures/m17_perenisation avant changements.typ"
+
+== Tensions non couvertes par les mesures principales
+
+A lissue de la description des mesures qui ont récolté le plus de succès lors des entretiens, nous pouvons constater que les tensions suivantes ne sont pas adressées :
+- [...]
+
+== Description des mesures secondaires
 
 === Description succinte des mesures à 2 apparitions
 

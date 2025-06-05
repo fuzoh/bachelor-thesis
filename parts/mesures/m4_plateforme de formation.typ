@@ -1,0 +1,45 @@
+#figure(
+  table(
+    columns: (1fr, 1fr),
+    align: left,
+    table.header(table.cell(colspan: 2, align: center)[M4 - Outil de formation en autonomie (e-learning)]),
+    table.cell(colspan: 2)[
+      *Synthèse :* Mettre en place un outil de formation interne qui permette aux collaborateurs de suivre les formation en autonomie. Ces formations accompagneraient l'onboarding ou seraient recommandées en fonction des rôles ou de nouveautés du cercle IT. Les formations aideraient les collaborateurs a bien prendre en main les outils mis a leurs disposition et a adopter de bonnes pratiques numériques.
+    ],
+    table.cell(colspan: 2)[
+      *Objectifs* \
+      - Disponible en tout temps et accesible online.
+      - Doit permettre la création de modules de formation qui peuvent êtres suivi en autonomie.
+      - Les formations doivent aider les collaborateurs a apréhender les outils et process de la fondation.
+      - Doit permettre de former les collaborateurs en continu.
+    ],
+
+    [
+      *Problématiques adressées* \
+      - #link(<t1>)[*T1*] - Difficultés d'accés aux informations.
+      - #link(<t2>)[*T2*] - Difficulté dans la prise de décisions liées aux données traitées.
+      - #link(<t4>)[*T4*] - Manque de connaissances IT
+      - #link(<t5>)[*T5*] - Mauvaise perception des outils
+      - #link(<t7>)[*T7*] - Manque de confiance dans le SI
+      - #link(<t8>)[*T8*] - Manque de directives sur la gestion des données
+    ], [
+      *Apports attendus* \
+      - Renforcer l'autonomie et les connaissance des collaborateurs dans les outils Jobtrek.
+      - Permettre de former en continu les collaborateurs.
+      - Améliorer la connaissance des outils et bonne pratiques, meilleure efficience dans le travail.
+    ],
+
+    [
+      *Possibilités d'implémentation* \
+      - Plateforme de e-learning interactive.
+      - Formation mis a disposition via un dossier partagé sous forme de documents.
+      - Intégration sous forme de tutoriels dans la base de connaissance.
+    ], [
+      *Questionnements ouverts* \
+      - Capacité de mise en oeuvre d'un outil intéractif dans des tarifs abordables.
+      - Comment effectuer les suivi des formations réalisées.
+      - Possibilité de tester les connaissances acquises.
+    ]
+  ),
+  caption: [Vue d'ensemble mesure : _M4_ - Outil de formation en autonomie (e-learning)],
+) <mesure-M4>

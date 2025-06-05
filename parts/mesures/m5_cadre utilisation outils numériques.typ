@@ -37,7 +37,7 @@
       - Section dans la base de connaissances
       - Mise en scéne (ex. mini histoires) pour exemplifier.
     ], [
-      *Questionnements ouvertes* \
+      *Questionnements ouverts* \
       - Limites du cadre ? Comment ne pas créer un document immense et indigeste ? Comment choisir ce qui est présent dans ce document ?
       - Comment construire la première version en prenant en compte les apports des collaborateurs ?
       - Articulation avec les autres documents IT ?

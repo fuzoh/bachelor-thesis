@@ -32,7 +32,7 @@
       - Processus de traitement par type de données.
       - Synthèse des règles légales en vigeur. Transposition au contexte Jobtrek.
     ], [
-      *Questionnements ouvertes* \
+      *Questionnements ouverts* \
       - Portée juridique du document qui demanderait une expertise externe ?
       - Gestion des exceptions ?
     ]
