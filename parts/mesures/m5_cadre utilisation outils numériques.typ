@@ -10,16 +10,16 @@
     ],
     table.cell(colspan: 2)[
       *Objectifs* \
-      - Clarifier quelles sont les directives Jobtrek quand a l'utilisation des outils numériques.
+      - Clarifier quelles sont les directives Jobtrek quant à l'utilisation des outils numériques.
       - Définir les bonnes pratiques numériques Jobtrek.
       - Définir les limites imposées aux collaborateurs.
-      - Justifier la présence de ces directives et limites avec des éléments compréhensibles par chauques rôles.
+      - Justifier la présence de ces directives et limites avec des éléments compréhensibles par chaque rôle.
       - Exemplifier les raisons de certaines limites pour permettre de bien comprendre les potentielles implications.
     ],
 
     [
       *Problématiques adressées* \
-      - #link(<t1>)[*T1*] - Difficultés d'accés aux informations.
+      - #link(<t1>)[*T1*] - Difficultés d'accès aux informations.
       - #link(<t2>)[*T2*] - Difficulté dans la prise de décisions liées aux données traitées.
       - #link(<t4>)[*T4*] - Manque de connaissances IT
       - #link(<t5>)[*T5*] - Mauvaise perception des outils
@@ -28,20 +28,20 @@
       *Apports attendus* \
       - Renforcer l'autonomie dans l'utilisation des outils numériques.
       - Meilleure exploitation des possibilités offertes par les collaborateurs.
-      - Eviter le dépassement inconscient de certaines limites.
+      - Éviter le dépassement inconscient de certaines limites.
     ],
 
     [
       *Possibilités d'implémentation* \
       - Document descriptif
       - Section dans la base de connaissances
-      - Mise en scéne (ex. mini histoires) pour exemplifier.
+      - Mise en scène (ex. mini histoires) pour exemplifier.
     ], [
       *Questionnements ouverts* \
       - Limites du cadre ? Comment ne pas créer un document immense et indigeste ? Comment choisir ce qui est présent dans ce document ?
       - Comment construire la première version en prenant en compte les apports des collaborateurs ?
       - Articulation avec les autres documents IT ?
-      - Articulation avec les autres sphéres d'autorité ?
+      - Articulation avec les autres sphères d'autorité ?
     ]
   ),
   caption: [Vue d'ensemble mesure : _M5_ - Cadre d'utilisation des outils numériques],

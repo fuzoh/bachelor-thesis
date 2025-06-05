@@ -4,13 +4,13 @@
     align: left,
     table.header(table.cell(colspan: 2, align: center)[M3 - Base de connaissances]),
     table.cell(colspan: 2)[
-      *Synthèse :* Disposer d'un outil, accessible en tous temps et facilement navigable qui regroupe toutes les informations essentielles liées à la fondation, en particulier les processus, sphères d'autorités et informations sur l'utilisation des outils informatiques.
+      *Synthèse :* Disposer d'un outil, accessible en tout temps et facilement navigable, qui regroupe toutes les informations essentielles liées à la fondation, en particulier les processus, sphères d'autorités et informations sur l'utilisation des outils informatiques.
     ],
     table.cell(colspan: 2)[
       *Objectifs* \
       - Toutes les informations utiles au bon accomplissement de ses rôles sont disponibles.
       - Consultable en tout temps.
-      - L'information est structurée de manière a la rendre accecible pour les rôles.
+      - L'information est structurée de manière à la rendre accessible pour les rôles.
       - Dispose d'un système de recherche.
       - Du contenu peut être ajouté par les collaborateurs.
     ],
@@ -35,7 +35,7 @@
     ], [
       *Questionnements ouverts* \
       - Accès aux informations ? Doit-il y avoir des données visibles uniquement par certains rôles ?
-      - Comment structurer l'information efficacement, par cercles, par rôles ? Quelle place au cercles transverses (support).
+      - Comment structurer l'information efficacement, par cercles, par rôles ? Quelle place aux cercles transverses (support).
     ]
   ),
   caption: [Vue d'ensemble mesure : _M3_ - Base de connaissances],
