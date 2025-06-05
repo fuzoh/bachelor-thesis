@@ -19,6 +19,7 @@
       *Problématiques adressées* \
       - #link(<t1>)[*T1*] - Difficulté d'accès aux informations
       - #link(<t4>)[*T4*] - Manque de connaissances IT
+      - #link(<t7>)[*T7*] - Manque de confiance
       - #link(<t8>)[*T8*] - Manque de directives sur la gestion des données
     ], [
       *Apports attendus* \
