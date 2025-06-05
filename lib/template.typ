@@ -1,5 +1,6 @@
 #let template(
   title: none, // Principal title of the document
+  paper: "a4",
   last_update: datetime.today(), // Date of the last document edition
   author: none, // Name of the collaborator who maintains this document, by priority
   description: none, // Short document description for PDF metadata
@@ -20,7 +21,7 @@
   )
 
   set page(
-    paper: "a4",
+    paper: paper,
     margin: (
       top: 25mm,
       bottom: 25mm,

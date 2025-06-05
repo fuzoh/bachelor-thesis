@@ -318,7 +318,9 @@ Cette mesure propose de créer une sphére d'autrorité pour la partie outils in
 
 #include "parts/mesures/m4_plateforme de formation.typ"
 
-=== _M6_ - Nouveau mécanisme de proposition d'améliorations
+=== _M6_ - Revue du mécanisme de proposition d'améliorations
+
+Le mécanisme actuel de proposition d'amélioration (tensions remontées des cercles vers les super cercle via les meetings de régulation) n'est pas adapté pour remonter des tensions qui concernent des cercles transverseaux (qui font partie du super cercle support)....
 
 [...]
 
