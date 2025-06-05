@@ -304,6 +304,14 @@ Cet outil pourrait prendre différente formes, il devrait inclure une forme d'ou
 
 === _M5_ - Cadre d'utilisation des outils numériques (sphère d'autorité IT)
 
+Cette proposition est celle qui touche le plus l'implémentation de la gouvernance. Comme déjà évoqué, actuellement, la gouvernace Jobtrek dispose théoriquement d'un mécanisme de sphère d'autorité qui est destiné a fixer le cadre dans lequel les rôles peuvent évoluer. Cette sphére d'autorité dépend donc principalement du contexte métier du rôle en question et des outils de la fondation. Toutefois, ce mécanisme n'est actuellement pas implémenté dans la gouvernance.
+
+Cette mesure propose de créer une sphére d'autrorité pour la partie outils informatiques, qui touche tous les rôles de la fondation.
+
+[.....]
+
+#include "parts/mesures/m5_cadre utilisation outils numériques.typ"
+
 === _M4_ - Outils de formation en autonomie (e-learning)
 === _M6_ - Nouveau mécanisme de proposition d'améliorations
 === _M17_ - Stratégie qui pérénise avant d'améliorer et/ou changer

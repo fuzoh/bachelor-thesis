@@ -3,7 +3,7 @@
 #figure(
   table(
     columns: (1fr, 60%, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
-    align: horizon + left,
+    align: (x, y) => if x > 1 { center } else { left } + horizon,
     table.header(
       [],
       [*Mesure proposée par l'interviewé*],
