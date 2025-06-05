@@ -326,7 +326,7 @@ Le mécanisme actuel de proposition d'amélioration (tensions remontées des cer
 
 #include "parts/mesures/m6_mecanisme de proposition améliorations.typ"
 
-=== _M17_ - Stratégie qui pérénise avant d'améliorer et/ou changer
+=== _M17_ - Stratégie IT qui pérénise avant de proposer des nouveautés
 
 [...]
 
