@@ -33,7 +33,7 @@
     [],
     [],
 
-    [*M3*],
+    link(<mesure-M3>)[*M3*],
     [Documentation/base de connaissances interne co-construite (processus, recommandations, liste des outils, astuces, FAQ).],
     [#sym.circle.filled],
     [#sym.circle.filled],

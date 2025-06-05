@@ -94,44 +94,9 @@
 
 == Plan d'actions
 
-= Analyse de la gouvernance distribuée Jobtrek
+= Méthodologie
 
-== Vision et mission
-
-Intégrer un diagramme de qui est respobsable de quelle partie (notamment les articulations entre collaborateurs, comité de direction et conseil de fondation)
-
-== Fonctionnement de la gouvernance
-
-=== Objectifs de la gouvernance
-
-=== Éléments constituants
-
-=== Rôles des meetings
-
-== Besoin du cercle IT jobtrek
-
-/**
- * ----------------------------------
- * Ancrage dans la littérature
- * */
-#pagebreak()
-= Ancrage dans la littérature
-
-#include "parts/revue_de_litterature.typ"
-
-= Recommandations générales
-
-/**
- * ----------------------------------
- * Analyse de l'état gouvernance VS IT a travers jobtrek
- * */
-#pagebreak()
-
-= Analyse du cas Jobtrek
-
-Afin de clarifier les problèmes étudiés dans ce rapport, une phase d'analyse a été mise en oeuvre pour mieux définir les problèmes et, en particulier, déterminer s'ils sont réellement ressentis comme des problèmes par les collaborateurs. Cet analyse à aussi permis d'identifier certaines tensions supplémentaires.
-
-== Méthodologie
+== Phase d'analyse (entretiens)
 
 Afin de récolter ces données, il a été décidé de réaliser des entretiens auprès des collaborateurs. Cela afin d'obtenir des données de qualités et de permettre de détailler les éléments remontés par les collaborateurs en posant des questions supplémentaires.
 
@@ -161,13 +126,54 @@ L'entretien est mené en "entonoire", les questions sont initialement posées de
 
 À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse.
 
-=== Buts des entretiens <chap-but-entretiens>
+== Evaluation
+
+== Implémentation
+
+
+/**
+ * ----------------------------------
+ * Ancrage dans la littérature
+ * */
+#pagebreak()
+= Ancrage dans la littérature
+
+#include "parts/revue_de_litterature.typ"
+
+== Recommandations générales
+
+
+= Analyse de la gouvernance distribuée Jobtrek <chap-analyse-gouvernance-jobtrek>
+
+== Vision et mission
+
+Intégrer un diagramme de qui est respobsable de quelle partie (notamment les articulations entre collaborateurs, comité de direction et conseil de fondation)
+
+== Fonctionnement de la gouvernance
+
+=== Objectifs de la gouvernance
+
+=== Éléments constituants
+
+=== Rôles des meetings
+
+== Besoin du cercle IT Jobtrek
+
+/**
+ * ----------------------------------
+ * Analyse de l'état gouvernance VS IT a travers jobtrek
+ * */
+#pagebreak()
+
+= Analyse du cas Jobtrek
+
+Pour faire suite au @chap-analyse-gouvernance-jobtrek, ce dérnier ayant permis de définir plus clairement comment la gouvernance est actuellement implémentée, quels sont les défis qui lui sont propose. Ce nouveau chapitre s'intéresse plus directement à la problématique du rapport, il s'agit d'identifier plus préciséement les tensions entre le cercle IT et la gouvernance. En particulier de comprendre comment elles sont ressenties par les rôles au sein de la Fondation, sont elles réellement ressenties, quel est leur source, mais aussi d'explorer les potentielles pistes de résolutions.
+
+== Buts et déroulement des entretiens <chap-but-entretiens>
 
 - Comprendre l'utilisation actuelle des outils informatiques des collaborateurs. Révéler les tensions.
 - Obtenir une vue d'ensemble des besoins IT des collaborateurs.
 - Quelles contraintes sont acceptables ou non pour les collaborateurs vis-à-vis du cercle IT.
-
-== Entretiens
 
 Les entretiens se sonts déroulés entre le 5 mai 2025 et le 19 mai 2025 au sein des locaux Jobtrek. Sont disponibles en @annexe-entretiens[annexe] les transcriptions, notes et résumés des 6 entretiens menés.
 
@@ -216,7 +222,7 @@ Résumé des principales tensions qui ressortent des différentes discussions :
 
 == Gouvernance distribuée et IT
 
-Au fil des entretiens, il sembre ressortir que la tension principale rencontrées par la Fondation (consilier les impératifs IT avec la gouvernance) pourrait dans les fait n'être que le résultats de tensions plus opérationnelles.
+Au fil des entretiens, il sembre ressortir que la tension principale rencontrées par la Fondation (consilier les impératifs IT avec la gouvernance) pourrait dans les fait n'être que le symptome de tensions plus opérationnelles.
 
 Peu des interviewés on manifesté qu'il manquaient de libertés ou pourraient se sentir limités par des contraintes supplémentaires. Il semble même tout a fait envisageable que le cercle IT puisse avoir une attitude plus "centralisatrice" dans ses actions. En revanche il ressort régulièrement que le manque de clarté du cadre informatique ou le flou dans l'architecture du SI crée de la frustration et des incompréhension.
 
@@ -259,6 +265,8 @@ Le @table-propositions-mesures ci dessous résume chaque mesures proposées et l
 
 === Synthèse des propositions de mesures
 
+Résumer la direction générale prise par les mesures
+
 === Priorisation des mesures à explorer
 
 Le @table-matrice-apparition-mesures classe les mesures proposées par fréquence d'apparition dans les entretiens. Les mesures ont été traites de la façon suivantes :
@@ -272,11 +280,11 @@ Le @table-matrice-apparition-mesures classe les mesures proposées par fréquenc
 
 == Descriptions des mesures <chap-description-des-mesures>
 
-=== _M3_ - Base de connaissance interne co-construite <mesure-M3>
+=== _M3_ - Base de connaissance
 
-Proposition la plus fréquente, les collaborateurs manquent de visibilité sur les différents aspects informatiques, en particulier les bonnes pratiques et les règles de sécurité. Il est ressorti que cette problpmatique d'accès était plus large que l'informatique, mais touche aussi l'accès aux informations générales utile pour un collaborateur : Processus d'entreprise, règlements, sphères d'autorité des rôles.
+Proposition la plus fréquente, les collaborateurs manquent de visibilité sur les différents aspects informatiques, en particulier les bonnes pratiques et les règles de sécurité. Il est ressorti que cette problématique d'accès était plus large que l'informatique, mais touche aussi l'accès aux informations générales utile pour un collaborateur : Processus d'entreprise, règlements, sphères d'autorité des rôles.
 
-De façon générale, les informations évoquées existent déjà, mais ne sont pas accessible de façon efficace ou simplement pas connures des collaborateurs. Pour l'IT en particulier, il n'existe actuellement aucun docuemnt particulier a destination des collaborateurs (au dela d'informations eparses transmises à l'oral ou par mail).
+De façon générale, les informations évoquées existent déjà, mais ne sont pas accessible de façon efficace ou simplement pas connues des collaborateurs. Pour l'IT en particulier, il n'existe actuellement aucun docuemnt particulier a destination des collaborateurs (au dela d'informations eparses transmises à l'oral ou par mail).
 
 Les interviewés semblent convaincus q'un accès simplifié et centralisé a l'information utile pour l'accomplissement de leurs tâches résoudrait déjà grandement les incompréhensions et tensions actuelles.
 
@@ -284,8 +292,15 @@ Les interviewés semblent convaincus q'un accès simplifié et centralisé a l'i
 
 === _M2_ - Outil de déscision autonome pour le traitement des données
 
-Lié au type de données sensibles et a ce que l'on peut faire avec
-Mais pourrait aller au-delà de la loi sur les données. Par ex, un outil qui permet aux collaborateurs d'estimer quand supprimer quelles données. Ou comment procéder pour la suppression de tel ou tel donnée.
+Actuellement, la gestion des données, en particulier celles protegées par la loi est assez floue, la Fondation n'ayant pas encore eu les ressources pour s'adapter aux récents changements légaux #footnote[Nouvelle loi sur les données (nLPD) : https://www.kmu.admin.ch/kmu/fr/home/faits-et-tendances/digitalisation/protection-des-donnees/nouvelle-loi-sur-la-protection-des-donnees-nlpd.html]. Un certain nombre de rôles sont pourtant amenés a traiter ce type de données au quotidien, sans disposer de réelle formation ni de procédures pour la bonne gestion de ces données.
+
+Les rôles se posent des questions quant au partage de ces données, a leur stockage, suppression... Le cerle IT pourrait mettre en place des rêgles strictes pour garantir la sécurité des données, cependant il ressort des entretiens que les collaborateurs préféreraient disposer eu même des informations et outils qui leur permettent de traiter ces données en toute sécurité.
+
+Notamment, pouvoir décider en autonomie si une donnée doit être supprimée définitivement ou peut être conservée. Comment les différents types de données peuvent être partagées. Comment identifier le type d'une donnée et les contraintes qui y sont associées.
+
+Cet outil pourrait prendre différente formes, il devrait inclure une forme d'outil de décision quant aux données. Il autonomiserait les rôles dans leur gestion des données, tout en libérant le cercle IT de l'application de règles trop contraingnantes sur les systèmes.
+
+#include "parts/mesures/m2_outil de descision donnees.typ"
 
 === _M5_ - Cadre d'utilisation des outils numériques (sphère d'autorité IT)
 
