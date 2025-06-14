@@ -128,7 +128,7 @@ Suite à des discussions et rencontres, l'approche de l'holacratie semblait remp
 - Les collaborateurs sont libres d'agir dans leur sphère d'autorité.
 - Des mécanismes pour permettre aux rôles de résoudre leurs tensions, mais aussi de remonter des pistes d'améliorations sont prévus.
 
-À noter que la sphère d'autorité n'a à ce jour jamais encore été implémentée de manière satisfaisante. L'implémentation actuelle de la gouvernance est donc toujours en travail et n'est pas intégralement finalisée. Retrouvez d'avantage de détails dans @annexe-entretien-gouvernance[l'annexe].
+À noter que la sphère d'autorité n'a à ce jour jamais encore été implémentée de manière satisfaisante. L'implémentation actuelle de la gouvernance est donc toujours en travail et n'est pas intégralement finalisée.
 
 === Objectifs stratégiques de la gouvernance Jobtrek
 
@@ -290,15 +290,6 @@ Le travail se déroule sur 3 mois (en décomptant les vacances d'avril), voici u
 = Table des figures
 
 #outline(title: none, target: figure)
-
-= Annexes
-
-== Annexe - Entretien sur la gouvernance distribuée avec Daniel Cazes <annexe-entretien-gouvernance>
-
-Un entretien a été mené avec le Directeur pour bien cadrer les objectifs actuels de la gouvernance Jobtrek. Documents annexes liés a l'entretien :
-- Transcription : `2025-05-13_entretien de présentation de la gouvernance.srt`.
-- Notes manuscrites : `2025-05-13_entretien de présentation de la gouvernance distribuée.pdf`.
-- Résumé synthétique : `2025-05-13_entretien de présentation de la gouvernance.pdf`.
 
 #pagebreak()
 
