@@ -376,20 +376,27 @@ L'atelier a été divisé en 2 phases. Dans un premier temps, une phase de retou
 
 La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment les mesures sont ressenties, il était initialement prévu de réaliser une grille de critères puis une évaluation selon le modèle de Kano @modele-de-kano. Le temps n'a permis que de réaliser le modèle de kano, ce dernier permet de visualiser la satisfaction selon la présence ou non de mesures. Les collaborateurs ont dû se positionner sur différentes mesures selon les propositions suivantes :
 
-- En l'absence de la mesure :
-  + *ça me plaît*
-  + *je trouve ça normal*
-  + *ça m’est égal*
-  + *je m’en contente*
-  + *ça me déplaît*
-- En présence de la mesure :
-  + *ça me plaît*
-  + *je trouve ça normal*
-  + *ça m’est égal*
-  + *je m’en contente*
-  + *ça me déplaît*
+#grid(
+  columns: (1fr, 1fr),
+  [
+    - En l'absence de la mesure :
+      + ça me plaît
+      + je trouve ça normal
+      + ça m’est égal
+      + je m’en contente
+      + ça me déplaît
+  ],
+  [
+    - En présence de la mesure :
+      + ça me plaît
+      + je trouve ça normal
+      + ça m’est égal
+      + je m’en contente
+      + ça me déplaît
+  ],
+)
 
-Une foi agrégés, les résultats permettront de construire une matrice de kano, voir @chap-evel-kano.
+Une fois agrégés, les résultats permettront de construire une matrice de kano, voir @chap-evel-kano.
 
 Les supports présentés lors de l'atelier sont disponibles en @annexe-entretiens[annexe].
 
