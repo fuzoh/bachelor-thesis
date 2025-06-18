@@ -92,9 +92,19 @@
 
 == Cadre du travail
 
-== Plan d'actions
+== Plan d'action
 
 = Méthodologie
+
+== Revue de littérature
+
+Pour réunir la littérature en lien avec les sujets abordés dans ce rapport, 2 principales approches ont été utilisées :
+
+Réunir les oeuvres qui ont inspiré la gouvernance de la Fondation, cela afin d'avoir des informations plus fines sur les origines de la gouvernance Jobtrek mais aussi mieux comprendre dans quels courants elle s'inscrit. Pour ce faire, j'ai pris contact avec les membres de la fondation qui ont participé à la construction de la gouvernance pour obtenir leurs sources.
+
+Et, réunir de la littérature plus large, notamment pour faire le pont avec les SI, pour ce faire, les recherches ont essentiellement été effectuées sur la plateforme #link("https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/")[Web of Science]. Il s'agit d'un aggrégateur qui permet de retrouver des articles sur tout type de thématiques via un outil de rechrche avancé. Il est possible de créer des recherches du type "Holacracy AND information technology" afin de contraindre les résults.
+
+#text(fill: red)[todo]
 
 == Phase d'analyse (entretiens)
 
@@ -122,7 +132,7 @@ Les entretiens sont réalisés de manière individuelle, une personne interview�
 
 Au début de l'entretien, la personne est avertie du cadre de l'entretien et de l'enregistrement de ce dernier, voir les détails dans @annexe-guide-entretien[l'annexe].
 
-L'entretien est mené en "entonoire", les questions sont initialement posées de façon très ouverte pour laisser le collaborateur s'exprimer avec un minimum d'ancrages externes, puis au besoin, l'intervieweur rebondis en précisant les questions pour obtenir les détails souhaités selon les thématiques.
+L'entretien est mené en "entonnoir", les questions sont initialement posées de façon très ouverte pour laisser le collaborateur s'exprimer avec un minimum d'ancrages externes, puis au besoin, l'intervieweur rebondis en précisant les questions pour obtenir les détails souhaités selon les thématiques.
 
 À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse.
 
@@ -136,6 +146,7 @@ L'entretien est mené en "entonoire", les questions sont initialement posées de
  * Ancrage dans la littérature
  * */
 #pagebreak()
+
 = Ancrage dans la littérature
 
 #include "parts/revue_de_litterature.typ"
@@ -167,7 +178,7 @@ Intégrer un diagramme de qui est respobsable de quelle partie (notamment les ar
 
 = Analyse du cas Jobtrek
 
-Pour faire suite au @chap-analyse-gouvernance-jobtrek, ce dérnier ayant permis de définir plus clairement comment la gouvernance est actuellement implémentée, quels sont les défis qui lui sont propose. Ce nouveau chapitre s'intéresse plus directement à la problématique du rapport, il s'agit d'identifier plus préciséement les tensions entre le cercle IT et la gouvernance. En particulier de comprendre comment elles sont ressenties par les rôles au sein de la Fondation, sont elles réellement ressenties, quel est leur source, mais aussi d'explorer les potentielles pistes de résolutions.
+Pour faire suite au @chap-analyse-gouvernance-jobtrek, ce dernier ayant permis de définir plus clairement comment la gouvernance est actuellement implémentée, quels sont les défis qui lui sont propose. Ce nouveau chapitre s'intéresse plus directement à la problématique du rapport, il s'agit d'identifier plus précisément les tensions entre le cercle IT et la gouvernance. En particulier de comprendre comment elles sont ressenties par les rôles au sein de la Fondation, sont elles réellement ressenties, quel est leur source, mais aussi d'explorer les potentielles pistes de résolutions.
 
 == Buts et déroulement des entretiens <chap-but-entretiens>
 
@@ -341,9 +352,11 @@ A lissue de la description des mesures qui ont récolté le plus de succès lors
 
 #include "parts/mesures/mesures_secondaires.typ"
 
-=== Description succinte des mesures à 2 apparitions
+=== Description succinte des mesures à 1 et 2 apparitions
 
-=== Descriptions des mesures à 1 apparition
+== Matrice mesures - tensions
+
+A faire, matrice qui représente quelles mesures répondent a quelles tesions.
 
 /**
  * ----------------------------------
@@ -382,8 +395,9 @@ Proposer un découpage en itérations pour mettre en place les mesures sélectio
 
 Parmis les mesures, en choisir quelques unes qui pourraient être mises en place pour en proposer une implémentation.
 
-== Implémentation 1
-== Implémentation 2
+== Nouveau processus de proposition d'améliorations
+
+== Sphère d'autorité informatique
 
 = Conclusion
 
