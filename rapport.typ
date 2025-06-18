@@ -363,19 +363,37 @@ A faire, matrice qui représente quelles mesures répondent a quelles tesions.
  * Evaluation de la pertinance et faisabilité des mesures
  * */
 #pagebreak()
+
 = Évaluation des mesures
 
-Lors de la réunion des coordinateurs de cercles, propose un atelier d'évaluation des mesures
+Pour mieux comprendre l'acceptation des mesures proposées et leur potentiel d'implémentation, une phase d'évaluation a été organisée avec un échantillon des collaborateurs Jobtrek. L'évaluation à pris la forme d'un atelier d'une heure environ avec 10 collaborateurs de la Fondation lors d'une formation pour les coordinateurs de cercles.
 
-== Grille multicritère
+Il a été choisi de faire l'évaluation à ce moment, car cette formation réunissait en un endroit et un moment les coordinateurs de cercles qui représentent les intérêts de tous les cercles de la fondation, notamment les différents sites géographiques, mais aussi les différents corps de métier. Cela permettait donc d'obtenir un avis le plus représentatif possible des membres des cercles sans avoir à consulter tous les rôles -- ce qui n'était pas possible pour des raisons logistiques. Le fait d'avoir les personnes en présentiel permettait d'expliquer la démarche et de lever les incompréhensions directement sur le moment.
 
-Evaluation de la perception des coordinateurs selon certains critères (5 juin lors formation CC)
+== Forme de l'atelier d'évaluation
 
-== Sondage quantitatif ?
+L'atelier a été divisé en 2 phases. Dans un premier temps, une phase de retour écrits et qualitatifs sur les propositions de mesures a été proposée. Les participants ont reçu comme consigne de se répartir en binômes, dans l'idéal des binômes qui travaillent peu ensemble au quotidien, cela afin de favoriser les différences de point de vue et la discussion. Chaque binôme à pu prendre connaissances des mesures, discuter de son implication et annoter la mesure de ces commentaires. Initialement les consignes sur le type d'annotation sont restées vagues, afin de biaiser le mois possible des retours.
 
-Effectuer un sondage auprès de tous les collaborateurs pour obtenir un avis plus "quantitaif sur les mesures"
+La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment les mesures sont ressenties, il était initialement prévu de réaliser une grille de critères puis une évaluation selon le modèle de Kano @modele-de-kano. Le temps n'a permis que de réaliser le modèle de kano, ce dernier permet de visualiser la satisfaction selon la présence ou non de mesures. Les collaborateurs ont dû se positionner sur différentes mesures selon les propositions suivantes :
 
-== Matrice de kano
+- En l'absence de la mesure :
+  + *ça me plaît*
+  + *je trouve ça normal*
+  + *ça m’est égal*
+  + *je m’en contente*
+  + *ça me déplaît*
+- En présence de la mesure :
+  + *ça me plaît*
+  + *je trouve ça normal*
+  + *ça m’est égal*
+  + *je m’en contente*
+  + *ça me déplaît*
+
+Une foi agrégés, les résultats permettront de construire une matrice de kano, voir @chap-evel-kano.
+
+Les supports présentés lors de l'atelier sont disponibles en @annexe-entretiens[annexe].
+
+== Matrice de kano <chap-evel-kano>
 
 A voir si utilisable pour représenter et ou comparer les mesures
 
@@ -424,3 +442,6 @@ Disponible au format PDF dans le fichier joint : `guide_entretien.pdf`.
 Disponible au format PDF dans le fichier joint : `objectif stratégique gouvernance Jobtrek.pdf`.
 
 == Entretiens <annexe-entretiens>
+
+Fiche de description des mesures au format PDF : `fiche_mesure_pour_présentation.pdf`.
+Fiche pour l'évaluation des mesures au format PDF : `table_evaluation des mesures.pdf`.
