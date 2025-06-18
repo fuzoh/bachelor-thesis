@@ -151,10 +151,7 @@ L'entretien est mené en "entonnoir", les questions sont initialement posées de
 
 #include "parts/revue_de_litterature.typ"
 
-== Recommandations générales
-
-
-= Analyse de la gouvernance distribuée Jobtrek <chap-analyse-gouvernance-jobtrek>
+= Gouvernance semi-distribuée de la Fondation Jobtrek <chap-analyse-gouvernance-jobtrek>
 
 == Vision et mission
 
@@ -225,7 +222,7 @@ La frustration quand a l'efficacité de certains outils actuels est grande, il n
 De façon générale, l'accent est mis sur la nécessité de communiquer de manière extensive sur de futurs changements, de les justifier, et de permettre aux collaborateurs de demander des modifications et/ou justifications. Les collaborateurs ne semblent pas prèts a accepter des changements arbitraires qui réduisent leur efficacité ou sont mal comuniqués.
 Cependant, si ces points sont travaillés, ils semble tout a fait ouvert a des adaptations.
 
-== Tensions relevées
+== Tensions relevées <chap-tensions-relevées>
 
 Résumé des principales tensions qui ressortent des différentes discussions :
 
@@ -286,6 +283,14 @@ Le @table-matrice-apparition-mesures classe les mesures proposées par fréquenc
 - *1 apparition :* Pas de concéption, les mesures ont juste été décrites pour permettre une future implémentation.
 
 #include "parts/mesures/matrice_priorites.typ"
+
+=== Réponse des mesures aux tensions
+
+Le @chap-tensions-relevées synthétise les tensions qui ont été relevées par les collaborateurs lors des entretiens. Le @table-mesures-tensions met en relation les mesures qui vont êtres explorées plus loin avec les tensions qu'elles permetteraient de résoudre. On peut ainsi visualiser la couverture des tensions par les mesures proposées.
+
+#include "parts/mesures/matrice_mesures_tensions.typ"
+
+#text(fill: red)[Analyse.... et finition de la table]
 
 #pagebreak()
 
@@ -354,9 +359,6 @@ A lissue de la description des mesures qui ont récolté le plus de succès lors
 
 === Description succinte des mesures à 1 et 2 apparitions
 
-== Matrice mesures - tensions
-
-A faire, matrice qui représente quelles mesures répondent a quelles tesions.
 
 /**
  * ----------------------------------
@@ -402,32 +404,59 @@ Les supports présentés lors de l'atelier sont disponibles en @annexe-entretien
 
 == Matrice de kano <chap-evel-kano>
 
-A voir si utilisable pour représenter et ou comparer les mesures
+#include "parts/eval_matrice_knao.typ"
+
+#text(
+  fill: red,
+)[inclure une fois la matrice avec les axes de kano pour comprendre les synifications puis une seconde fois la matrice avec les données finales.]
+
+Proposer ensuite un classement des mesures qui fait le lien entre le ressenti des collaborateurs et la nécessité des mesures.
+
+== Retours sur les mesures
+
+Lors de l'atelier d'évaluation, les commentaires d'évaluation des mesures ont été consignés directement sur les feuilles de présentation. Vous trouvez leurs scans en @annexe-entretiens[annexe], ci dessous les différents éléments relevés par mesure :
+
+#include "parts/evaluation/m2_outil de descision donnees.typ"
 
 == Evaluation des mesures selon la revue de littérature
 
-Propose un chapitre qui évalue les mesures en regard de ce qui est ressorti des bonne pratiques générales proposées par la revue de littérature
-
-= Stratégie de mise en œuvre
-
-Proposer un découpage en itérations pour mettre en place les mesures sélectionnées/recommandées
+Propose un chapitre qui évalue les mesures en regard de ce qui est ressorti des bonne pratiques générales proposées par la revue de littérature. #text(fill: red)[Faire une table qui indique quel concept de la revue de la littérature est couvert par quelle mesure.]
 
 == Choix des mesures à implémenter
 
-== Ordre d'implémentation
-
 = Implémentation de mesures
 
-Parmis les mesures, en choisir quelques unes qui pourraient être mises en place pour en proposer une implémentation.
+Parmis les mesures proposées et évaluées, deux on pu être crées et proposées a la fondation. Le temps n'a pas permis de les mettre en place, cependant elles sont prètes pour une mise en place prochaine.
+
+Les 2 mesures ont été crées puis revues par différents collègues pour s'assurer qu'elles correspondent aux attentes.
 
 == Nouveau processus de proposition d'améliorations
 
 == Sphère d'autorité informatique
 
+= Discussion
+
+La question de recherche initiale ...
+
+2 éléments de réponse
+
+La gouvernance distibuée à besoin d'une structure forte pour que les choses habituellement gérées par un chef puissent fonctionner de façon distribuée. Des process et cérémonies doivent être mis en place pour que cela fonctionne. Jobtrek n'a pas encore ce niveau de maturité dans les process.
+
+Il apparait alors une contradiction. Dans les structures classiques, l'it a besoin de process clair et établis pour fonctionner efficacement. Cependant, dans le cas de jobtrek il a toujours été difficile de mettre en place ces process, vient alors les mesures liées à la communication.
+
+== Proposition de stratégie d'implémentation
+
+/// Conclusion
+/// ----------------------------
+#pagebreak()
+
 = Conclusion
 
 == Ouverture
 
+/// Bibliographie, annexes et tables
+/// ----------------------------
+#pagebreak()
 = Bibliographie
 
 #bibliography(title: none, "bibliography.bib", style: "apa")
@@ -436,8 +465,6 @@ Parmis les mesures, en choisir quelques unes qui pourraient être mises en place
 
 #outline(title: none, target: figure)
 
-
-#pagebreak()
 = Annexes
 
 == Guide d'entretien <annexe-guide-entretien>

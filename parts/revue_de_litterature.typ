@@ -24,7 +24,7 @@ L'holacratie @holacracy-brian-robertson semble s'imposer comme la structure de g
 
 Pour #cite(form: "prose", <reinventing-organisations-frederic-laloux>) et #cite(form: "prose", <holacracy-brian-robertson>) nous arrivons à la limite des systèmes de gouvernance habituels, ou les responsabilités sont basées sur la hiérarchie et les fonctions. Ces modes de gouvernance ne seraient plus adaptés à la complexité de notre monde et des structures qui le composent. Notamment, leur rigidité et leur inertie empêcheraient l'adaptation efficace aux changements et aux nouvelles générations.
 
-Ils proposent de nouvelles approches qui doivent permettre de "libérer" les entreprises et le potentiel de leurs collaborateurs. Cela passe par la distribution des responsabilités sur toute l'équipe et retirant la notion de hiérarchie afin d'impliquer d'avantage les collaborateurs et leur permettre d'agir avec plus de libertés. Le pouvoir n'est plus incarné, mais remplacé par la mise en place de plusieurs processus distribués doit permettre de remplacer ce qui est habituellement accompli par la hiérarchie.
+Ils proposent de nouvelles approches qui doivent permettre de "libérer" les entreprises et le potentiel de leurs collaborateurs. Cela passe par la distribution des responsabilités sur toute l'équipe et retirant la notion de hiérarchie afin d'impliquer davantage les collaborateurs et leur permettre d'agir avec plus de libertés. Le pouvoir n'est plus incarné, mais remplacé par la mise en place de plusieurs processus distribués doit permettre de remplacer ce qui est habituellement accompli par la hiérarchie.
 
 #cite(form: "prose", <reinventing-organisations-frederic-laloux>) propose aussi d'introduire un "raison d'être" aux entreprises. Cette dernière représente le but final de la structure, ce qui justifie son existence, l'entreprise est considérée comme un organisme vivant. Tous les membres de la structure doivent être alignés sur cette raison d'être et la stratégie de l'entreprise peut alors émerger directement par le bas en suivant les processus distribués et la raison d'être. Il n'est alors plus nécessaire de disposer d'une stratégie générale édictée par un comité.
 
@@ -44,7 +44,7 @@ Ces rôles sont regroupés en cercles, qui représentent les équipes. L'holacra
 
 Les différentes séances proposées par l'holacratie doivent permettre au groupe de résoudre les problémes en autonomie et d'assurer son fonctionnement sans chef centralisé. Afin que tout cela soit formalisé, la notion d'une constitution est introduite. Il s'agit d'un document, accepté par tous qui réunis les règles de fonctionnement de la gouvernance et les limites qu'il n'est pas possible de dépasser.
 
-=== Gouvernance distribuée avec une structure forte
+=== Gouvernance distribuée et structure forte
 
 Bien que l'holacratie et les organisations _opales_ puissent donner l'impression de faire l'impasse sur une structure et des méthodes de fonctionnement claire, #cite(form: "prose", <reinventing-organisations-frederic-laloux>) insiste sur le fait que de telles organisations impliquent en réalité un haut niveau de strucutre et de formalisme. Son constat est même qu'elles doivent être plus organisées que d'autres structures plus hiérarchiques.
 
@@ -63,6 +63,8 @@ Certains craignent que le grand nombre de processus, de formalisme et de réunio
 
 === Place de la gouvernance distribuée dans le numérique
 
+== Liste des éléments nécessaires pour la gouvernance distribuée
 
+#text(fill: red)[faire un tableau afin d'y faire référence]
 
 == Limites et problématiques connues
