@@ -18,25 +18,19 @@
 
 #v(8em)
 
-#align(
-  center,
-  text(
-    size: 16pt,
-    "Demande de ratification de sujet de travail de Bachelor
+#align(center, text(
+  size: 16pt,
+  "Demande de ratification de sujet de travail de Bachelor
     en Informatique de gestion",
-  ),
-)
+))
 
 #v(2em)
 
-#align(
-  center,
-  text(
-    size: 18pt,
-    weight: "bold",
-    "Concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée",
-  ),
-)
+#align(center, text(
+  size: 18pt,
+  weight: "bold",
+  "Concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée",
+))
 
 #v(2em)
 
@@ -60,6 +54,9 @@
 ]
 
 *Résumé managérial*
+La fondation Jobtrek, active dans l'insertion profesionelle et la formation d'apprentis met en ouvre une gouvernance semi distribuée pour l'accomplissement de ses tâches. Actuellement différentes tensions existent entre la gouvernance -- qui offre une grande liberté pour les collaborateurs -- et le service informatique, qui as des contraintes de sécurité ou légales l'obligeant a imposer des choix aux équipes.
+
+Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son service informatique, comment faire fonctionner ces deux éléments ensemble. Les besoins des collaborateurs, de l'IT et de la gouvernance ont été analysés, cela afin d'identifier les tensions existantes et de proposer des mesures qui permettrait de les résoudre. Les mesures ont été ensuite évaluées afin de proposer une suite de mesures cohérentes qui permettrait à la Fondation de fluidifier le fonctionnement du service IT et de la gouvernance.
 ...
 
 #pagebreak()
@@ -67,12 +64,7 @@
 #outline(
   depth: 3,
   indent: 0.6em,
-  title: text(
-    font: "Articulat CF",
-    size: 14pt,
-    weight: "semibold",
-    [Table des matières],
-  ),
+  title: text(font: "Articulat CF", size: 14pt, weight: "semibold", [Table des matières]),
 )
 
 #pagebreak()
@@ -384,16 +376,16 @@ La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment l
     - En l'absence de la mesure :
       + ça me plaît
       + je trouve ça normal
-      + ça m’est égal
-      + je m’en contente
+      + ça m'est égal
+      + je m'en contente
       + ça me déplaît
   ],
   [
     - En présence de la mesure :
       + ça me plaît
       + je trouve ça normal
-      + ça m’est égal
-      + je m’en contente
+      + ça m'est égal
+      + je m'en contente
       + ça me déplaît
   ],
 )
