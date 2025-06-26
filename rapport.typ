@@ -220,6 +220,12 @@ Résumé des principales tensions qui ressortent des différentes discussions :
 
 #include "parts/tensions_relevees_lors_entretiens.typ"
 
+=== Taux d'apparition des tensions
+
+Le @table-matrice-apparition-tensions ci dessous permet de voir quelles tensions ont été le plus fréquemment abordées par les personnes interviewées.
+
+#include "parts/matrice_priorites_tensions.typ"
+
 == Gouvernance distribuée et IT
 
 Au fil des entretiens, il sembre ressortir que la tension principale rencontrées par la Fondation (consilier les impératifs IT avec la gouvernance) pourrait dans les fait n'être que le symptome de tensions plus opérationnelles.
@@ -366,9 +372,9 @@ Il a été choisi de faire l'évaluation à ce moment, car cette formation réun
 
 == Forme de l'atelier d'évaluation
 
-L'atelier a été divisé en 2 phases. Dans un premier temps, une phase de retour écrits et qualitatifs sur les propositions de mesures a été proposée. Les participants ont reçu comme consigne de se répartir en binômes, dans l'idéal des binômes qui travaillent peu ensemble au quotidien, cela afin de favoriser les différences de point de vue et la discussion. Chaque binôme à pu prendre connaissances des mesures, discuter de son implication et annoter la mesure de ces commentaires. Initialement les consignes sur le type d'annotation sont restées vagues, afin de biaiser le mois possible des retours.
+L'atelier a été divisé en 2 phases. Dans un premier temps, une phase de retour écrits et qualitatifs sur les propositions de mesures a été réalisée. Les participants ont reçu comme consigne de se répartir en binômes, dans l'idéal des binômes qui travaillent peu ensemble au quotidien, cela afin de favoriser les différences de point de vue et la discussion. Chaque binôme à pu prendre connaissances des mesures, discuter de son implication et annoter la mesure de ces commentaires. Initialement les consignes sur le type d'annotation sont restées vagues, afin de biaiser le mois possible des retours.
 
-La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment les mesures sont ressenties, il était initialement prévu de réaliser une grille de critères puis une évaluation selon le modèle de Kano @modele-de-kano. Le temps n'a permis que de réaliser le modèle de kano, ce dernier permet de visualiser la satisfaction selon la présence ou non de mesures. Les collaborateurs ont dû se positionner sur différentes mesures selon les propositions suivantes :
+La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment les mesures sont ressenties, il était initialement prévu de réaliser une évaluation avec une grille de critères puis une évaluation selon le modèle de Kano @modele-de-kano. Le temps n'a permis que de réaliser le modèle de kano, ce dernier permet de visualiser la satisfaction selon la présence ou non de mesures. Les collaborateurs ont dû se positionner sur différentes mesures selon les propositions suivantes :
 
 #grid(
   columns: (1fr, 1fr),
@@ -392,24 +398,42 @@ La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment l
 
 Une fois agrégés, les résultats permettront de construire une matrice de kano, voir @chap-evel-kano.
 
-Les supports présentés lors de l'atelier sont disponibles en @annexe-entretiens[annexe].
+A la fin de l'atelier, un moment informel de discussion à été réalisé afin de récolter des retours plus généraux et "décontractés" sur les différents réflexions englobeant la gouvernance et le cercle IT.
+
+Les supports présentés lors de l'atelier sont disponibles en @annexe-entretiens[annexe]. Seule la partie matrice de kano des supports d'évaluation à été utilisée.
+
+#pagebreak()
 
 == Matrice de kano <chap-evel-kano>
 
-#include "parts/eval_num_votes_per_measure.typ"
+La matrice de kano est un modèle proposé par #cite(form: "prose", <modele-de-kano>) qui propose une approche pour évaluer ou prioriser des éléments en questionnant l'utilisateur sur sa satisfaction avec ou sans la présence de l'élément évalué. Le @table-kano-matrix ci dessous est une visualisation possible de la matrice. Il est aussi possible de visualiser la matrice en graphe #footnote[Un exemple de graphe : https://innover-malin.com/diagramme-de-kano/#:~:text=La%20lecture%20du%20diagramme%20de%20Kano].
 
 #include "parts/matrice_knao.typ"
+
+L'axe horizontal correspond à la question "En l'absence de la mesure" dans lequel des 5 états êtes-vous. L'axe vertical correspond à la question "En présence de la mesure" comment vous sentez vous. Les mesures bleues sont importantes à mettre en place à tout prix. Les mesures rouges sont à éviter. Les mesures vertes sont celles qui peuvent apporter si elles sont présentes, mais ne dérangent pas forcément en leur absence. À l'opposé, les mesures orange sont celles qui semblent devoir être en place, mais n'apportent pas forcément de satisfaction particulière.
+
+=== Résultats de l'évaluation
+
+Certains collègues n'ont pas eu le temps d'évaluer toutes les mesures, la @graph-nb-vote-kano permet de voir le nombre de votes par mesures. Les mesures #link(<mesure-M17>, "17"), #link(<mesure-M3>, "3") et #link(<mesure-M2>, "2") n'ont pas été évaluées par tous.
+
+#include "parts/eval_num_votes_per_measure.typ"
+
+Les données brutes récoltées auprès des collaborateurs ont été transcrites dans un document numérique, puis transformées et agrégées #footnote[Le nettoyage, l'agrégation et les transformations de données ont été réalisées dans un notebook jupyter à l'aide de la librairie polars. Le script est disponible en @annexe-evaluation-mesures[annexe].] pour en obtenir le pourcentage de présence de chaque mesure dans les différentes catégories de la matrice de kano présentée à la @table-kano-matrix.
+
 #include "parts/kano_table.typ"
 
-#text(
-  fill: red,
-)[inclure une fois la matrice avec les axes de kano pour comprendre les synifications puis une seconde fois la matrice avec les données finales.]
+Quatre mesures ressortent dans la catégorie "Performance" ou "Attractif" (#link(<mesure-M13>, "m13"), #link(<mesure-M4>, "m4"), #link(<mesure-M1>, "m1"), #link(<mesure-M3>, "m3")), le pourcentage cumulé de ces 2 catégories pour ces 4 mesures est aussi le plus élevé parmis toutes les mesures évaluées. A noter :
+- La mesure 3 était aussi la mesure la plus proposée lors des entretiens initiaux.
+- La mesure 4 était proposée par la moité des interviewés lors des entretiens.
+- Les mesures 13 et 1 n'avait été proposées que par peu de personnes, mais sont positivement évaluées.
 
-Proposer ensuite un classement des mesures qui fait le lien entre le ressenti des collaborateurs et la nécessité des mesures.
+Certaines des mesures qui avaient été considérées comme principale lors des entretiens initiaux n'ont pas récolté d'évaluation particulièrement encourageante. Notamment les mesures 2, 5, 6 et 17. La mesure 2 tombe dans la catégorie contreproductive, alors même qu'elle avait été suggérée par une majorité de personnes interviewées et quelle répond a plusieurs tensions.
+
+Le reste des mesures sont dans la catégorie "indifférent", elles ne semblent donc pas attirer particulièrement les collaborateurs et n'avait d'ailleurs pas été suggérées en quantité lors des entretiens.
 
 == Retours sur les mesures
 
-Lors de l'atelier d'évaluation, les commentaires d'évaluation des mesures ont été consignés directement sur les feuilles de présentation. Vous trouvez leurs scans en @annexe-entretiens[annexe], ci dessous les différents éléments relevés par mesure :
+Lors de l'atelier d'évaluation, les commentaires d'évaluation des mesures ont été consignés directement sur les feuilles de présentation. Vous trouvez leurs scans en @annexe-entretiens[annexe], ci-dessous les différents éléments relevés par mesure :
 
 #include "parts/evaluation/m2_outil de descision donnees.typ"
 
@@ -472,5 +496,11 @@ Disponible au format PDF dans le fichier joint : `objectif stratégique gouverna
 
 == Entretiens <annexe-entretiens>
 
-Fiche de description des mesures au format PDF : `fiche_mesure_pour_présentation.pdf`.
+Fiche de description des mesures au format PDF : `fiche_mesure_pour_présentation.pdf`. \
 Fiche pour l'évaluation des mesures au format PDF : `table_evaluation des mesures.pdf`.
+
+== Evaluation des mesures <annexe-evaluation-mesures>
+
+Le scan des résultats bruts est disponible en PDF : `evaluations matrice kano.pdf`. \
+La transcription est données au fromat csv : `assets/evaluation/data_kano.csv`. \
+Le notebook jupyter pour le traitement des données : `data.ipynb`

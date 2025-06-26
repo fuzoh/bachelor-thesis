@@ -5,6 +5,7 @@
 #figure(
   lq.diagram(
     width: 10cm,
+    height: 2cm,
     ylim: (0, 10),
     xaxis: (
       subticks: none,

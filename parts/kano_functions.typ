@@ -1,5 +1,4 @@
-
-
+/// Utilitaries to generate cells for the kano matrix
 #let colors = (
   performance: blue.lighten(50%),
   attractive: green.lighten(50%),
@@ -12,7 +11,7 @@
 #let text = (
   performance: "Performance",
   attractive: "Attractif",
-  indiferent: "Indiférent",
+  indiferent: "Indifférent",
   questionable: "Questionnable",
   reverse: "Contreproductif",
   "must-be": "Obligatoire",
