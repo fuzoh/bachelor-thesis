@@ -18,25 +18,19 @@
 
 #v(8em)
 
-#align(
-  center,
-  text(
-    size: 16pt,
-    "Demande de ratification de sujet de travail de Bachelor
+#align(center, text(
+  size: 16pt,
+  "Demande de ratification de sujet de travail de Bachelor
     en Informatique de gestion",
-  ),
-)
+))
 
 #v(2em)
 
-#align(
-  center,
-  text(
-    size: 18pt,
-    weight: "bold",
-    "Concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée",
-  ),
-)
+#align(center, text(
+  size: 18pt,
+  weight: "bold",
+  "Concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée",
+))
 
 #v(2em)
 
@@ -61,16 +55,7 @@
 
 #pagebreak()
 
-#outline(
-  depth: 3,
-  indent: 0em,
-  title: text(
-    font: "Articulat CF",
-    size: 14pt,
-    weight: "semibold",
-    [Table des matières],
-  ),
-)
+#outline(depth: 3, indent: 0em, title: text(font: "Articulat CF", size: 14pt, weight: "semibold", [Table des matières]))
 
 #pagebreak()
 

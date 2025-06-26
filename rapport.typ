@@ -80,11 +80,32 @@ Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son se
 
 = Introduction
 
-== La fondation Jobtrek
+Ce travail est organisé dans le cadre du Bachelor en informatique de gestion délivré par la Haute école arc à Neuchâtel, il s'agit du travail final de la formation. Le cas a été proposé par la Fondation Jobtrek, il s'agit d'un cas axé gestion d'entreprise et de ses systèmes d'information. La fondation Jobtrek cherche à mieux intégrer son cercle informatique, notamment en lui permettant de mieux travailler avec la gouvernance semi-distribuée en place.
 
-== Cadre du travail
+== Présentation de la Fondation
+
+La Fondation Jobtrek est active depuis près de 10 ans dans l'insertion professionnelle et l'accompagnement des jeunes sur le canton de Vaud. Sa mission est de favoriser l'intégration durable des jeunes dans le monde du travail en s'appuyant sur une approche holistique et personnalisée.
+Les axes principaux de Jobtrek s'articulent autour de :
+- Insertion professionnelle (MISt): Aide les jeunes à trouver leur premier apprentissage ou emploi.
+- Centre de formation (JobtrekSchool): Accueille des apprentis en employé de commerce, informatique et autres métiers adaptés aux besoins du marché.
+- Programmes de réinsertion (Ecotrek): Soutient les adultes pour retrouver un emploi en utilisant la durabilité comme levier motivationnel.
+- Placement en stage (Relai Entreprises): Facilite la mise en relation et le placement en stages des élèves en fin de scolarité obligatoire.
+Jobtrek se distingue par son modèle de gouvernance innovant, inspiré de l'holacratie @reinventing-organisations-frederic-laloux et adapté en interne sous le nom de Jobtrekracy. Ce modèle favorise la responsabilisation, l'autonomie des collaborateurs et l'adaptabilité face aux évolutions rapides du secteur.
+Actuellement, Jobtrek emploie 30 collaborateurs et s'appuie sur divers outils numériques pour la gestion et le suivi de ses activités.
+
+== Contexte du cas
+
+Au cours de ces 10 années d'existence, Jobtrek est passé d'un collaborateur à plus de 30 aujourd'hui. Les produits proposés par la fondation on régulièrement changé et évolués. Pour répondre a ces évolutions rapides, Jobtrek a pu compter sur différents collaborateurs et bénévoles qui ont permis la mise en place du système informatique tel qu'il est actuellement opéré.
+
+Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'une planification particulière ou d'une réflexion sur le long terme. Il a été mis en place de manière pragmatique, en fonction des besoins immédiats et des opportunités qui se sont présentées.
+
+Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, mais, en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave aux apports de la gouvernance distribuée.
+
+== Question de recherche
 
 == Plan d'action
+
+
 
 = Méthodologie
 
@@ -92,11 +113,11 @@ Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son se
 
 Pour réunir la littérature en lien avec les sujets abordés dans ce rapport, 2 principales approches ont été utilisées :
 
-Réunir les oeuvres qui ont inspiré la gouvernance de la Fondation, cela afin d'avoir des informations plus fines sur les origines de la gouvernance Jobtrek mais aussi mieux comprendre dans quels courants elle s'inscrit. Pour ce faire, j'ai pris contact avec les membres de la fondation qui ont participé à la construction de la gouvernance pour obtenir leurs sources.
+Réunir les œuvres qui ont inspiré la gouvernance de la Fondation, cela afin d'avoir des informations plus fines sur les origines de la gouvernance Jobtrek mais aussi mieux comprendre dans quels courants elle s'inscrit. Pour ce faire, contact a été pris avec les membres de la fondation qui ont participé à la construction de la gouvernance pour obtenir leurs sources.
 
-Et, réunir de la littérature plus large, notamment pour faire le pont avec les SI, pour ce faire, les recherches ont essentiellement été effectuées sur la plateforme #link("https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/")[Web of Science]. Il s'agit d'un aggrégateur qui permet de retrouver des articles sur tout type de thématiques via un outil de rechrche avancé. Il est possible de créer des recherches du type "Holacracy AND information technology" afin de contraindre les résults.
+Deuxièmement, réunir de la littérature plus large, notamment pour faire le pont avec les SI, pour ce faire, les recherches ont essentiellement été effectuées sur la plateforme #link("https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/")[Web of Science]. Il s'agit d'un agrégateur qui permet de retrouver des articles sur tout type de thématiques via un outil de recherche avancé. Il est possible de créer des recherches du type "Holacracy AND information technology" afin de contraindre les résultats.
 
-#text(fill: red)[todo]
+Les resources récoltées ont ensuite été analysées par thématiques afin d'identifier les principeaux axes qui définissent les systèmes à gouvernance distribuée et leurs liens avec le SI.
 
 == Phase d'analyse (entretiens)
 
@@ -128,7 +149,11 @@ L'entretien est mené en "entonnoir", les questions sont initialement posées de
 
 À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse.
 
-== Evaluation
+== Évaluation
+
+La phase d'évaluation des mesures proposées dans la phase d'analyse est relativement succincte afin qu'elle s'intègre dans la planification des collaborateurs concernés. Une première évaluation a été réalisée sous la forme d'un atelier avec l'essentiel des personnes qui portent le rôle de "coordinateurs de cercles" de la Fondation. Le choix de ce rôle c'est imposé car l'atelier pouvait être intégré dans une séance déjà planifiée avec ces personnes, et que chaque coordinateur représente un des cercles de la fondation, cela permet d'avoir d'un coup des avis qui représentent toutes les personnes de la fondation -- domaine métier et produits confondus.
+
+L'atelier a été organisé en deux phases, une permière qui as pour but de récolter des avis qualitatifs sur les différentes propositions d'améliorations. Une seconde pour récolter des données quantitatives. Pour la première phase il à été choisi de réaliser un atelier en binômes dans lequel les personnes ont pu prendre connaissance des mesures une a unes et les commenter au regard de leur expérience à Jobtrek. Puis, dans la seconde phase il à été choisi de réaliser une analyse en utilisant la matrice de kano afin d'évaluer la pertinence des mesures @modele-de-kano.
 
 == Implémentation
 
@@ -485,6 +510,10 @@ Il apparait alors une contradiction. Dans les structures classiques, l'it a beso
 #outline(title: none, target: figure)
 
 = Annexes
+
+== Demande de ratification <annexe-demande-de-ratification>
+
+Disponible au format PDF : `demande de ratification.pdf`.
 
 == Guide d'entretien <annexe-guide-entretien>
 
