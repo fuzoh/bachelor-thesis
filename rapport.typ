@@ -396,7 +396,9 @@ Les supports présentés lors de l'atelier sont disponibles en @annexe-entretien
 
 == Matrice de kano <chap-evel-kano>
 
-#include "parts/eval_matrice_knao.typ"
+#include "parts/eval_num_votes_per_measure.typ"
+
+#include "parts/kano_table.typ"
 
 #text(
   fill: red,
