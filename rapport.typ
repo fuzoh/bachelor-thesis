@@ -398,6 +398,7 @@ Les supports présentés lors de l'atelier sont disponibles en @annexe-entretien
 
 #include "parts/eval_num_votes_per_measure.typ"
 
+#include "parts/matrice_knao.typ"
 #include "parts/kano_table.typ"
 
 #text(

@@ -1,20 +1,12 @@
 // Propositions d'améliorations lors des entretiens
+#import "kano_functions.typ": category_cell
 
 #let data_kano = csv("../assets/evaluation/kano_matrix_table.csv")
-
-#let colors = (
-  performance: blue.lighten(50%),
-  attractive: green.lighten(50%),
-  indiferent: gray.lighten(50%),
-  questionable: gray.lighten(50%),
-  reverse: red.lighten(50%),
-  "must-be": orange.lighten(50%),
-)
 
 #let table_row = row => {
   return (
     [*#row.at(0)*],
-    table.cell(fill: colors.at(row.at(7)))[#row.at(7)],
+    category_cell(row.at(7)),
     [#calc.ceil(float(row.at(1))) %],
     [#calc.ceil(float(row.at(2))) %],
     [#calc.ceil(float(row.at(3))) %],
