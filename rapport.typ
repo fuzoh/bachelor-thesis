@@ -246,7 +246,7 @@ Le violet représente le support aux axes principeaux. En haut, la direction et 
 Pour finir, à gauche en jaune, l'environnement qui doit être pris en compte pour l'accomplissement de la mission Jobtrek, et à droite en bleu, les bénéficiaire de la Fondation.
 
 #figure(
-  image("assets/carte générale des process.svg"),
+  image("assets/carte générale des process.png"),
   caption: [Carte générale des processus Ossad @the-ossad-methodology],
 ) <fig-carte-gen-processus>
 

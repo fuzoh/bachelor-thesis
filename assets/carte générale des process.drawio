@@ -1,76 +1,76 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="4">
   <diagram name="Page-1" id="kW_oIhUxRkiqL0Kq-PUK">
-    <mxGraphModel dx="821" dy="-599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="944" dy="-514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jqjiF2n1SpppxXGoInOC-1" value="Formation :&lt;br&gt;- profesionelle (domaine métier spécifique)&lt;br&gt;- générale (cours de soutien et ratrappage)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-1" value="Formation :&lt;br&gt;- profesionelle (domaine métier spécifique)&lt;br&gt;- générale (cours de soutien et ratrappage)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="230" y="1310" width="430" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-2" value="Démarchage :&lt;br&gt;- recherche de place de stage&lt;br&gt;- recherche d&#39;entreprises formatrices&lt;br&gt;- promotion des jeunes profesionnels&lt;br&gt;- compréhension des besoins des entreprises" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-2" value="Démarchage :&lt;br&gt;- recherche de place de stage&lt;br&gt;- recherche d&#39;entreprises formatrices&lt;br&gt;- promotion des jeunes profesionnels&lt;br&gt;- compréhension des besoins des entreprises" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="230" y="1400" width="430" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-3" value="Coaching :&lt;div&gt;- Travail sur les freins psychosociaux&lt;/div&gt;&lt;div&gt;- Orientation profesionnelle&lt;/div&gt;&lt;div&gt;- Soutien administratif&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-3" value="Coaching :&lt;div&gt;- Travail sur les freins psychosociaux&lt;/div&gt;&lt;div&gt;- Orientation profesionnelle&lt;/div&gt;&lt;div&gt;- Soutien administratif&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="230" y="1490" width="430" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-4" value="Communeauté et Promotion&lt;div&gt;- réseau d&#39;entreprises&lt;/div&gt;&lt;div&gt;- événements autour des thématiques Jobtrek&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-4" value="Communeauté et Promotion&lt;div&gt;- réseau d&#39;entreprises&lt;/div&gt;&lt;div&gt;- événements autour des thématiques Jobtrek&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="230" y="1580" width="430" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-9" value="&lt;div&gt;&lt;div&gt;&quot;Une économie saine et pérenne dans laquelle chacun trouve sa place&quot;&lt;/div&gt;&lt;div&gt;Vision, Valeurs et Stratégie&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-9" value="&lt;div&gt;&lt;div&gt;&quot;Une économie saine et pérenne dans laquelle chacun trouve sa place&quot;&lt;/div&gt;&lt;div&gt;Vision, Valeurs et Stratégie&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="230" y="1220" width="430" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="230" y="1670" width="430" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-11" value="IT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-11" value="IT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="380" y="1680" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-12" value="Finance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-12" value="Finance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="240" y="1720" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-13" value="RH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-13" value="RH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="240" y="1680" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-14" value="Conseil de Fondation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-14" value="Conseil de Fondation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="240" y="1260" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-15" value="Comité de direction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-15" value="Comité de direction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="450" y="1260" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-16" value="Logistique" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-16" value="Logistique" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="540" y="1720" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-17" value="Besoins du marché du travail et des entreprises" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-17" value="Besoins du marché du travail et des entreprises" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="190" y="1310" width="30" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-18" value="Besoin des jeunes sans formation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-18" value="Besoin des jeunes sans formation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="150" y="1490" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-19" value="Administration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-19" value="Administration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="510" y="1680" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-20" value="Comuneauté" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-20" value="Comuneauté" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="330" y="1720" width="101" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-22" value="Qualité" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-22" value="Qualité" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="440" y="1720" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-23" value="Besoins des jeunes en formation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-23" value="Besoins des jeunes en formation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="110" y="1490" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-26" value="Jeunes en cours d&#39;insertion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-26" value="Jeunes en cours d&#39;insertion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="670" y="1310" width="30" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-27" value="Jeunes en formation profesionelle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-27" value="Jeunes en formation profesionelle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="710" y="1310" width="30" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-28" value="Adultes en cours d&#39;insertion ou de réinsertion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-28" value="Adultes en cours d&#39;insertion ou de réinsertion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="750" y="1310" width="30" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-30" value="Ecole profesionelle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-30" value="Ecole profesionelle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="110" y="1310" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="jqjiF2n1SpppxXGoInOC-31" value="Office cantonal d&#39;insertion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-31" value="Office cantonal d&#39;insertion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="150" y="1310" width="30" height="170" as="geometry" />
         </mxCell>
       </root>
