@@ -147,13 +147,15 @@ Deuxièmement, réunir de la littérature plus large, notamment pour faire le po
 
 Les resources récoltées ont ensuite été analysées par thématiques afin d'identifier les principeaux axes qui définissent les systèmes à gouvernance distribuée et leurs liens avec le SI.
 
-== Phase d'analyse (gouvernance)
+== Phase d'analyse générale (gouvernance et fondation)
 
 L'analyse de la gouvernance à été réalisée en parcourant les outils de gesion en place, les documents qui la décrivent et les différents process d'entreprise. Un entretien avec le directeur à aussi été organisé afin de connaitre les détails et l'historique de la gouvernance actuelle.
 
+Une carte générale des processus tel que proposé par la méthode Ossad @the-ossad-methodology.
+
 #text(fill: red)[*TODO*]
 
-== Phase d'analyse (entretiens)
+== Phase d'analyse spécifique (IT et gouvernance, entretiens)
 
 Afin de récolter ces données, il a été décidé de réaliser des entretiens auprès des collaborateurs. Cela afin d'obtenir des données de qualités et de permettre de détailler les éléments remontés par les collaborateurs en posant des questions supplémentaires.
 
@@ -222,22 +224,26 @@ Nommée "Jobtrekracy", il ne s'agit pas d'une application stricte de l'holacrati
 - Basé sur la confiance.
 - Faciliter l'intégration des nouvelles générations.
 
-Suite à des discussions et rencontres, l'approche de l'holacratie semblait remplir ces conditions et nécessiter peu d'adaptations pour correspondre aux besoins d'une Fondation suisse. C'est alors que les briques essentielles de la gouvernance ont été créées :
+Suite à des discussions et rencontres, l'approche de l'holacratie semblait remplir ces conditions et nécessiter peu d'adaptations pour correspondre aux besoins d'une Fondation Suisse. En s'inspirant des modèles de gouvernance distribuée et après prise en compte des contraintes imposées à la fondation, les premières briques de la gouvernance ont été crées :
 
-- Un comité de direction, seule entité avec un pouvoir hiérarchique. Garant de la stratégie et de la gouvernance.
-- Des cercles imbriqués constitués de rôles.
+- Un comité de direction, seule entité avec un pouvoir hiérarchique. Garant de la stratégie de la Fondation et de la gouvernance. Il sert a faire le pont entre les organismes externes (ex. l'état) et les collaborateurs.
+- Une organisation des équipes en cercles imbriqués constitués de rôles.
   - Les rôles définissent les responsabilités des collaborateurs.
   - Les cercles regroupent les rôles par produits ou domaines métiers selon les besoins.
-- Les collaborateurs sont libres d'agir dans leur sphère d'autorité.
-- Des mécanismes pour permettre aux rôles de résoudre leurs tensions, mais aussi de remonter des pistes d'améliorations sont prévus.
+- Les collaborateurs sont libres d'agir dans leur sphère d'autorité et leurs responsabilités.
+- Des mécanismes pour permettre aux rôles et cercles de résoudre leurs tensions, mais aussi de remonter des pistes d'améliorations sont prévus.
 
 À noter que la sphère d'autorité n'a à ce jour jamais encore été implémentée de manière satisfaisante. L'implémentation actuelle de la gouvernance est donc toujours en travail et n'est pas intégralement finalisée.
 
-== Vision et mission
+== Vision et mission de la Fondation
 
 Intégrer un diagramme de qui est respobsable de quelle partie (notamment les articulations entre collaborateurs, comité de direction et conseil de fondation)
 
+#text(fill: red)[*TODO* diagramme général des process OSSAD]
+
 == Fonctionnement de la gouvernance
+
+#text(fill: red)[*TODO* vue générale des cercles et rôles]
 
 === Objectifs de la gouvernance
 
@@ -254,7 +260,9 @@ Aujourd'hui, en 2025, les objectifs stratégiques de la gouvernance ont été fo
 
 === Éléments constituants
 
-=== Rôles des meetings
+=== Rôles et cercles
+
+=== Process de fonctionnement
 
 == Besoin du cercle IT Jobtrek
 
@@ -521,7 +529,7 @@ Les données brutes récoltées auprès des collaborateurs ont été transcrites
 
 #include "parts/kano_table.typ"
 
-Quatre mesures ressortent dans la catégorie "Performance" ou "Attractif" (#link(<mesure-M13>, "m13"), #link(<mesure-M4>, "m4"), #link(<mesure-M1>, "m1"), #link(<mesure-M3>, "m3")), le pourcentage cumulé de ces 2 catégories pour ces 4 mesures est aussi le plus élevé parmis toutes les mesures évaluées. A noter :
+Quatre mesures ressortent dans la catégorie "Performance" ou "Attractif" (#link(<mesure-M13>, "m13"), #link(<mesure-M4>, "m4"), #link(<mesure-M1>, "m1"), #link(<mesure-M3>, "m3")), le pourcentage cumulé de ces 2 catégories pour ces 4 mesures est aussi le plus élevé parmis toutes les mesures évaluées. À noter :
 - La mesure 3 était aussi la mesure la plus proposée lors des entretiens initiaux.
 - La mesure 4 était proposée par la moité des interviewés lors des entretiens.
 - Les mesures 13 et 1 n'avait été proposées que par peu de personnes, mais sont positivement évaluées.
@@ -529,6 +537,8 @@ Quatre mesures ressortent dans la catégorie "Performance" ou "Attractif" (#link
 Certaines des mesures qui avaient été considérées comme principale lors des entretiens initiaux n'ont pas récolté d'évaluation particulièrement encourageante. Notamment les mesures 2, 5, 6 et 17. La mesure 2 tombe dans la catégorie contreproductive, alors même qu'elle avait été suggérée par une majorité de personnes interviewées et quelle répond a plusieurs tensions.
 
 Le reste des mesures sont dans la catégorie "indifférent", elles ne semblent donc pas attirer particulièrement les collaborateurs et n'avait d'ailleurs pas été suggérées en quantité lors des entretiens.
+
+Il est intéressant de noter qu'aucunes mesures n'est ressortie dans la catégorie Obligatoire (2 sont ressorties à 34%). Cela peut indiquer qu'il n'y a a priori pas de mesures qui seraient nécessaires m'ais n'apportent aucunnement satisfaction. Cependant, cela peut aussi montrer que les collaborateurs n'ont pas conscience de la nécessité de certaines mesures.
 
 == Retours sur les mesures
 
@@ -539,6 +549,8 @@ Lors de l'atelier d'évaluation, les commentaires d'évaluation des mesures ont 
 == Evaluation des mesures selon la revue de littérature
 
 Propose un chapitre qui évalue les mesures en regard de ce qui est ressorti des bonne pratiques générales proposées par la revue de littérature. #text(fill: red)[Faire une table qui indique quel concept de la revue de la littérature est couvert par quelle mesure.]
+
+== Evaluation des mesures selon les contraintes IT ou la loi
 
 == Choix des mesures à implémenter
 

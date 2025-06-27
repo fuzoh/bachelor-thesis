@@ -21,7 +21,7 @@
     columns: (1fr, 2fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
     align: horizon + left,
     table.header(
-      [Mesure], [Cat. principale], [Performant], [Attractif], [Indiférent], [Questionnable], [Devrait être], [Négatif]
+      [Mesure], [Cat. principale], [Performant], [Attractif], [Indiférent], [Questionnable], [Obligatoire], [Négatif]
     ),
     ..data_kano.slice(1).map(r => { table_row(r) }).flatten(),
   ),
