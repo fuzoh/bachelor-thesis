@@ -16,12 +16,11 @@
 
 #align(center, image("assets/HEG-ARC-logo-couleur-cmyk.png"))
 
-#v(8em)
+#v(12em)
 
 #align(center, text(
   size: 16pt,
-  "Demande de ratification de sujet de travail de Bachelor
-    en Informatique de gestion",
+  "Travail de Bachelor en Informatique de gestion",
 ))
 
 #v(2em)
@@ -53,7 +52,10 @@
   Travail de bachelor du 1er avril 2025 au 20 juillet 2025
 ]
 
+#pagebreak()
+
 *Résumé managérial*
+
 La fondation Jobtrek, active dans l'insertion profesionelle et la formation d'apprentis met en ouvre une gouvernance semi distribuée pour l'accomplissement de ses tâches. Actuellement différentes tensions existent entre la gouvernance -- qui offre une grande liberté pour les collaborateurs -- et le service informatique, qui as des contraintes de sécurité ou légales l'obligeant a imposer des choix aux équipes.
 
 Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son service informatique, comment faire fonctionner ces deux éléments ensemble. Les besoins des collaborateurs, de l'IT et de la gouvernance ont été analysés, cela afin d'identifier les tensions existantes et de proposer des mesures qui permettrait de les résoudre. Les mesures ont été ensuite évaluées afin de proposer une suite de mesures cohérentes qui permettrait à la Fondation de fluidifier le fonctionnement du service IT et de la gouvernance.
@@ -80,26 +82,28 @@ Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son se
 
 = Introduction
 
-Ce travail est organisé dans le cadre du Bachelor en informatique de gestion délivré par la Haute école arc à Neuchâtel, il s'agit du travail final de la formation. Le cas a été proposé par la Fondation Jobtrek, il s'agit d'un cas axé gestion d'entreprise et de ses systèmes d'information. La fondation Jobtrek cherche à mieux intégrer son cercle informatique, notamment en lui permettant de mieux travailler avec la gouvernance semi-distribuée en place.
+Ce travail est organisé dans le cadre du Bachelor en informatique de gestion délivré par la Haute école arc à Neuchâtel, il s'agit du travail final de la formation. Le cas a été proposé par la Fondation Jobtrek, il s'agit d'un cas axé gestion d'entreprise et de ses systèmes d'information. La fondation Jobtrek cherche à mieux intégrer son cercle informatique, notamment en lui permettant de mieux travailler avec la gouvernance semi-distribuée en place. Le travail est réalisé sur le premier semestre 2025, entre avril et juillet.
 
-== Présentation de la Fondation
+== Présentation de la Fondation Jobtrek
 
 La Fondation Jobtrek est active depuis près de 10 ans dans l'insertion professionnelle et l'accompagnement des jeunes sur le canton de Vaud. Sa mission est de favoriser l'intégration durable des jeunes dans le monde du travail en s'appuyant sur une approche holistique et personnalisée.
+
 Les axes principaux de Jobtrek s'articulent autour de :
-- Insertion professionnelle (MISt): Aide les jeunes à trouver leur premier apprentissage ou emploi.
-- Centre de formation (JobtrekSchool): Accueille des apprentis en employé de commerce, informatique et autres métiers adaptés aux besoins du marché.
-- Programmes de réinsertion (Ecotrek): Soutient les adultes pour retrouver un emploi en utilisant la durabilité comme levier motivationnel.
-- Placement en stage (Relai Entreprises): Facilite la mise en relation et le placement en stages des élèves en fin de scolarité obligatoire.
+- *Insertion professionnelle (MISt):* Aide les jeunes à trouver leur premier apprentissage ou emploi.
+- *Centre de formation (JobtrekSchool):* Accueille des apprentis employé de commerce, informatique et autres métiers adaptés aux besoins du marché.
+- *Programmes de réinsertion (NewStep):* Soutient des professionnels issus de la migration pour trouver un emploi.
 Jobtrek se distingue par son modèle de gouvernance innovant, inspiré de l'holacratie @reinventing-organisations-frederic-laloux et adapté en interne sous le nom de Jobtrekracy. Ce modèle favorise la responsabilisation, l'autonomie des collaborateurs et l'adaptabilité face aux évolutions rapides du secteur.
 Actuellement, Jobtrek emploie 30 collaborateurs et s'appuie sur divers outils numériques pour la gestion et le suivi de ses activités.
 
-=== Contexte du cas
+== Contexte du cas
 
-Au cours de ces 10 années d'existence, Jobtrek est passé d'un collaborateur à plus de 30 aujourd'hui. Les produits proposés par la fondation on régulièrement changé et évolués. Pour répondre a ces évolutions rapides, Jobtrek a pu compter sur différents collaborateurs et bénévoles qui ont permis la mise en place du système informatique tel qu'il est actuellement opéré ainsi que de la gouvernance.
+Au cours de ces 10 années d'existence, Jobtrek est passé d'un collaborateur à plus de trente aujourd'hui. Les produits proposés par la fondation on régulièrement changé et évolués. Pour répondre a ces évolutions rapides, Jobtrek a pu compter sur différents collaborateurs et bénévoles qui ont permis la mise en place du système informatique tel qu'il est actuellement opéré, ainsi que de la gouvernance.
 
 Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'une planification particulière ou d'une réflexion sur le long terme. Il a été mis en place de manière pragmatique, en fonction des besoins immédiats et des opportunités qui se sont présentées.
 
-Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, mais, en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave aux apports de la gouvernance distribuée.
+La gouvernance a aussi été mise en place au fil du temps pour répondre au mieux à la mission de Jobtrek. Chaque années, certains aspects de la gouvernance ont été étoffés, allégés ou encore transformés.
+
+Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave aux apports de la gouvernance distribuée.
 
 == Problèmes rencontrés <chap-problemes-rencontres>
 
@@ -129,7 +133,7 @@ Les chapitres précédents montrent qu'il existe des tensions entre la gouvernan
 
 == Plan d'action
 
-
+#text(fill: red)[*TODO*]
 
 = Méthodologie
 
@@ -146,6 +150,8 @@ Les resources récoltées ont ensuite été analysées par thématiques afin d'i
 == Phase d'analyse (gouvernance)
 
 L'analyse de la gouvernance à été réalisée en parcourant les outils de gesion en place, les documents qui la décrivent et les différents process d'entreprise. Un entretien avec le directeur à aussi été organisé afin de connaitre les détails et l'historique de la gouvernance actuelle.
+
+#text(fill: red)[*TODO*]
 
 == Phase d'analyse (entretiens)
 
@@ -185,6 +191,7 @@ L'atelier a été organisé en deux phases, une permière qui as pour but de ré
 
 == Implémentation
 
+#text(fill: red)[*TODO*]
 
 /**
  * ----------------------------------
@@ -196,6 +203,7 @@ L'atelier a été organisé en deux phases, une permière qui as pour but de ré
 
 #include "parts/revue_de_litterature.typ"
 
+#pagebreak()
 /**
  * ----------------------------------
  * Ancrage dans la littérature

@@ -1,3 +1,5 @@
+#import "@preview/datify:0.1.3": custom-date-format
+
 #let template(
   title: none, // Principal title of the document
   paper: "a4",
@@ -42,7 +44,7 @@
     footer: context {
       if counter(page).get().first() > header_footer_start {
         [
-          #last_update.display("[day] [month repr:long] [year]")
+          #custom-date-format(last_update, "DD Month YYYY", "fr")
           #h(1fr)
           Page #counter(page).display("1 sur 1", both: true)
         ]
@@ -68,11 +70,9 @@
   show figure: set block(breakable: true)
   show table: set text(size: 10pt)
   show table.cell.where(y: 0): strong
-  set table(
-    stroke: (x, y) => {
-      (bottom: 0.7pt + black, left: if x > 0 { 0.8pt + gray })
-    },
-  )
+  set table(stroke: (x, y) => {
+    (bottom: 0.7pt + black, left: if x > 0 { 0.8pt + gray })
+  })
   set enum(indent: .4em)
   set list(indent: .4em)
 

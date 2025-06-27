@@ -52,7 +52,7 @@ Pour permettre le fonctionnement distribué et démocratique il est en fait néc
 
 === Hiérarchie de savoir et de compétences
 
-#text(fill: red)[todo]
+#text(fill: red)[*TODO*]
 
 === Critiques des gouvernances distribuées
 
@@ -60,6 +60,7 @@ Bien que les gouvernances _opales_ et l'holacratie proposent de résoudre un cer
 
 Certains craignent que le grand nombre de processus, de formalisme et de réunions imposées par l'holacratie soit en fait plus contraignant que dans des structure plus hiérarchiques
 
+#text(fill: red)[*TODO*]
 
 === Place de la gouvernance distribuée dans le numérique
 
