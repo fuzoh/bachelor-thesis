@@ -250,6 +250,8 @@ Pour finir, à gauche en jaune, l'environnement qui doit être pris en compte po
   caption: [Carte générale des processus Ossad @the-ossad-methodology],
 ) <fig-carte-gen-processus>
 
+Ces axes de travail principeaux sont le résultat de la mise en place des différents produits Jobtrek au fil des années. Ils évolues quand les produits changent, et sont implémentés par les roles directement...
+
 #text(fill: red)[*TODO* diagramme général des process OSSAD]
 
 == Fonctionnement de la gouvernance

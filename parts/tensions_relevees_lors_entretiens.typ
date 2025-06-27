@@ -4,10 +4,7 @@
   table(
     columns: (1fr, 4fr),
     align: horizon + left,
-    table.header(
-      [],
-      [*Tensions relevée*],
-    ),
+    table.header([], [*Tensions relevée*]),
 
     [*T1* <t1>],
     [Difficulté d'accès aux informations que ce soit les informations générales sur le fonctionnement de la fondation, où les informations liées à son travail concret (ex. documents).],
