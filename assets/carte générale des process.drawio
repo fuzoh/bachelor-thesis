@@ -1,0 +1,253 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="4">
+  <diagram name="Page-1" id="kW_oIhUxRkiqL0Kq-PUK">
+    <mxGraphModel dx="821" dy="-599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jqjiF2n1SpppxXGoInOC-1" value="Formation :&lt;br&gt;- profesionelle (domaine métier spécifique)&lt;br&gt;- générale (cours de soutien et ratrappage)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1310" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-2" value="Démarchage :&lt;br&gt;- recherche de place de stage&lt;br&gt;- recherche d&#39;entreprises formatrices&lt;br&gt;- promotion des jeunes profesionnels&lt;br&gt;- compréhension des besoins des entreprises" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1400" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-3" value="Coaching :&lt;div&gt;- Travail sur les freins psychosociaux&lt;/div&gt;&lt;div&gt;- Orientation profesionnelle&lt;/div&gt;&lt;div&gt;- Soutien administratif&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1490" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-4" value="Communeauté et Promotion&lt;div&gt;- réseau d&#39;entreprises&lt;/div&gt;&lt;div&gt;- événements autour des thématiques Jobtrek&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1580" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-9" value="&lt;div&gt;&lt;div&gt;&quot;Une économie saine et pérenne dans laquelle chacun trouve sa place&quot;&lt;/div&gt;&lt;div&gt;Vision, Valeurs et Stratégie&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1220" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1670" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-11" value="IT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-12" value="Finance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1720" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-13" value="RH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1680" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-14" value="Conseil de Fondation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1260" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-15" value="Comité de direction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1260" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-16" value="Logistique" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1720" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-17" value="Besoins du marché du travail et des entreprises" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1310" width="30" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-18" value="Besoin des jeunes sans formation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1490" width="30" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-19" value="Administration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1680" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-20" value="Comuneauté" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1720" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-22" value="Qualité" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1720" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-23" value="Besoins des jeunes en formation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1490" width="30" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-26" value="Jeunes en cours d&#39;insertion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1310" width="30" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-27" value="Jeunes en formation profesionelle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1310" width="30" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-28" value="Adultes en cours d&#39;insertion ou de réinsertion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1310" width="30" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-30" value="Ecole profesionelle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1310" width="30" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jqjiF2n1SpppxXGoInOC-31" value="Office cantonal d&#39;insertion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;fontFamily=Libertinus Serif;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1310" width="30" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8pdWPsQTAQMp3kVX8W1q" name="Page-2">
+    <mxGraphModel dx="690" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-1" value="PLANIFICATION / PROGRAMMATION" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="120" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-2" value="PROMOTION / PARTENARIATS / SOUTIEN" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="220" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-3" value="CREATION CULTURELLE &lt;br&gt;ENCOURAGEMENT A LA CREATION LOCALE" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="320" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-4" value="BILLETERIE" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="130" y="420" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-5" value="Coordination&lt;br&gt;Groupes&lt;br&gt;Public" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="580" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-6" value="Public&lt;br&gt;Partenaires&lt;br&gt;Coordination" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="580" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-7" value="Groupes&lt;br&gt;Artistes indépendants&lt;br&gt;Artistes locaux" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="580" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-8" value="Public&lt;br&gt;Coordination&lt;br&gt;Groupes&lt;br&gt;Controlleurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="580" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="130" y="40" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="130" y="520" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-11" value="IT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="350" y="530" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-12" value="FINANCES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="140" y="580" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-13" value="RH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="140" y="530" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-14" value="Comité" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="140" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-15" value="Coordination" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="350" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-16" value="INFRASTRUCTURE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="350" y="580" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-17" value="Promotion de la culture et encouragement de cette dernière" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="cQWHeYUF1WbPT8lylG2T-18" value="Planification d&#39;événements et gestion de ces derniers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="30" height="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bWj0FwESOkwAyHU52t7r" name="Page-3">
+    <mxGraphModel dx="1" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-1" value="PLANIFICATION&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Propositions de dates pour la venue des groupes&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Confirmation de la venue des groupes&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Validation des besoins de groupes&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Vérification de la cohérence et variété des groupes&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Recherche de groupes qui pourrait être adaptés&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Gestion des demandes spontanées des groupes&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="-80" width="430" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="-160" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="320" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-4" value="Promotion de la culture et encouragement de cette dernière" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="-80" width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-5" value="Planification d&#39;événements et gestion de ces derniers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="-80" width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-6" value="IT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="330" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-7" value="FINANCES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="380" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-8" value="RH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="330" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-9" value="Comité" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="-150" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-10" value="Coordination" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="-150" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-11" value="INFRASTRUCTURE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="380" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-12" value="PROGRAMMATION&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Mise en place d&#39;une agenda des prestations&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Placement de groupes prévus par la planification sur le programme&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Confirmation de l&#39;occupation des locaux&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Confirmation de la programmation de la Case à Choc&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Validation trimestrielle du programme à venir&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="120" width="430" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-13" value="Mise sur pied d&#39;un programme varié, local et international.&lt;br&gt;Visibilité sur les futurs prestations proposées par la Case à Choc." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="-80" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-14" value="Occupation des locaux claire et répartition des espaces.&lt;br&gt;Visibilité sur les dates et horaires des préstations." style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="120" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nRiMOc58bZY-0IxtSlXF-15" value="ZOOM SUR PLANIFICATION ET PROGRAMMATION" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="-200" width="760" height="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ihJklGbu31dNYe6RDeZH" name="Page-4">
+    <mxGraphModel dx="-96" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CxopR-C3TMcmcYZzu75l-1" value="PROMOTION&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Définir et créer des campagnes régulières de publicité&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Définir le public cible de la Case à Choc&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Mandater des partenaires pour les créations graphiques&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Collecter la satisfaction du public de la case&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="590" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="510" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="990" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-4" value="IT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="1000" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-5" value="FINANCES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="1050" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-6" value="RH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="1000" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-7" value="Comité" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-8" value="Coordination" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-9" value="INFRASTRUCTURE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="1050" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-10" value="PARTENARIAT&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Démarcher de nouveaux partenaires techniques et ou culturels&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Constituer une liste de partenaires disponibles&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Maintenir les contacts avec les partenaires&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Mettre en relation les autres process avec les partenaires&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="720" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-11" value="Faire connaitre la Case à Choc&lt;br&gt;et promouvoir son offre" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="590" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-12" value="Disposer d&#39;un réseau de partenaires de qualité pour remplir les missions de la Case à Choc" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="720" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-13" value="SOUTIEN&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Recherche de soutiens financiers&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Collecte de dons&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Définir les besoins financier de la Case à Choc&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Recherches de financements exceptionnels pour événements extraordinaires&lt;/li&gt;&lt;/ul&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="860" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-14" value="Financement a long&lt;br&gt;terme de la Case à Choc&lt;br&gt;Financement d&#39;événements&lt;br&gt;extraordinaires" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="860" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-15" value="Planification d&#39;événements et gestion de ces derniers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="590" width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-16" value="Promotion de la culture et encouragement de cette dernière" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="590" width="30" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="CxopR-C3TMcmcYZzu75l-17" value="ZOOM SUR PROMOTION, PARTENARIATS ET SOUTIEN" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="470" width="760" height="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

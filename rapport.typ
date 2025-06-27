@@ -237,7 +237,18 @@ Suite à des discussions et rencontres, l'approche de l'holacratie semblait remp
 
 == Vision et mission de la Fondation
 
-Intégrer un diagramme de qui est respobsable de quelle partie (notamment les articulations entre collaborateurs, comité de direction et conseil de fondation)
+Pour mieux comprendre comment s'intègre la gouvernance Jobtrek puis dans un second temps son service IT, une modélisation très générale des processus de la fondation à été réalisée, la @fig-carte-gen-processus propose une vue générale des missions de la fondations.
+
+En bleu sont représentés les axes principeaux de travail de Fondation, il s'agit du coeur métier de la fondation. Une ou plusieurs de ces axes peut servir un ou plusieurs produits de la Fondation. Par exemple, la mesure d'insertion réunis tous les axes.
+
+Le violet représente le support aux axes principeaux. En haut, la direction et le conseil de fondation, ils sont garants de la mission jobtrek, des valeurs et de la stratégie. En bas, les fonctions support qui sont mises à disposition des axes principeaux de la Fondation pour qu'ils puissent réaliser leurs missions.
+
+Pour finir, à gauche en jaune, l'environnement qui doit être pris en compte pour l'accomplissement de la mission Jobtrek, et à droite en bleu, les bénéficiaire de la Fondation.
+
+#figure(
+  image("assets/carte générale des process.svg"),
+  caption: [Carte générale des processus Ossad @the-ossad-methodology],
+) <fig-carte-gen-processus>
 
 #text(fill: red)[*TODO* diagramme général des process OSSAD]
 
