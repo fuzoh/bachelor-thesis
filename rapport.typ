@@ -480,7 +480,8 @@ Le mécanisme actuel de proposition d'amélioration (tensions remontées des cer
 == Tensions non couvertes par les mesures principales
 
 A lissue de la description des mesures qui ont récolté le plus de succès lors des entretiens, nous pouvons constater que les tensions suivantes ne sont pas adressées :
-- [...]
+
+#text(fill: red)[*[...]*]
 
 == Description des mesures secondaires
 
