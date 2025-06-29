@@ -185,6 +185,12 @@ L'entretien est mené en "entonnoir", les questions sont initialement posées de
 
 À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse.
 
+=== Analyse des entretiens
+
+A l'issue des entretiens, la prise de note manuscrite et la transcription sont utilisés pour rédiger une fiche qui résume les principeaux aspects abordés par la personne interviewée au cours de l'entretien. Ces résumés vont permettre ensuite de travailler l'analyse des entretiens.
+
+Les tensions et propositions faites dans les différents entretiens sont regroupées, le fréquence d'apparition est calculée.
+
 == Évaluation
 
 La phase d'évaluation des mesures proposées dans la phase d'analyse est relativement succincte afin qu'elle s'intègre dans la planification des collaborateurs concernés. Une première évaluation a été réalisée sous la forme d'un atelier avec l'essentiel des personnes qui portent le rôle de "coordinateurs de cercles" de la Fondation. Le choix de ce rôle c'est imposé car l'atelier pouvait être intégré dans une séance déjà planifiée avec ces personnes, et que chaque coordinateur représente un des cercles de la fondation, cela permet d'avoir d'un coup des avis qui représentent toutes les personnes de la fondation -- domaine métier et produits confondus.
@@ -285,12 +291,11 @@ Aujourd'hui, en 2025, les objectifs stratégiques de la gouvernance ont été fo
  * */
 #pagebreak()
 
-= Analyse du cas Jobtrek
+= Analyse du cas Jobtrek <chap-but-entretiens>
 
-Pour faire suite au @chap-analyse-gouvernance-jobtrek, ce dernier ayant permis de définir plus clairement comment la gouvernance est actuellement implémentée, quels sont les défis qui lui sont propose. Ce nouveau chapitre s'intéresse plus directement à la problématique du rapport, il s'agit d'identifier plus précisément les tensions entre le cercle IT et la gouvernance. En particulier de comprendre comment elles sont ressenties par les rôles au sein de la Fondation, sont elles réellement ressenties, quel est leur source, mais aussi d'explorer les potentielles pistes de résolutions.
+Pour faire suite au @chap-analyse-gouvernance-jobtrek, ce dernier ayant permis de définir plus clairement comment la gouvernance est actuellement implémentée, quels sont les défis qui lui sont propose. Ce nouveau chapitre s'intéresse plus directement à la'rticulation entre el cercle IT et la gouvernance, il s'agit d'identifier plus précisément les tensions qui pourraient exister. En particulier de comprendre comment elles sont ressenties par les rôles au sein de la Fondation, sont elles réellement ressenties, quel est leur source, quelles sont les potentielles pistes de résolutions envisageables.
 
-== Buts et déroulement des entretiens <chap-but-entretiens>
-
+*Buts des entretiens:*
 - Comprendre l'utilisation actuelle des outils informatiques des collaborateurs. Révéler les tensions.
 - Obtenir une vue d'ensemble des besoins IT des collaborateurs.
 - Quelles contraintes sont acceptables ou non pour les collaborateurs vis-à-vis du cercle IT.
@@ -346,11 +351,17 @@ Le @table-matrice-apparition-tensions ci dessous permet de voir quelles tensions
 
 #include "parts/matrice_priorites_tensions.typ"
 
-== Gouvernance distribuée et IT
+Trois tensions principales sont ressorties, elles sont les trois assez proche de problématiques de communication. Notamment la difficulté d'acceptation des changements non communiqués #link(<t9>)[T9] ou encore la difficulté d'accès aux informations #link(<t1>)[T1]. La tension #link(<t2>)[T2] semble plus liées aux limites d'expertise des collaborateurs et au manque d'outils/formations qui pourraient leur permettre d'être plus sereins avec les considérations de sécurité.
 
-Au fil des entretiens, il sembre ressortir que la tension principale rencontrées par la Fondation (consilier les impératifs IT avec la gouvernance) pourrait dans les fait n'être que le symptome de tensions plus opérationnelles.
+Les tensions #link(<t6>)[T6] et #link(<t6>)[T6] sont apparues chez presque tous les interviewés, elles font plus référence à des problématiques d'organisation et d'utilisation des outils informatiques.
 
-Peu des interviewés on manifesté qu'il manquaient de libertés ou pourraient se sentir limités par des contraintes supplémentaires. Il semble même tout a fait envisageable que le cercle IT puisse avoir une attitude plus "centralisatrice" dans ses actions. En revanche il ressort régulièrement que le manque de clarté du cadre informatique ou le flou dans l'architecture du SI crée de la frustration et des incompréhension.
+Il est intéressant de noter que peu de tensions relèvent de la gouvernance a proprement parler, les #link(<t3>)[T3] et #link(<t10>)[T10] sont celles qui se rapprochent le plus de problématiques qui porraient être résolues par des process de gouverance, toutes les autres sont plus ancrées dans le fonctionnement des cercles.
+
+=== Gouvernance distribuée et IT
+
+Au fil des entretiens, il sembre ressortir que la tension principale relevée par la Fondation (consilier les impératifs IT avec la gouvernance) pourrait dans les fait n'être que le symptome de tensions plus opérationnelles. Cela va aussi dans le sens de la revue de littérature qu'il ne fait que peu état de potentiels problèmes entre des gouvernances distribuées et des services informatiques.
+
+Peu des interviewés on manifesté qu'il manquaient de libertés ou pourraient se sentir limités par des contraintes supplémentaires. Il semble même tout a fait envisageable que le cercle IT puisse avoir une attitude plus "directive" dans ses actions. En revanche il ressort régulièrement que le manque de clarté du cadre informatique ou le flou dans l'architecture du SI crée de la frustration et des incompréhension.
 
 Ces éléments laissent pesner que la tension ressentie au niveau stratégique entre les libertés offertes par la gouvernance et les impératifs IT pourrait être principalement due a des tensions opérationnelles. Tensions à traiter par des mesures concrétes (mise en place d'outils et process) plus que par une transformation du fonctionnement de la gouvernance.
 
@@ -578,6 +589,8 @@ Les 2 mesures ont été crées puis revues par différents collègues pour s'ass
 == Sphère d'autorité informatique
 
 = Discussion
+
+
 
 La question de recherche initiale ...
 
