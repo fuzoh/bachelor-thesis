@@ -27,8 +27,8 @@
     margin: (
       top: 25mm,
       bottom: 25mm,
-      left: 20mm,
-      right: 20mm,
+      left: 25mm,
+      right: 25mm,
     ),
     header-ascent: 1cm,
     footer-descent: 1cm,
