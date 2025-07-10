@@ -60,7 +60,15 @@
     [#sym.circle.filled],
     [],
 
-    [*M7*], [Mise en place d'un facilitateur "sécurité", un équivalent DPO.], [], [#sym.circle.filled], [], [], [], [],
+    [*M7* <mesure-M7>],
+    [Mise en place d'un facilitateur "sécurité", un équivalent DPO #footnote[Data Protection Officer. Rôles qui est imposé par la loi sur les données.].],
+    [],
+    [#sym.circle.filled],
+    [],
+    [],
+    [],
+    [],
+
     [*M8*],
     [Structure du Peerdom qui permette aux collaborateurs de savoir efficacement qui contacter pour quelle demande (simplification des rôles).],
     [],
@@ -133,7 +141,7 @@
     [],
     [#sym.circle.filled],
 
-    [*M16*],
+    [*M16* <mesure-M16>],
     [Règles plus claires pour l'utilisation du matériel IT partagé, notamment les postes de travail.],
     [],
     [],

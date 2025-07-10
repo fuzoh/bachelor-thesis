@@ -1,6 +1,7 @@
 = Proposition de mesures
 
 Les chapitres précédents ont permis de mieux comprendre l'état actuel de la gouvernance Jobtrek, de nous situer par rapport à l'existant et, pour finir, de voir ou sont situées les frustrations et questionnements des collaborateurs.
+
 La suite du rapport s'intéresse aux mesures concrètes qui peuvent être recommandées à Jobtrek afin de répondre aux problèmes rencontrés.
 
 Toutes les mesures proposées plus loin sont partiellement ou totalement inspirées des propositions que les collaborateurs ont eu l'occasion de faire au cours des entretiens. Certaines sont des regroupements de propositions similaires.

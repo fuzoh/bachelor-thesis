@@ -30,9 +30,9 @@
     columns: (1fr, 2fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
     align: horizon + left,
     table.header(
-      [Mesure], [Cat. principale], [Performant], [Attractif], [Indiférent], [Questionnable], [Obligatoire], [Négatif]
+      [Mesure], [Cat. Principale], [Performant], [Attractif], [Indifférent], [Questionnable], [Obligatoire], [Négatif]
     ),
     ..data_kano.slice(1).map(r => { table_row(r) }).flatten(),
   ),
-  caption: [Pourcentage d'appréciation par mesure dans la matrice de kano avec indication de la catégorie dominante],
+  caption: [Pourcentage d'appréciation par mesure dans la matrice de Kano avec indication de la catégorie dominante. Les pourcentages au-dessus de 50 apparaissent en gras. Plus le texte et clair, plus le pourcentage est faible.],
 ) <table-kano>

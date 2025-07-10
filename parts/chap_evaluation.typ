@@ -60,16 +60,25 @@ Les données brutes récoltées auprès des collaborateurs ont été transcrites
 
 #include "kano_table.typ"
 
-Quatre mesures ressortent dans la catégorie "Performance" ou "Attractif" (#link(<mesure-M13>, "m13"), #link(<mesure-M4>, "m4"), #link(<mesure-M1>, "m1"), #link(<mesure-M3>, "m3")), le pourcentage cumulé de ces 2 catégories pour ces 4 mesures est aussi le plus élevé parmis toutes les mesures évaluées. À noter :
-- La mesure 3 était aussi la mesure la plus proposée lors des entretiens initiaux.
-- La mesure 4 était proposée par la moité des interviewés lors des entretiens.
-- Les mesures 13 et 1 n'avait été proposées que par peu de personnes, mais sont positivement évaluées.
+Quatre mesures ressortent dans la catégorie "Performance" ou "Attractif" : #link(<mesure-M13>, "M13") (Support qui fournis les temps de résolution), #link(<mesure-M4>, "M4") (Plateforme de formation), #link(<mesure-M1>, "M1") (Simplification et uniformisation de l'architecture de fichiers), #link(<mesure-M3>, "M3") (Base de connaissances). Le pourcentage cumulé de ces 2 catégories pour ces 4 mesures est aussi le plus élevé parmi toutes les mesures évaluées.
 
-Certaines des mesures qui avaient été considérées comme principale lors des entretiens initiaux n'ont pas récolté d'évaluation particulièrement encourageante. Notamment les mesures 2, 5, 6 et 17. La mesure 2 tombe dans la catégorie contreproductive, alors même qu'elle avait été suggérée par une majorité de personnes interviewées et quelle répond a plusieurs tensions.
+Quelques constats pour ces 4 mesures :
+- La mesure #link(<mesure-M3>, "M3") était aussi la mesure la plus proposée lors des entretiens initiaux.
+- La mesure #link(<mesure-M4>, "M4") était proposée par la moité des interviewés lors des entretiens.
+- Les mesures #link(<mesure-M13>, "M13") et #link(<mesure-M1>, "M1") n'avait été proposées que par peu de personnes, mais sont positivement évaluées.
+- La mesures #link(<mesure-M13>, "M13") est no seulement bien positionnée dans la matrice, mais aussi particulièrement facile à mettre en œuvre.
+- La mesure #link(<mesure-M1>, "M1") et sans doute une des plus complexes à implémenter, cela car elle nécessite une migration en plusieurs phases pour garantir une transition sans interruptions des flux de travail #footnote[À noter qu'une telle mesure à déjà fait l'objet d'études ces dernières années, mais n'a jamais abouti par manque de ressources et par la complexité actuelles des structures de fichiers.].
 
-Le reste des mesures sont dans la catégorie "indifférent", elles ne semblent donc pas attirer particulièrement les collaborateurs et n'avait d'ailleurs pas été suggérées en quantité lors des entretiens.
+Certaines des mesures qui avaient été considérées comme principale lors des entretiens initiaux n'ont pas récolté d'évaluation particulièrement encourageante. Notamment les mesures #link(<mesure-M2>, "M2") (Outil de décision en autonomie sur les données), #link(<mesure-M5>, "M5") (Sphère d'autorité), #link(<mesure-M6>, "M6") (Revue du mécanisme de proposition d'amélioration) et #link(<mesure-M17>, "M17") (Stratégie IT).
 
-Il est intéressant de noter qu'aucunes mesures n'est ressortie dans la catégorie Obligatoire (2 sont ressorties à 34%). Cela peut indiquer qu'il n'y a a priori pas de mesures qui seraient nécessaires m'ais n'apportent aucunnement satisfaction. Cependant, cela peut aussi montrer que les collaborateurs n'ont pas conscience de la nécessité de certaines mesures.
+Quelques observations pour ces 4 mesures :
+- La mesure #link(<mesure-M2>, "M2") tombe dans la catégorie contreproductive, alors même qu'elle avait été suggérée par une majorité de personnes interviewées et quelle répond a plusieurs tensions identifiées. Les retours obtenus semblent indiquer que cela serait du a la nature particulièrement peu génératrice de valeur de la mesure. Elle reste cependant à 34% dans la catégorie "Obligatoire", ce qui peut questionner sur sa nécessité.
+- La sphère d'autorité, mesure #link(<mesure-M5>, "M5") arrive à 78% dans la catégorie "Indifférent". Cela peut s'expliquer par les implications assez faibles au quotidien de cette mesure ou par la bonne connaissance du système informatique dès personnes qui ont participé à l'évaluation. En tout les cas, cela semble indiquer que la mise en place de cette mesure ne poserait pas forcément problème. Cela est rassurant étant donné que c'est une des mesures qui répond le plus a certains non négociables comme le respect de la loi sur la protection des données.
+- La revue du mécanisme de proposition d'améliorations, mesure #link(<mesure-M6>, "M6"), bien qu'étant majoritairement dans la catégorie "Indifférent" bénéficie quand même de 23% des votes dans la catégorie "Performant" et "Attractif".
+
+Le reste des mesures sont dans la catégorie "indifférent", elles ne semblent donc pas attirer particulièrement les collaborateurs et n'avaient par ailleurs pas été suggérées en quantité lors des entretiens.
+
+Il est intéressant de noter qu'aucunes mesures n'est ressortie dans la catégorie Obligatoire (2 sont ressorties à 34%, #link(<mesure-M1>, "M1") et #link(<mesure-M2>, "M2")). Cela peut indiquer qu'il n'y a à priori pas de mesures qui seraient nécessaires m'ais n'apporteraient aucunne satisfaction. Cependant, cela peut aussi montrer que les collaborateurs n'ont pas conscience de la nécessité de certaines mesures.
 
 == Retours sur les mesures
 
@@ -77,10 +86,30 @@ Lors de l'atelier d'évaluation, les commentaires d'évaluation des mesures ont 
 
 #include "evaluation/m2_outil de descision donnees.typ"
 
-== Evaluation des mesures selon la revue de littérature
+De façon générale, les réactions ont été bonnes face aux propositions, un des questionnements général lors de l'atelier concernait la création de valeur de ces différentes mesures. Comment s'assurer qu'elles apportent à la mission, ou éventuellement comment compenser les contraintes supplémentaires imposées pour avoir un bilan positif.
 
-Propose un chapitre qui évalue les mesures en regard de ce qui est ressorti des bonne pratiques générales proposées par la revue de littérature. #text(fill: red)[Faire une table qui indique quel concept de la revue de la littérature est couvert par quelle mesure.]
+Les retours oraux et écrits sont proches des résultats obtenus dans la matrice de Kano. La nécessité de travailler la sphère d'autorité et le processus de proposition d'amélioration on fait l'objet de discussions, mais semblent bien acquis. Les discussions portaient plus sur la manière d'apporter ces changements de manière fluide, notamment pour la sphère d'autorité.
 
-== Evaluation des mesures selon les contraintes IT ou la loi
+== Évaluation des mesures selon la revue de littérature
+
+Dans la phase de revue de littérature (voir @chap-revue-de-litterature), différents éléments avaient été relevés, notamment :
+- La nécessité de processus clairs pour la gouvernance (besoin partagé par le cercle IT).
+- La nécessité d'un cadre clair pour les rôles (parfois appelée sphère d'autorité ou constitution).
+- La nécessité de garantir l'autonomie des collaborateurs et de leur apporter les outils et formations nécessaires pour l'accomplissement de leurs missions.
+- Des canaux de communication efficaces pour garantir la circulation de l'information.
+
+La plupart des mesures suggérées auraient un apport dans sur ces différents aspects, en particulier les mesures #link(<mesure-M5>, "M5") (Sphère d'autorité) et #link(<mesure-M6>, "M6") (Revue du mécanisme de proposition d'amélioration) qui adressent directement les besoins d'une gouvernance distribuée.
+
+Les mesures #link(<mesure-M4>, "M4") (Plateforme de formation) et #link(<mesure-M3>, "M3") (Base de connaissances) répondent aussi au besoin d'autonomisation des collaborateurs et d'accessibilité de l'information.
+
+De façon générale, plusieurs mesures proposent indirectement d'améliorer la communication du cercle IT vis-à-vis des autres rôles, ce qui s'inscrit aussi dans les prérequis d'une gouvernance distribuée.
+
+Quelques mesures suggérées ont peu de rapport direct avec les besoins d'une gouvernance distribuée, comme les mesures #link(<mesure-M17>, "M17") (Stratégie IT) et #link(<mesure-M1>, "M1") (Simplification et uniformisation de l'architecture de fichiers). Cependant, leur mise en place améliorerait sans doute indirectement l'implémentation de la gouvernance, cela en améliorant les outils IT ou en simplifiant le travail de certains rôles.
+
+== Évaluation des mesures selon les contraintes IT ou la loi
+
+Parmis les mesures proposées, certaines adressent directement des non négociables sur le plan de la sécurité informatique ou de la loi sur les données. Notamment les mesures #link(<mesure-M5>, "M5") (Sphère d'autorité), #link(<mesure-M7>, "M7") (Facilitateur sécurité), #link(<mesure-M16>, "M16") (Règles d'utilisation du matériel IT partagé) et #link(<mesure-M1>, "M1") (Simplification et uniformisation de l'architecture de fichiers).
+
+Malgér cela, ces mesures n'ont pas toute été retenues lors de la phase d'anylse de part leur faible succés. Cela peut s'expliquer par le coté technique de certaines, des aspects d'ont les collaborateurs ont peut être peu connaissance. Il n'ent reste pas moins que pour répondre aux exigeances d'un service IT, il faudrait a terme être capable d'implémenter ces mesures ou d'y trouver des alternatives satisfaisantes.
 
 == Choix des mesures à implémenter
