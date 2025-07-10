@@ -112,7 +112,7 @@ Les facilitateurs et coordinateurs de super cercle sont nommés par le comité d
 La gouvernance Jobtrek ne met en place que 2 types de séances actuellement. La liberté est laissée aux cercles de mettre en place davantage de séance si cela est nécessaire pour l'accomplissement des responsabilités.
 
 - *Meeting de régulation :* Planifié 1 fois par mois, il sert à la régulation du fonctionnement du cercle, durant cette séanmce les éventuelles tensions qui auraient été remontées par des membres du cercle sont discutées et traitées. Cette séance a pour but de garantir l'hygiène du cercle et son bon fonctionnement. Si aucunne tension n'est actualité, il peut être annulé.
-- *Stand up meeting :* Planifié 1 à 2 fois par mois, il s'agit d'une séance de suivi des travaux du cercle. Succincts, ils servent à maintenir le cercle au fait des avancements des différents rôles et à discuter d'éventulles éléments métiers.
+- *Stand up meeting :* Planifié 1 à 2 fois par mois, il s'agit d'une séance de suivi des travaux du cercle. Succincts, ils servent à maintenir le cercle au fait des avancements des différents rôles et à discuter d'éventuelles éléments métiers.
 
 Au sein de la fondation, différents cercles implémentent des séances supplémentaires à des fréquences qui varient pour mieux répondre aux besoins de leur cercle. La gouvernance n'impose pas de restrictions quant a l'existance des ces séances.
 
@@ -122,6 +122,33 @@ La gouvernance dispose actuellement des processus suivants pour sa régulation :
 
 - *Proposition d'amélioration :* Il permet à tout rôle d'effectuer une proposition qui va impliquer des changements qui ont des implications au delà des responsabilités de son rôle.
 - *Gestion des tensions :* Permet de réguler les problèmes inter rôles et inter cercles, il permet de formaliser les difficultés, d'identifier les causes et de les résoudre. Ce process peut régulièrement découler sur une proposition d'amélioration.
-- *Feedback inter rôles:* Les rôles sont encouragés a régulièrement effectuer des points de feedback avec un autre rôles, cela afin de favoriser les échanges de pratiques et de s'améliorer.
+- *Feedback inter rôles:* Les rôles sont encouragés à régulièrement effectuer des points de feedback avec un autre rôle, cela afin de favoriser les échanges de pratiques et de s'améliorer.
 
 == Besoin du cercle IT Jobtrek
+
+Le cercle IT est responsable des systèmes d'information Jobtrek ainsi que son matériel numérique, il faut partie du super cercle support. Comme tous les cercles du super cercle support, sa particularité est qu'il n'accomplit pas directement des tâches pour la mission Jobtrek, mais fournis des services aux autres rôles et cercles de la fondation.
+
+Ce cercle à des besoins particuliers qui devront être pris en compte dans la suite de ce rapport. Son but est formalisé come suit : "Assurer le fonctionnement informatique de la fondation pour permettre la réalisation de la mission.". Il réunis différents rôles :
+- Gestionnaire de l'infrastructure
+- Gestionnaire des équipements
+- Dépanneur
+- Garant de la sécurité
+- Formateur
+- Gestionnaire du support informatique
+- Développeur logiciel
+- Gestionnaire des projets (Product owner)
+- Ainsi que les rôles génériques : Coordinateur de cercle, Facilitateur et Scribe.
+
+Pour avoir un ordre de grandeur, le cercle IT occupe actuellement 3 collaborateurs + un apprenti pour un équivalent temps plein de 150%.
+
+Pour répondre à ces missions, le cercle IT à différents besoins :
+
+- Disposer de systèmes (matériel comme logiciel) adaptés à la gouvernance et aux missions Jobtrek.
+- Pouvoir garantir le respect de la loi, notamment la nLPD.
+- Pouvoir garantir les accès aux différents systèmes et les modifier aux bons moments.
+- Pouvoir garantir la sécurité des systèmes informatiques et leur défense préventive.
+- Pouvoir garantir le bon fonctionnement du matériel et des logiciels, y compris sur les machines des collaborateurs.
+- Disposer de processus clairs qui peuvent être mis en place dans les outils numériques et/ou appliqués par le cercle pour remplir ces missions.
+
+Ces différents besoins ont des influences sur autres cercles et sur tous les rôles de la fondation, c'est a l'articulation entre les besoins du cercle IT et l'implémentation actuelle de la gouvernance distribuée que se situent les problèmes rencontrés par la fondation (évoqués en introduction de ce rapport).
+
