@@ -62,22 +62,53 @@ Un entretien a été réalisé avec le directeur, disponible en @annexe-objectif
 - *Agilité et amélioration continue, décisions rapides* \ Adaptation permanente, les tensions sont traitées dès qu'elles apparaissent. Les changements se font progressivement, ajustement après ajustement. Chaque rôle et libre d'apporter des changements qui font sens.
 - *Création de valeur* \ Les cercles et les rôles génèrent de la valeur, cette valeur sert les missions Jobtrek. Les indicateurs ne sont pas des absolus, mais mesurent ce qui compte.
 - *Renforcement de l'équipe* \ Favoriser la construction d'une équipe qui est investie dans la mission. Collaboration et entraide en évitant les silos. Confiance entre les rôles. Permettre des moments pour gérer les tensions et malentendus.
-- *Ouverture avec les nouvelles générations* \ Offre du sens et de l'autonomie. Feedback et valorisation régulière. Cadre structurant sans être rigide. La structure doit favoriser l'acceuil de toutes les générations.
-- *Favorise l'intrapreneuriat* \ Encourage la prise d'initiatives, la construction. Responsabilise les personnes et leur permet de créer de la valeur. Stimule l'innovation.
+- *Ouverture avec les nouvelles générations* \ Offre du sens et de l'autonomie. Feedback et valorisation régulière. Cadre structurant sans être rigide. La structure doit favoriser l'accueil de toutes les générations.
+- *Favorise l'intrapreneuriat #footnote[Est une pratique qui encourage les employés d'une structure à agir comme des entrepreneurs au sein de leurs responsabilités.]* \ Encourage la prise d'initiatives, la construction. Responsabilise les personnes et leur permet de créer de la valeur. Stimule l'innovation.
 - *Robustesse* \ Permet des adaptations rapides tout en gardant le cap. Favorise la résilience, ne s'effondre pas face aux changements importants et réguliers.
 
 == Éléments constituants
 
 Les éléments suivants constituent actuellement la gouvernance Jobtrek :
 
-- *Entités structurelles :* Comité de direction, Super cercles, Cercles et rôles. Il s'agit des briques qui définissent l'articulation des rôles entre eux.
+- *Mission :* Il s'agit de la raison d'être Jobtrek, c'est la direction qui doit être maintenue par la fondation.
+- *Stratégie :* Il s'agit d'une déclinaison plus fine et globale de la mission qui est régulièrement actualisée (notamment lors de grands changements de produits).
+- *Cadre de valeurs :* Il s'agit du cadre comportemental (très large) qui est attendu des collaborateurs.
+- *Entités structurelles :* Conseil de Fondation, Comité de direction, Super cercles, Cercles et Rôles. Il s'agit des briques qui définissent l'articulation des rôles entre eux.
 - *Responsabilités :* Chaque rôle dispose de responsabilités, il s'agit de la source de vérité à propos du travail attendu du collaborateur.
 - *Buts :* Chaque cercle et super cercle dispose d'un but. Il s'agit de la ligne directrice du cercle, les rôles du cercle doivent servir ce but, les buts des cercles doivent servir la mission Jobtrek.
-- *Objectifs :* Chaque rôles et cercles peuvent disposer d'objectifs, il s'agit de gauges que le cercle ou le rôle définis en autonomie afin de pouvoir mesure sont avancement dans ces tâches et responsabilités. Ce système est un des mécanismes de feedback envers les autres cercles mais aussi son propre cercle #footnote[Actuellement l'implémentation des objectifs de porte pas entière satisfaction et n'est pas utilisée a large échelle.].
-- *Sphère d'autorité :* Il s'agit d'une description claire du champ d'action des différents membres de la fondation dans différents domaines. Cela permet aux rôles et cercles de savoir ou se situent les limites de leurs actions. Actuellement la spére d'autorité n'est pas totalement implémentée, elle est en partie définie par les réglements, mais concerve une série de zones d'ombre.
+- *Objectifs :* Chaque rôle et cercles peuvent disposer d'objectifs, il s'agit de jauges que le cercle ou le rôle définis en autonomie afin de pouvoir mesurer son avancement dans ces tâches et responsabilités. Ce système est un des mécanismes de feedback envers les autres cercles, mais aussi son propre cercle #footnote[Actuellement l'implémentation des objectifs de porte pas entière satisfaction et n'est pas utilisée à large échelle.].
+- *Sphère d'autorité :* Il s'agit d'une description claire du champ d'action des différents membres de la fondation dans différents domaines. Cela permet aux rôles et cercles de savoir ou se situent les limites de leurs actions. Actuellement la sphère d'autorité n'est pas totalement implémentée, elle est en partie définie par les règlements, mais concerne une série de zones d'ombre.
+- *Séances :* Différentes séances standardisées sont proposées pour permettre aux cercles de se réguler en autonomie et aux informations de circuler.
+- *Processus :* Les processus définissent comment les rôles et cercles peuvent interagir entre eux, ils formalisent les actions à prendre pour différents scénarios.
 
-=== Rôles et cercles
+=== Comité de direction et Conseil de fondation <chap-codir-cofon>
 
-=== Process de fonctionnement
+Il s'agit en réalité des 2 éléments structurels qui ont une portée hiérarchique. Ils sont imposés par le contexte dans lequel Jobtrek évolue. Le conseil de fondation a une activité assez faible et quasi invisible de l'activité quotidienne de la fondation. Cet organe est le garant de la mission Jobtrek ainsi que du cadre de valeur. Cela implique que ces deux éléments ne sont donc pas réellement modifiable par la partie distribuée de la fondation. Le comité de direction est quant à lui beaucoup plus présent dans le quotidien de la fondation, il est garant de la stratégie Jobtrek, des finances, des éventuels recadrages RH, ainsi que de la gouvernance.
+
+Il n'existe pas de mécanisme formalisé qui permette a la partie distribuée de Jobtrek d'infléchir des changements dans les éléments non distribués de la fondation (mission, cadre de valeur, stratégie, finances et gouvernance) qui sont portés par le comité de direction ou le conseil de fondation. Même si dans les faits la culture de l'équipe et les discussions font que la partie distribuée et non distribuée de la fondation se parlent régulièrement. Ils sont donc plus liés que ce que la structure peut laisser paraitre.
+
+C'est bien dans cette partie de la structure Jobtrek que l'articulation entre distribué et semi-distribué s'effectue. En effet, tous les autres éléments de la Fondation sont compris dans la gouvernance distribuée. Des défis sont régulièrement relevés pour mieux faire vivre cette fine transition dans la gouvernance.
+
+=== Rôles particuliers
+
+La plupart des rôles sont définis par les tâches métier qui doivent être accomplies pour remplir les buts du cercle et la mission Jobtrek. Ces rôles sont construits par les rôles adjacents, d'autres cercles ou proposées par les groupes de travail qui ont penchés sur les nouveaux produits par exemple.
+
+Il existe quelques rôles particuliers qui servent au bon fonctionnement de la gouvernance :
+
+- *Coordinateur de cercle :* Représente son cercle auprès des autres cercles et de son super-cercle. Il n'a pas d'autorité hiérarchique sur les autres rôles du cercle. Il a pour responsabilité de s'assurer que l'information circule et de porter l'avis du cercle. Il s'assure aussi que les processus de gouvernance soient mis en place dans le cercle.
+- *Coordinateur de super cercle :* A sensiblement les mêmes responsabilités que le coordinateur de cercle, à la différence que ce rôle fait partie du comité de direction, il possède donc une autorité hiérarchique sur les autres rôles (cette dernière reste limitée aux tâches du comité de direction, voir @chap-codir-cofon).
+- *Facilitateur meeting :* Est responsable d'animer les séances du cercle.
+- *Scribe :* Est responsable de la prise de note lors des séances du cercle.
+- *Facilitateur :* Les facilitateurs sont garants d'un des axes métier principaux de la fondation (voir @fig-carte-gen-processus) et font aussi partie du comité de direction. Leur rôle est d'aider les rôles à mettre en place les bonnes pratiques en fonction du contexte métier, et aussi de faire remonter a la direction les évolutions des pratiques métiers ou de demandes liées.
+
+Le scribe et le facilitateur meeting sont des rôles qui tournent régulièrement au sein des membres d'un cercle. Ils sont élus par le cercle.
+
+Le coordinateur de cercle est en règle générale nommé par le coordinateur de super cercle, souvent après une consultation des membres du cercle.
+
+Les facilitateurs et coordinateurs de super cercle sont nommés par le comité de direction.
+
+=== Séances formalisées
+
+=== Processus formalisés
 
 == Besoin du cercle IT Jobtrek
