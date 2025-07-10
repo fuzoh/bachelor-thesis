@@ -82,7 +82,7 @@ La réduction des individus à leurs rôles est aussi une critique régulière, 
 
 De manière plus générale, l'applicabilité de structures _opales_ est questionnée, #cite(form: "prose", <reinventing-organisations-frederic-laloux>) considère que ce type de gouvernance n'est adaptée qu'à des structures complexes -- au sens de leur imprévisibilité et évolution constante -- et a des structures qui respectent les principes qu'il a synthétisés dans son ouvrage. D'autres questions l'applicabilité dans des structures exigeant un contrôle qualité élevé, la ou les processus de la gouvernance distribuée pourrait apporter une grande complexité @how-Mercedes-addresses-digital-transformation-using-holacracy-ackermann.
 
-=== Place de la gouvernance distribuée dans le SI
+=== Place de la gouvernance distribuée dans le SI <chap-gouv-si>
 
 La littérature ne semble pas particulièrement opposer le SI ou le numérique face aux structures distribuées. Il est même relevé que les structures qui pratiquent des méthodes de gestion Agiles sont en fait déjà proches de plusieurs des principes proposés par les gouvernances distribuées. Les 2 proposent des approches réactives et décentralisées @holacracy-in-software-development-teams-bhandari.
 
@@ -103,3 +103,15 @@ L'humain doit être considéré et prêt à se remettre en question ou remettre 
 Pour finir, la gestion du changement doit pouvoir se faire de manière graduelle et itérative. Les évolutions vont émerger par les rôles et cercles, au fil des défis et changements requis, ce qui rend impossible l'utilisation de grands projets de restructuration ou de planifications à très long terme @holacracy-the-new-management-system.
 
 == Contraintes envisageables vis-à-vis du SI et du service IT
+
+Comme montré au @chap-gouv-si la gouvernance distribuée ne semble pas spécialement opposée aux besoins que pourrait rencontrer un service informatique dans la mise en place du SI ou dans l'accomplissement de ses tâches. Cependant, certains points d'attention sont à relever.
+
+Les gouvernances distribuées peuvent potentiellement avoir tendance à complexifier la structure de l'entreprise et de ses processus. L'imbrication de cercles et la présence de rôles similaires dans différents cercles peux créer une complexité et requiérir une architecture du SI modulaire. La réattribution régulière des rôles peut aussi requiérir un SI particulièrement efficient, les informations doivent être accesibles efficacement pour que le SI puisse les utiliser et respecter la réalité @holacracy-redefining-organizational-ontology-and-epistemology-robledo.
+
+Les outils numériques doivent pouvoir s'accomoder des "règles" de la gouvernance distribuée, cela implique de disposer d'outils qui permettent une intégration distribuée -- au sens des accès par exemple --, ce qui n'est pas toujours la manière dont sont consus les outils IT modernes qui reposent souvent sur des piramides d'accès.
+
+La multiplication des rôles, des réunions de régulation peut amener a la présence de personnes qui disposent de beaucoup d'accès a l'information. Cela peut créer de la surcharge informationelle, mais aussi des problématiques de sécurité #footnote[Au sens d'un rôle porte-clef qui pourrait voir trop d'informations et offrirait ainsi une porte d'entrée a des personnes malintentionnées. A noter que ce type de problématique existent aussi dans des structures hiérarchiques.]
+
+Des défis de coordination peuvent apparaitre si la communication entre les rôles IT et le reste des équipes n'est pas fluide ou si les processus ne sont pas clairement définis et appliqués. Dans ces cas l'apparition de shadow IT #footnote[Lorsque les membre des équipes effectuent des choix numériques sans que les rôles IT en aient consience. Ce qui fait apparaitre du bruit dans le SI et renforce les risques de sécurité.] est favorisée. Cela peut créer des défis important de mise en place des systèmes informatiques ou de gestion de ces dérniers.
+
+La potentielle complexité des processus et des systèmes informatiques qui vont avec peut potentiellement nécessiter des compétences er resources plus avancées que dans le cadre de structures plus hérarchisées et ou la multiplicité des rôles et moindre. Des défis de formation et de transmission des compétences IT auprès des collaborateurs peuvent alors apparaitre @how-Mercedes-addresses-digital-transformation-using-holacracy-ackermann.
