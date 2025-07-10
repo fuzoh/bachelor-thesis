@@ -92,7 +92,7 @@ La Fondation Jobtrek est active depuis près de 10 ans dans l'insertion professi
 Les produits principaux de Jobtrek s'articulent aujourd'hui autour de :
 - *Insertion professionnelle (MISt):* Aide les jeunes à trouver leur premier apprentissage ou emploi.
 - *Centre de formation (JobtrekSchool):* Accueille des apprentis employé de commerce, informatique et autres métiers adaptés aux besoins du marché.
-- *Programmes de réinsertion (NewStep):* Soutient des professionnels déjà formés issus de la migration pour trouver un emploi.
+- *Programmes de réinsertion (JPS):* Soutient des professionnels déjà formés issus de la migration pour trouver un emploi.
 
 Jobtrek se distingue par son modèle de gouvernance innovant, inspiré des structures opales présentées par #cite(form: "prose", <reinventing-organisations-frederic-laloux>) et adapté en interne sous le nom de Jobtrekracy. Ce modèle favorise la responsabilisation, l'autonomie des collaborateurs et l'adaptabilité face aux évolutions rapides du secteur.
 Actuellement, Jobtrek emploie un peu plus de 30 collaborateurs et s'appuie sur divers outils numériques pour la gestion et le suivi de ses activités.
@@ -227,74 +227,7 @@ Le @chap-implémentation détaille les deux mesures élaborées et renvoie vers 
  * ----------------------------------
  * Ancrage dans la littérature
  * */
-= Gouvernance semi-distribuée de la Fondation Jobtrek <chap-analyse-gouvernance-jobtrek>
-
-Comme évoqué précédemment, Jobtrek met en œuvre un système de gouvernance semi-distribuée inspiré de l'holacratie. En particulier des travaux de #cite(form: "prose", <reinventing-organisations-frederic-laloux>) et de #cite(form: "prose", <holacracy-brian-robertson>).
-
-Nommée "Jobtrekracy", il ne s'agit pas d'une application stricte de l'holacratie, mais d'une adaptation de différents courants aux besoins et objectifs de la Fondation. Cette gouvernance a été mise en œuvre peu de temps après l'engagement des premiers collaborateurs Jobtrek et a évoluée au fil des années. Lors de la création initiale de la gouvernance, les directions suivantes étaient souhaitées par la direction :
-
-- Proposer une gouvernance alternative aux structures pyramidales qui limitent les collaborateurs et créer du bruit administratif.
-- Disposer d'une gouvernance simple.
-- Permettre de réagir de manière agile et intelligente aux changements.
-- Responsabiliser les collaborateurs, donner des libertés dans l'accomplissement des tâches.
-- Favoriser l'apparition d'idées et de solutions par le bas, libérer les potentiels.
-- Basé sur la confiance.
-- Faciliter l'intégration des nouvelles générations.
-
-Suite à des discussions et rencontres, l'approche de l'holacratie semblait remplir ces conditions et nécessiter peu d'adaptations pour correspondre aux besoins d'une Fondation Suisse. En s'inspirant des modèles de gouvernance distribuée et après prise en compte des contraintes imposées à la fondation, les premières briques de la gouvernance ont été crées :
-
-- Un comité de direction, seule entité avec un pouvoir hiérarchique. Garant de la stratégie de la Fondation et de la gouvernance. Il sert a faire le pont entre les organismes externes (ex. l'état) et les collaborateurs.
-- Une organisation des équipes en cercles imbriqués constitués de rôles.
-  - Les rôles définissent les responsabilités des collaborateurs.
-  - Les cercles regroupent les rôles par produits ou domaines métiers selon les besoins.
-- Les collaborateurs sont libres d'agir dans leur sphère d'autorité et leurs responsabilités.
-- Des mécanismes pour permettre aux rôles et cercles de résoudre leurs tensions, mais aussi de remonter des pistes d'améliorations sont prévus.
-
-À noter que la sphère d'autorité n'a à ce jour jamais encore été implémentée de manière satisfaisante. L'implémentation actuelle de la gouvernance est donc toujours en travail et n'est pas intégralement finalisée.
-
-== Vision et mission de la Fondation
-
-Pour mieux comprendre comment s'intègre la gouvernance Jobtrek puis dans un second temps son service IT, une modélisation très générale des processus de la fondation à été réalisée, la @fig-carte-gen-processus propose une vue générale des missions de la fondations.
-
-En bleu sont représentés les axes principeaux de travail de Fondation, il s'agit du coeur métier de la fondation. Une ou plusieurs de ces axes peut servir un ou plusieurs produits de la Fondation. Par exemple, la mesure d'insertion réunis tous les axes.
-
-Le violet représente le support aux axes principeaux. En haut, la direction et le conseil de fondation, ils sont garants de la mission jobtrek, des valeurs et de la stratégie. En bas, les fonctions support qui sont mises à disposition des axes principeaux de la Fondation pour qu'ils puissent réaliser leurs missions.
-
-Pour finir, à gauche en jaune, l'environnement qui doit être pris en compte pour l'accomplissement de la mission Jobtrek, et à droite en bleu, les bénéficiaire de la Fondation.
-
-#figure(
-  image("assets/carte générale des process.png"),
-  caption: [Carte générale des processus Ossad @the-ossad-methodology],
-) <fig-carte-gen-processus>
-
-Ces axes de travail principeaux sont le résultat de la mise en place des différents produits Jobtrek au fil des années. Ils évolues quand les produits changent, et sont implémentés par les roles directement...
-
-#text(fill: red)[*TODO* diagramme général des process OSSAD]
-
-== Fonctionnement de la gouvernance
-
-#text(fill: red)[*TODO* vue générale des cercles et rôles]
-
-=== Objectifs de la gouvernance
-
-Aujourd'hui, en 2025, les objectifs stratégiques de la gouvernance ont été formalisés comme suit :
-
-- *Alignement avec la mission* \ Les Rôles, projets et cercles sont justifiés par leur contribution à la mission. La mission est incarnée par les rôles, portée collectivement.
-- *Libérer le potentiel* \ Chaque personne agit dans un cadre de valeurs et une sphère d'autorité claire. Les talents sont encouragés et mobilisés. Les rôles sont attribués selon les forces et évoluent. Les rôles sont libres de choisir leur manière de travailler.
-- *Agilité et amélioration continue, décisions rapides* \ Adaptation permanente, les tensions sont traitées dès qu'elles apparaissent. Les changements se font progressivement, ajustement après ajustement.
-- *Création de valeur* \ Les cercles et les rôles génèrent de la valeur. Les indicateurs ne sont pas des absolus, mais mesurent ce qui compte.
-- *Renforcement de l'équipe* \ Favoriser la construction d'une équipe qui est investie dans la mission. Collaboration et entraide en évitant les silos. Confiance entre les rôles. Permettre des moments pour gérer les tensions et malentendus.
-- *Ouverture avec les nouvelles générations* \ Offre du sens et de l'autonomie. Feedback et valorisation régulière. Cadre structurant sans être rigide.
-- *Favorise l'intrapreneuriat* \ Encourage la prise d'initiatives, la construction. Responsabilise les personnes et leur permet de créer de la valeur. Stimule l'innovation.
-- *Robustesse* \ Permet des adaptations rapides tout en gardant le cap. Favorise la résilience, ne s'effondre pas face aux changements.
-
-=== Éléments constituants
-
-=== Rôles et cercles
-
-=== Process de fonctionnement
-
-== Besoin du cercle IT Jobtrek
+#include "fonctionnement_gouvernance_jobtrek.typ"
 
 /**
  * ----------------------------------
