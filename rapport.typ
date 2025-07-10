@@ -137,7 +137,7 @@ Les chapitres précédents montrent qu'il existe des tensions entre la gouvernan
 
 == Plan d'action
 
-Afin de répondre à la question de recherche, un plan d'action à été défini en début de travail, vous pouvez consulter en @annexe-demande-de-ratification[Annexe] la demande de ratification qui inclut tous les détails sur la planification de se travail. En synthèse, il à été décidé de réaliser quatre grandes étapes :
+Afin de répondre à la question de recherche, un plan d'action à été défini en début de travail, vous pouvez consulter en @annexe-demande-de-ratification[annexe] la demande de ratification qui inclut tous les détails sur la planification de se travail. En synthèse, il à été décidé de réaliser quatre grandes étapes :
 
 - Une phase de revue de littérature, cela afin d'ancrer les enjeux de la Fondation dans ce qui éxiste déjà, et aussi de recueillir les éventulles recommandations générales déjà éxistantes.
 - En parallèle une phase d'analyse de la fondation en inspectant les documents a disposition et inteviewant différents rôles afin de mieux cibler le problème et son ressenti. D'en ressortir les tensions existantes et les pistes envisageables pour les résoudre.
@@ -150,23 +150,21 @@ Afin de répondre à la question de recherche, un plan d'action à été défini
 
 Pour réunir la littérature en lien avec les sujets abordés dans ce rapport, 2 principales approches ont été utilisées :
 
-Réunir les œuvres qui ont inspiré la gouvernance de la Fondation, cela afin d'avoir des informations plus fines sur les origines de la gouvernance Jobtrek mais aussi mieux comprendre dans quels courants elle s'inscrit. Pour ce faire, contact a été pris avec les membres de la fondation qui ont participé à la construction de la gouvernance pour obtenir leurs sources.
+Réunir les œuvres qui ont inspiré la gouvernance de la Fondation, cela afin d'avoir des informations plus fines sur les origines de la gouvernance Jobtrek mais aussi mieux comprendre dans quels courants elle s'inscrit. Pour ce faire, contact a été pris avec les membres de la fondation qui ont participé à la construction de la gouvernance pour obtenir leurs sources d'inspiration.
 
 Deuxièmement, réunir de la littérature plus large, notamment pour faire le pont avec les SI, pour ce faire, les recherches ont essentiellement été effectuées sur la plateforme #link("https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/")[Web of Science]. Il s'agit d'un agrégateur qui permet de retrouver des articles sur tout type de thématiques via un outil de recherche avancé. Il est possible de créer des recherches du type "Holacracy AND information technology" afin de contraindre les résultats.
 
-Les resources récoltées ont ensuite été analysées par thématiques afin d'identifier les principeaux axes qui définissent les systèmes à gouvernance distribuée et leurs liens avec le SI.
+Les resources récoltées ont ensuite été analysées par thématiques afin d'identifier les principeaux axes qui définissent les systèmes à gouvernance distribuée et leurs liens avec le SI. Pour finir, le résultat des recherches à été synthétisé au @chap-revue-de-litterature.
 
-== Phase d'analyse générale (gouvernance et fondation)
+== Phase d'analyse générale (gouvernance et Fondation)
 
-L'analyse de la gouvernance à été réalisée en parcourant les outils de gesion en place, les documents qui la décrivent et les différents process d'entreprise. Un entretien avec le directeur à aussi été organisé afin de connaitre les détails et l'historique de la gouvernance actuelle.
+L'analyse de la gouvernance à été réalisée en parcourant les outils de gesion en place, les documents qui la décrivent et les différents process d'entreprise. Les entretiens qui ont été réalisées avec les collaborateurs ont aussi permis de mieux comprendre comment la gouvernance et pércue et appliquée au quotidien. Pour finir, un entretien avec le directeur à aussi été organisé afin de connaitre l'historique de la gouvernance actuelle, comment elle à été mise en place, quelles sont les objectifs poursuivis par la gouvernance Jobtrek et quels apports sont attendus.
 
-Une carte générale des processus tel que proposé par la méthode Ossad @the-ossad-methodology.
-
-#text(fill: red)[*TODO*]
+Pour bien situer les fonctionnement de la fondation et ses axes de travail, une carte générale des processus tel que proposé par la méthode Ossad @the-ossad-methodology à été réalisée. Cela dans le but de mieux représenter les missions générales accomplies par la fondation et ses partenaires.
 
 == Phase d'analyse spécifique (IT et gouvernance, entretiens)
 
-Afin de récolter ces données, il a été décidé de réaliser des entretiens auprès des collaborateurs. Cela afin d'obtenir des données de qualités et de permettre de détailler les éléments remontés par les collaborateurs en posant des questions supplémentaires.
+Afin de récolter des données concrètes sur les problèmes identifiés, il a été décidé de réaliser des entretiens auprès des collaborateurs. Cela afin d'obtenir des données de qualités et de permettre de détailler les éléments remontés par les collaborateurs en posant des questions supplémentaires.
 
 Un guide d'entretien a été conçu, voir @annexe-guide-entretien[l'annexe]. Ce dernier est axé en 2 grandes phases, une première qui fait l'état des lieux du collaborateur par rapport à l'informatique. Il est attendu que le collaborateur puisse se prononcer sur son utilisation actuelle des outils pour l'accomplissement des tâches de ses rôles. Une seconde porte sur l'avenir, afin de recueillir des informations sur comment le collaborateur proposerait de faire évoluer la situation.
 
@@ -186,29 +184,33 @@ Un guide d'entretien a été conçu, voir @annexe-guide-entretien[l'annexe]. Ce 
 
 === Déroulement des entretiens
 
-Les entretiens sont réalisés de manière individuelle, une personne interviewée et l'intervieweur. Les entretiens sont enregistrés afin d'en générer une transcription. L'intervieweur effectue aussi une prise de notes active au cours de l'entretien (directement sur le guide d'entretien), cela afin de synthétiser au cours de l'entretien les éléments importants.
+Les entretiens sont réalisés de manière individuelle, une personne interviewée et l'intervieweur. Les entretiens sont enregistrés afin d'en générer une transcription. L'intervieweur effectue aussi une prise de notes active au cours de l'entretien (directement sur le guide d'entretien, un large marge et prévue à cet effet), cela afin de synthétiser au cours de l'entretien les éléments importants.
 
-Au début de l'entretien, la personne est avertie du cadre de l'entretien et de l'enregistrement de ce dernier, voir les détails dans @annexe-guide-entretien[l'annexe].
+Au début de l'entretien, la personne est avertie du cadre de l'entretien et de l'enregistrement de ce dernier (voir les détails dans @annexe-guide-entretien[l'annexe]).
 
 L'entretien est mené en "entonnoir", les questions sont initialement posées de façon très ouverte pour laisser le collaborateur s'exprimer avec un minimum d'ancrages externes, puis au besoin, l'intervieweur rebondis en précisant les questions pour obtenir les détails souhaités selon les thématiques.
 
-À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse.
-
 === Analyse des entretiens
 
-A l'issue des entretiens, la prise de note manuscrite et la transcription sont utilisés pour rédiger une fiche qui résume les principeaux aspects abordés par la personne interviewée au cours de l'entretien. Ces résumés vont permettre ensuite de travailler l'analyse des entretiens.
+À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse. Ce document résume les principeaux aspects abordés par la personne interviewée au cours de l'entretien, notamment une synthèse des améliorations proposées.
 
-Les tensions et propositions faites dans les différents entretiens sont regroupées, le fréquence d'apparition est calculée.
+Une fois tous les entretiens terminés, les synthèse et transcriptions ont été reprises, cela afin d'écrire le @chap-but-entretiens au cours duquel les tensions remmontées par les collaborateurs ont été classées et regroupeées puis, les mesures proposées ont été élaborées et détaillées.
+
+La couverture des tensions par les mesures d'amélioration à été calculée, tout comme "l'intéret" montré pour les mesures au fil des entretiens. Cela afin de proposer une première priorisation des mesures.
 
 == Évaluation
 
-La phase d'évaluation des mesures proposées dans la phase d'analyse est relativement succincte afin qu'elle s'intègre dans la planification des collaborateurs concernés. Une première évaluation a été réalisée sous la forme d'un atelier avec l'essentiel des personnes qui portent le rôle de "coordinateurs de cercles" de la Fondation. Le choix de ce rôle c'est imposé car l'atelier pouvait être intégré dans une séance déjà planifiée avec ces personnes, et que chaque coordinateur représente un des cercles de la fondation, cela permet d'avoir d'un coup des avis qui représentent toutes les personnes de la fondation -- domaine métier et produits confondus.
+La phase d'évaluation des mesures proposées dans la phase d'analyse est relativement succincte afin qu'elle s'intègre dans la planification des collaborateurs concernés. Une première évaluation a été réalisée sous la forme d'un atelier avec l'essentiel des personnes qui portent le rôle de "coordinateurs de cercle". Le choix de ce rôle c'est imposé car l'atelier pouvait être intégré dans une séance déjà planifiée avec ces personnes, et que chaque coordinateur représente un des cercles de la fondation, cela permet d'avoir d'un coup des avis qui représentent toutes les personnes de la fondation -- domaine métiers et produits confondus.
 
 L'atelier a été organisé en deux phases, une permière qui as pour but de récolter des avis qualitatifs sur les différentes propositions d'améliorations. Une seconde pour récolter des données quantitatives. Pour la première phase il à été choisi de réaliser un atelier en binômes dans lequel les personnes ont pu prendre connaissance des mesures une a unes et les commenter au regard de leur expérience à Jobtrek. Puis, dans la seconde phase il à été choisi de réaliser une analyse en utilisant la matrice de kano afin d'évaluer la pertinence des mesures @modele-de-kano.
 
 == Implémentation
 
-#text(fill: red)[*TODO*]
+A l'issue de des précédentes étapes, il à été décide d'implémenter deux des mesures proposées, cela afin de voir dans quelles mesures et sont réalistes et de voir comment réagissent les premiers collaborateurs qui y sont confrontés. L'implémentation de ses mesures doit aussi permettre de faire apparaitre des points d'organisation qu'il n'auraient pas été obesrvés dans les phases précédentes.
+
+Pour les 2 mesures, j'ai procédé a une réalisation itérative des processus ou documents, en intéragissant directement avec les rôles de la fondation qui sont concernés. En particulier le cercle informatique, le cercle support et différents collaborateurs qui ont souhaité partager leur retours volontaire.
+
+Le @chap-implémentation détaille les deux mesures élaborées et renvoie vers les documents qui ont été élaborés en interne. Une des deux mesures à pu aller jusqu'à l'élaboration des documents finaux. L'autre en est aus state de documents de travail.
 
 /**
  * ----------------------------------
@@ -216,7 +218,7 @@ L'atelier a été organisé en deux phases, une permière qui as pour but de ré
  * */
 #pagebreak()
 
-= Ancrage dans la littérature
+= Ancrage dans la littérature <chap-revue-de-litterature>
 
 #include "parts/revue_de_litterature.typ"
 
@@ -588,7 +590,7 @@ Propose un chapitre qui évalue les mesures en regard de ce qui est ressorti des
 
 == Choix des mesures à implémenter
 
-= Implémentation de mesures
+= Implémentation de mesures <chap-implémentation>
 
 Parmis les mesures proposées et évaluées, deux on pu être crées et proposées a la fondation. Le temps n'a pas permis de les mettre en place, cependant elles sont prètes pour une mise en place prochaine.
 
