@@ -30,29 +30,33 @@ La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment l
   ],
 )
 
-Une fois agrégés, les résultats permettront de construire une matrice de kano, voir @chap-evel-kano.
+Une fois agrégés, les résultats permettront de construire une matrice de kano, voir @chap-eval-kano.
 
-A la fin de l'atelier, un moment informel de discussion à été réalisé afin de récolter des retours plus généraux et "décontractés" sur les différents réflexions englobeant la gouvernance et le cercle IT.
+A la fin de l'atelier, un moment informel de discussion a été réalisé afin de récolter des retours plus généraux et "décontractés" sur les différentes réflexions englobant la gouvernance et le cercle IT.
 
-Les supports présentés lors de l'atelier sont disponibles en @annexe-entretiens[annexe]. Seule la partie matrice de kano des supports d'évaluation à été utilisée.
+Les supports présentés lors de l'atelier sont disponibles en @annexe-entretiens[annexe]. Seule la partie matrice de kano des supports d'évaluation a été utilisée.
 
 #pagebreak()
 
-== Matrice de kano <chap-evel-kano>
+== Matrice de kano <chap-eval-kano>
 
-La matrice de kano est un modèle proposé par #cite(form: "prose", <modele-de-kano>) qui propose une approche pour évaluer ou prioriser des éléments en questionnant l'utilisateur sur sa satisfaction avec ou sans la présence de l'élément évalué. Le @table-kano-matrix ci dessous est une visualisation possible de la matrice. Il est aussi possible de visualiser la matrice en graphe #footnote[Un exemple de graphe : https://innover-malin.com/diagramme-de-kano/#:~:text=La%20lecture%20du%20diagramme%20de%20Kano].
+La matrice de kano est un modèle proposé par #cite(form: "prose", <modele-de-kano>) qui propose une approche pour évaluer ou prioriser des éléments en questionnant l'utilisateur sur sa satisfaction avec ou sans la présence de l'élément évalué. Le @table-kano-matrix ci-dessous est une visualisation possible de la matrice. Il est aussi possible de visualiser la matrice en graphe #footnote[Un exemple de graphe : https://innover-malin.com/diagramme-de-kano/#:~:text=La%20lecture%20du%20diagramme%20de%20Kano].
 
 #include "matrice_knao.typ"
 
-L'axe horizontal correspond à la question "En l'absence de la mesure" dans lequel des 5 états êtes-vous. L'axe vertical correspond à la question "En présence de la mesure" comment vous sentez vous. Les mesures bleues sont importantes à mettre en place à tout prix. Les mesures rouges sont à éviter. Les mesures vertes sont celles qui peuvent apporter si elles sont présentes, mais ne dérangent pas forcément en leur absence. À l'opposé, les mesures orange sont celles qui semblent devoir être en place, mais n'apportent pas forcément de satisfaction particulière.
+L'axe horizontal correspond à la question "En l'absence de la mesure" dans lequel des 5 états êtes-vous. L'axe vertical correspond à la question "En présence de la mesure" comment vous sentez vous. Selon la réponse a ces 2 questions, il est possible de placer les éléments sur les 2 axes du tableau.
+
+Les mesures bleues sont importantes à mettre en place à tout prix, c'est la situation "idéale". Les mesures rouges sont à éviter, elles ne semblent ni apporter ni entraver. Les mesures vertes sont celles qui peuvent apporter si elles sont présentes, mais ne dérangent pas forcément en leur absence, elles sont à considérer. À l'opposé, les mesures orange sont celles qui semblent devoir être en place, mais n'apportent pas forcément de satisfaction particulière, elles devront faire l'objet d'une mise en place minutieuse et d'une bonne communication.
+
+En gris et gris foncé, toutes les mesures qui ne se démarquent ni par leur attractivité, ni par leur contre productivité. Il s'agit de mesures qui sont potentiellement moins prioritaires ou qui demandent peut-être d'être affinées afin d'arriver a mieux les situer.
 
 === Résultats de l'évaluation
 
-Certains collègues n'ont pas eu le temps d'évaluer toutes les mesures, la @graph-nb-vote-kano permet de voir le nombre de votes par mesures. Les mesures #link(<mesure-M17>, "17"), #link(<mesure-M3>, "3") et #link(<mesure-M2>, "2") n'ont pas été évaluées par tous.
+Certains collègues n'ont pas eu le temps d'évaluer toutes les mesures, la @graph-nb-vote-kano permet de voir le nombre de résultats récoltés par mesures. En l'occurrence, les mesures #link(<mesure-M17>, "M17") (Stratégie IT pérénisatrice), #link(<mesure-M3>, "M3") (Base de connaissances) et #link(<mesure-M2>, "M2") (Outil de décision en autonomie) n'ont pas été évaluées par tous.
 
 #include "eval_num_votes_per_measure.typ"
 
-Les données brutes récoltées auprès des collaborateurs ont été transcrites dans un document numérique, puis transformées et agrégées #footnote[Le nettoyage, l'agrégation et les transformations de données ont été réalisées dans un notebook jupyter à l'aide de la librairie polars. Le script est disponible en @annexe-evaluation-mesures[annexe].] pour en obtenir le pourcentage de présence de chaque mesure dans les différentes catégories de la matrice de kano présentée à la @table-kano-matrix.
+Les données brutes récoltées auprès des collaborateurs ont été transcrites dans un document numérique, puis transformées et agrégées #footnote[Le nettoyage, l'agrégation et les transformations de données ont été réalisées dans un notebook jupyter à l'aide de la librairie polars. Le script est disponible en @annexe-evaluation-mesures[annexe].] pour en obtenir le pourcentage de présence de chaque mesure dans les différentes catégories de la matrice de kano (voir @table-kano-matrix) et les classer par catégories dans le @table-kano ci-dessous.
 
 #include "kano_table.typ"
 

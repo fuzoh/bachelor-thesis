@@ -3,16 +3,25 @@
 
 #let data_kano = csv("../assets/evaluation/kano_matrix_table.csv")
 
+#let percentage_cell = percentage => {
+  let rouded = calc.ceil(float(percentage))
+  if rouded > 50 {
+    return text(fill: black.darken(rouded * 1.5%))[*#rouded %*]
+  } else {
+    return text(fill: black.darken(rouded * 1.5% - 30%))[#rouded %]
+  }
+}
+
 #let table_row = row => {
   return (
-    [*#row.at(0)*],
+    [*#link(label("mesure-" + row.at(0)), row.at(0))*],
     category_cell(row.at(7)),
-    [#calc.ceil(float(row.at(1))) %],
-    [#calc.ceil(float(row.at(2))) %],
-    [#calc.ceil(float(row.at(3))) %],
-    [#calc.ceil(float(row.at(4))) %],
-    [#calc.ceil(float(row.at(6))) %],
-    [#calc.ceil(float(row.at(5))) %],
+    percentage_cell(row.at(1)),
+    percentage_cell(row.at(2)),
+    percentage_cell(row.at(3)),
+    percentage_cell(row.at(4)),
+    percentage_cell(row.at(6)),
+    percentage_cell(row.at(5)),
   )
 }
 
