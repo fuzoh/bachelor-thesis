@@ -30,7 +30,7 @@ De façon générale, les mesures d'amélioration convergent vers une clarificat
 
 Une rationalisation de l'architecture est aussi souhaitée, en simplifiant la navigation et la recherche d'informations pour les utilisateurs. Ainsi que la création d'un cadre d'utilisation des outils numériques mieux défini, permettant une meilleure appropriation et une gestion plus efficace des évolutions.
 
-=== Priorisation des mesures à explorer
+=== Priorisation des mesures à explorer <chap-priorisation-mesures>
 
 Le @table-matrice-apparition-mesures classe les mesures proposées par fréquence d'apparition dans les entretiens. Les mesures ont été travaillées de la façon suivante :
 - *3, 4 et 5 apparitions :* Conception de la mesure, évaluation de la pertinence de la mesure. Si évaluation satisfaisante, proposition d'implémentation.
@@ -40,20 +40,6 @@ Le @table-matrice-apparition-mesures classe les mesures proposées par fréquenc
 Il est intéressant de noter que les interviwés ont suggérés moins régulièrement des mesures que les tensions.
 
 #include "mesures/matrice_priorites.typ"
-
-=== Réponse des mesures aux tensions
-
-Le @chap-tensions-relevées synthétise les tensions qui ont été relevées par les collaborateurs lors des entretiens. Le @table-mesures-tensions ci-dessous met en relation les mesures qui vont être explorées plus loin avec les tensions qu'elles permettraient de résoudre. On peut ainsi visualiser la couverture des tensions par les mesures proposées #footnote[Les abréviations de mesures et tensions sont cliquables et renvoient directement au chapitre ou tableau concerné.].
-
-#include "mesures/matrice_mesures_tensions.typ"
-
-Il est intéressant de noter que les 6 mesures les plus fréquemment proposées (lignes grises) ont une couverture presque totale des tensions (a 2 exceptions). On observe cependant une grande variabilité dans le nombre de mesures qui traitent une tension. Si on prend en compte toutes les mesures qui sont apparues plus d'une fois en entretien (@table-mesures-tensions en entier) l'entier des tensions sont couvertes avec entre une et huit mesures. Il faut toute fois noter que cette répartition de la couverture des mesures est arbitraire et n'a pas fait l'objet d'un sondage auprès des collaborateurs, des interprétations différentes peuvent exister.
-
-Les tensions #link(<t1>)[*T1*] (difficultés d'accès aux informations), #link(<t2>)[*T2*] (difficulté de prise de décisions) et #link(<t7>)[*T7*] (manque de confiance dans le SI) sont couvertes par un grand nombre de mesures. Les deux premières sont celles qui sont ressorties le plus fréquemment dans les tensions évoquées par les collaborateurs, tout le monde les avait relevées. Surprenamment, la dernière n'était ressortie que chez une personne.
-
-À notre aussi que la tension #link(<t9>)[*T9*] (difficulté d'acceptation des changements surprenants) qui était aussi ressortie chez tous les interviewés est assez peu couverte, seulement 3 mesures.
-
-#pagebreak()
 
 == Descriptions des mesures principales <chap-description-des-mesures>
 
@@ -66,6 +52,8 @@ De façon générale, les informations évoquées semblent déjà exister, mais 
 Les interviewés semblent convaincus qu'un accès simplifié et centralisé a l'information utile pour l'accomplissement de leurs tâches résoudrait déjà grandement les incompréhensions et tensions actuelles.
 
 #include "mesures/m3_base de connaissances.typ"
+
+#pagebreak()
 
 === _M2_ - Outil de déscision autonome pour le traitement des données
 
@@ -101,26 +89,39 @@ L'outil pourrait intégrer un système de quizz pour permettre aux collaborateur
 
 === _M6_ - Revue du mécanisme de proposition d'améliorations
 
-Le mécanisme actuel de proposition d'amélioration (tensions remontées des cercles vers les super cercle via les meetings de régulation) n'est pas adapté pour remonter des tensions qui concernent des cercles transverseaux (qui font partie du super cercle support)....
+Le mécanisme actuel de proposition d'amélioration (tensions remontées des cercles vers les super cercle via les meetings de régulation) n'est pas adapté pour remonter des tensions qui concernent des cercles transversaux (qui font partie du super cercle support). Le processus manque d'un mécanisme qui permette a la personne qui propose une amélioration de s'assurer en amont que les éventuels cercles transversaux concernés sont consultés.
 
-[...]
+De façon plus générale, la clarification de quels rôles ou cercles doivent être consultés au fil du processus de proposition d'améliorations devrait permettre aux collaborateurs de concevoir des propositions plus robustes et de bénéficier de l'apport des collaborateurs experts. Cela renforcerait aussi le crédit des propositions lors quelles sont présentées à large échelle.
+
+Cette amélioration ne sera pas seulement bénéfique au cercle IT mais aussi a tous les cercles supports ainsi qu'aux différents rôles qui ont une expertise forte dans certains domaines métiers -- il ne sont parfois pas consultés alors que leur expertise apporterait beaucoup.
 
 #include "mesures/m6_mecanisme de proposition améliorations.typ"
 
-=== _M17_ - Stratégie IT qui pérénise avant de proposer des nouveautés
+=== _M17_ - Stratégie IT qui pérennise avant de proposer des nouveautés
 
-[...]
+Cette mesure est plus globale, elle pourrait en réalité inclure plusieurs des autres mesures. Comme l'état de l'informatique actuel est essentiellement le résultat d'adaptations au fil des années et des possibilités, le cercle IT et ses outils ne disposent pas particulièrement de stratégie ou d'objectifs qui favorisent la pérennisation en regard de la réponse aux changements. En d'autres termes, la stratégie actuelle est essentiellement réactive et axée sur la nécessité du moment plus que sur la pérennisation.
+
+Il faudrait faire évoluer la stratégie et débloquer des ressources qui permettent au cercle IT, en parallèle de son activité quotidienne, de petit a petit adapter et renforcer les systèmes actuels pour les pérenniser. À terme, cela apporterait une stabilité qui devrait non seulement renforcer les systèmes, les rendre plus sécure, diminuer le temps de maintenance, mais aussi offrir un socle pour développer de nouveaux aspects du SI avec une plus grande valeur ajoutée pour la mission.
 
 #include "mesures/m17_perenisation avant changements.typ"
 
-== Tensions non couvertes par les mesures principales
-
-A lissue de la description des mesures qui ont récolté le plus de succès lors des entretiens, nous pouvons constater que les tensions suivantes ne sont pas adressées :
-
-#text(fill: red)[*[...]*]
-
 == Description des mesures secondaires
+
+Comme vu au @chap-priorisation-mesures les mesures secondaires n'ont été suggérées que lors de 2 entretiens, elles ont quand même fait l'objet d'une description et d'une évaluation, en effet elles couvrent un large panel de tensions (voir le @chap-réponse-mesures-tensions) et sont aussi beaucoup plus concrètes, ce qui laisse entrevoir une implémentation plus simple ou a plus court terme.
+
+Le ratio tensions résolues / difficulté de mise en place semble intéressant.
 
 #include "mesures/mesures_secondaires.typ"
 
-=== Description succinte des mesures à 1 et 2 apparitions
+
+== Réponse des mesures aux tensions <chap-réponse-mesures-tensions>
+
+Le @chap-tensions-relevées synthétise les tensions qui ont été relevées par les collaborateurs lors des entretiens. Le @table-mesures-tensions ci-dessous met en relation les mesures qui vont être explorées plus loin avec les tensions qu'elles permettraient de résoudre. On peut ainsi visualiser la couverture des tensions par les mesures proposées #footnote[Les abréviations de mesures et tensions sont cliquables et renvoient directement au chapitre ou tableau concerné.].
+
+#include "mesures/matrice_mesures_tensions.typ"
+
+Il est intéressant de noter que les 6 mesures les plus fréquemment proposées (lignes grises) ont une couverture presque totale des tensions (a 2 exceptions). On observe cependant une grande variabilité dans le nombre de mesures qui traitent une tension. Si on prend en compte toutes les mesures qui sont apparues plus d'une fois en entretien (@table-mesures-tensions en entier) l'entier des tensions sont couvertes avec entre une et huit mesures. Il faut toute fois noter que cette répartition de la couverture des mesures est arbitraire et n'a pas fait l'objet d'un sondage auprès des collaborateurs, des interprétations différentes peuvent exister.
+
+Les tensions #link(<t1>)[*T1*] (difficultés d'accès aux informations), #link(<t2>)[*T2*] (difficulté de prise de décisions) et #link(<t7>)[*T7*] (manque de confiance dans le SI) sont couvertes par un grand nombre de mesures. Les deux premières sont celles qui sont ressorties le plus fréquemment dans les tensions évoquées par les collaborateurs, tout le monde les avait relevées. Surprenamment, la dernière n'était ressortie que chez une personne.
+
+À notre aussi que la tension #link(<t9>)[*T9*] (difficulté d'acceptation des changements surprenants) qui était aussi ressortie chez tous les interviewés est assez peu couverte, seulement 3 mesures.
