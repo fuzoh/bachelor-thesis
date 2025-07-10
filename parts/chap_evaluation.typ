@@ -108,8 +108,34 @@ Quelques mesures suggérées ont peu de rapport direct avec les besoins d'une go
 
 == Évaluation des mesures selon les contraintes IT ou la loi
 
-Parmis les mesures proposées, certaines adressent directement des non négociables sur le plan de la sécurité informatique ou de la loi sur les données. Notamment les mesures #link(<mesure-M5>, "M5") (Sphère d'autorité), #link(<mesure-M7>, "M7") (Facilitateur sécurité), #link(<mesure-M16>, "M16") (Règles d'utilisation du matériel IT partagé) et #link(<mesure-M1>, "M1") (Simplification et uniformisation de l'architecture de fichiers).
+Parmi les mesures proposées, certaines adressent directement des non négociables sur le plan de la sécurité informatique ou de la loi sur les données. Notamment les mesures #link(<mesure-M5>, "M5") (Sphère d'autorité), #link(<mesure-M7>, "M7") (Facilitateur sécurité), #link(<mesure-M16>, "M16") (Règles d'utilisation du matériel IT partagé) et #link(<mesure-M1>, "M1") (Simplification et uniformisation de l'architecture de fichiers).
 
-Malgér cela, ces mesures n'ont pas toute été retenues lors de la phase d'anylse de part leur faible succés. Cela peut s'expliquer par le coté technique de certaines, des aspects d'ont les collaborateurs ont peut être peu connaissance. Il n'ent reste pas moins que pour répondre aux exigeances d'un service IT, il faudrait a terme être capable d'implémenter ces mesures ou d'y trouver des alternatives satisfaisantes.
+Malgré cela, ces mesures n'ont pas toute été retenues lors de la phase d'analyse à cause leur faible succès. Cela peut s'expliquer par le côté technique de certaines, des aspects dont les collaborateurs ont peut-être peu connaissance. Il n'en reste pas moins que pour répondre aux exigences d'un service IT, il faudrait à terme être capable d'implémenter ces mesures ou d'y trouver des alternatives satisfaisantes.
 
 == Choix des mesures à implémenter
+
+À l'issue de cette phase d'analyse, deux mesures ont été retenues pour la phase d'implémentation. Pour les choisir plusieurs facteurs ont été pris en compte :
+
+- Est-il réaliste de les implémenter dans le temps imparti.
+- Les ressources pour les implémenter sont elles disponibles immédiatement.
+- Leur succès dans la phase d'analyse et d'évaluation justifie-t-il leur implémentation.
+- L'impact de ces mesures sur les besoins de la gouvernance ou cercle IT est-il intéressant.
+
+*La mesure #link(<mesure-M5>, "M5") (Sphère d'autorité)* a été sélectionnées pour :
+- Sa présence régulière lors des entretiens menés.
+- Une évaluation "Indifférent" majoritaire qui suggère qu'il n'y à pas de freins majeurs.
+- Son apport direct aux besoins de clarification du champ d'action offerts aux rôles au sein de la gouvernance.
+- Son apport direct au besoin de formalisation des exigences de sécurité et légales des systèmes informatiques.
+- La disponibilité de ressources au sein de la fondation pour procéder à des relectures et réflexions autour de ce type de documents.
+
+*La mesure #link(<mesure-M6>, "M6") (Revue du mécanisme de proposition d'amélioration)* a été sélectionnée pour :
+- Sa présence dans la moitié des entretiens collaborateurs.
+- Son évaluation relativement bonne dans la matrice de Kano (23% "Performance", 23% "Attractif", 45% "Indifférent").
+- La présence de proto réflexions sur la revue du processus d'améliorations parmi certains collaborateurs.
+- La disponibilité de ressources pour réfléchir et effectuer des retours sur le nouveau processus proposé.
+
+Les mesures #link(<mesure-M4>, "M4"), #link(<mesure-M1>, "M1") ou #link(<mesure-M6>, "M3") n'ont pas été sélectionnées malgré une bonne évaluation et une bonne présence lors des entretiens pour différentes raisons, principalement le fait quelles soient irréalisable dans le temps à disposition et qu'il n'y ait pas les ressources nécessaires accessibles dans l'immédiat.
+
+La mesure #link(<mesure-M13>, "M13") (Support qui fourni une estimation des temps de résolution) n'a pas été sélectionnée bien que classée "Performante" et simple à mettre en œuvre car elle a été implémentée par hasard durant les premières semaines de juin, précisément durant la période de la phase d'évaluation de ce rapport. Des retours positifs ont déjà été effectués par les collaborateurs suite à la suite de la mise en place de cette mesure.
+
+La mesure #link(<mesure-M10>, "M10") (Point des nouveautés IT lors des réunions trimestrielles) a aussi en partie été implémentée durant ce début 2025, même si elle ne prend pas encore la forme d'un point complet sur l'état de l'IT et nécessitera donc encore du travail de mise en place. Elle n'a donc pas été considérée comme implémentée dans le chapitre suivant.
