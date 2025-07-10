@@ -20,7 +20,7 @@ Disponible au format PDF dans le fichier joint : `objectif stratégique gouverna
 == Transcriptions et résumé entretiens <annexe-entretiens>
 
 Toutes les transcriptions des entretiens sont disponibles au format texte ou srt dans le dossier `entretiens`. \
-Les résumés des entretiens sont disponibles dans le même dossier au format PDF.
+Les résumés des entretiens et les prises de notes manuscrites sont disponibles dans le même dossier au format PDF.
 
 == Evaluation des mesures <annexe-evaluation-mesures>
 

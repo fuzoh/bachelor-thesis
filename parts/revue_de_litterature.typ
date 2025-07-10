@@ -102,7 +102,7 @@ L'humain doit être considéré et prêt à se remettre en question ou remettre 
 
 Pour finir, la gestion du changement doit pouvoir se faire de manière graduelle et itérative. Les évolutions vont émerger par les rôles et cercles, au fil des défis et changements requis, ce qui rend impossible l'utilisation de grands projets de restructuration ou de planifications à très long terme @holacracy-the-new-management-system.
 
-== Contraintes envisageables vis-à-vis du SI et du service IT
+== Contraintes envisageables vis-à-vis du SI et du service IT <chap-contraintes-vis-a-vis-it>
 
 Comme montré au @chap-gouv-si la gouvernance distribuée ne semble pas spécialement opposée aux besoins que pourrait rencontrer un service informatique dans la mise en place du SI ou dans l'accomplissement de ses tâches. Cependant, certains points d'attention sont à relever.
 

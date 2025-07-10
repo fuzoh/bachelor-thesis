@@ -72,7 +72,7 @@ Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son se
 
 #pagebreak()
 
-= Vocabulaire
+*Vocabulaire :*
 
 / Système d'information (SI): Désigne l'ensemble des systèmes et outils informatiques qui sont mis en œuvre pour répondre aux besoins de la fondation Jobtrek.
 / Rôle: Désigne une fonction et ses responsabilités au sein de la gouvernance Jobtrek. Un ou plusieurs rôles peuvent être attribués à un ou plusieurs collaborateurs.
@@ -235,80 +235,7 @@ Le @chap-implémentation détaille les deux mesures élaborées et renvoie vers 
  * */
 #pagebreak()
 
-= Analyse du cas Jobtrek <chap-but-entretiens>
-
-Pour faire suite au @chap-analyse-gouvernance-jobtrek, ce dernier ayant permis de définir plus clairement comment la gouvernance est actuellement implémentée, quels sont les défis qui lui sont propose. Ce nouveau chapitre s'intéresse plus directement à la'rticulation entre el cercle IT et la gouvernance, il s'agit d'identifier plus précisément les tensions qui pourraient exister. En particulier de comprendre comment elles sont ressenties par les rôles au sein de la Fondation, sont elles réellement ressenties, quel est leur source, quelles sont les potentielles pistes de résolutions envisageables.
-
-*Buts des entretiens:*
-- Comprendre l'utilisation actuelle des outils informatiques des collaborateurs. Révéler les tensions.
-- Obtenir une vue d'ensemble des besoins IT des collaborateurs.
-- Quelles contraintes sont acceptables ou non pour les collaborateurs vis-à-vis du cercle IT.
-
-Les entretiens se sonts déroulés entre le 5 mai 2025 et le 19 mai 2025 au sein des locaux Jobtrek. Sont disponibles en @annexe-entretiens[annexe] les transcriptions, notes et résumés des 6 entretiens menés.
-
-== Résumé général des thématiques abordées lors des entretiens
-
-Les discussions menées en entretien on permis de cibler un certain nombres de mesures d'amélioration qui pourraient être mises en oeuvre, voir @chap-mesures-suggerees-dans-les-entretiens. Les 3 prochaines chapitres résument quant a eux l'état des lieux énoncés par les interviewés. Chaque chapitre répond à un des buts du @chap-but-entretiens. Pour finir l'analyse des entretiens a pérmi de lister les tensions ressenties par les collaborateurs vis à vis de l'IT et de la gouvernance, voir le @table-tensions-relevées.
-
-=== Utilisation des outils informatique
-
-Tous les roles interviewés dépendent grandement des outils numériques, en effet la quasi totalité des activités de la Fondation sont menées via des outils informatiques, ou a minima les outils sont le support principal pour la réalisation des missions.
-
-Les rôles ont prinicipalement une utilisation bureautique des outils informatiques, en premier lieu les outils de la suite Microsoft 365. L'essentiel des tâches sont réalisées avec les outils de communication de la suite (Teams et Outlook) et la suite bureautique (Word, Excel). Personne ne semble reposer sur d'autres applications bureautiques.
-
-Le traitement de fichiers et leur gestion avec des dossiers synchronisées (OneDrive et Sharepoint) est central pour les rôles. L'essentiel des missions demandent de traitées des données qui sont consignées, mise sous forme de rapports ou tableaux. Des difficultés dans l'organisation des documents et l'apptitude a les retrouver efficacement sont régulièrement relevées. Les dossiers partagés (Sharepoint) semblement notamment assez mal exploités et ne pas bénéficier d'une organisation adaptée.
-
-Quelques autres outils sont utilisés de manière plus spécifique. Les roles liés a du coaching travaillent avec le CRM Dynamics 365 pour la gestion du suivi des bénéficiaires. L'outil semble fonctionnel mais mal exploité ou pas totalemnt adapté.
-
-Pour finir, l'essentiel du reste de l'activité des collaborateurs est réalisée avec des outils web. Notamment de petits outils spécialisés pour répondre a de petits besoins (modification PDF, modification d'images, dessin de digrammes). Les outils d'IA online sont aussi régulièrement sollicités. Les collaborateurs semblent conscients des problèmatiques liées aux données sans pout autant être au clair sur les limites et actions à prendre.
-
-=== Besoins des collaborateurs
-
-Amélioration de l'efficacité des outils, formation, meilleures connaissances, amélioration de la communication et clarifications des processus de changements font partie des principeaux besoins formulées lors des interviews.
-
-Pour les outils, le besoin de plus d'uniformité dans leur utilisation et la structure de stockage des données semble prioritaire. En particulier organiser l'accès a l'information et au documents pour que les collaborateurs aient confiance dans ces dérniers. L'envie de pouvoir automatiser plus de tâches est aussi présente.
-
-Une meilleure formation aux outils informatiques serait apprécié, il est suggéré quelle soit apportée a l'entrée des collaborateurs ou vie des solutions qui permettent l'apprentissage en autonomie des collaborateurs (base de connaissances, e-learning).
-
-Plus de clarté sur le cadre de traitement des données, notamment celles protégées par la loi est largement ressorti au cours des discussions. Mais aussi sur la gestion de la sécurité générale de sont ordinateur et des outils utilisés sur celui ci.
-
-Pour finir, l'amélioratin ou la mise en place de processus pour remonter des propositions de changements ou d'améliorations est régulièrement ressorti. L'adaptation des process déjà en place semble être privilégiée.
-
-=== Contraintes acceptables par les collaborateurs
-
-Les personnes inteviewées sont assez unanimes, ils ne souhaitent pas spécialement que l'informatique ne leur impose de contraintes supplémentaires. Ils sont tout a fait prait a accepter des règles justifiées, par exemple liées a la sécurité des données. Ils sont même prèt a accepter que ces règles puissent réduire le efficacité si nous n'avons pas le choix. En revanche, le besoin de comprendre pourquoi tel ou tel contrainte doit être appliquée, quels en sont ses justifications est un non négociable.
-
-La frustration quand a l'efficacité de certains outils actuels est grande, il ne faudrait donc pas que de nouvelles contraintes viennent qu'avec des réductions de libertés ou d'efficaité. Dans l'idéal de nouvelles règles devraient se voir accompagnées d'améliorations sur la productivité.
-
-De façon générale, l'accent est mis sur la nécessité de communiquer de manière extensive sur de futurs changements, de les justifier, et de permettre aux collaborateurs de demander des modifications et/ou justifications. Les collaborateurs ne semblent pas prèts a accepter des changements arbitraires qui réduisent leur efficacité ou sont mal comuniqués.
-Cependant, si ces points sont travaillés, ils semble tout a fait ouvert a des adaptations.
-
-== Tensions relevées <chap-tensions-relevées>
-
-Résumé des principales tensions qui ressortent des différentes discussions :
-
-#include "parts/tensions_relevees_lors_entretiens.typ"
-
-=== Taux d'apparition des tensions
-
-Le @table-matrice-apparition-tensions ci dessous permet de voir quelles tensions ont été le plus fréquemment abordées par les personnes interviewées.
-
-#include "parts/matrice_priorites_tensions.typ"
-
-Trois tensions principales sont ressorties, elles sont les trois assez proche de problématiques de communication. Notamment la difficulté d'acceptation des changements non communiqués #link(<t9>)[T9] ou encore la difficulté d'accès aux informations #link(<t1>)[T1]. La tension #link(<t2>)[T2] semble plus liées aux limites d'expertise des collaborateurs et au manque d'outils/formations qui pourraient leur permettre d'être plus sereins avec les considérations de sécurité.
-
-Les tensions #link(<t6>)[T6] et #link(<t6>)[T6] sont apparues chez presque tous les interviewés, elles font plus référence à des problématiques d'organisation et d'utilisation des outils informatiques.
-
-Il est intéressant de noter que peu de tensions relèvent de la gouvernance a proprement parler, les #link(<t3>)[T3] et #link(<t10>)[T10] sont celles qui se rapprochent le plus de problématiques qui porraient être résolues par des process de gouverance, toutes les autres sont plus ancrées dans le fonctionnement des cercles.
-
-=== Gouvernance distribuée et IT
-
-Au fil des entretiens, il sembre ressortir que la tension principale relevée par la Fondation (consilier les impératifs IT avec la gouvernance) pourrait dans les fait n'être que le symptome de tensions plus opérationnelles. Cela va aussi dans le sens de la revue de littérature qu'il ne fait que peu état de potentiels problèmes entre des gouvernances distribuées et des services informatiques.
-
-Peu des interviewés on manifesté qu'il manquaient de libertés ou pourraient se sentir limités par des contraintes supplémentaires. Il semble même tout a fait envisageable que le cercle IT puisse avoir une attitude plus "directive" dans ses actions. En revanche il ressort régulièrement que le manque de clarté du cadre informatique ou le flou dans l'architecture du SI crée de la frustration et des incompréhension.
-
-Ces éléments laissent pesner que la tension ressentie au niveau stratégique entre les libertés offertes par la gouvernance et les impératifs IT pourrait être principalement due a des tensions opérationnelles. Tensions à traiter par des mesures concrétes (mise en place d'outils et process) plus que par une transformation du fonctionnement de la gouvernance.
-
+#include "analyse_jobtrek.typ"
 
 /**
  * ----------------------------------
