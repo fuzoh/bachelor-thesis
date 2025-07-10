@@ -192,25 +192,25 @@ L'entretien est mené en "entonnoir", les questions sont initialement posées de
 
 === Analyse des entretiens
 
-À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse. Ce document résume les principeaux aspects abordés par la personne interviewée au cours de l'entretien, notamment une synthèse des améliorations proposées.
+À l'issue de l'entretien, un résumé des principaux éléments amenés par l'interviewé est réalisé afin de disposer d'un document efficient pour la suite du travail d'analyse. Ce document résume les principaux aspects abordés par la personne interviewée au cours de l'entretien, notamment une synthèse des améliorations proposées.
 
-Une fois tous les entretiens terminés, les synthèse et transcriptions ont été reprises, cela afin d'écrire le @chap-but-entretiens au cours duquel les tensions remmontées par les collaborateurs ont été classées et regroupeées puis, les mesures proposées ont été élaborées et détaillées.
+Une fois tous les entretiens terminés, les synthèses et transcriptions ont été reprises, cela afin d'écrire le @chap-but-entretiens au cours duquel les tensions remontées par les collaborateurs ont été classées et regroupées puis, les mesures proposées ont été élaborées et détaillées.
 
-La couverture des tensions par les mesures d'amélioration à été calculée, tout comme "l'intéret" montré pour les mesures au fil des entretiens. Cela afin de proposer une première priorisation des mesures.
+La couverture des tensions par les mesures d'amélioration à été calculée, tout comme "l'intérêt" montré pour les mesures au fil des entretiens. Cela afin de proposer une première priorisation des mesures.
 
 == Évaluation
 
 La phase d'évaluation des mesures proposées dans la phase d'analyse est relativement succincte afin qu'elle s'intègre dans la planification des collaborateurs concernés. Une première évaluation a été réalisée sous la forme d'un atelier avec l'essentiel des personnes qui portent le rôle de "coordinateurs de cercle". Le choix de ce rôle c'est imposé car l'atelier pouvait être intégré dans une séance déjà planifiée avec ces personnes, et que chaque coordinateur représente un des cercles de la fondation, cela permet d'avoir d'un coup des avis qui représentent toutes les personnes de la fondation -- domaine métiers et produits confondus.
 
-L'atelier a été organisé en deux phases, une permière qui as pour but de récolter des avis qualitatifs sur les différentes propositions d'améliorations. Une seconde pour récolter des données quantitatives. Pour la première phase il à été choisi de réaliser un atelier en binômes dans lequel les personnes ont pu prendre connaissance des mesures une a unes et les commenter au regard de leur expérience à Jobtrek. Puis, dans la seconde phase il à été choisi de réaliser une analyse en utilisant la matrice de kano afin d'évaluer la pertinence des mesures @modele-de-kano.
+L'atelier a été organisé en deux phases, une première qui a pour but de récolter des avis qualitatifs sur les différentes propositions d'améliorations. Une seconde pour récolter des données quantitatives. Pour la première phase, il a été choisi de réaliser un atelier en binômes dans lequel les personnes ont pu prendre connaissance des mesures unes à unes et les commenter au regard de leur expérience à Jobtrek. Puis, dans la seconde phase, il a été choisi de réaliser une analyse en utilisant la matrice de kano afin d'évaluer la pertinence des mesures @modele-de-kano.
 
 == Implémentation
 
-A l'issue de des précédentes étapes, il à été décide d'implémenter deux des mesures proposées, cela afin de voir dans quelles mesures et sont réalistes et de voir comment réagissent les premiers collaborateurs qui y sont confrontés. L'implémentation de ses mesures doit aussi permettre de faire apparaitre des points d'organisation qu'il n'auraient pas été obesrvés dans les phases précédentes.
+À l'issue de dés précédentes étapes, il a été décide d'implémenter deux des mesures proposées, cela afin de voir dans quelles mesures et sont réalistes et de voir comment réagissent les premiers collaborateurs qui y sont confrontés. L'implémentation de ses mesures doit aussi permettre de faire apparaitre des points d'organisation qu'il n'aurait pas été observées dans les phases précédentes.
 
-Pour les 2 mesures, j'ai procédé a une réalisation itérative des processus ou documents, en intéragissant directement avec les rôles de la fondation qui sont concernés. En particulier le cercle informatique, le cercle support et différents collaborateurs qui ont souhaité partager leur retours volontaire.
+Pour les 2 mesures, une réalisation itérative des processus ou documents, en interagissant directement avec les rôles de la fondation qui sont concernés. En particulier le cercle informatique, le cercle support et différents collaborateurs qui ont souhaité partager leur retour volontaire.
 
-Le @chap-implémentation détaille les deux mesures élaborées et renvoie vers les documents qui ont été élaborés en interne. Une des deux mesures à pu aller jusqu'à l'élaboration des documents finaux. L'autre en est aus state de documents de travail.
+Le @chap-implémentation détaille les deux mesures élaborées et renvoie vers les documents qui ont été élaborés en interne. Une des deux mesures à pu aller jusqu'à l'élaboration des documents finaux. L'autre en est au stade de document de travail.
 
 /**
  * ----------------------------------
