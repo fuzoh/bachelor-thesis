@@ -109,6 +109,19 @@ Les facilitateurs et coordinateurs de super cercle sont nommés par le comité d
 
 === Séances formalisées
 
+La gouvernance Jobtrek ne met en place que 2 types de séances actuellement. La liberté est laissée aux cercles de mettre en place davantage de séance si cela est nécessaire pour l'accomplissement des responsabilités.
+
+- *Meeting de régulation :* Planifié 1 fois par mois, il sert à la régulation du fonctionnement du cercle, durant cette séanmce les éventuelles tensions qui auraient été remontées par des membres du cercle sont discutées et traitées. Cette séance a pour but de garantir l'hygiène du cercle et son bon fonctionnement. Si aucunne tension n'est actualité, il peut être annulé.
+- *Stand up meeting :* Planifié 1 à 2 fois par mois, il s'agit d'une séance de suivi des travaux du cercle. Succincts, ils servent à maintenir le cercle au fait des avancements des différents rôles et à discuter d'éventulles éléments métiers.
+
+Au sein de la fondation, différents cercles implémentent des séances supplémentaires à des fréquences qui varient pour mieux répondre aux besoins de leur cercle. La gouvernance n'impose pas de restrictions quant a l'existance des ces séances.
+
 === Processus formalisés
+
+La gouvernance dispose actuellement des processus suivants pour sa régulation :
+
+- *Proposition d'amélioration :* Il permet à tout rôle d'effectuer une proposition qui va impliquer des changements qui ont des implications au delà des responsabilités de son rôle.
+- *Gestion des tensions :* Permet de réguler les problèmes inter rôles et inter cercles, il permet de formaliser les difficultés, d'identifier les causes et de les résoudre. Ce process peut régulièrement découler sur une proposition d'amélioration.
+- *Feedback inter rôles:* Les rôles sont encouragés a régulièrement effectuer des points de feedback avec un autre rôles, cela afin de favoriser les échanges de pratiques et de s'améliorer.
 
 == Besoin du cercle IT Jobtrek
