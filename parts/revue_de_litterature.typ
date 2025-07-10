@@ -34,7 +34,7 @@ Ils proposent de nouvelles approches qui doivent permettre de "libérer" les ent
 
 Si l'entreprise met pleinement en place des principes de gouvernance distribuée, les collaborateurs se sentiraient alors plus en phase avec leur travail et les tâches qu'ils accomplissent. On s'attend à ce que les collaborateurs soient investis dans leur travail et que ce dernier aie plus de sens @holacracy-new-way-of-organizing-farkhondeh.
 
-=== Structures _opales_
+=== Structures _opales_ <chap-structures-opales>
 
 Pour #cite(form: "prose", <reinventing-organisations-frederic-laloux>), les structures _opales_ sont le dérnier stade d'évolution des structures de gouvernance avant le suivant qui n'existe pas encore. Il peut regrouper différents modèles de gouvernances différents, cependant Laloux identifie 3 avancées qui caractérisent les structures _opales_ qu'il a étudié.
 
@@ -74,16 +74,32 @@ Cela ne concerne pas seulement la consultation de personnes qu'il faudrait consu
 
 === Critiques des gouvernances distribuées
 
-Bien que les gouvernances _opales_ et l'holacratie proposent de résoudre un certain nombre d'ecueils des gouvernances traditionnelles, elles sont aussi critiquées sur certains aspect. #cite(form: "prose", <reinventing-organisations-frederic-laloux>) explique que les structures _opales_ ne sont a priori pas universelles, dans certains cas, il n'est pas possible de les mettre en place. Selon lui il est notamment assez difficile de faire des mix entre distribué et non-distribué, les défis pour réconcilier ces différents modes de gouvernance étant grands.
+Bien que les gouvernances _opales_ et l'holacratie proposent de résoudre un certain nombre d'écueils des gouvernances traditionnelles, elles sont aussi critiquées sur certains aspects. #cite(form: "prose", <reinventing-organisations-frederic-laloux>) explique que les structures _opales_ ne sont a priori pas universelles, dans certains cas, il n'est pas possible de les mettre en place. Selon lui il est notamment assez difficile de faire des mix entre distribué et non-distribué, les défis pour réconcilier ces différents modes de gouvernance étant grands.
 
-Certains craignent que le grand nombre de processus, de formalisme et de réunions imposées par l'holacratie soit en fait plus contraignant que dans des structure plus hiérarchiques
+Certains craignent que le grand nombre de processus, de formalisme et de réunions imposées par l'holacratie soit en fait plus contraignant que dans des structures plus hiérarchiques. Un paradoxe apparait car ces structures distribuées et voulant être organiques peuvent se retrouve submergées de formalismes et de bureaucratie @holacracy-new-way-of-organizing-farkhondeh.
 
-#text(fill: red)[*TODO*]
+La réduction des individus à leurs rôles est aussi une critique régulière, mal implémentée certains soulignent que la gouvernance distribuée peut aussi désincarner les rôles et retrouver les mêmes écueils que des structures hiérarchiques et fonctionnalistes @holacracy-redefining-organizational-ontology-and-epistemology-robledo. Cela menerait aussi a une impression de liberté qui n'en est pas réellement une, les responsabilités sont déléguées sans réelles possibilités d'actions a l'échelle globale, la raison d'être étant définie en amont et potentiellement pa discutée @nouvelle-gouvernance-tournee-vers-la-gestion-des-risques.
 
-=== Place de la gouvernance distribuée dans le numérique
+De manière plus générale, l'applicabilité de structures _opales_ est questionnée, #cite(form: "prose", <reinventing-organisations-frederic-laloux>) considère que ce type de gouvernance n'est adaptée qu'à des structures complexes -- au sens de leur imprévisibilité et évolution constante -- et a des structures qui respectent les principes qu'il a synthétisés dans son ouvrage. D'autres questions l'applicabilité dans des structures exigeant un contrôle qualité élevé, la ou les processus de la gouvernance distribuée pourrait apporter une grande complexité @how-Mercedes-addresses-digital-transformation-using-holacracy-ackermann.
 
-== Liste des éléments nécessaires pour la gouvernance distribuée
+=== Place de la gouvernance distribuée dans le SI
 
-#text(fill: red)[faire un tableau afin d'y faire référence]
+La littérature ne semble pas particulièrement opposer le SI ou le numérique face aux structures distribuées. Il est même relevé que les structures qui pratiquent des méthodes de gestion Agiles sont en fait déjà proches de plusieurs des principes proposés par les gouvernances distribuées. Les 2 proposent des approches réactives et décentralisées @holacracy-in-software-development-teams-bhandari.
 
-== Limites et problématiques connues
+De façon plus générale, la présence forte de processus en gouvernance distribuée mais aussi la connaissance précise des rôles et de leurs responsabilités semble bine correspondre à ce que pourrait requérir un service informatique -- qu'il s'accommode habituellement bien de processus clairs. De plus les aspects distribués de la gouvernance doivent permettre une meilleure intégration de l'avis des personnes au plus proche du terrain, le SI pourrait ainsi disposer plus facilement d'informations intéressantes @how-Mercedes-addresses-digital-transformation-using-holacracy-ackermann @nouvelle-gouvernance-tournee-vers-la-gestion-des-risques.
+
+== Liste des éléments nécessaires pour la gouvernance distribuée <chap-prerequis-gouv-distribuee>
+
+Le @chap-structures-opales résume les évolutions que #cite(form: "prose", <reinventing-organisations-frederic-laloux>) à observées dans les structures _opales_, ces éléments sont présentés comme des prérequis généraux pour que la structure puisse bien implémenter ces principes. De manière un peu plus détaillée, voici certain des prérequis pour la mise en place d'une gouvernance distribuée fonctionnelle :
+
+Le changement de paradigme doit être souhaité et accepté, en premier lieu par les personnes qui fondent la structure ou qui la dirige. La volonté de distribution du pouvoir doit être partagée par tous les membres @holacracy-redefining-organizational-ontology-and-epistemology-robledo @reinventing-organisations-frederic-laloux.
+
+Il est nécessaire que tous les membres de la structure fassent preuve d'un haut niveau de réflexivité, d'autonomie et d'automotivation #footnote[Fait référence a la capacité de se créer ses propres motivations au fil des tâches et de l'évolution de ses rôles.] dans l'accomplissement de leurs tâches. Il faut pouvoir être ouvert au partage des responsabilités et rôles et prêt à revoir son organisation en autonomie. La motivation intrinsèque pour l'accomplissement des tâches est requise @holacratic-socio-technical-system-architecture-savage @nouvelle-gouvernance-tournee-vers-la-gestion-des-risques.
+
+Pour fonctionner, la gouvernance distribuée requiert un haut niveau de formalisation, des processus clairs, des rôles fins. Toutes ces informations doivent être accessibles, acceptées et appliqués par tous les membres de la structure @holacracy-redefining-organizational-ontology-and-epistemology-robledo @holacratic-socio-technical-system-architecture-savage.
+
+L'humain doit être considéré et prêt à se remettre en question ou remettre en question des autres. La gestion des tensions doit pouvoir se faire de manière proactive directement dans les cercles et rôles, la pratique du feedback doit être acquise par tous les membres. Chaque personne doit être prête à consulter ses pairs et a potentiellement intégrer leurs apports dans son travail @holacracy-brian-robertson @effets-reels-systeme-holacratique.
+
+Pour finir, la gestion du changement doit pouvoir se faire de manière graduelle et itérative. Les évolutions vont émerger par les rôles et cercles, au fil des défis et changements requis, ce qui rend impossible l'utilisation de grands projets de restructuration ou de planifications à très long terme @holacracy-the-new-management-system.
+
+== Contraintes envisageables vis-à-vis du SI et du service IT
