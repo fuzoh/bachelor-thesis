@@ -30,17 +30,17 @@ La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment l
   ],
 )
 
-Une fois agrégés, les résultats permettront de construire une matrice de kano, voir @chap-eval-kano.
+Une fois agrégés, les résultats permettront de construire une matrice de Kano, voir @chap-eval-kano.
 
 A la fin de l'atelier, un moment informel de discussion a été réalisé afin de récolter des retours plus généraux et "décontractés" sur les différentes réflexions englobant la gouvernance et le cercle IT.
 
-Les supports présentés lors de l'atelier sont disponibles en @annexe-entretiens[annexe]. Seule la partie matrice de kano des supports d'évaluation a été utilisée.
+Les supports présentés lors de l'atelier sont disponibles en @annexe-entretiens[annexe]. Seule la partie matrice de Kano des supports d'évaluation a été utilisée.
 
 #pagebreak()
 
-== Matrice de kano <chap-eval-kano>
+== Matrice de Kano <chap-eval-kano>
 
-La matrice de kano est un modèle proposé par #cite(form: "prose", <modele-de-kano>) qui propose une approche pour évaluer ou prioriser des éléments en questionnant l'utilisateur sur sa satisfaction avec ou sans la présence de l'élément évalué. Le @table-kano-matrix ci-dessous est une visualisation possible de la matrice. Il est aussi possible de visualiser la matrice en graphe #footnote[Un exemple de graphe : https://innover-malin.com/diagramme-de-kano/#:~:text=La%20lecture%20du%20diagramme%20de%20Kano].
+La matrice de Kano est un modèle proposé par #cite(form: "prose", <modele-de-kano>) qui propose une approche pour évaluer ou prioriser des éléments en questionnant l'utilisateur sur sa satisfaction avec ou sans la présence de l'élément évalué. Le @table-kano-matrix ci-dessous est une visualisation possible de la matrice. Il est aussi possible de visualiser la matrice en graphe #footnote[Un exemple de graphe : https://innover-malin.com/diagramme-de-kano/#:~:text=La%20lecture%20du%20diagramme%20de%20Kano].
 
 #include "matrice_knao.typ"
 

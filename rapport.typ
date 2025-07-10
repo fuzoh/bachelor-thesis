@@ -257,6 +257,8 @@ Le @chap-implémentation détaille les deux mesures élaborées et renvoie vers 
 
 #include "parts/chap_implémentation_mesures.typ"
 
+#pagebreak()
+
 = Discussion
 
 Pour répondre à la question initiale proposée au @chap-question-recherche : "Quelles recommandations mettre en place pour concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée ?". Ce travail c'est intéressés à différents aspects de la gouvernance Jobtrek et de son service IT. Après avoir revu la littérature, procédé a des interviews au sein de la Fondation, organisé un atelier de réflexion sur des propositions d'améliorations, deux principaux éléments de réponse semble se dégager.
@@ -290,5 +292,7 @@ Il semble qu'il soit possible de résoudre une partie des tensions vécues par l
 = Table des figures
 
 #outline(title: none, target: figure)
+
+#pagebreak()
 
 #include "annexes.typ"

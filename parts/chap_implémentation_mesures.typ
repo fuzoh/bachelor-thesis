@@ -22,7 +22,23 @@ Les objectifs suivants ont été poursuivis au fil des étapes de la réalisatio
 
 Finalement, ces documents ont donc une portée plus large que la simple sphère d'autorité, ils couvrent aussi en partie la mesure #link(<mesure-M16>, "M16") (règles d'utilisation du matériel partagé) et dans une moindre l'information a propose de bonnes pratiques aux collaborateurs ainsi que la manière dons certaines données peuvent être traitées (#link(<mesure-M2>, "M2")).
 
-La mise en place finale de ces documents devra dasn tous les cas s'accompagner d'une communication adéquate, et leur application déprendra essentiellement des formations mise  en place pour les rôles.
+La mise en place finale de ces documents devra dans tous les cas s'accompagner d'une communication adéquate, et leur application déprendra essentiellement des formations mise  en place pour les rôles.
 
-== Nouveau processus de proposition d'améliorations
+== Revue du processus de proposition d'améliorations - #link(<mesure-M6>, "M6")
 
+Cette mesure a bénéficié d'un travail assez différent de la précédente, pour l'instant, elle n'est pas traduite dans un document formel à destination des membres de la fondation, elle est encore à l'état de diagramme. Le travail d'implémentation a principalement consisté à réfléchir comment le processus de proposition d'amélioration pouvait être revu pour intégrer une phase de "filtre" par les cercles transversaux si nécessaire. Les itérations ont été réalisées en prenant des retours de la part de rôles RH et de la responsable opérationnelle.
+
+En plus, les réflexions sur le processus ont amené à profiter de l'occasion pour ajouter un autre élément qui manquait au processus ; La différenciation entre les "propositions d'amélioration" qui sont définies par la Fondation comme ne nécessitant pas de ressources supplémentaires que celles déjà allouées aux rôles et cercles concernés. Et les "projets" qui ne sont autres que des propositions d'améliorations, mais qui nécessitent des ressources supplémentaires et donc doivent faire preuve d'une validation supplémentaire par le comité de direction.
+
+En repartant du processus actuel, il s'est avéré qu'il intégrait déjà la notion de filtre des propositions d'améliorations en les soumettant a des personnes du domaine métier de la proposition. Cependant, la manière dont cela était indiqué pouvait porter à confusion et n'était en tous les cas jamais appliqués concrètement, les personnes n'en ayant pas connaissance ou n'y pensant pas. Dans la nouvelle proposition, cette étape a été formalisée plus clairement.
+
+La @fig-m6-diagramme-amélioration présente l'itération actuelle du processus de proposition d'amélioration, le diagramme est disponible en @annexe-m6[annexe] afin de pouvoir le visualiser en pleine taille.
+
+#figure(
+  image("../assets/M6 diagramme processus amelioration.png"),
+  caption: [Diagramme de la proposition de processus d'amélioration.],
+) <fig-m6-diagramme-amélioration>
+
+Fondamentalement ce nouveau processus ne révolutionne pas le processus actuel, il formalise la phase de consultation des cercles support ou des rôles métiers (spécialistes d'un domaine métier), il s'agit de la seconde colonne du diagramme intitulée "Filtrage transversal et métier, affinage". L'ajout de deux questions doit permettre aux utilisateurs de formellement se poser la question de qui doit être consulté. Pour que ces 2 questions puissent être réalistes, il faudra que la mise en place de ce processus s'accompagne d'une clarification des rôles et d'une connaissance de quels rôles touchent quels domaines métiers.
+
+De plus, la phase de détermination du type d'amélioration a été revue pour permettre de déterminer si la proposition doit nécessiter une validation préalable par le comité de direction, colonne "Choix du type d'amélioration". Cette petite matrice s'utilise en lisant les intitulés les lignes et colonnes pour déterminer dans quelle case l'amélioration se situe. La case indique alors si l'amélioration nécessite une consultation particulière.
