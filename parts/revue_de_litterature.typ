@@ -1,12 +1,10 @@
-== Revue de litterature
+Les recherches s'articulent autour de deux thématiques principales, la gouvernance distribuée et les services informatique d'entreprise. Après avoir réuni différentes sources via la plateforme #link("https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/")[Web of Science] mais aussi quelques recherches web, elles ont été classées dans un tableau pour identifier les thématiques abordées et leurs proportions, cela s'inspire d'une analyse _concept centric_ comme proposée par #cite(form: "prose", <analyzing-past-prepare-future>).
 
-La thématique du projet s'articule autour de deux thématiques principales, la gouvernance distribuée et les services informatique d'entreprise. Après avoir réuni différentes sources, elles ont été classées dans un tableau pour identifier les thématiques abordées, a la manière d'une analyse _concept centric_ comme proposée par #cite(form: "prose", <analyzing-past-prepare-future>).
+== Classement des articles par thématique
 
-=== Classement des articles par thématique
+Les thématiques de classement choisies l'ont été sur la base de leur lien avec le travail. Certaines des ressources sélectionnées abordent des sujets plus larges ou hors du projet de bachelor, ces thématiques ont alors été laissées de côté. Thématiques sélectionnées :
 
-Les thématiques de classement choisies l'ont été sur la base de leur lien avec le travail. Certaines des ressources sélectionnées abordent des sujets plus larges ou hors du projet de bachelor, ces thématiques ont alors été laissées de coté. Thématiques sélectionnées :
-
-- *Holacratie :* Le type de gouvernance distribuée d'ont est principalement inspirée la fondation.
+- *Holacratie :* Le type de gouvernance distribuée dont est principalement inspirée la Fondation.
 - *Gouvernance distribuée :* Au sens large, articles qui abordent d'autres approches que l'holacratie.
 - *Gestion :* L'article s'intéresse à la gestion d'équipe, d'entreprise, ou aux process de gestion.
 - *Technique :* L'article aborde la gestion en particulier dans des contextes techniques.
@@ -14,25 +12,37 @@ Les thématiques de classement choisies l'ont été sur la base de leur lien ave
 
 #include "analyse_concept_centric.typ"
 
-A noter que certains articles ont été écartés de l'analyse car trop éloignés de la problématique, notamment : @entrainment-of-task-allocation-and-release-cycles-in-open-source-software-development ou encore @the-impact-of-human-factors-on-agile-arojects-chagas. Ces dérniers n'abordant que des aspects de developpement logiciel ou de gestion de projet.
+À noter que certains articles ont été écartés de l'analyse, notamment :
+- #cite(form: "full", <entrainment-of-task-allocation-and-release-cycles-in-open-source-software-development>)
+- #cite(form: "full", <the-impact-of-human-factors-on-agile-arojects-chagas>).
 
-L'observation du @table-revue-articles-thematiques permet de se rendre compte que la littérature est très présente sur l'holacratie et ses apports dans la gestion d'entreprise. En revanche, peu de ressources s'intéressent à d'autres formes de gouvernance distribuée ou a l'impact sur les équipes IT en particulier.
+Ces derniers n'abordant que des aspects de développement logiciel ou de gestion de projet, ils ne couvrent pas suffisamment les thématiques du travail.
+
+L'observation du @table-revue-articles-thematiques permet de se rendre compte d'une littérature riche sur la thématique de l'holacratie et ses apports dans la gestion d'entreprise. En revanche, peu de ressources s'intéressent à d'autres formes de gouvernance distribuée. Tout particulièrement, a l'issue de cette recherche de littérature, un premier constat apparait : Il semble qu'il n'y a pas -- ou alors toujours de manière éloignée -- de littérature qui aborde en particulier les problématiques d'intégration de service IT dans la gouvernance. Certains articles peuvent même laisser penser que les gouvernances distribuées pourraient bien fonctionner avec l'informatique.
+
+== Revue des articles sélectionnés par thématiques
 
 === Gouvernance distribuée, nouveaux modèles d'entreprises
 
-L'holacratie @holacracy-brian-robertson semble s'imposer comme la structure de gouvrnance distribule la plus populaire aujourd'hui. Elle s'inscrit dans un courant de structure de gouvernance que #cite(form: "prose", <reinventing-organisations-frederic-laloux>, supplement: "part 1") propose d'appeler _opale_ en opposition aux modes de gouvernance _rouges_ qu'il associe aux méthodes tribales utilisées lors des débuts de l'humanité.
+L'holacratie @holacracy-brian-robertson semble s'imposer comme la structure de gouvernance distribuée la plus populaire aujourd'hui. Elle s'inscrit dans un courant de structure de gouvernance que #cite(form: "prose", <reinventing-organisations-frederic-laloux>, supplement: "part 1") propose d'appeler _opale_ en opposition aux modes de gouvernance _rouges_ qu'il associe aux méthodes tribales utilisées lors des débuts de l'humanité. La sociocratie, s'inscrit aussi dans ces types de gouvernance _opales_, bien qu'existant depuis plus longtemps, elle semble moins utilisée que l'holacratie.
 
 Pour #cite(form: "prose", <reinventing-organisations-frederic-laloux>) et #cite(form: "prose", <holacracy-brian-robertson>) nous arrivons à la limite des systèmes de gouvernance habituels, ou les responsabilités sont basées sur la hiérarchie et les fonctions. Ces modes de gouvernance ne seraient plus adaptés à la complexité de notre monde et des structures qui le composent. Notamment, leur rigidité et leur inertie empêcheraient l'adaptation efficace aux changements et aux nouvelles générations.
 
-Ils proposent de nouvelles approches qui doivent permettre de "libérer" les entreprises et le potentiel de leurs collaborateurs. Cela passe par la distribution des responsabilités sur toute l'équipe et retirant la notion de hiérarchie afin d'impliquer davantage les collaborateurs et leur permettre d'agir avec plus de libertés. Le pouvoir n'est plus incarné, mais remplacé par la mise en place de plusieurs processus distribués doit permettre de remplacer ce qui est habituellement accompli par la hiérarchie.
+Ils proposent de nouvelles approches qui doivent permettre de "libérer" les entreprises et le potentiel de leurs collaborateurs. Cela passe par la distribution des responsabilités sur toute l'équipe en retirant la notion de hiérarchie, cela afin d'impliquer davantage les collaborateurs et leur permettre d'agir avec plus de libertés. Le pouvoir n'est plus incarné, mais remplacé par la mise en place de plusieurs processus distribués qui doivent permettre de remplacer ce qui est habituellement accompli par la hiérarchie.
 
-#cite(form: "prose", <reinventing-organisations-frederic-laloux>) propose aussi d'introduire un "raison d'être" aux entreprises. Cette dernière représente le but final de la structure, ce qui justifie son existence, l'entreprise est considérée comme un organisme vivant. Tous les membres de la structure doivent être alignés sur cette raison d'être et la stratégie de l'entreprise peut alors émerger directement par le bas en suivant les processus distribués et la raison d'être. Il n'est alors plus nécessaire de disposer d'une stratégie générale édictée par un comité.
+#cite(form: "prose", <reinventing-organisations-frederic-laloux>) détaille aussi la "raison d'être" d'une entreprise. Cette dernière représente le but final de la structure, ce qui justifie son existence, l'entreprise est considérée comme un organisme vivant. Tous les membres de la structure doivent être alignés sur cette raison d'être et la stratégie de l'entreprise peut alors émerger directement par le bas en suivant les processus distribués et la raison d'être. Il n'est alors plus nécessaire de disposer d'une stratégie générale édictée par un comité ou d'objectifs cadrants.
 
-Si l'entreprise met pleinement en place ces principes, les collaborateurs se sentiraient alors plus en phase avec leur travail et les tâches qu'ils accomplissent. On s'attend alors à ce que les collaborateurs se sentent mieux investis dans leur travail et que ce dernier aie plus de sens @holacracy-new-way-of-organizing-farkhondeh.
+Si l'entreprise met pleinement en place des principes de gouvernance distribuée, les collaborateurs se sentiraient alors plus en phase avec leur travail et les tâches qu'ils accomplissent. On s'attend à ce que les collaborateurs soient investis dans leur travail et que ce dernier aie plus de sens @holacracy-new-way-of-organizing-farkhondeh.
 
 === Structures _opales_
 
-#text(fill: red)[résumer les 3 axes pour une structure opale selon laloux]
+Pour #cite(form: "prose", <reinventing-organisations-frederic-laloux>), les structures _opales_ sont le dérnier stade d'évolution des structures de gouvernance avant le suivant qui n'existe pas encore. Il peut regrouper différents modèles de gouvernances différents, cependant Laloux identifie 3 avancées qui caractérisent les structures _opales_ qu'il a étudié.
+
+- L'autogouvernance : le fait qu'une structure de gouvernance qui s'affranchit de la hiérarchie, remette au centre les collaborateurs et l'intelligence collective ait été mise en place.
+- La plénitude : l'entreprise permet à ses membres d'être tels qu'ils sont, et s'affranchis des masques habituellement portés au travail.
+- La raison d'être évolutive : l'entreprise est considérée comme une entité vivante, elle existe pour une raison. Les membres font évoluer l'entreprise de manière organique en suivant cette raison d'être. Il n'y a pas de stratégie générale.
+
+Ces trois avancées se renforcent les unes avec les autres, ce qui crée un cadre propice à l'accomplissement des collaborateurs, mais aussi à la réalisation de la mission de l'entreprise.
 
 === Holacratie
 
@@ -42,17 +52,25 @@ Les responsabilités sont finement décrites au sein de rôles, ces derniers peu
 
 Ces rôles sont regroupés en cercles, qui représentent les équipes. L'holacratie met un accent fort sur le travail en équipe et la coopération à travers ce mécanisme de cercle. Des séances régulières sont organisées au sein des cercles, notamment pour résoudre les tensions entre les rôles ou améliorer les processus de travail @holacracy-new-way-of-organizing-farkhondeh.
 
-Les différentes séances proposées par l'holacratie doivent permettre au groupe de résoudre les problémes en autonomie et d'assurer son fonctionnement sans chef centralisé. Afin que tout cela soit formalisé, la notion d'une constitution est introduite. Il s'agit d'un document, accepté par tous qui réunis les règles de fonctionnement de la gouvernance et les limites qu'il n'est pas possible de dépasser.
+Les différentes séances proposées par l'holacratie doivent permettre au groupe de résoudre les problèmes en autonomie et d'assurer son fonctionnement sans chef centralisé. Afin que tout cela soit formalisé, la notion d'une constitution est introduite. Il s'agit d'un document, accepté par tous qui réunis les règles de fonctionnement de la gouvernance et les limites qu'il n'est pas possible de dépasser.
+
+En combinant des rôles à responsabilités finement définies, un cadre de travail clair (la constitution) et des processus de gouvernance, il est alors possible de s'affranchir de la structure hiérarchique.
 
 === Gouvernance distribuée et structure forte
 
-Bien que l'holacratie et les organisations _opales_ puissent donner l'impression de faire l'impasse sur une structure et des méthodes de fonctionnement claire, #cite(form: "prose", <reinventing-organisations-frederic-laloux>) insiste sur le fait que de telles organisations impliquent en réalité un haut niveau de strucutre et de formalisme. Son constat est même qu'elles doivent être plus organisées que d'autres structures plus hiérarchiques.
+Bien que l'holacratie et les organisations _opales_ puissent donner l'impression de faire l'impasse sur une structure et des méthodes de fonctionnement claire, #cite(form: "prose", <reinventing-organisations-frederic-laloux>) insiste sur le fait que de telles organisations impliquent en réalité un haut niveau de structure et de formalisme. Il constate même avoir observé des structures _opales_ aux processus de gouvernance et de travail bien plus formalisés que des structures hiérarchiques.
 
-Pour permettre le fonctionnement distribué et démocratique il est en fait nécessaire de définir finement l'entier des processus et des règles de fonctionnement, ces derniers doivent être explicités afin que toutes les personnes puissent les utiliser. La hiérarchie étant remplacée par cette structure, elle doit être d'autant plus formalisée pour fonctionner sans biais ou incohérences. C'est pour répondre a ce besoin que l'holacratie propose donc une suite de séances prédéfinies, une notion de constitution et une formalisation élevée des responsabilités dans les rôles @holacracy-new-way-of-organizing-farkhondeh.
+Pour permettre le fonctionnement distribué et démocratique il est nécessaire de définir finement l'entier des processus et des règles de fonctionnement, ces derniers doivent être explicités afin que toutes les personnes puissent les utiliser. La hiérarchie étant remplacée par cette structure, elle doit être d'autant plus formalisée pour fonctionner sans biais ou incohérences. C'est pour répondre a ce besoin que l'holacratie propose donc une suite de séances prédéfinies, une notion de constitution et une formalisation élevée des responsabilités dans les rôles @holacracy-new-way-of-organizing-farkhondeh.
+
+Ces processus doivent aussi inclure des processus pour permettre leur propre évolution et acceptation. Tous les membres de la structure doivent pouvoir infléchir des évolutions.
 
 === Hiérarchie de savoir et de compétences
 
-#text(fill: red)[*TODO*]
+Les structures de gouvernance distribuées peuvent aussi laisser penser que la hiérarchie disparait complétement, dans les faits il n'y a effectivement plus de hiérarchie au sens classique -- pouvoir de décision fort incarné par des personnes du haut vers le bas -- en revanche on retrouve une notion de hiérarchie de compétences et savoirs. Cela se traduit par des processus dans lesquels des étapes de consultation des personnes compétentes sont incluses.
+
+Les structures distribuées cherchent à mettre les personnes les plus adaptées dans les bons rôles, et aussi d'offrir à travers les processus de gouvernance du mécanisme qui vont assurer que les bonnes personnes sont consultées au bon moment. Cela afin d'obtenir le meilleur de tous, mais aussi que les bonnes personnes soient informées.
+
+Cela ne concerne pas seulement la consultation de personnes qu'il faudrait consulter par-ce-quelles détiennent un savoir particulier et des compétences dans un domaine précis, mais aussi la consultation des rôles qui détiennent des responsabilités particulières. On s'assure ainsi de toujours recueillir les bons avis au fil des décisions. Cela implique une excellente connaissance des rôles et de leurs responsabilités, ainsi que des compétences de chacun.
 
 === Critiques des gouvernances distribuées
 

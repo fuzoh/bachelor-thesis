@@ -3,14 +3,7 @@
   table(
     columns: (3fr, 1fr, 1fr, 1fr, 1fr, 1fr),
     align: (x, y) => if x >= 1 and y >= 1 { center + horizon } else { left },
-    table.header(
-      [*Article*],
-      [*Holacratie*],
-      [*Gouvernance distribuée*],
-      [*Gestion*],
-      [*Technique*],
-      [*Informatique*],
-    ),
+    table.header([*Article*], [*Holacratie*], [*Gouvernance distribuée*], [*Gestion*], [*Technique*], [*Informatique*]),
 
     [#cite(<reinventing-organisations-frederic-laloux>, form: "full")],
     [],
@@ -77,6 +70,13 @@
     [],
     [#sym.circle.filled],
     [#sym.circle.filled],
+
+    [#cite(<sociocracy-an-organization-model-for-large-scale-agile-development>, form: "full")],
+    [],
+    [#sym.circle.filled],
+    [#sym.circle.filled],
+    [],
+    [],
   ),
   caption: [Thématiques abordées dans les articles initialement sélectionnés],
 ) <table-revue-articles-thematiques>
