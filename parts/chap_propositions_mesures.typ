@@ -81,17 +81,21 @@ Cet outil pourrait prendre différentes formes, il devrait inclure une forme d'o
 
 === _M5_ - Cadre d'utilisation des outils numériques (sphère d'autorité IT)
 
-Cette proposition est celle qui touche le plus l'implémentation de la gouvernance. Comme déjà évoqué, actuellement, la gouvernace Jobtrek dispose théoriquement d'un mécanisme de sphère d'autorité qui est destiné a fixer le cadre dans lequel les rôles peuvent évoluer. Cette sphére d'autorité dépend donc principalement du contexte métier du rôle en question et des outils de la fondation. Toutefois, ce mécanisme n'est actuellement pas implémenté dans la gouvernance.
+Cette proposition est une des plus concrètes, mais aussi celle qui touche le plus directement les limites liées à la gouvernance. Comme déjà évoqué, actuellement, la gouvernance Jobtrek dispose théoriquement d'un mécanisme de sphère d'autorité qui est destiné à fixer le cadre dans lequel les rôles peuvent évoluer (voir @chap-analyse-gouvernance-jobtrek). Cette sphère d'autorité dépend donc principalement du contexte métier du rôle en question et des outils de la fondation. Toutefois, ce mécanisme n'est actuellement pas implémenté dans la gouvernance.
 
-Cette mesure propose de créer une sphére d'autrorité pour la partie outils informatiques, qui touche tous les rôles de la fondation.
+Cette mesure propose de créer une sphère d'autorité pour l'informatique et les systèmes numériques Jobtrek. Il s'agirait de formaliser toutes les contraintes qui doivent être respectées pour que l'utilisation des outils numériques se fasse dans le respect des lois, des normes de sécurité, mais aussi de manière efficace. Les collaborateurs disposeraient donc d'un cadre clair pour les aspects numériques -- qui sont centraux -- et pourraient mieux exploiter ce qui est à leur disposition.
 
-[...]
+L'introduction d'un tel document pourrait aussi à terme être étendue a d'autres domaines qui nécessite une sphère d'autorité au sein de la Fondation Jobtrek.
 
 #include "mesures/m5_cadre utilisation outils numériques.typ"
 
 === _M4_ - Outils de formation en autonomie (e-learning)
 
-[...]
+Afin de favoriser une bonne utilisation des outils numériques et une bonne connaissance du champ d'action de chaque rôle, un outil de formation devrait être mis en place afin que les collaborateurs puissent monter en compétences en autonomie sur ces domaines.
+
+Il s'agirait d'un complément à des moments de formation en présentiel (comme les réunions trimestrielles, le moment d'accueil de nouveaux collaborateurs ou des moments de formations planifiés). La présence d'un tel complément est particulièrement intéressante, étant tout le temps accessible et extensible. Cela permet d'y ajouter de l'information au fil du temps et des situations rencontrées. Les collaborateurs peuvent aller se former sur un aspect ou un autre a tout moment.
+
+L'outil pourrait intégrer un système de quizz pour permettre aux collaborateurs d'évaluer leur compréhension ou encore un outil collaboratif pour permettre à tous de compléter les formations, d'en ajouter ou de poser des questions.
 
 #include "mesures/m4_plateforme de formation.typ"
 
