@@ -57,10 +57,11 @@
   set heading(numbering: "1.1")
   show bibliography: set heading(numbering: "1.1")
   show heading.where(level: 1): set text(size: 14pt)
-  show heading.where(level: 1): set block(below: 1em, above: 2em)
+  show heading.where(level: 1): set block(below: 1em, above: 3em)
   show heading.where(level: 2): set text(size: 13pt)
-  show heading.where(level: 2): set block(below: 0.8em, above: 1.6em)
+  show heading.where(level: 2): set block(below: 0.8em, above: 2em)
   show heading.where(level: 3): set text(size: 12pt)
+  show heading.where(level: 3): set block(above: 1.4em)
 
   show outline.entry.where(level: 1): set block(above: 1.2em)
 

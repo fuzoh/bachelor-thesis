@@ -4,19 +4,10 @@
   table(
     columns: (1fr, 60%, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
     align: (x, y) => if x > 1 { center } else { left } + horizon,
-    table.header(
-      [],
-      [*Mesure proposée par l'interviewé*],
-      [*P1*],
-      [*P2*],
-      [*P3*],
-      [*P4*],
-      [*P5*],
-      [*P6*],
-    ),
+    table.header([], [*Mesure proposée par l'interviewé*], [*P1*], [*P2*], [*P3*], [*P4*], [*P5*], [*P6*]),
 
     [*M1*],
-    [Simplification et uniformisation de l'architecture d'accès aux fichiers. Retirer les doublonset y intégrer une partie commune a tous les cercles.],
+    [Simplification et uniformisation de l'architecture d'accès aux fichiers. Retirer les doublons y intégrer une partie commune a tous les cercles.],
     [#sym.circle.filled],
     [],
     [],
@@ -107,7 +98,7 @@
     [],
 
     [*M12*],
-    [Processus d'onboarding plus complet, avec formation a visualiser en avance.],
+    [Processus d'onboarding plus complet, avec formation à visualiser en avance.],
     [],
     [],
     [],

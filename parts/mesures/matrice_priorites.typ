@@ -1,14 +1,9 @@
 #figure(
   table(
     columns: (1fr, 1fr, 1fr, 1fr, 1fr),
+    fill: (x, y) => if x < 3 and y > 0 { gray.lighten(70%) },
     align: left,
-    table.header(
-      [*5 apparitions*],
-      [*4 apparitions*],
-      [*3 apparitions*],
-      [*2 apparitions*],
-      [*1 apparitions*],
-    ),
+    table.header([*5 apparitions*], [*4 apparitions*], [*3 apparitions*], [*2 apparitions*], [*1 apparitions*]),
 
     [#link(<mesure-M3>)[M3]],
     [#link(<mesure-M2>)[M2], #link(<mesure-M5>)[M5]],
