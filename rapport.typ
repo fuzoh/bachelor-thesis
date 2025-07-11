@@ -189,7 +189,6 @@ Afin de répondre à la question de recherche, un plan d'action à été défini
 
 = Conclusion
 
-== Ouverture
 
 /// Bibliographie, annexes et tables
 /// ----------------------------

@@ -26,10 +26,43 @@ Parmi les différentes mesures d'amélioration explorées dans ce rapport, certa
 
 Au regard de la nature réactive et changeante de la Fondation, notamment permise avec la gouvernance semi-distribuée, il ne semble pas adapté de proposer un plan d'implémentation minuté. Il ne pourra en effet pas être honoré. En revanche, la phase d'analyse de ce rapport permet déjà d'offrir un certain nombre de directions à explorer pour résoudre les problèmes rencontrés par la fondation.
 
-Quelques aspects pris en compte pour prioriser le travail d'implémentation :
+Aspects pris en compte pour prioriser le travail d'implémentation :
 - Il pourrait être intéressant de travailler en parallèle sur les 2 niveaux de mesures proposés en fin du chapitre précédent. En particulier car elles font intervenir des personnes différentes dans leur mise en place, ce qui permet potentiellement une meilleure charge de travail.
 - Certaines mesures nécessitent des ressources importantes (financières, moyens techniques, ou heures de travail), elles en sont potentiellement pas applicables dans l'immédiat ou demandent une mise en place préalable.
 - Certaines mesures nécessitent une consultation plus extensive de tous les membres de la Fondation pour être acceptées, cela peut demander un temps conséquent.
 - Certaines mesures pourraient profiter à d'autres si elles étaient implémentées en premier.
 
-Le tableau ...
+Le @table-strategie-mise-en-place est une proposition d'échelonnement de la mise en place des mesures par blocs. Chacun de ces blocs est un regroupement de mesures qui feraient sens à être mise en œuvre ensemble. D'échelonnement a été imaginé de façon a ce que les mesures implémentées en premier profitent aux suivantes. Le bloc 1 est une finalisation dès réflexions qui ont été entamées durant ce travail de Bachelor.
+
+#figure(
+  table(
+    columns: (1fr, 6fr, 6fr),
+    align: horizon + left,
+    table.header([Bloc], [Mesures cercles IT], [Mesures gouvernance]),
+    table.cell(rowspan: 2)[*1*],
+    table.cell(
+      colspan: 2,
+    )[*#link(<mesure-M5>, "M5") Sphère d'autorité :* _proposée ici car déjà en cours d'implémentation et urgente pour permettre une future conformité avec la nLPD._],
+    [*#link(<mesure-M10>, "M10") et #link(<mesure-M9>, "M9") Point IT lors des réunions trimestrielles et newsletter IT:* _mesure déjà en partie en place, pourrait être finalisée. La newsletter pourrait être intégrée dans cette démarche afin de compléter les réunions plénières._],
+    [*#link(<mesure-M6>, "M6") Revue du mécanisme de proposition d'amélioration :* _en cours d'élaboration, as des impacts positifs sur tous les cercles support._],
+    [*2*],
+    table.cell(
+      colspan: 2,
+    )[*#link(<mesure-M3>, "M3") et #link(<mesure-M4>, "M4") Base de connaissances et plateforme de formation :* _il pourrait être étudié d'implémenter ces 2 mesures avec un outil pour mutilualiser les ressources simplifier l'accès. Leur présense permettrait a terme de comuniquer et former plus efficacement aux changements et nouveautés. Une fois mis en place, cela pourrait permettre la mise en place de la mesure #link(<mesure-M12>, "M12") (Onboarding plus complèt) en utilisant ces nouveaux outils._],
+    [*3*],
+    [*#link(<mesure-M1>, "M1") Simplification de l'architecutre de fichier :* _est une mesure largement proposée, bien évaluée et qui semble nécessaire. Elle nécessite cependant une grande préparation et une mise en place en plusieurs étapes. Les mesures des 2 bloc précédents vont aider a sa mise en place. Cette mesure demande de grandes intéractions avec les cercles pour comprendre leurs besoins métiers._],
+    [*#link(<mesure-M5>, "M5") Sphère d'autorité :*],
+  ),
+  caption: [Proposition de stratégie de mise en place],
+) <table-strategie-mise-en-place>
+
+
+_La mesures #link(<mesure-M6>, "M6") (Support qui indique les temps de résolution) n'a pas été incluse car elles à déjà été mise en place. La mesure #link(<mesure-M8>, "M8") (Structure Peerdom) n'a pas été incluse car elle n'a que peu été suggérée et a laissée indifférente lors de l'évaluation. Il faudrait analyser si le Peerdom requière vraiment une restructuration ou si c'est l'outil qui manque d'accessibilité._
+
+Les blocs 2 et 3 du @table-strategie-mise-en-place sont plus conséquents et nécessiteraient un travail de recherche et de récolte des avis pour être mis en place de manière consensuelle avec touts les membres de la Fondation.
+
+== Ouverture
+
+Différents questionnements supplémentaires sont apparus au cours de ce travail et pourraient être approfondis pour élargir les réflexions ou affiner certains choix.
+
+En explorant les structures Peerdom #footnote[Notamment : https://peerdom.org/loyco/map?view=circles, https://peerdom.org/rebelenergy/map?view=circles, https://peerdom.org/caritas-ne/map?view=circles] d'autres entreprises, il est intéressant de constater que l'organisation des cercles -- ceux du support notamment -- peut prendre des formes très diverses. La présence de rôles miroir #footnote[Rôles qui représentent un cercle dans un autre. Ex un informaticien est présent dans chaque cercle métier et y représente le cercle informatique.] semble régulièrement utilisée pour aider des cercles transverses à être représentés dans les différentes équipes. Il pourrait être intéressant d'explorer dans quelle mesure une modification plus profonde de la structure des cercles Jobtrek pourrait favoriser ou non l'intégration d'un cercle IT ou des cercles support.

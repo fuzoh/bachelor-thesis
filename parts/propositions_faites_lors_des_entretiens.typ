@@ -105,7 +105,7 @@
     [],
     [],
 
-    [*M12*],
+    [*M12* <mesure-M12>],
     [Processus d'onboarding plus complet, avec formation à visualiser en avance.],
     [],
     [],
