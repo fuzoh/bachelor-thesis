@@ -51,13 +51,16 @@ Le @table-strategie-mise-en-place est une proposition d'échelonnement de la mis
     )[*#link(<mesure-M3>, "M3") et #link(<mesure-M4>, "M4") Base de connaissances et plateforme de formation :* _il pourrait être étudié d'implémenter ces 2 mesures avec un outil pour mutilualiser les ressources simplifier l'accès. Leur présense permettrait a terme de comuniquer et former plus efficacement aux changements et nouveautés. Une fois mis en place, cela pourrait permettre la mise en place de la mesure #link(<mesure-M12>, "M12") (Onboarding plus complèt) en utilisant ces nouveaux outils._],
     [*3*],
     [*#link(<mesure-M1>, "M1") Simplification de l'architecutre de fichier :* _est une mesure largement proposée, bien évaluée et qui semble nécessaire. Elle nécessite cependant une grande préparation et une mise en place en plusieurs étapes. Les mesures des 2 bloc précédents vont aider a sa mise en place. Cette mesure demande de grandes intéractions avec les cercles pour comprendre leurs besoins métiers._],
-    [*#link(<mesure-M5>, "M5") Sphère d'autorité :*],
+    [],
+    [*4*],
+    [*#link(<mesure-M1>, "M11") Uniformisation des outils :* _l'arrivée des mesures précédentes devrait déjà avoir favorisé cette mesure. Cette dérnière étape servirait plus d'optimisation des outils et de partage des bonnes pratiques inter cercles_],
+    [],
   ),
   caption: [Proposition de stratégie de mise en place],
 ) <table-strategie-mise-en-place>
 
 
-_La mesures #link(<mesure-M6>, "M6") (Support qui indique les temps de résolution) n'a pas été incluse car elles à déjà été mise en place. La mesure #link(<mesure-M8>, "M8") (Structure Peerdom) n'a pas été incluse car elle n'a que peu été suggérée et a laissée indifférente lors de l'évaluation. Il faudrait analyser si le Peerdom requière vraiment une restructuration ou si c'est l'outil qui manque d'accessibilité._
+_La mesures #link(<mesure-M6>, "M6") (Support qui indique les temps de résolution) n'a pas été incluse car elles a déjà été mise en place. La mesure #link(<mesure-M8>, "M8") (Structure Peerdom) n'a pas été incluse car elle n'a que peu été suggérée et a laissée indifférente lors de l'évaluation. Il faudrait analyser si le Peerdom requière vraiment une restructuration ou si c'est l'outil qui manque d'accessibilité._
 
 Les blocs 2 et 3 du @table-strategie-mise-en-place sont plus conséquents et nécessiteraient un travail de recherche et de récolte des avis pour être mis en place de manière consensuelle avec touts les membres de la Fondation.
 
@@ -66,3 +69,7 @@ Les blocs 2 et 3 du @table-strategie-mise-en-place sont plus conséquents et né
 Différents questionnements supplémentaires sont apparus au cours de ce travail et pourraient être approfondis pour élargir les réflexions ou affiner certains choix.
 
 En explorant les structures Peerdom #footnote[Notamment : https://peerdom.org/loyco/map?view=circles, https://peerdom.org/rebelenergy/map?view=circles, https://peerdom.org/caritas-ne/map?view=circles] d'autres entreprises, il est intéressant de constater que l'organisation des cercles -- ceux du support notamment -- peut prendre des formes très diverses. La présence de rôles miroir #footnote[Rôles qui représentent un cercle dans un autre. Ex un informaticien est présent dans chaque cercle métier et y représente le cercle informatique.] semble régulièrement utilisée pour aider des cercles transverses à être représentés dans les différentes équipes. Il pourrait être intéressant d'explorer dans quelle mesure une modification plus profonde de la structure des cercles Jobtrek pourrait favoriser ou non l'intégration d'un cercle IT ou des cercles support.
+
+Les structures distribuées explorées par #cite(form: "prose", <reinventing-organisations-frederic-laloux>) dans son livre proposent toutes sortes d'idées de processus et de séances qui pourraient être explorées pour affiner l'articulation entre les cercles support et le restes des cercles au sein de la Fondation.
+
+La conception et implémentation de sphère d'autorité #link(<mesure-M5>, "M5") a soulevé un certain nombre de questionnements quant aux possibilités futures de conformité avec la loi sur les données. En effet, certaines exigences de la loi (comme la présence d'un DPO, mesure #link(<mesure-M7>, "M7")) peuvent poser des challenges supplémentaires dans le cadre d'une structure distribuée ou la responsabilité est partagées dans l'équipe.
