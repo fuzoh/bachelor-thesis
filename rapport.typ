@@ -57,10 +57,15 @@
 
 *Résumé managérial*
 
-La fondation Jobtrek, active dans l'insertion profesionelle et la formation d'apprentis met en ouvre une gouvernance semi distribuée pour l'accomplissement de ses tâches. Actuellement différentes tensions existent entre la gouvernance -- qui offre une grande liberté pour les collaborateurs -- et le service informatique, qui as des contraintes de sécurité ou légales l'obligeant a imposer des choix aux équipes.
+La fondation Jobtrek, active dans l'insertion professionnelle et la formation d'apprentis met en ouvre une gouvernance semi-distribuée -- inspirée des entreprises opales #footnote[@reinventing-organisations-frederic-laloux], favorisant l'autonomie et la responsabilisation des collaborateurs -- pour l'accomplissement de ses tâches. Actuellement différentes tensions existent entre la gouvernance qui offre une grande liberté pour les collaborateurs et le service informatique, qui as des contraintes de sécurité ou légales l'obligeant à imposer des choix aux équipes.
 
 Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son service informatique, comment faire fonctionner ces deux éléments ensemble. Les besoins des collaborateurs, de l'IT et de la gouvernance ont été analysés, cela afin d'identifier les tensions existantes et de proposer des mesures qui permettrait de les résoudre. Les mesures ont été ensuite évaluées afin de proposer une suite de mesures cohérentes qui permettrait à la Fondation de fluidifier le fonctionnement du service IT et de la gouvernance.
-#text(fill: red)[[TODO...]]
+
+L'analyse, de la littérature ne signale pas de conflit intrinsèque entre la gouvernance distribuée et l'informatique. Bien que des potentielles contraintes sont identifiées comme la complexification des systèmes informatiques, les difficultés de gestion des accès ou encore la conception habituelle des logiciels peu adaptée à ce type de structure de gouvernance.
+
+La réalisation d'entretiens avec les collaborateurs, révèle que les problèmes rencontrés par Jobtrek sont principalement opérationnels et liés à un manque de communication et de clarté. Les difficultés incluent l'accès à l'information (en particulier la communication entre les personnes et les équipes), la prise de décision autonome en matière de sécurité des données, le manque de formation aux outils et pratiques informatiques (bonnes-pratiques), le manque de clarté dans certains éléments de la gouvernance, l'organisation des systèmes et des outils numériques.
+
+Pour résoudre ces tensions, plusieurs mesures ont été proposées, axées sur la clarification, l'uniformisation des pratiques IT et sur l'amélioration de certains éléments de l'implémentation de la gouvernance.
 
 #pagebreak()
 
