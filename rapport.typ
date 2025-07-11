@@ -192,10 +192,17 @@ Afin de répondre à la question de recherche, un plan d'action à été défini
 
 /// Conclusion
 /// ----------------------------
-
-
 = Conclusion
 
+Ce travail aura permis d'explorer différents aspects des gouvernances distribuées et de l'intégration des systèmes informatiques avec ces dernières. En analysant la littérature et la Fondation, il a été possible de faire des liens et de relever plus finement les tensions rencontrées par les collaborateurs. Les problèmes initialement relevés en introduction ont pu être affinés durant la phase d'analyse. Puis différentes mesures ont permis d'y répondre.
+
+De façon générale, les mesures proposées ont principalement un impact sur le fonctionnement et l'utilisation des systèmes informatiques. Quelques mesures touchent plus directement à la gouvernance. Toutes ces mesures ont pour but final d'améliorer l'efficacité et la communication au sein des cercles et rôles de la fondation. Mais aussi d'apporter un cadre plus clair de travail aux rôles afin qu'ils puissent mieux naviguer dans leurs tâches.
+
+Le travail sur ces mesures révèle aussi que certaines pourraient avoir un impact au-delà de l'informatique, mais aider à fluidifier le travail d'autres cercles (en particulier ceux du support). Ce travaille apporte aussi une meilleure vue sur la compréhension des mécanismes de gouvernance et du cercle informatique par les collaborateurs.
+
+Le travail a répondu à la question de recherche initiale "Quelles recommandations mettre en place pour concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée ?" en proposant une série de mesures qui permettraient d'améliorer le fonctionnement de la gouvernance et de son cercle IT.
+
+En particulier, la clarification de cadre numérique offert aux collaborateurs, l'amélioration du processus de proposition d'amélioration, l'ajout de plusieurs mesures qui renforcent la communication du cercle IT envers les collaborateurs ou encore l'uniformisation des systèmes et la manière dont sont stockées les informations entre les cercles. Il est aussi proposé de mettre en place des plateformes pour aider à la formation des collaborateurs et aussi pour mieux rassembler et exposer les informations.
 
 /// Bibliographie, annexes et tables
 /// ----------------------------
