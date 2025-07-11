@@ -1,3 +1,5 @@
+= Ancrage dans la littérature <chap-revue-de-litterature>
+
 Les recherches s'articulent autour de deux thématiques principales, la gouvernance distribuée et les services informatique d'entreprise. Après avoir réuni différentes sources via la plateforme #link("https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/")[Web of Science] mais aussi quelques recherches web, elles ont été classées dans un tableau pour identifier les thématiques abordées et leurs proportions, cela s'inspire d'une analyse _concept centric_ comme proposée par #cite(form: "prose", <analyzing-past-prepare-future>).
 
 == Classement des articles par thématique
