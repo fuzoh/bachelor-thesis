@@ -1,7 +1,7 @@
 #import "@preview/datify:0.1.3": custom-date-format
 #import "lib/template.typ": template
 
-/// Demande de ratification du travail de bachelor
+/// Thèse de Bachelor
 /// 2025 - HE-Arc - Bastien Nicoud
 
 #show: template.with(
