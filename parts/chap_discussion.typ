@@ -23,3 +23,13 @@ Puis, pour accompagner ces changements globaux de la gouvernance, des actions pl
 Parmi les différentes mesures d'amélioration explorées dans ce rapport, certaines se placent au niveau de la gouvernance, d'autres au niveau du fonctionnement concret de l'informatique. Aucune mesure ne ressort comme étant un prérequis à la mise en place des suivantes. Cela indique qu'il est possible de travailler au niveau gouvernance tout comme au niveau fonctionnement de l'informatique en parallèle. Les apports dans chaque domaine devraient aussi avoir des impacts positifs dans l'autre. Typiquement l'amélioration de la structuration des fichiers et une gestion d'accès cohérente à ces derniers (#link(<mesure-M1>, "M1")) est une mesure très concrète sur le fonctionnement IT, mais aurait sans doute des impacts importants sur la gouvernance. Notamment en simplifiant le travail inter cercles, en uniformisant les pratiques ou en renforçant la mutualisation de certaines ressources.
 
 == Proposition de stratégie d'implémentation
+
+Au regard de la nature réactive et changeante de la Fondation, notamment permise avec la gouvernance semi-distribuée, il ne semble pas adapté de proposer un plan d'implémentation minuté. Il ne pourra en effet pas être honoré. En revanche, la phase d'analyse de ce rapport permet déjà d'offrir un certain nombre de directions à explorer pour résoudre les problèmes rencontrés par la fondation.
+
+Quelques aspects pris en compte pour prioriser le travail d'implémentation :
+- Il pourrait être intéressant de travailler en parallèle sur les 2 niveaux de mesures proposés en fin du chapitre précédent. En particulier car elles font intervenir des personnes différentes dans leur mise en place, ce qui permet potentiellement une meilleure charge de travail.
+- Certaines mesures nécessitent des ressources importantes (financières, moyens techniques, ou heures de travail), elles en sont potentiellement pas applicables dans l'immédiat ou demandent une mise en place préalable.
+- Certaines mesures nécessitent une consultation plus extensive de tous les membres de la Fondation pour être acceptées, cela peut demander un temps conséquent.
+- Certaines mesures pourraient profiter à d'autres si elles étaient implémentées en premier.
+
+Le tableau ...
