@@ -57,17 +57,17 @@
 
 *Résumé managérial*
 
-La fondation Jobtrek, active dans l'insertion professionnelle et la formation d'apprentis met en ouvre une gouvernance semi-distribuée -- inspirée des entreprises opales #footnote[@reinventing-organisations-frederic-laloux], favorisant l'autonomie et la responsabilisation des collaborateurs -- pour l'accomplissement de ses tâches. Actuellement différentes tensions existent entre la gouvernance qui offre une grande liberté pour les collaborateurs et le service informatique, qui as des contraintes de sécurité ou légales l'obligeant à imposer des choix aux équipes.
+La fondation Jobtrek, active dans l'insertion professionnelle et la formation d'apprentis met en oeuvre une gouvernance semi-distribuée (inspirée des entreprises opales #footnote[@reinventing-organisations-frederic-laloux], favorisant l'autonomie et la responsabilisation des collaborateurs), pour l'accomplissement de ses tâches. Actuellement différentes tensions existent entre la gouvernance, qui offre une grande liberté pour les collaborateurs et le service informatique, qui as des contraintes de sécurité ou légales l'obligeant à imposer des choix aux équipes.
 
-Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son service informatique, comment faire fonctionner ces deux éléments ensemble. Les besoins des collaborateurs, de l'IT et de la gouvernance ont été analysés, cela afin d'identifier les tensions existantes et de proposer des mesures qui permettrait de les résoudre. Les mesures ont été ensuite évaluées afin de proposer une suite de mesures cohérentes qui permettrait à la Fondation de fluidifier le fonctionnement du service IT et de la gouvernance.
+Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son service informatique, comment les faire fonctionner au mieux ensemble. Les besoins des collaborateurs, de l'IT et de la gouvernance ont été analysés, cela afin d'identifier les tensions existantes et d'imaginer des mesures qui permettraient de les résoudre. Les mesures ont été ensuite évaluées afin de proposer une suite de mesures cohérentes qui permettrait à la Fondation de fluidifier le fonctionnement du service IT et de la gouvernance.
 
-L'analyse, de la littérature ne signale pas de conflit intrinsèque entre la gouvernance distribuée et l'informatique. Bien que de potentielles contraintes sont identifiées comme la complexification des systèmes informatiques, les difficultés de gestion des accès ou encore la conception habituelle des logiciels peu adaptée à ce type de structure de gouvernance.
+L'analyse de la littérature ne fait pas ressortir de conflits intrinsèques entre la gouvernance distribuée et l'informatique. Bien que de potentielles contraintes sont identifiées, notamment la complexification des systèmes informatiques, les difficultés de gestion des accès ou encore la conception habituelle des logiciels peu adaptée à ce type de structure de gouvernance.
 
-La réalisation d'entretiens avec les collaborateurs, révèle que les problèmes rencontrés par Jobtrek sont principalement opérationnels et liés à un manque de communication et de clarté. Les difficultés incluent l'accès à l'information (en particulier la communication entre les personnes et les équipes), la prise de décision autonome en matière de sécurité des données, le manque de formation aux outils et pratiques informatiques (bonnes-pratiques), le manque de clarté dans certains éléments de la gouvernance, l'organisation des systèmes et des outils numériques.
+La réalisation d'entretiens avec les collaborateurs, révèle que les problèmes rencontrés par Jobtrek semblent principalement provenir de d'éléments opérationnels et moins de l'implémentation de la gouvernance. Ces difficultés incluent l'accès à l'information (en particulier la communication entre les personnes, les équipes), la prise de décision autonome en matière de sécurité des données, le manque de formation aux outils et bonnes pratiques informatiques, le manque de clarté de certains éléments de la gouvernance ou encore l'organisation des systèmes et des outils numériques.
 
-Pour résoudre ces tensions, plusieurs mesures ont été proposées, axées sur la clarification, l'uniformisation des pratiques IT et sur l'amélioration de certains éléments de l'implémentation de la gouvernance. De manière générale toutes les mesures proposées ont pour but d'uniformiser les outils utilisés et d'améliorer la communication. L'évaluation des mesures a permis de faire ressortir des mesures a fort intérêt. Comme l'ajout de temps de traitements par le support, l'uniformisation de l'architecture de fichiers parmi les équipes ou la mise en place d'une plateforme de formation et d'une base de connaissances. Des mesures plus complexes comme l'élaboration d'un cadre d'utilisation des outils numériques ou la mise à jour du processus de la gouvernance (propositions d'améliorations) on suscite moins d'intérêt, mais semblent nécessaires.
+Pour résoudre ces tensions, plusieurs mesures ont été proposées, axées sur la clarification, l'uniformisation des pratiques IT et sur l'amélioration de certains éléments de l'implémentation de la gouvernance. De manière générale toutes les mesures proposées ont pour but d'uniformiser les outils utilisés et d'améliorer la communication. L'évaluation des mesures a permis de faire ressortir des mesures qui suscitent un fort intérêt. Comme l'ajout de temps de traitements par le support, l'uniformisation de l'architecture de fichiers parmi les équipes ou la mise en place d'une plateforme de formation et d'une base de connaissances. Des mesures plus complexes comme l'élaboration d'un cadre d'utilisation des outils numériques ou la mise à jour du processus de la gouvernance (propositions d'améliorations) ont suscité moins d'intérêt, mais semblent néanmoins nécessaires.
 
-Les 2 dernières mesures évoquées ont pu être implémentées sur la fin du travail, cela a permis d'y intégrer les réflexions menées au cours de ce travail. Ces mesures sont maintenant prêtes à être validées par les collaborateurs de la fondation puis finalisées en vue d'une utilisation concrète.
+Les 2 dernières mesures évoquées ont pu être implémentées sur la fin du travail, cela a permis d'y intégrer les réflexions menées au cours de ce travail. Ces mesures sont maintenant prêtes à être validées par les collaborateurs de la fondation puis finalisées en vue d'une utilisation concrète. Dès leur mise en place, elles devraient améliorer le fonctionnement actuel de la gouvernance et du service informatique. Aussi, elles offriront une base qui permettra à terme d'implémenter des mesures supplémentaire.
 
 #pagebreak()
 
@@ -98,7 +98,7 @@ La Fondation Jobtrek est active depuis près de 10 ans dans l'insertion professi
 
 Les produits principaux de Jobtrek s'articulent aujourd'hui autour de :
 - *Insertion professionnelle (MISt):* Aide les jeunes à trouver leur premier apprentissage ou emploi.
-- *Centre de formation (JobtrekSchool):* Accueille des apprentis employé de commerce, informatique et autres métiers adaptés aux besoins du marché.
+- *Centre de formation (JobtrekSchool):* Accueille des apprentis employés de commerce, informatique et autres métiers adaptés aux besoins du marché.
 - *Programmes de réinsertion (JPS):* Soutient des professionnels déjà formés issus de la migration pour trouver un emploi.
 
 Jobtrek se distingue par son modèle de gouvernance innovant, inspiré des structures opales présentées par #cite(form: "prose", <reinventing-organisations-frederic-laloux>) et adapté en interne sous le nom de Jobtrekracy. Ce modèle favorise la responsabilisation, l'autonomie des collaborateurs et l'adaptabilité face aux évolutions rapides du secteur.
@@ -106,13 +106,13 @@ Actuellement, Jobtrek emploie un peu plus de 30 collaborateurs et s'appuie sur d
 
 == Contexte du cas
 
-Au cours de ces 10 années d'existence, Jobtrek est passé d'un collaborateur à plus de trente aujourd'hui. Les produits proposés par la fondation on régulièrement changé et évolués. Pour répondre a ces évolutions rapides, Jobtrek a pu compter sur différents collaborateurs et bénévoles qui ont permis la mise en place du système informatique tel qu'il est actuellement opéré, ainsi que de la gouvernance.
+Au cours de ces 10 années d'existence, Jobtrek est passé d'un collaborateur à plus de trente aujourd'hui. Les produits proposés par la fondation ont régulièrement changé et évolués. Pour répondre a ces évolutions rapides, Jobtrek a pu compter sur différents collaborateurs et bénévoles qui ont permis la mise en place du système informatique tel qu'il est actuellement opéré, ainsi que de la gouvernance.
 
 Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'une planification particulière ou d'une réflexion sur le long terme. Il a été mis en place de manière pragmatique, en fonction des besoins immédiats et des opportunités qui se sont présentées.
 
 La gouvernance a aussi été mise en place au fil du temps pour répondre au mieux à la mission de Jobtrek. Chaque années, certains aspects de la gouvernance ont été étoffés, allégés ou encore transformés.
 
-Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, et en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave les apports de la gouvernance distribuée ou ne soit entravé par cette dérnière.
+Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, et en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave les apports de la gouvernance distribuée ou ne soit entravé par cette dernière.
 
 == Problèmes rencontrés <chap-problemes-rencontres>
 
@@ -128,13 +128,13 @@ Jusqu'à présent, la Fondation n'a pas su mettre en place d'intermédiaire sati
 
 === Gestion du changement
 
-De par la nature distribuée de la Fondation, il est complexe de mettre en œuvre des changements durables et bien acceptés par tous les rôles, en particulier s'ils sont contraignants. La gouvernance empêche d'imposer des changements, il faut pouvoir obtenir l'avis de tous les rôles et proposer des changements qui sont acceptés de manière consensuelle. Qui serons allors appliqués.
+De par la nature distribuée de la Fondation, il est complexe de mettre en œuvre des changements durables et bien acceptés par tous les rôles, en particulier s'ils sont contraignants. La gouvernance empêche d'imposer des changements, il faut pouvoir obtenir l'avis de tous les rôles et proposer des changements qui sont acceptés de manière consensuelle. Qui serons alors appliqués.
 
-Nous manquons actuellements d'outils qui permettent l'apport de ses changements de manière efficiente tout en consultant la gouvernance. Le cercle Informatique est l'un des premier touchés -- évolutions rapides de l'informatique et des contextes légaux.
+Nous manquons actuellement d'outils qui permettent l'apport de ses changements de manière efficiente tout en consultant la gouvernance. Le cercle Informatique est l'un des premiers touchés -- évolutions rapides de l'informatique et des contextes légaux.
 
 === Visibilité sur le SI
 
-La Fondation ne dispose pas d'une vue d'ensemble de ses processus, outil et traitement de données. Ce qui empêche de proposer des outils adaptés, mais aussi de répondre à la loi sur les données. Il faudrait pouvoir maintenir une bonne visibilité sur les outils globeaux et les processus. Qu'ils soient maintenus par le cercle IT ou qu'il s'agisse d'éléments mis en place dans les cercles ou par des rôles.
+La Fondation ne dispose pas d'une vue d'ensemble de ses processus, outil et traitement de données. Ce qui empêche de proposer des outils adaptés, mais aussi de répondre à la loi sur les données. Il faudrait pouvoir maintenir une bonne visibilité sur les outils globaux et les processus. Qu'ils soient maintenus par le cercle IT ou qu'il s'agisse d'éléments mis en place dans les cercles ou par des rôles.
 
 == Question de recherche <chap-question-recherche>
 
@@ -144,12 +144,12 @@ Les chapitres précédents montrent qu'il existe des tensions entre la gouvernan
 
 == Plan d'action
 
-Afin de répondre à la question de recherche, un plan d'action à été défini en début de travail, vous pouvez consulter en @annexe-demande-de-ratification[annexe] la demande de ratification qui inclut tous les détails sur la planification de se travail. En synthèse, il à été décidé de réaliser quatre grandes étapes :
+Afin de répondre à la question de recherche, un plan d'action a été défini en début de travail, vous pouvez consulter en @annexe-demande-de-ratification[annexe] la demande de ratification qui inclut tous les détails sur la planification de ce travail. En synthèse, il a été décidé de réaliser quatre grandes étapes :
 
-- Une phase de revue de littérature, cela afin d'ancrer les enjeux de la Fondation dans ce qui éxiste déjà, et aussi de recueillir les éventulles recommandations générales déjà éxistantes.
-- En parallèle une phase d'analyse de la fondation en inspectant les documents a disposition et inteviewant différents rôles afin de mieux cibler le problème et son ressenti. D'en ressortir les tensions existantes et les pistes envisageables pour les résoudre.
-- Puis, l'élaboration des mesures d'amélioration qui pourraient être proposées suivi d'une évaluation par les collaborateurs afin de prioriser le travail et affiner la compréhension des problémes.
-- Pour finir, l'implémentation de quelques mesures selon les priorité ou l'intéret analysé, cela afin de valider la faisabilité et proposer des éléments concrets pour répondre aux problèmes relevés.
+- Une phase de revue de littérature, cela afin d'ancrer les enjeux de la Fondation dans ce qui existe déjà, et aussi de recueillir les éventuelles recommandations générales déjà existantes.
+- En parallèle une phase d'analyse de la fondation en inspectant les documents à disposition et interviewant différents rôles afin de mieux cibler le problème et son ressenti. D'en ressortir les tensions existantes et les pistes envisageables pour les résoudre.
+- Puis, l'élaboration des mesures d'amélioration qui pourraient être proposées suivi d'une évaluation par les collaborateurs afin de prioriser le travail et affiner la compréhension des problèmes.
+- Pour finir, l'implémentation de quelques mesures selon les priorités ou l'intérêt analysé, cela afin de valider la faisabilité et proposer des éléments concrets pour répondre aux problèmes relevés.
 
 /// Méthodologie
 /// ----------------------------
@@ -194,13 +194,13 @@ Afin de répondre à la question de recherche, un plan d'action à été défini
 /// ----------------------------
 = Conclusion
 
-Ce travail aura permis d'explorer différents aspects des gouvernances distribuées et de l'intégration des systèmes informatiques avec ces dernières. En analysant la littérature et la Fondation, il a été possible de faire des liens et de relever plus finement les tensions rencontrées par les collaborateurs. Les problèmes initialement relevés en introduction ont pu être affinés durant la phase d'analyse. Puis différentes mesures ont permis d'y répondre.
+Ce travail aura permis d'explorer différents aspects des gouvernances distribuées et de l'intégration des systèmes informatiques avec ces dernières. En analysant la littérature et le fonctionnement de la Fondation Jobtrek, il a été possible de faire des liens et de relever plus finement les tensions rencontrées par les collaborateurs. Les problèmes initialement relevés en introduction ont pu être affinés durant la phase d'analyse. Puis différentes mesures ont permis d'y répondre.
 
 De façon générale, les mesures proposées ont principalement un impact sur le fonctionnement et l'utilisation des systèmes informatiques. Quelques mesures touchent plus directement à la gouvernance. Toutes ces mesures ont pour but final d'améliorer l'efficacité et la communication au sein des cercles et rôles de la fondation. Mais aussi d'apporter un cadre plus clair de travail aux rôles afin qu'ils puissent mieux naviguer dans leurs tâches.
 
-Le travail sur ces mesures révèle aussi que certaines pourraient avoir un impact au-delà de l'informatique, mais aider à fluidifier le travail d'autres cercles (en particulier ceux du support). Ce travaille apporte aussi une meilleure vue sur la compréhension des mécanismes de gouvernance et du cercle informatique par les collaborateurs.
+Le travail sur ces mesures révèle aussi que certaines pourraient avoir un impact au-delà de l'informatique, et aider à fluidifier le travail d'autres cercles (en particulier ceux du support). Ce travaille apporte aussi une meilleure vue sur la compréhension des mécanismes de gouvernance et du cercle informatique par les collaborateurs.
 
-Le travail a répondu à la question de recherche initiale "Quelles recommandations mettre en place pour concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée ?" en proposant une série de mesures qui permettraient d'améliorer le fonctionnement de la gouvernance et de son cercle IT.
+Le travail a répondu à la question de recherche initiale "Quelles recommandations mettre en place pour concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée ?" en proposant une série de mesures qui permettraient d'améliorer le fonctionnement de la gouvernance et de son cercle IT. Ces dernières devraient offrir une amélioration de l'intégration du cercle IT dans la gouvernance.
 
 En particulier, la clarification de cadre numérique offert aux collaborateurs, l'amélioration du processus de proposition d'amélioration, l'ajout de plusieurs mesures qui renforcent la communication du cercle IT envers les collaborateurs ou encore l'uniformisation des systèmes et la manière dont sont stockées les informations entre les cercles. Il est aussi proposé de mettre en place des plateformes pour aider à la formation des collaborateurs et aussi pour mieux rassembler et exposer les informations.
 

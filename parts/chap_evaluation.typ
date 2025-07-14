@@ -92,8 +92,8 @@ Les retours oraux et écrits sont proches des résultats obtenus dans la matrice
 
 == Évaluation des mesures selon la revue de littérature
 
-Dans la phase de revue de littérature (voir @chap-revue-de-litterature), différents éléments avaient été relevés, notamment :
-- La nécessité de processus clairs pour la gouvernance (besoin partagé par le cercle IT).
+Dans la phase de revue de littérature (voir @chap-revue-de-litterature), différents éléments avaient été mis en avant pour aider au bon fonctionnement d'une gouvernance distribuée, notamment :
+- La nécessité de processus clairs (besoin partagé par le cercle IT).
 - La nécessité d'un cadre clair pour les rôles (parfois appelée sphère d'autorité ou constitution).
 - La nécessité de garantir l'autonomie des collaborateurs et de leur apporter les outils et formations nécessaires pour l'accomplissement de leurs missions.
 - Des canaux de communication efficaces pour garantir la circulation de l'information.
@@ -102,7 +102,7 @@ La plupart des mesures suggérées auraient un apport dans sur ces différents a
 
 Les mesures #link(<mesure-M4>, "M4") (Plateforme de formation) et #link(<mesure-M3>, "M3") (Base de connaissances) répondent aussi au besoin d'autonomisation des collaborateurs et d'accessibilité de l'information.
 
-De façon générale, plusieurs mesures proposent indirectement d'améliorer la communication du cercle IT vis-à-vis des autres rôles, ce qui s'inscrit aussi dans les prérequis d'une gouvernance distribuée.
+De façon générale, plusieurs mesures proposent directement ou indirectement d'améliorer la communication du cercle IT vis-à-vis des autres rôles, #link(<mesure-M9>, "M9") (Newsletter IT), #link(<mesure-M10>, "M10") (Point IT lors des collocs trimestriels) ou encore #link(<mesure-M12>, "M12"). Cela s'inscrit aussi dans les prérequis d'une gouvernance distribuée.
 
 Quelques mesures suggérées ont peu de rapport direct avec les besoins d'une gouvernance distribuée, comme les mesures #link(<mesure-M17>, "M17") (Stratégie IT) et #link(<mesure-M1>, "M1") (Simplification et uniformisation de l'architecture de fichiers). Cependant, leur mise en place améliorerait sans doute indirectement l'implémentation de la gouvernance, cela en améliorant les outils IT ou en simplifiant le travail de certains rôles.
 
