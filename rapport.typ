@@ -188,6 +188,7 @@ Afin de répondre à la question de recherche, un plan d'action a été défini 
 /// Discussion
 /// ----------------------------
 #include "parts/chap_discussion.typ"
+#pagebreak()
 
 /// Conclusion
 /// ----------------------------
@@ -202,6 +203,10 @@ Le travail sur ces mesures révèle aussi que certaines pourraient avoir un impa
 Le travail a répondu à la question de recherche initiale "Quelles recommandations mettre en place pour concilier les impératifs d'un service informatique avec les besoins d'une gouvernance distribuée ?" en proposant une série de mesures qui permettraient d'améliorer le fonctionnement de la gouvernance et de son cercle IT. Ces dernières devraient offrir une amélioration de l'intégration du cercle IT dans la gouvernance.
 
 En particulier, la clarification de cadre numérique offert aux collaborateurs, l'amélioration du processus de proposition d'amélioration, l'ajout de plusieurs mesures qui renforcent la communication du cercle IT envers les collaborateurs ou encore l'uniformisation des systèmes et la manière dont sont stockées les informations entre les cercles. Il est aussi proposé de mettre en place des plateformes pour aider à la formation des collaborateurs et aussi pour mieux rassembler et exposer les informations.
+
+Les réponses apportées à la question de recherche sont spécifiques à Jobtrek et dépendent grandement de l'analyse qui a été effectuée. Pour ancrer davantage ce travail, il serait intéressant d'élargir cette analyse dans d'autres structures et de collecter des données quantitatives.
+
+Merci à toutes les personnes qui auront contribué au bon déroulement de ce travail, par leurs conseils ou leur participation aux entretiens et réflexions. Finalement, merci pour votre lecture.
 
 /// Bibliographie, annexes et tables
 /// ----------------------------

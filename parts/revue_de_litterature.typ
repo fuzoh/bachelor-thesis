@@ -24,7 +24,7 @@ L'observation du @table-revue-articles-thematiques permet de se rendre compte d'
 
 == Revue des articles sélectionnés par thématiques
 
-=== Gouvernance distribuée, nouveaux modèles d'entreprises
+=== Gouvernance distribuée, nouveaux modèles d'entreprises <chap-revue-nouveaux-modeles-entreprises>
 
 L'holacratie @holacracy-brian-robertson semble s'imposer comme la structure de gouvernance distribuée la plus populaire aujourd'hui. Elle s'inscrit dans un courant de structure de gouvernance que #cite(form: "prose", <reinventing-organisations-frederic-laloux>, supplement: "part 1") propose d'appeler _opale_ en opposition aux modes de gouvernance _rouges_ qu'il associe aux méthodes tribales utilisées lors des débuts de l'humanité. La sociocratie, s'inscrit aussi dans ces types de gouvernance _opales_, bien qu'existant depuis plus longtemps, elle semble moins utilisée que l'holacratie.
 
