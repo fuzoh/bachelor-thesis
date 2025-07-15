@@ -187,7 +187,6 @@ Afin de répondre à la question de recherche, un plan d'action a été défini 
 
 /// Discussion
 /// ----------------------------
-#pagebreak()
 #include "parts/chap_discussion.typ"
 
 /// Conclusion
