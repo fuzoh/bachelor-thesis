@@ -143,4 +143,35 @@ qu'est qui peut être fait pour limiter la friction quant on impose une nouvelle
 
 place du change management -> prèt a laisser du contrôle centralisé, mais les collaborateurs veulent être dans la boucle.
 
+== _9 juillet_ - Questions
+
+rendu le 20 via switch à fabrice et secrétariat. faut-il vous mettre en copie ?
+mettre en copie Boris.
+
+- lettre d'authentification ? envoi par e-mail ok ?
+- présentation, apports de nouveaux éléments ?
+- longeur du travail, longeur des paragraphes
+- explications liées aux documents produits pour le travail
+
+- poster, avec le rendu ?
+
+- partie 4.5 et 4.6 ? besoin que le nomage des chapitres soit ainsi ? ou il faut les mettre en annexe ?
+
+- mention confidentiel
+
+*augementer les marges horizontales...*
+
+noter les constats faits pendant l'élaboration des documents officiels.
+
+dans la discussion, on peut rajouter des point d'attention découverts selon la
+revue de littérature ou durant les phases pratiques.
+
+*discussion voir commentaires sur teams*
+*pas mélanger minuscules et majuscules*
+*ajouter les nom de mesure en note de bas de page*
+*utilisation d'IA dans ce travail, dans quelle phase quel type d'IA pour quel contenu*
+
+----
+Il faut peut être, par contre éviter de dire juste "jobtrek n'est pas assez mature, donc ...." ça doit être un argument, dans les limites, mais doit pas être le seul. Sinon on pourrait critique tout la validité de la réponse à la question de recherche on disant qu'il fallait changer de terrain à observer. Donc il faut aussi mettre en avant ce qui fonctionne/est observé et correspond aux attendes et justifie les éléments (partie process it) Autre élément où l'autorité est peut être déjà plus forte... Ou une variante qui montre que ça marche malgré les limites.
+
 #bibliography("bibliography.bib")
