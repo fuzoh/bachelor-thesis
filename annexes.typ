@@ -42,6 +42,12 @@ Les résumés des entretiens et les prises de notes manuscrites sont disponibles
 - Diagramme du processus : `Livrables/M6 diagramme processus amelioration.pdf`.
 - Fichier source, réalisé avec l'application #link("https://app.diagrams.net/")[Diagrams.net] : `Livrables/M6 diagramme processus amelioration.drawio`.
 
+== Documents requis pour la HE-Arc
+
+- Poster : `Librables/poster_Bastien Nicoud.pdf`.
+- Fichier source poster : `Librables/poster_Bastien Nicoud.pptx`.
+- Résumé du travail : `Livrables/résumé du travail_Bastien Nicoud.docx`
+
 == Fichiers sources du rapport
 
 Ce rapport à été rédigé à l'aide de #link("https://typst.app/docs/")[Typst], les sources sont disponibles dans le dossier zip annexé : `Annexes/sources.zip`. Il est possible de visualiser les documents directement dans #link("https://code.visualstudio.com/")[VS code] avec l'extension #link("https://myriad-dreamin.github.io/tinymist/")[TinyMist].
