@@ -3,32 +3,32 @@
 
 == Demande de ratification <annexe-demande-de-ratification>
 
-Disponible au format PDF : `Annexes/Demande de ratification_Bastien Nicoud _2025-06-06.pdf`.
+Disponible au format PDF : `Annexes/Demande de ratification_Bastien Nicoud_2025-06-06.pdf`.
 
 == Lettre d'authentification <annexe-lettre-authentification>
 
-Disponible au format PDF : `Annexes/Lettre Authentification_Bastien Nicoud.pdf`.
+Disponible au format PDF : `Annexes/LettreAuthentification_Bastien Nicoud_2025-07-20.pdf`.
 
 == Guide d'entretien <annexe-guide-entretien>
 
-Disponible au format PDF dans le fichier joint : `Annexes/guide_entretien.pdf`.
+Disponible au format PDF dans le fichier joint : `Annexes/guide_entretien.pdf` (La marge conséquente à droite est prévue pour la prise de notes).
 
 == Description des objectifs stratégiques de la gouvernance Jobtrek <annexe-objectifs-gouvernance>
 
-Disponible au format PDF dans le fichier joint : \ `Annexes/objectif stratégique gouvernance Jobtrek.pdf`.
+Disponible au format PDF dans le fichier joint : \ `Annexes/entretien de présentation de la gouvernance_2025-05-13.pdf`.
 
-== Transcriptions et résumé entretiens <annexe-entretiens>
+== Transcriptions et résumés entretiens <annexe-entretiens>
 
 Toutes les transcriptions des entretiens sont disponibles au format texte ou srt dans le dossier `Annexes/entretiens`. \
 Les résumés des entretiens et les prises de notes manuscrites sont disponibles dans le même dossier au format PDF.
 
 == Evaluation des mesures <annexe-evaluation-mesures>
 
-- Fiche de description des mesures au format PDF : `Annexes/fiche_mesure_pour_présentation.pdf`. \
-- Fiche pour l'évaluation des mesures au format PDF : `Annexes/table_evaluation des mesures.pdf`.
-- Le scan des résultats bruts est disponible en PDF : `Annexes/evaluations matrice kano.pdf`. \
-- La transcription est données au fromat csv : `Annexes/kano/evaluation/data_kano.csv`. \
-- Le notebook jupyter pour le traitement des données : `Annexes/kano/data.ipynb`.
+- Fiche de description des mesures au format PDF : \ `Annexes/evaluation/fiche_mesure_pour_présentation.pdf`. \
+- Fiche pour l'évaluation des mesures au format PDF : \ `Annexes/evaluation/table evaluation des mesures.pdf`.
+- Le scan des résultats bruts est disponible en PDF : \ `Annexes/evaluation/evaluations matrice kano_2025-06-05.pdf`.
+- La transcription est données de l'évaluation au fromat csv : `Annexes/evaluation/data_kano.csv`. \
+- Le notebook jupyter pour le traitement des données : \ `Annexes/evaluation/data_transformation_kano.ipynb`.
 
 == Implémentation de la mesure M5, sphère d'autorité <annexe-m5>
 
@@ -40,7 +40,7 @@ Les résumés des entretiens et les prises de notes manuscrites sont disponibles
 == Implémentation de la mesure M6, propositions d'améliorations <annexe-m6>
 
 - Diagramme du processus : `Livrables/M6 diagramme processus amelioration.pdf`.
-- Fichier source, réalisé avec l'application #link("https://app.diagrams.net/")[Diagrams.net] : `Livrables/M6 diagramme processus amelioration.drawio`.
+- Fichier source, réalisé avec l'application #link("https://app.diagrams.net/")[Diagrams.net] : \ `Livrables/M6 diagramme processus amélioration.drawio`.
 
 == Documents requis pour la HE-Arc
 
@@ -50,4 +50,4 @@ Les résumés des entretiens et les prises de notes manuscrites sont disponibles
 
 == Fichiers sources du rapport
 
-Ce rapport à été rédigé à l'aide de #link("https://typst.app/docs/")[Typst], les sources sont disponibles dans le dossier zip annexé : `Annexes/sources.zip`. Il est possible de visualiser les documents directement dans #link("https://code.visualstudio.com/")[VS code] avec l'extension #link("https://myriad-dreamin.github.io/tinymist/")[TinyMist].
+Ce rapport a été rédigé à l'aide du langage de composition de documents #link("https://typst.app/docs/")[Typst], les sources sont disponibles dans le dossier zip annexé : `Annexes/sources.zip`. Il est possible de visualiser les documents `.typ` directement dans l'editeur #link("https://code.visualstudio.com/")[VS code] en installant l'extension #link("https://myriad-dreamin.github.io/tinymist/")[TinyMist].
