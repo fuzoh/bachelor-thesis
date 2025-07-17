@@ -19,7 +19,7 @@ Disponible au format PDF dans le fichier joint : \ `Annexes/entretien de présen
 
 == Transcriptions et résumés entretiens <annexe-entretiens>
 
-Toutes les transcriptions des entretiens sont disponibles au format texte ou srt dans le dossier `Annexes/entretiens`. \
+Toutes les transcriptions des entretiens sont disponibles au format texte `.txt` ou `.srt` dans le dossier `Annexes/entretiens`. \
 Les résumés des entretiens et les prises de notes manuscrites sont disponibles dans le même dossier au format PDF.
 
 == Evaluation des mesures <annexe-evaluation-mesures>
@@ -27,7 +27,7 @@ Les résumés des entretiens et les prises de notes manuscrites sont disponibles
 - Fiche de description des mesures au format PDF : \ `Annexes/evaluation/fiche_mesure_pour_présentation.pdf`. \
 - Fiche pour l'évaluation des mesures au format PDF : \ `Annexes/evaluation/table evaluation des mesures.pdf`.
 - Le scan des résultats bruts est disponible en PDF : \ `Annexes/evaluation/evaluations matrice kano_2025-06-05.pdf`.
-- La transcription est données de l'évaluation au fromat csv : `Annexes/evaluation/data_kano.csv`. \
+- La transcription des données de l'évaluation au fromat csv : `Annexes/evaluation/data_kano.csv`. \
 - Le notebook jupyter pour le traitement des données : \ `Annexes/evaluation/data_transformation_kano.ipynb`.
 
 == Implémentation de la mesure M5, sphère d'autorité <annexe-m5>
@@ -50,4 +50,4 @@ Les résumés des entretiens et les prises de notes manuscrites sont disponibles
 
 == Fichiers sources du rapport
 
-Ce rapport a été rédigé à l'aide du langage de composition de documents #link("https://typst.app/docs/")[Typst], les sources sont disponibles dans le dossier zip annexé : `Annexes/sources.zip`. Il est possible de visualiser les documents `.typ` directement dans l'editeur #link("https://code.visualstudio.com/")[VS code] en installant l'extension #link("https://myriad-dreamin.github.io/tinymist/")[TinyMist].
+Ce rapport a été rédigé à l'aide du langage de composition de documents #link("https://typst.app/docs/")[Typst], les sources sont disponibles dans le dossier zip annexé : `Annexes/sources.zip`. Il est possible de visualiser les documents `.typ` directement dans l'éditeur #link("https://code.visualstudio.com/")[VS code] en installant l'extension #link("https://myriad-dreamin.github.io/tinymist/")[TinyMist].

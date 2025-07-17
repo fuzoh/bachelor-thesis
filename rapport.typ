@@ -49,7 +49,7 @@
 ]
 
 #align(center)[
-  CONFIDENTIEL \
+  _CONFIDENTIEL_ \
   Travail de bachelor du 1er avril 2025 au 20 juillet 2025
 ]
 
@@ -108,7 +108,7 @@ Actuellement, Jobtrek emploie un peu plus de 30 collaborateurs et s'appuie sur d
 
 == Contexte du cas
 
-Au cours de ces 10 années d'existence, Jobtrek est passé d'un collaborateur à plus de trente aujourd'hui. Les produits proposés par la fondation ont régulièrement changé et évolués. Pour répondre a ces évolutions rapides, Jobtrek a pu compter sur différents collaborateurs et bénévoles qui ont permis la mise en place du système informatique tel qu'il est actuellement opéré, ainsi que de la gouvernance.
+Au cours de ces 10 ans d'existence, Jobtrek est passé d'un collaborateur à plus de trente aujourd'hui. Les produits proposés par la fondation ont régulièrement changé et évolués. Pour répondre a ces évolutions rapides, Jobtrek a pu compter sur différents collaborateurs et bénévoles qui ont permis la mise en place du système informatique tel qu'il est actuellement opéré, ainsi que de la gouvernance.
 
 Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'une planification particulière ou d'une réflexion sur le long terme. Il a été mis en place de manière pragmatique, en fonction des besoins immédiats et des opportunités qui se sont présentées.
 
