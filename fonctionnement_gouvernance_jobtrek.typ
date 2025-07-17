@@ -38,7 +38,7 @@ Pour finir, à gauche en jaune, l'environnement qui doit être pris en compte po
   caption: [Carte générale des processus Ossad @the-ossad-methodology],
 ) <fig-carte-gen-processus>
 
-Ces axes de travail principaux sont le résultat de la mise en place des différents produits Jobtrek au fil des années. Ils ont évolués à mesures que les produis ont changés, pour se stabiliser vers cet état. Actuellement, malgré des variations régulières dans les produis proposés #footnote[Par exemple, entre le début de ce travail et son rendu, 2 produits ont disparu (Ecotrek et Relai Entreprises) et 1 produit tout nouveau a fait son apparition (JPS).] ces quatres axes principeaux sont restés stables, preuve qu'il répondent de manière adéquates aux types de missions qui sont confiées à la Fondation.
+Ces axes de travail principaux sont le résultat de la mise en place des différents produits Jobtrek au fil des années. Ils ont évolués à mesures que les produis ont changés, pour se stabiliser vers cet état. Actuellement, malgré des variations régulières dans les produis proposés #footnote[Par exemple, entre le début de ce travail et son rendu, 2 produits ont disparu (Ecotrek et Relai Entreprises) et 1 produit tout nouveau a fait son apparition (JPS).] ces quatre axes principaux sont restés stables, preuve qu'ils répondent de manière adéquate aux types de missions qui sont confiées à la Fondation.
 
 
 == Représentation de la gouvernance

@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5" pages="4">
   <diagram name="Page-1" id="kW_oIhUxRkiqL0Kq-PUK">
-    <mxGraphModel dx="944" dy="-514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="563" dy="-857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jqjiF2n1SpppxXGoInOC-1" value="Formation :&lt;br&gt;- profesionelle (domaine métier spécifique)&lt;br&gt;- générale (cours de soutien et ratrappage)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" parent="1" vertex="1">
+        <mxCell id="jqjiF2n1SpppxXGoInOC-1" value="Formation :&lt;br&gt;- profesionelle (domaine métier spécifique)&lt;br&gt;- générale (cours de soutien et de ratrappage)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" parent="1" vertex="1">
           <mxGeometry x="230" y="1310" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jqjiF2n1SpppxXGoInOC-2" value="Démarchage :&lt;br&gt;- recherche de place de stage&lt;br&gt;- recherche d&#39;entreprises formatrices&lt;br&gt;- promotion des jeunes profesionnels&lt;br&gt;- compréhension des besoins des entreprises" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Libertinus Serif;" parent="1" vertex="1">

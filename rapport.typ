@@ -112,7 +112,7 @@ Au cours de ces 10 ans d'existence, Jobtrek est passé d'un collaborateur à plu
 
 Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'une planification particulière ou d'une réflexion sur le long terme. Il a été mis en place de manière pragmatique, en fonction des besoins immédiats et des opportunités qui se sont présentées.
 
-La gouvernance a aussi été mise en place au fil du temps pour répondre au mieux à la mission de Jobtrek. Chaque années, certains aspects de la gouvernance ont été étoffés, allégés ou encore transformés.
+La gouvernance a aussi été mise en place au fil du temps pour répondre au mieux à la mission de Jobtrek. Chaque année, certains aspects de la gouvernance ont été étoffés, allégés ou encore transformés.
 
 Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, et en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave les apports de la gouvernance distribuée ou ne soit entravé par cette dernière.
 
@@ -196,7 +196,7 @@ Afin de répondre à la question de recherche, un plan d'action a été défini 
 /// ----------------------------
 = Conclusion
 
-Ce travail aura permis d'explorer différents aspects des gouvernances distribuées et de l'intégration des systèmes informatiques avec ces dernières. En analysant la littérature et le fonctionnement de la Fondation Jobtrek, il a été possible de faire des liens et de relever plus finement les tensions rencontrées par les collaborateurs. Les problèmes initialement relevés en introduction ont pu être affinés durant la phase d'analyse. Puis différentes mesures ont permis d'y répondre.
+Ce travail aura permis d'explorer différents aspects des gouvernances distribuées et de l'intégration des systèmes informatiques avec ces dernières. En analysant la littérature et le fonctionnement de la Fondation Jobtrek, il a été possible de faire des liens et de relever plus finement les tensions rencontrées par les collaborateurs. Les problèmes initialement identifiés en introduction ont pu être affinés durant la phase d'analyse, puis différentes mesures ont permis d'y répondre.
 
 De façon générale, les mesures proposées ont principalement un impact sur le fonctionnement et l'utilisation des systèmes informatiques. Quelques mesures touchent plus directement à la gouvernance. Toutes ces mesures ont pour but final d'améliorer l'efficacité et la communication au sein des cercles et rôles de la fondation. Mais aussi d'apporter un cadre plus clair de travail aux rôles afin qu'ils puissent mieux naviguer dans leurs tâches.
 
