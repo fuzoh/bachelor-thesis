@@ -56,7 +56,7 @@ Certains collègues n'ont pas eu le temps d'évaluer toutes les mesures, la @gra
 
 #include "eval_num_votes_per_measure.typ"
 
-Les données brutes récoltées auprès des collaborateurs ont été transcrites dans un document numérique, puis transformées et agrégées #footnote[Le nettoyage, l'agrégation et les transformations de données ont été réalisées dans un notebook jupyter à l'aide de la librairie polars. Le script est disponible en @annexe-evaluation-mesures[annexe].] pour en obtenir le pourcentage de présence de chaque mesure dans les différentes catégories de la matrice de kano (voir @table-kano-matrix) et les classer par catégories dans le @table-kano ci-dessous.
+Les données brutes récoltées auprès des collaborateurs ont été transcrites dans un document numérique, puis transformées et agrégées #footnote[Le nettoyage, l'agrégation et les transformations de données ont été réalisées dans un notebook jupyter à l'aide de la librairie polars. Le script est disponible en @annexe-evaluation-mesures[annexe].] pour en obtenir le pourcentage de présence de chaque mesure dans les différentes catégories de la matrice de Kano (voir @table-kano-matrix) et les classer par catégories dans le @table-kano ci-dessous.
 
 #include "kano_table.typ"
 

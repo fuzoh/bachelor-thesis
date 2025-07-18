@@ -1,4 +1,4 @@
-/// Utilitaries to generate cells for the kano matrix
+/// Utilitaries to generate cells for the Kano matrix
 #let colors = (
   performance: blue.lighten(50%),
   attractive: green.lighten(50%),

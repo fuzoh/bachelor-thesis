@@ -48,7 +48,7 @@ Cependant, si ces points sont travaillés, il semble tout à fait ouvert à des 
 
 == Tensions relevées <chap-tensions-relevées>
 
-Les différentes tensions amenées par les collaborateurs au fil des entretiens ont été résumées et regroupées dans le @table-tensions-relevées ci dessous. Cette synthèse des tensions sera utilisées après pour voir comment les mesures d'amélirations y répondent.
+Les différentes tensions amenées par les collaborateurs au fil des entretiens ont été résumées et regroupées dans le @table-tensions-relevées ci-dessous. Cette synthèse des tensions sera utilisées après pour voir comment les mesures d'améliorations y répondent.
 
 #include "parts/tensions_relevees_lors_entretiens.typ"
 

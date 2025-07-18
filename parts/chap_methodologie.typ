@@ -8,13 +8,13 @@ Réunir les œuvres qui ont inspiré la gouvernance de la Fondation, cela afin d
 
 Deuxièmement, réunir de la littérature plus large, notamment pour faire le pont avec les SI, pour ce faire, les recherches ont essentiellement été effectuées sur la plateforme #link("https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/")[Web of Science]. Il s'agit d'un agrégateur qui permet de retrouver des articles sur tout type de thématiques via un outil de recherche avancé. Il est possible de créer des recherches du type "Holacracy AND information technology" afin de contraindre les résultats.
 
-Les resources récoltées ont ensuite été analysées par thématiques afin d'identifier les principeaux axes qui définissent les systèmes à gouvernance distribuée et leurs liens avec le SI. Pour finir, le résultat des recherches à été synthétisé au @chap-revue-de-litterature.
+Les ressources récoltées ont ensuite été analysées par thématiques afin d'identifier les principaux axes qui définissent les systèmes à gouvernance distribuée et leurs liens avec le SI. Pour finir, le résultat des recherches a été synthétisé au @chap-revue-de-litterature.
 
 == Phase d'analyse générale (gouvernance et Fondation)
 
-L'analyse de la gouvernance à été réalisée en parcourant les outils de gesion en place, les documents qui la décrivent et les différents process d'entreprise. Les entretiens qui ont été réalisées avec les collaborateurs ont aussi permis de mieux comprendre comment la gouvernance et pércue et appliquée au quotidien. Pour finir, un entretien avec le directeur à aussi été organisé afin de connaitre l'historique de la gouvernance actuelle, comment elle à été mise en place, quelles sont les objectifs poursuivis par la gouvernance Jobtrek et quels apports sont attendus.
+L'analyse de la gouvernance a été réalisée en parcourant les outils de gestion en place, les documents qui la décrivent et les différents process d'entreprise. Les entretiens qui ont été réalisées avec les collaborateurs ont aussi permis de mieux comprendre comment la gouvernance et perçue et appliquée au quotidien. Pour finir, un entretien avec le directeur à aussi été organisé afin de connaitre l'historique de la gouvernance actuelle, comment elle a été mise en place, quelles sont les objectifs poursuivis par la gouvernance Jobtrek et quels apports sont attendus.
 
-Pour bien situer les fonctionnement de la fondation et ses axes de travail, une carte générale des processus tel que proposé par la méthode Ossad @the-ossad-methodology à été réalisée. Cela dans le but de mieux représenter les missions générales accomplies par la fondation et ses partenaires.
+Pour bien situer le fonctionnement de la fondation et ses axes de travail, une carte générale des processus tel que proposé par la méthode Ossad @the-ossad-methodology a été réalisée. Cela dans le but de mieux représenter les missions générales accomplies par la fondation et ses partenaires.
 
 == Phase d'analyse spécifique (IT et gouvernance, entretiens)
 
@@ -50,13 +50,13 @@ L'entretien est mené en "entonnoir", les questions sont initialement posées de
 
 Une fois tous les entretiens terminés, les synthèses et transcriptions ont été reprises, cela afin d'écrire le @chap-but-entretiens au cours duquel les tensions remontées par les collaborateurs ont été classées et regroupées puis, les mesures proposées ont été élaborées et détaillées.
 
-La couverture des tensions par les mesures d'amélioration à été calculée, tout comme "l'intérêt" montré pour les mesures au fil des entretiens. Cela afin de proposer une première priorisation des mesures.
+La couverture des tensions par les mesures d'amélioration a été calculée, tout comme "l'intérêt" montré pour les mesures au fil des entretiens. Cela afin de proposer une première priorisation des mesures.
 
 == Évaluation
 
 La phase d'évaluation des mesures proposées dans la phase d'analyse est relativement succincte afin qu'elle s'intègre dans la planification des collaborateurs concernés. Une première évaluation a été réalisée sous la forme d'un atelier avec l'essentiel des personnes qui portent le rôle de "coordinateurs de cercle". Le choix de ce rôle c'est imposé car l'atelier pouvait être intégré dans une séance déjà planifiée avec ces personnes, et que chaque coordinateur représente un des cercles de la fondation, cela permet d'avoir d'un coup des avis qui représentent toutes les personnes de la fondation -- domaine métiers et produits confondus.
 
-L'atelier a été organisé en deux phases, une première qui a pour but de récolter des avis qualitatifs sur les différentes propositions d'améliorations. Une seconde pour récolter des données quantitatives. Pour la première phase, il a été choisi de réaliser un atelier en binômes dans lequel les personnes ont pu prendre connaissance des mesures unes à unes et les commenter au regard de leur expérience à Jobtrek. Puis, dans la seconde phase, il a été choisi de réaliser une analyse en utilisant la matrice de kano afin d'évaluer la pertinence des mesures @modele-de-kano.
+L'atelier a été organisé en deux phases, une première qui a pour but de récolter des avis qualitatifs sur les différentes propositions d'améliorations. Une seconde pour récolter des données quantitatives. Pour la première phase, il a été choisi de réaliser un atelier en binômes dans lequel les personnes ont pu prendre connaissance des mesures unes à unes et les commenter au regard de leur expérience à Jobtrek. Puis, dans la seconde phase, il a été choisi de réaliser une analyse en utilisant la matrice de Kano afin d'évaluer la pertinence des mesures @modele-de-kano.
 
 == Implémentation
 

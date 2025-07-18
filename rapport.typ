@@ -49,7 +49,7 @@
 ]
 
 #align(center)[
-  _CONFIDENTIEL_ \
+  CONFIDENTIEL \
   Travail de bachelor du 1er avril 2025 au 20 juillet 2025
 ]
 
@@ -57,7 +57,7 @@
 
 *Résumé managérial*
 
-La fondation Jobtrek, active dans l'insertion professionnelle et la formation d'apprentis, met en œuvre une gouvernance semi-distribuée (inspirée des entreprises opales #footnote[@reinventing-organisations-frederic-laloux], favorisant l'autonomie et la responsabilisation des collaborateurs), pour l'accomplissement de ses tâches. Actuellement, différentes tensions existent entre la gouvernance, qui offre une grande liberté pour les collaborateurs, et le service informatique qui a des contraintes de sécurité ou légales l'obligeant à imposer des choix aux équipes.
+La fondation Jobtrek, active dans l'insertion professionnelle et la formation d'apprentis, met en œuvre une gouvernance semi-distribuée (inspirée des entreprises opales #footnote[@reinventing-organisations-frederic-laloux], favorisant l'autonomie et la responsabilisation des collaborateurs), pour l'accomplissement de ses tâches. Actuellement, différentes tensions existent entre la gouvernance, qui offre une grande liberté aux collaborateurs, et le service informatique qui a des contraintes de sécurité ou légales l'obligeant à imposer des choix aux équipes.
 
 Ce travail s'intéresse à l'articulation entre la gouvernance Jobtrek et son service informatique, comment les faire fonctionner au mieux ensemble. Les besoins des collaborateurs, de l'IT et de la gouvernance ont été analysés, cela afin d'identifier les tensions existantes et d'imaginer des mesures qui permettraient de les résoudre. Les mesures ont été ensuite évaluées afin de proposer une suite de mesures cohérentes qui permettraient à la Fondation de fluidifier le fonctionnement du service IT et de la gouvernance.
 
@@ -114,13 +114,13 @@ Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'un
 
 La gouvernance a aussi été mise en place au fil du temps pour répondre au mieux à la mission de Jobtrek. Chaque année, certains aspects de la gouvernance ont été étoffés, allégés ou encore transformés.
 
-Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, et en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave les apports de la gouvernance distribuée ou ne soit entravé par cette dernière.
+Aujourd'hui, Jobtrek fait face à des défis de gestion du changement de son SI, en particulier, rencontre des difficultés à faire fonctionner correctement le cercle informatique sans qu'il entrave les apports de la gouvernance distribuée ou ne soit gêné par cette dernière.
 
 == Problèmes rencontrés <chap-problemes-rencontres>
 
 === Gouvernance et Cercle informatique
 
-Les mécanismes de gouvernance mis en place au sein de Jobtrek ont pour objectif de favoriser la responsabilisation et l'autonomie des collaborateurs. Ainsi, ils offrent de grandes libertés aux cercles et à leurs rôles quant à l'accomplissement de leurs missions et le choix de leurs outils. Aucune chaine hiérarchique n'est impliquée, les rôles et cercles décident en autonomie et de manière consensuelle des meilleurs choix à mettre en place pour l'accomplissement de leur mission.
+Les mécanismes de gouvernance mis en place au sein de Jobtrek ont pour objectif de favoriser la responsabilisation et l'autonomie des collaborateurs. Ainsi, ils offrent de grandes libertés aux cercles et à leurs rôles quant à l'accomplissement de leurs missions et au choix de leurs outils. Aucune chaine hiérarchique n'est impliquée, les rôles et cercles décident en autonomie et de manière consensuelle des meilleurs choix à mettre en place pour l'accomplissement de leur mission.
 
 À l'opposé, le cercle informatique a pour mission de garantir la sécurité du système d'information, le respect de la loi et son bon fonctionnement. Pour ce faire, il doit avoir connaissance de tout ce qui est mis en place au sein de la Fondation par les différents rôles et cercles, et, le cas échéant, emmètre d'éventuelles recommandations ou restrictions.
 

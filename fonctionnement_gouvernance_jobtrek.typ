@@ -43,11 +43,11 @@ Ces axes de travail principaux sont le résultat de la mise en place des différ
 
 == Représentation de la gouvernance
 
-La vue la plus parlante pour se représenter la gouvernance Jobtrek est la carte des rôles. Cette visualisation permet en un coup d'œil de voir les cercles et naviguer dans les rôles. La @fig-carte-des-roles-jobtrek donne un aperçu de l'interface actuellement utilisée. Il s'agit de l'application #link("https://peerdom.com/")[Peerdom], cette dernière offre une visualisation générale et permet de zoomer sur les différentes parties de la structure pour faire apparaitre le nom des cercles et des rôles. En cliquant sur les rôles il est possible de faire apparaitre leurs responsabilités et les personnes qui portent le rôles. Les colorations permettent de savoir si les rôles sont portés ou non (les bandes gris-blanc indiquent un rôle actuellement vacant) ou de différencier des types de rôles.
+La vue la plus parlante pour se représenter la gouvernance Jobtrek est la carte des rôles. Cette visualisation permet en un coup d'œil de voir les cercles et naviguer dans les rôles. La @fig-carte-des-roles-jobtrek donne un aperçu de l'interface actuellement utilisée. Il s'agit de l'application #link("https://peerdom.com/")[Peerdom], cette dernière offre une visualisation générale et permet de zoomer sur les différentes parties de la structure pour faire apparaitre le nom des cercles et des rôles. En cliquant sur les rôles, il est possible de faire apparaitre leurs responsabilités et les personnes qui portent le rôle. Les colorations permettent de savoir si les rôles sont portés ou non (les bandes gris-blanc indiquent un rôle actuellement vacant) ou de différencier des types de rôles.
 
 #figure(image("image.png"), caption: [Vue globale des cercles et rôles de la Fondation.]) <fig-carte-des-roles-jobtrek>
 
-Actuellement cet outil est celui qui représente le mieux la gouvernance dans le quotidien des collaborateurs, en effet il est facilement accessible et relativement bien maintenu à jour. Pour un collaborateur il est rapidement possible de s'y référer pour connaitre ses responsabilités et les taux qui lui sont attribués. Mais aussi pour connaître les responsabilités des autres et déduire a qui s'adresser.
+Actuellement cet outil est celui qui représente le mieux la gouvernance dans le quotidien des collaborateurs, en effet il est facilement accessible et relativement bien maintenu à jour. Pour un collaborateur il est rapidement possible de s'y référer pour connaitre ses responsabilités et les taux qui lui sont attribués. Mais aussi pour connaître les responsabilités des autres et déduire à qui s'adresser.
 
 Les disques de couleurs (vert-orange) qui entourent les cercles permettent aussi de visualiser l'avancement des cercles dans l'accomplissement des objectifs fixés par les différents cercles. Actuellement les cercles sont organisés par produits de la fondation, plus un cercle qui contient tous les cercles support.
 
@@ -111,24 +111,24 @@ Les facilitateurs et coordinateurs de super cercle sont nommés par le comité d
 
 La gouvernance Jobtrek ne met en place que 2 types de séances actuellement. La liberté est laissée aux cercles de mettre en place davantage de séance si cela est nécessaire pour l'accomplissement des responsabilités.
 
-- *Meeting de régulation :* Planifié 1 fois par mois, il sert à la régulation du fonctionnement du cercle, durant cette séanmce les éventuelles tensions qui auraient été remontées par des membres du cercle sont discutées et traitées. Cette séance a pour but de garantir l'hygiène du cercle et son bon fonctionnement. Si aucunne tension n'est actualité, il peut être annulé.
-- *Stand up meeting :* Planifié 1 à 2 fois par mois, il s'agit d'une séance de suivi des travaux du cercle. Succincts, ils servent à maintenir le cercle au fait des avancements des différents rôles et à discuter d'éventuelles éléments métiers.
+- *Meeting de régulation :* Planifié 1 fois par mois, il sert à la régulation du fonctionnement du cercle, durant cette séance les éventuelles tensions qui auraient été remontées par des membres du cercle sont discutées et traitées. Cette séance a pour but de garantir l'hygiène du cercle et son bon fonctionnement. Si aucune tension n'est actualité, il peut être annulé.
+- *Stand up meeting :* Planifié 1 à 2 fois par mois, il s'agit d'une séance de suivi des travaux du cercle. Succincts, ils servent à maintenir le cercle au fait des avancements des différents rôles et à discuter d'éventuels éléments métiers.
 
-Au sein de la fondation, différents cercles implémentent des séances supplémentaires à des fréquences qui varient pour mieux répondre aux besoins de leur cercle. La gouvernance n'impose pas de restrictions quant a l'existance des ces séances.
+Au sein de la fondation, différents cercles implémentent des séances supplémentaires à des fréquences qui varient pour mieux répondre aux besoins de leur cercle. La gouvernance n'impose pas de restrictions quant à l'existence de ces séances.
 
 === Processus formalisés
 
 La gouvernance dispose actuellement des processus suivants pour sa régulation :
 
-- *Proposition d'amélioration :* Il permet à tout rôle d'effectuer une proposition qui va impliquer des changements qui ont des implications au delà des responsabilités de son rôle.
-- *Gestion des tensions :* Permet de réguler les problèmes inter rôles et inter cercles, il permet de formaliser les difficultés, d'identifier les causes et de les résoudre. Ce process peut régulièrement découler sur une proposition d'amélioration.
-- *Feedback inter rôles:* Les rôles sont encouragés à régulièrement effectuer des points de feedback avec un autre rôle, cela afin de favoriser les échanges de pratiques et de s'améliorer.
+- *Proposition d'amélioration :* Il permet à tout rôle d'effectuer une proposition qui va impliquer des changements qui ont des implications au-delà des responsabilités de son rôle.
+- *Gestion des tensions :* Permet de réguler les problèmes inter-rôles et inter cercles, il permet de formaliser les difficultés, d'identifier les causes et de les résoudre. Ce process peut régulièrement découler sur une proposition d'amélioration.
+- *Feedback inter-rôles:* Les rôles sont encouragés à régulièrement effectuer des points de feedback avec un autre rôle, cela afin de favoriser les échanges de pratiques et de s'améliorer.
 
 == Besoin du cercle IT Jobtrek
 
 Le cercle IT est responsable des systèmes d'information Jobtrek ainsi que son matériel numérique, il faut partie du super cercle support. Comme tous les cercles du super cercle support, sa particularité est qu'il n'accomplit pas directement des tâches pour la mission Jobtrek, mais fournis des services aux autres rôles et cercles de la fondation.
 
-Ce cercle à des besoins particuliers qui devront être pris en compte dans la suite de ce rapport. Son but est formalisé come suit : "Assurer le fonctionnement informatique de la fondation pour permettre la réalisation de la mission.". Il réunis différents rôles :
+Ce cercle à des besoins particuliers qui devront être pris en compte dans la suite de ce rapport. Son but est formalisé comme suit : "Assurer le fonctionnement informatique de la fondation pour permettre la réalisation de la mission.". Il réunit différents rôles :
 - Gestionnaire de l'infrastructure
 - Gestionnaire des équipements
 - Dépanneur
@@ -150,5 +150,5 @@ Pour répondre à ces missions, le cercle IT à différents besoins :
 - Pouvoir garantir le bon fonctionnement du matériel et des logiciels, y compris sur les machines des collaborateurs.
 - Disposer de processus clairs qui peuvent être mis en place dans les outils numériques et/ou appliqués par le cercle pour remplir ces missions.
 
-Ces différents besoins ont des influences sur autres cercles et sur tous les rôles de la fondation, c'est a l'articulation entre les besoins du cercle IT et l'implémentation actuelle de la gouvernance distribuée que se situent les problèmes rencontrés par la fondation (évoqués en introduction de ce rapport).
+Ces différents besoins ont des influences sur autres cercles et sur tous les rôles de la fondation, c'est à l'articulation entre les besoins du cercle IT et l'implémentation actuelle de la gouvernance distribuée que se situent les problèmes rencontrés par la fondation (évoqués en introduction de ce rapport).
 

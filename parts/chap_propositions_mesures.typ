@@ -38,7 +38,7 @@ Le @table-matrice-apparition-mesures classe les mesures proposées par fréquenc
 - *2 apparitions :* Conception succincte de la mesure, évaluation de la pertinence de la mesure.
 - *1 apparition :* Pas de conception, les mesures ont juste été décrites pour permettre une future implémentation.
 
-Il est intéressant de noter que les interviwés ont suggérés moins régulièrement des mesures que les tensions.
+Il est intéressant de noter que les interviewés ont suggérés moins régulièrement des mesures que les tensions.
 
 #include "mesures/matrice_priorites.typ"
 
@@ -56,7 +56,7 @@ Les interviewés semblent convaincus qu'un accès simplifié et centralisé a l'
 
 #pagebreak()
 
-=== _M2_ - Outil de déscision autonome pour le traitement des données
+=== _M2_ - Outil de décision autonome pour le traitement des données
 
 Actuellement, la gestion des données, en particulier celles protégées par la loi est assez floue, la Fondation n'ayant pas encore eu les ressources pour s'adapter aux récents changements légaux #footnote[Nouvelle loi sur les données (nLPD) : https://www.kmu.admin.ch/kmu/fr/home/faits-et-tendances/digitalisation/protection-des-donnees/nouvelle-loi-sur-la-protection-des-donnees-nlpd.html]. Un certain nombre de rôles sont pourtant amenés à traiter ce type de données au quotidien, sans disposer de réelle formation ni de procédures pour la bonne gestion de ces données.
 
