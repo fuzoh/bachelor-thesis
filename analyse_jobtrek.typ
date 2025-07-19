@@ -7,11 +7,11 @@ Pour réaliser cette analyse, des entretiens ont été menés avec différents r
 - Obtenir une vue d'ensemble des besoins IT des collaborateurs.
 - Quelles contraintes sont acceptables ou non pour les collaborateurs vis-à-vis du cercle IT.
 
-Les entretiens se sont déroulés entre le 5 mai 2025 et le 19 mai 2025 au sein des locaux Jobtrek. Sont disponibles en @annexe-entretiens[annexe] les transcriptions, notes et résumés des 6 entretiens menés.
+Les entretiens se sont déroulés entre le 5 mai 2025 et le 19 mai 2025 au sein des locaux Jobtrek. Sont disponibles en @annexe-entretiens[annexe] les transcriptions, notes et résumés des six entretiens menés.
 
 == Résumé général des thématiques abordées lors des entretiens
 
-Les discussions menées en entretien on permis de cibler un certain nombre de mesures d'amélioration qui pourraient être mises en œuvre, voir @chap-mesures-suggerees-dans-les-entretiens. Les 3 prochains chapitres résument quant à eux l'état des lieux énoncés par les interviewés. Chaque chapitre répond à un des buts du @chap-but-entretiens. Pour finir l'analyse des entretiens a permis de lister les tensions ressenties par les collaborateurs vis-à-vis de l'IT et de la gouvernance, voir le @table-tensions-relevées.
+Les discussions menées en entretien on permis de cibler un certain nombre de mesures d'amélioration qui pourraient être mises en œuvre, voir @chap-mesures-suggerees-dans-les-entretiens. Les trois prochains chapitres résument quant à eux l'état des lieux énoncés par les interviewés. Chaque chapitre répond à un des buts du @chap-but-entretiens. Pour finir l'analyse des entretiens a permis de lister les tensions ressenties par les collaborateurs vis-à-vis de l'IT et de la gouvernance, voir le @table-tensions-relevées.
 
 === Utilisation des outils informatique
 

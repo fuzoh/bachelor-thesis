@@ -1,12 +1,12 @@
 = Évaluation des mesures
 
-Pour mieux comprendre l'acceptation des mesures proposées et leur potentiel d'implémentation, une phase d'évaluation a été organisée avec un échantillon des collaborateurs Jobtrek. L'évaluation a pris la forme d'un atelier d'une heure environ avec 10 collaborateurs de la Fondation lors d'une formation pour les coordinateurs de cercles.
+Pour mieux comprendre l'acceptation des mesures proposées et leur potentiel d'implémentation, une phase d'évaluation a été organisée avec un échantillon des collaborateurs Jobtrek. L'évaluation a pris la forme d'un atelier d'une heure environ avec dix collaborateurs de la Fondation lors d'une formation pour les coordinateurs de cercles.
 
 Il a été choisi de faire l'évaluation à ce moment, car cette formation réunissait en un endroit et un moment les coordinateurs de cercles qui représentent les intérêts de tous les cercles de la fondation, notamment les différents sites géographiques, mais aussi les différents corps de métier. Cela permettait donc d'obtenir un avis le plus représentatif possible des membres des cercles sans avoir à consulter tous les rôles -- ce qui n'était pas possible pour des raisons logistiques. Le fait d'avoir les personnes en présentiel permettait d'expliquer la démarche et de lever les incompréhensions directement sur le moment.
 
 == Forme de l'atelier d'évaluation
 
-L'atelier a été divisé en 2 phases. Dans un premier temps, une phase de retour écrits et qualitatifs sur les propositions de mesures a été réalisée. Les participants ont reçu comme consigne de se répartir en binômes, dans l'idéal des binômes qui travaillent peu ensemble au quotidien, cela afin de favoriser les différences de point de vue et la discussion. Chaque binôme à pu prendre connaissances des mesures, discuter de son implication et annoter la mesure de ces commentaires. Initialement les consignes sur le type d'annotation sont restées vagues, afin de biaiser le mois possible des retours.
+L'atelier a été divisé en deux phases. Dans un premier temps, une phase de retour écrits et qualitatifs sur les propositions de mesures a été réalisée. Les participants ont reçu comme consigne de se répartir en binômes, dans l'idéal des binômes qui travaillent peu ensemble au quotidien, cela afin de favoriser les différences de point de vue et la discussion. Chaque binôme à pu prendre connaissances des mesures, discuter de son implication et annoter la mesure de ces commentaires. Initialement les consignes sur le type d'annotation sont restées vagues, afin de biaiser le mois possible des retours.
 
 La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment les mesures sont ressenties, il était initialement prévu de réaliser une évaluation avec une grille de critères puis une évaluation selon le modèle de Kano @modele-de-kano. Le temps n'a permis que de réaliser le modèle de Kano, ce dernier permet de visualiser la satisfaction selon la présence ou non de mesures. Les collaborateurs ont dû se positionner sur différentes mesures selon les propositions suivantes :
 
@@ -44,7 +44,7 @@ La matrice de Kano est un modèle proposé par #cite(form: "prose", <modele-de-k
 
 #include "matrice_knao.typ"
 
-L'axe horizontal correspond à la question "En l'absence de la mesure" dans lequel des 5 états êtes-vous. L'axe vertical correspond à la question "En présence de la mesure" comment vous sentez vous. Selon la réponse a ces 2 questions, il est possible de placer les éléments sur les 2 axes du tableau.
+L'axe horizontal correspond à la question "En l'absence de la mesure" dans lequel des 5 états êtes-vous. L'axe vertical correspond à la question "En présence de la mesure" comment vous sentez vous. Selon la réponse a ces deux questions, il est possible de placer les éléments sur les deux axes du tableau.
 
 Les mesures bleues sont importantes à mettre en place à tout prix, c'est la situation "idéale". Les mesures rouges sont à éviter, elles ne semblent ni apporter ni entraver. Les mesures vertes sont celles qui peuvent apporter si elles sont présentes, mais ne dérangent pas forcément en leur absence, elles sont à considérer. À l'opposé, les mesures orange sont celles qui semblent devoir être en place, mais n'apportent pas forcément de satisfaction particulière, elles devront faire l'objet d'une mise en place minutieuse et d'une bonne communication.
 
@@ -60,9 +60,9 @@ Les données brutes récoltées auprès des collaborateurs ont été transcrites
 
 #include "kano_table.typ"
 
-Quatre mesures ressortent dans la catégorie "Performance" ou "Attractif" : #link(<mesure-M13>, "M13") (Support qui fournis les temps de résolution), #link(<mesure-M4>, "M4") (Plateforme de formation), #link(<mesure-M1>, "M1") (Simplification et uniformisation de l'architecture de fichiers), #link(<mesure-M3>, "M3") (Base de connaissances). Le pourcentage cumulé de ces 2 catégories pour ces 4 mesures est aussi le plus élevé parmi toutes les mesures évaluées.
+Quatre mesures ressortent dans la catégorie "Performance" ou "Attractif" : #link(<mesure-M13>, "M13") (Support qui fournis les temps de résolution), #link(<mesure-M4>, "M4") (Plateforme de formation), #link(<mesure-M1>, "M1") (Simplification et uniformisation de l'architecture de fichiers), #link(<mesure-M3>, "M3") (Base de connaissances). Le pourcentage cumulé de ces deux catégories pour ces quatre mesures est aussi le plus élevé parmi toutes les mesures évaluées.
 
-Quelques constats pour ces 4 mesures :
+Quelques constats pour ces quatre mesures :
 - La mesure #link(<mesure-M3>, "M3") était aussi la mesure la plus proposée lors des entretiens initiaux.
 - La mesure #link(<mesure-M4>, "M4") était proposée par la moité des interviewés lors des entretiens.
 - Les mesures #link(<mesure-M13>, "M13") et #link(<mesure-M1>, "M1") n'avait été proposées que par peu de personnes, mais sont positivement évaluées.
@@ -71,7 +71,7 @@ Quelques constats pour ces 4 mesures :
 
 Certaines des mesures qui avaient été considérées comme principale lors des entretiens initiaux n'ont pas récolté d'évaluation particulièrement encourageante. Notamment les mesures #link(<mesure-M2>, "M2") (Outil de décision en autonomie sur les données), #link(<mesure-M5>, "M5") (Sphère d'autorité), #link(<mesure-M6>, "M6") (Revue du mécanisme de proposition d'amélioration) et #link(<mesure-M17>, "M17") (Stratégie IT).
 
-Quelques observations pour ces 4 mesures :
+Quelques observations pour ces quatre mesures :
 - La mesure #link(<mesure-M2>, "M2") tombe dans la catégorie contreproductive, alors même qu'elle avait été suggérée par une majorité de personnes interviewées et quelle répond a plusieurs tensions identifiées. Les retours obtenus semblent indiquer que cela serait du a la nature particulièrement peu génératrice de valeur de la mesure. Elle reste cependant à 34% dans la catégorie "Obligatoire", ce qui peut questionner sur sa nécessité.
 - La sphère d'autorité, mesure #link(<mesure-M5>, "M5") arrive à 78% dans la catégorie "Indifférent". Cela peut s'expliquer par les implications assez faibles au quotidien de cette mesure ou par la bonne connaissance du système informatique dès personnes qui ont participé à l'évaluation. En tout les cas, cela semble indiquer que la mise en place de cette mesure ne poserait pas forcément problème. Cela est rassurant étant donné que c'est une des mesures qui répond le plus a certains non négociables comme le respect de la loi sur la protection des données.
 - La revue du mécanisme de proposition d'améliorations, mesure #link(<mesure-M6>, "M6"), bien qu'étant majoritairement dans la catégorie "Indifférent" bénéficie quand même de 23% des votes dans la catégorie "Performant" et "Attractif".

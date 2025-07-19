@@ -38,7 +38,7 @@ Si l'entreprise met pleinement en place des principes de gouvernance distribuée
 
 === Structures _opales_ <chap-structures-opales>
 
-Pour #cite(form: "prose", <reinventing-organisations-frederic-laloux>), les structures _opales_ sont le dernier stade d'évolution des structures de gouvernance avant le suivant qui n'existe pas encore. Il peut regrouper différents modèles de gouvernances différents, cependant Laloux identifie 3 avancées qui caractérisent les structures _opales_ qu'il a étudié.
+Pour #cite(form: "prose", <reinventing-organisations-frederic-laloux>), les structures _opales_ sont le dernier stade d'évolution des structures de gouvernance avant le suivant qui n'existe pas encore. Il peut regrouper différents modèles de gouvernances différents, cependant Laloux identifie trois avancées qui caractérisent les structures _opales_ qu'il a étudié.
 
 - L'autogouvernance : le fait qu'une structure de gouvernance qui s'affranchit de la hiérarchie, remette au centre les collaborateurs et l'intelligence collective ait été mise en place.
 - La plénitude : l'entreprise permet à ses membres d'être tels qu'ils sont, et s'affranchis des masques habituellement portés au travail.
@@ -86,7 +86,7 @@ De manière plus générale, l'applicabilité de structures _opales_ est questio
 
 === Place de la gouvernance distribuée dans le SI <chap-gouv-si>
 
-La littérature ne semble pas particulièrement opposer le SI ou le numérique face aux structures distribuées. Il est même relevé que les structures qui pratiquent des méthodes de gestion Agiles sont en fait déjà proches de plusieurs des principes proposés par les gouvernances distribuées. Les 2 proposent des approches réactives et décentralisées @holacracy-in-software-development-teams-bhandari.
+La littérature ne semble pas particulièrement opposer le SI ou le numérique face aux structures distribuées. Il est même relevé que les structures qui pratiquent des méthodes de gestion Agiles sont en fait déjà proches de plusieurs des principes proposés par les gouvernances distribuées. Les deux proposent des approches réactives et décentralisées @holacracy-in-software-development-teams-bhandari.
 
 De façon plus générale, la présence forte de processus en gouvernance distribuée et la connaissance précise des rôles et de leurs responsabilités semble bien correspondre à ce que pourrait requérir un service informatique -- qu'il s'accommode habituellement bien de processus clairs. De plus les aspects distribués de la gouvernance doivent permettre une meilleure intégration de l'avis des personnes au plus proche du terrain, le SI pourrait ainsi disposer plus facilement d'informations intéressantes @how-Mercedes-addresses-digital-transformation-using-holacracy-ackermann @nouvelle-gouvernance-tournee-vers-la-gestion-des-risques.
 

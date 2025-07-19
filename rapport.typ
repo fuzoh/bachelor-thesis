@@ -67,7 +67,7 @@ La réalisation d'entretiens avec les collaborateurs, révèle que les problème
 
 Pour résoudre ces tensions, plusieurs mesures ont été proposées, axées sur la clarification, l'uniformisation des pratiques IT et sur l'amélioration de certains éléments de l'implémentation de la gouvernance. De manière générale, toutes les mesures proposées ont pour but d'uniformiser les outils utilisés et d'améliorer la communication. L'évaluation des mesures a permis de faire ressortir des mesures qui suscitent un fort intérêt. Comme l'ajout de temps de traitements par le support, l'uniformisation de l'architecture de fichiers parmi les équipes ou la mise en place d'une plateforme de formation et d'une base de connaissances. Des mesures plus complexes, comme l'élaboration d'un cadre d'utilisation des outils numériques ou la mise à jour du processus de la gouvernance (propositions d'améliorations) ont suscité moins d'intérêt, mais semblent néanmoins nécessaires.
 
-Les 2 dernières mesures évoquées ont pu être implémentées sur la fin du travail, cela a permis d'y intégrer les réflexions menées au cours de ce travail. Ces mesures sont maintenant prêtes à être validées par les collaborateurs de la fondation, puis finalisées en vue d'une utilisation concrète. Dès leur mise en place, elles devraient améliorer le fonctionnement actuel de la gouvernance et du service informatique. Aussi, elles offriront une base qui permettra à terme d'implémenter des mesures supplémentaires.
+Les deux dernières mesures évoquées ont pu être implémentées sur la fin du travail, cela a permis d'y intégrer les réflexions menées au cours de ce travail. Ces mesures sont maintenant prêtes à être validées par les collaborateurs de la fondation, puis finalisées en vue d'une utilisation concrète. Dès leur mise en place, elles devraient améliorer le fonctionnement actuel de la gouvernance et du service informatique. Aussi, elles offriront une base qui permettra à terme d'implémenter des mesures supplémentaires.
 
 Le travail réalisé ouvre différentes perspectives de réflexion supplémentaire. En particulier l'adaptabilité de l'analyse effectuée à d'autres structures -- et par extension des mesures proposées. Est-ce que les défis rencontrés sont spécifiques aux structures distribuées ? Ou similaires à ce que l'on rencontrerait dans d'autres structures ? Quel impact l'organisation des cercles au sein d'une gouvernance distribuée a-t-il sur les défis rencontrés par un service IT et ses systèmes ? Une analyse de plusieurs structures distribuées ou non pourrait permettre de mieux situer la nature des problèmes identifiés et proposer des mesures plus génériques.
 
@@ -96,7 +96,7 @@ Ce travail est réalisé dans le cadre du Bachelor en informatique de gestion d�
 
 == Présentation de la Fondation Jobtrek
 
-La Fondation Jobtrek est active depuis près de 10 ans dans l'insertion professionnelle et l'accompagnement des jeunes sur le canton de Vaud. Sa mission est de favoriser l'intégration durable des jeunes dans le monde du travail en s'appuyant sur une approche holistique, personnalisée et proche des entreprises de la région.
+La Fondation Jobtrek est active depuis près de dix ans dans l'insertion professionnelle et l'accompagnement des jeunes sur le canton de Vaud. Sa mission est de favoriser l'intégration durable des jeunes dans le monde du travail en s'appuyant sur une approche holistique, personnalisée et proche des entreprises de la région.
 
 Les produits principaux de Jobtrek s'articulent aujourd'hui autour de :
 - *Insertion professionnelle (MISt):* Aide les jeunes à trouver leur premier apprentissage ou emploi.
@@ -108,7 +108,7 @@ Actuellement, Jobtrek emploie un peu plus de 30 collaborateurs et s'appuie sur d
 
 == Contexte du cas
 
-Au cours de ces 10 ans d'existence, Jobtrek est passé d'un collaborateur à plus de trente aujourd'hui. Les produits proposés par la fondation ont régulièrement changé et évolués. Pour répondre a ces évolutions rapides, Jobtrek a pu compter sur différents collaborateurs et bénévoles qui ont permis la mise en place du système informatique tel qu'il est actuellement opéré, ainsi que de la gouvernance.
+Au cours de ces dix ans d'existence, Jobtrek est passé d'un collaborateur à plus de trente aujourd'hui. Les produits proposés par la fondation ont régulièrement changé et évolués. Pour répondre a ces évolutions rapides, Jobtrek a pu compter sur différents collaborateurs et bénévoles qui ont permis la mise en place du système informatique tel qu'il est actuellement opéré, ainsi que de la gouvernance.
 
 Le développement du Système d'information de Jobtrek n'a pas fait l'objet d'une planification particulière ou d'une réflexion sur le long terme. Il a été mis en place de manière pragmatique, en fonction des besoins immédiats et des opportunités qui se sont présentées.
 

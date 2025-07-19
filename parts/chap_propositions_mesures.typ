@@ -34,7 +34,7 @@ Une rationalisation de l'architecture est aussi souhaitée, en simplifiant la na
 === Priorisation des mesures à explorer <chap-priorisation-mesures>
 
 Le @table-matrice-apparition-mesures classe les mesures proposées par fréquence d'apparition dans les entretiens. Les mesures ont été travaillées de la façon suivante :
-- *3, 4 et 5 apparitions :* Conception de la mesure, évaluation de la pertinence de la mesure. Si évaluation satisfaisante, proposition d'implémentation.
+- *3, quatre et 5 apparitions :* Conception de la mesure, évaluation de la pertinence de la mesure. Si évaluation satisfaisante, proposition d'implémentation.
 - *2 apparitions :* Conception succincte de la mesure, évaluation de la pertinence de la mesure.
 - *1 apparition :* Pas de conception, les mesures ont juste été décrites pour permettre une future implémentation.
 
@@ -108,7 +108,7 @@ Il faudrait faire évoluer la stratégie et débloquer des ressources qui permet
 
 == Description des mesures secondaires
 
-Comme vu au @chap-priorisation-mesures les mesures secondaires n'ont été suggérées que lors de 2 entretiens, elles ont quand même fait l'objet d'une description et d'une évaluation, en effet elles couvrent un large panel de tensions (voir le @chap-réponse-mesures-tensions) et sont aussi beaucoup plus concrètes, ce qui laisse entrevoir une implémentation plus simple ou a plus court terme.
+Comme vu au @chap-priorisation-mesures les mesures secondaires n'ont été suggérées que lors de deux entretiens, elles ont quand même fait l'objet d'une description et d'une évaluation, en effet elles couvrent un large panel de tensions (voir le @chap-réponse-mesures-tensions) et sont aussi beaucoup plus concrètes, ce qui laisse entrevoir une implémentation plus simple ou a plus court terme.
 
 Le ratio tensions résolues / difficulté de mise en place semble intéressant.
 
@@ -121,8 +121,8 @@ Le @chap-tensions-relevées synthétise les tensions qui ont été relevées par
 
 #include "mesures/matrice_mesures_tensions.typ"
 
-Il est intéressant de noter que les 6 mesures les plus fréquemment proposées (lignes grises) ont une couverture presque totale des tensions (a 2 exceptions). On observe cependant une grande variabilité dans le nombre de mesures qui traitent une tension. Si on prend en compte toutes les mesures qui sont apparues plus d'une fois en entretien (@table-mesures-tensions en entier) l'entier des tensions sont couvertes avec entre une et huit mesures. Il faut toute fois noter que cette répartition de la couverture des mesures est arbitraire et n'a pas fait l'objet d'un sondage auprès des collaborateurs, des interprétations différentes peuvent exister.
+Il est intéressant de noter que les six mesures les plus fréquemment proposées (lignes grises) ont une couverture presque totale des tensions (a deux exceptions). On observe cependant une grande variabilité dans le nombre de mesures qui traitent une tension. Si on prend en compte toutes les mesures qui sont apparues plus d'une fois en entretien (@table-mesures-tensions en entier) l'entier des tensions sont couvertes avec entre une et huit mesures. Il faut toute fois noter que cette répartition de la couverture des mesures est arbitraire et n'a pas fait l'objet d'un sondage auprès des collaborateurs, des interprétations différentes peuvent exister.
 
 Les tensions #link(<t1>)[*T1*] (difficultés d'accès aux informations), #link(<t2>)[*T2*] (difficulté de prise de décisions) et #link(<t7>)[*T7*] (manque de confiance dans le SI) sont couvertes par un grand nombre de mesures. Les deux premières sont celles qui sont ressorties le plus fréquemment dans les tensions évoquées par les collaborateurs, tout le monde les avait relevées. Surprenamment, la dernière n'était ressortie que chez une personne.
 
-À notre aussi que la tension #link(<t9>)[*T9*] (difficulté d'acceptation des changements surprenants) qui était aussi ressortie chez tous les interviewés est assez peu couverte, seulement 3 mesures.
+À notre aussi que la tension #link(<t9>)[*T9*] (difficulté d'acceptation des changements surprenants) qui était aussi ressortie chez tous les interviewés est assez peu couverte, seulement trois mesures.

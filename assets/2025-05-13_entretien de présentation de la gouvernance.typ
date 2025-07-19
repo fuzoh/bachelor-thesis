@@ -57,7 +57,7 @@ La gouvernance Jobtrek est semi-distribuée. Elle offre ainsi un pont entre :
 
 == Notes supplémentaires
 
-Jobtrek souhaite pouvoir affronter les challenges avec robustesse et agilité, la gouvernance doit être compatible avec ces 2 modes de fonctionnement :
+Jobtrek souhaite pouvoir affronter les challenges avec robustesse et agilité, la gouvernance doit être compatible avec ces deux modes de fonctionnement :
 *Robustesse*: redondance, process bien établis, permets d'affronter certains challenges, mais entrave généralement l'efficience.
 *Agilité*: mise en place de nouvelles solutions, rapidité de réaction, mais sensible aux aléas, potentiellement instable.
 

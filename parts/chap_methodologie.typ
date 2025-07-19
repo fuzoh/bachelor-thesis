@@ -2,7 +2,7 @@
 
 == Revue de littérature
 
-Pour réunir la littérature en lien avec les sujets abordés dans ce rapport, 2 principales approches ont été utilisées :
+Pour réunir la littérature en lien avec les sujets abordés dans ce rapport, deux principales approches ont été utilisées :
 
 Réunir les œuvres qui ont inspiré la gouvernance de la Fondation, cela afin d'avoir des informations plus fines sur les origines de la gouvernance Jobtrek mais aussi mieux comprendre dans quels courants elle s'inscrit. Pour ce faire, contact a été pris avec les membres de la fondation qui ont participé à la construction de la gouvernance pour obtenir leurs sources d'inspiration.
 
@@ -20,7 +20,7 @@ Pour bien situer le fonctionnement de la fondation et ses axes de travail, une c
 
 Afin de récolter des données concrètes sur les problèmes identifiés, il a été décidé de réaliser des entretiens auprès des collaborateurs. Cela afin d'obtenir des données de qualités et de permettre de détailler les éléments remontés par les collaborateurs en posant des questions supplémentaires.
 
-Un guide d'entretien a été conçu, voir @annexe-guide-entretien[l'annexe]. Ce dernier est axé en 2 grandes phases, une première qui fait l'état des lieux du collaborateur par rapport à l'informatique. Il est attendu que le collaborateur puisse se prononcer sur son utilisation actuelle des outils pour l'accomplissement des tâches de ses rôles. Une seconde porte sur l'avenir, afin de recueillir des informations sur comment le collaborateur proposerait de faire évoluer la situation.
+Un guide d'entretien a été conçu, voir @annexe-guide-entretien[l'annexe]. Ce dernier est axé en deux grandes phases, une première qui fait l'état des lieux du collaborateur par rapport à l'informatique. Il est attendu que le collaborateur puisse se prononcer sur son utilisation actuelle des outils pour l'accomplissement des tâches de ses rôles. Une seconde porte sur l'avenir, afin de recueillir des informations sur comment le collaborateur proposerait de faire évoluer la situation.
 
 6 personnes ont été sélectionnées pour réaliser les entretiens, avec des rôles relativement différents afin d'être représentatif des collaborateurs de Jobtrek. Rôles interviewés (certaines personnes en tiennent plusieurs) :
 
@@ -62,6 +62,6 @@ L'atelier a été organisé en deux phases, une première qui a pour but de réc
 
 À l'issue de dés précédentes étapes, il a été décide d'implémenter deux des mesures proposées, cela afin de voir dans quelles mesures et sont réalistes et de voir comment réagissent les premiers collaborateurs qui y sont confrontés. L'implémentation de ses mesures doit aussi permettre de faire apparaitre des points d'organisation qu'il n'aurait pas été observées dans les phases précédentes.
 
-Pour les 2 mesures, une réalisation itérative des processus ou documents, en interagissant directement avec les rôles de la fondation qui sont concernés. En particulier le cercle informatique, le cercle support et différents collaborateurs qui ont souhaité partager leur retour volontaire.
+Pour les deux mesures, une réalisation itérative des processus ou documents, en interagissant directement avec les rôles de la fondation qui sont concernés. En particulier le cercle informatique, le cercle support et différents collaborateurs qui ont souhaité partager leur retour volontaire.
 
 Le @chap-implémentation détaille les deux mesures élaborées et renvoie vers les documents qui ont été élaborés en interne. Une des deux mesures à pu aller jusqu'à l'élaboration des documents finaux. L'autre en est au stade de document de travail.

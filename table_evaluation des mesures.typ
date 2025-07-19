@@ -16,7 +16,7 @@
 
 
 = Matrice de Kano
-Indiquez de 1 à 5 :
+Indiquez de un à 5 :
 + *ça me plaît*
 + *je trouve ça normal*
 + *ça m’est égal*
@@ -26,7 +26,7 @@ Indiquez de 1 à 5 :
 #figure(
   table(
     columns: (4fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
-    fill: (x, y) => if x > 0 and x < 7 { rgb(245, 245, 245) } else { },
+    fill: (x, y) => if x > 0 and x < 7 { rgb(245, 245, 245) } else {},
     align: horizon + left,
     table.header(
       [*Critère d'évaluation*],
@@ -51,11 +51,11 @@ Indiquez de 1 à 5 :
 )
 
 = Critères généraux
-Indiquez de 1 à 6
+Indiquez de un à 6
 #figure(
   table(
     columns: (4fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
-    fill: (x, y) => if x > 0 and x < 7 { rgb(245, 245, 245) } else { },
+    fill: (x, y) => if x > 0 and x < 7 { rgb(245, 245, 245) } else {},
     align: horizon + left,
     table.header(
       [*Critère d'évaluation*],
@@ -88,7 +88,7 @@ Indiquer de *1 à 6* si la mesure vous semble répondre aux tensions identifiée
 #figure(
   table(
     columns: (4fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
-    fill: (x, y) => if x > 0 and x < 7 { rgb(245, 245, 245) } else { },
+    fill: (x, y) => if x > 0 and x < 7 { rgb(245, 245, 245) } else {},
     align: horizon + left,
     table.header(
       [*Critère d'évaluation*],

@@ -38,7 +38,7 @@ Pour finir, à gauche en jaune, l'environnement qui doit être pris en compte po
   caption: [Carte générale des processus Ossad @the-ossad-methodology],
 ) <fig-carte-gen-processus>
 
-Ces axes de travail principaux sont le résultat de la mise en place des différents produits Jobtrek au fil des années. Ils ont évolués à mesures que les produis ont changés, pour se stabiliser vers cet état. Actuellement, malgré des variations régulières dans les produis proposés #footnote[Par exemple, entre le début de ce travail et son rendu, 2 produits ont disparu (Ecotrek et Relai Entreprises) et 1 produit tout nouveau a fait son apparition (JPS).] ces quatre axes principaux sont restés stables, preuve qu'ils répondent de manière adéquate aux types de missions qui sont confiées à la Fondation.
+Ces axes de travail principaux sont le résultat de la mise en place des différents produits Jobtrek au fil des années. Ils ont évolués à mesures que les produis ont changés, pour se stabiliser vers cet état. Actuellement, malgré des variations régulières dans les produis proposés #footnote[Par exemple, entre le début de ce travail et son rendu, deux produits ont disparu (Ecotrek et Relai Entreprises) et 1 produit tout nouveau a fait son apparition (JPS).] ces quatre axes principaux sont restés stables, preuve qu'ils répondent de manière adéquate aux types de missions qui sont confiées à la Fondation.
 
 
 == Représentation de la gouvernance
@@ -83,7 +83,7 @@ Les éléments suivants constituent actuellement la gouvernance Jobtrek :
 
 === Comité de direction et Conseil de fondation <chap-codir-cofon>
 
-Il s'agit en réalité des 2 éléments structurels qui ont une portée hiérarchique. Ils sont imposés par le contexte dans lequel Jobtrek évolue. Le conseil de fondation a une activité assez faible et quasi invisible de l'activité quotidienne de la fondation. Cet organe est le garant de la mission Jobtrek ainsi que du cadre de valeur. Cela implique que ces deux éléments ne sont donc pas réellement modifiable par la partie distribuée de la fondation. Le comité de direction est quant à lui beaucoup plus présent dans le quotidien de la fondation, il est garant de la stratégie Jobtrek, des finances, des éventuels recadrages RH, ainsi que de la gouvernance.
+Il s'agit en réalité des deux éléments structurels qui ont une portée hiérarchique. Ils sont imposés par le contexte dans lequel Jobtrek évolue. Le conseil de fondation a une activité assez faible et quasi invisible de l'activité quotidienne de la fondation. Cet organe est le garant de la mission Jobtrek ainsi que du cadre de valeur. Cela implique que ces deux éléments ne sont donc pas réellement modifiable par la partie distribuée de la fondation. Le comité de direction est quant à lui beaucoup plus présent dans le quotidien de la fondation, il est garant de la stratégie Jobtrek, des finances, des éventuels recadrages RH, ainsi que de la gouvernance.
 
 Il n'existe pas de mécanisme formalisé qui permette a la partie distribuée de Jobtrek d'infléchir des changements dans les éléments non distribués de la fondation (mission, cadre de valeur, stratégie, finances et gouvernance) qui sont portés par le comité de direction ou le conseil de fondation. Même si dans les faits la culture de l'équipe et les discussions font que la partie distribuée et non distribuée de la fondation se parlent régulièrement. Ils sont donc plus liés que ce que la structure peut laisser paraitre.
 
@@ -109,10 +109,10 @@ Les facilitateurs et coordinateurs de super cercle sont nommés par le comité d
 
 === Séances formalisées
 
-La gouvernance Jobtrek ne met en place que 2 types de séances actuellement. La liberté est laissée aux cercles de mettre en place davantage de séance si cela est nécessaire pour l'accomplissement des responsabilités.
+La gouvernance Jobtrek ne met en place que deux types de séances actuellement. La liberté est laissée aux cercles de mettre en place davantage de séance si cela est nécessaire pour l'accomplissement des responsabilités.
 
 - *Meeting de régulation :* Planifié 1 fois par mois, il sert à la régulation du fonctionnement du cercle, durant cette séance les éventuelles tensions qui auraient été remontées par des membres du cercle sont discutées et traitées. Cette séance a pour but de garantir l'hygiène du cercle et son bon fonctionnement. Si aucune tension n'est actualité, il peut être annulé.
-- *Stand up meeting :* Planifié 1 à 2 fois par mois, il s'agit d'une séance de suivi des travaux du cercle. Succincts, ils servent à maintenir le cercle au fait des avancements des différents rôles et à discuter d'éventuels éléments métiers.
+- *Stand up meeting :* Planifié 1 à deux fois par mois, il s'agit d'une séance de suivi des travaux du cercle. Succincts, ils servent à maintenir le cercle au fait des avancements des différents rôles et à discuter d'éventuels éléments métiers.
 
 Au sein de la fondation, différents cercles implémentent des séances supplémentaires à des fréquences qui varient pour mieux répondre aux besoins de leur cercle. La gouvernance n'impose pas de restrictions quant à l'existence de ces séances.
 
@@ -139,7 +139,7 @@ Ce cercle à des besoins particuliers qui devront être pris en compte dans la s
 - Gestionnaire des projets (Product owner)
 - Ainsi que les rôles génériques : Coordinateur de cercle, Facilitateur et Scribe.
 
-Pour avoir un ordre de grandeur, le cercle IT occupe actuellement 3 collaborateurs + un apprenti pour un équivalent temps plein de 150%.
+Pour avoir un ordre de grandeur, le cercle IT occupe actuellement trois collaborateurs + un apprenti pour un équivalent temps plein de 150%.
 
 Pour répondre à ces missions, le cercle IT à différents besoins :
 
