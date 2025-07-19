@@ -1,6 +1,6 @@
 = Évaluation des mesures
 
-Pour mieux comprendre l'acceptation des mesures proposées et leur potentiel d'implémentation, une phase d'évaluation a été organisée avec un échantillon des collaborateurs Jobtrek. L'évaluation à pris la forme d'un atelier d'une heure environ avec 10 collaborateurs de la Fondation lors d'une formation pour les coordinateurs de cercles.
+Pour mieux comprendre l'acceptation des mesures proposées et leur potentiel d'implémentation, une phase d'évaluation a été organisée avec un échantillon des collaborateurs Jobtrek. L'évaluation a pris la forme d'un atelier d'une heure environ avec 10 collaborateurs de la Fondation lors d'une formation pour les coordinateurs de cercles.
 
 Il a été choisi de faire l'évaluation à ce moment, car cette formation réunissait en un endroit et un moment les coordinateurs de cercles qui représentent les intérêts de tous les cercles de la fondation, notamment les différents sites géographiques, mais aussi les différents corps de métier. Cela permettait donc d'obtenir un avis le plus représentatif possible des membres des cercles sans avoir à consulter tous les rôles -- ce qui n'était pas possible pour des raisons logistiques. Le fait d'avoir les personnes en présentiel permettait d'expliquer la démarche et de lever les incompréhensions directement sur le moment.
 
@@ -8,7 +8,7 @@ Il a été choisi de faire l'évaluation à ce moment, car cette formation réun
 
 L'atelier a été divisé en 2 phases. Dans un premier temps, une phase de retour écrits et qualitatifs sur les propositions de mesures a été réalisée. Les participants ont reçu comme consigne de se répartir en binômes, dans l'idéal des binômes qui travaillent peu ensemble au quotidien, cela afin de favoriser les différences de point de vue et la discussion. Chaque binôme à pu prendre connaissances des mesures, discuter de son implication et annoter la mesure de ces commentaires. Initialement les consignes sur le type d'annotation sont restées vagues, afin de biaiser le mois possible des retours.
 
-La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment les mesures sont ressenties, il était initialement prévu de réaliser une évaluation avec une grille de critères puis une évaluation selon le modèle de Kano @modele-de-kano. Le temps n'a permis que de réaliser le modèle de kano, ce dernier permet de visualiser la satisfaction selon la présence ou non de mesures. Les collaborateurs ont dû se positionner sur différentes mesures selon les propositions suivantes :
+La seconde phase de l'atelier a pour but d'évaluer plus factuellement comment les mesures sont ressenties, il était initialement prévu de réaliser une évaluation avec une grille de critères puis une évaluation selon le modèle de Kano @modele-de-kano. Le temps n'a permis que de réaliser le modèle de Kano, ce dernier permet de visualiser la satisfaction selon la présence ou non de mesures. Les collaborateurs ont dû se positionner sur différentes mesures selon les propositions suivantes :
 
 #grid(
   columns: (1fr, 1fr),
@@ -78,7 +78,7 @@ Quelques observations pour ces 4 mesures :
 
 Le reste des mesures sont dans la catégorie "indifférent", elles ne semblent donc pas attirer particulièrement les collaborateurs et n'avaient par ailleurs pas été suggérées en quantité lors des entretiens.
 
-Il est intéressant de noter qu'aucunes mesures n'est ressortie dans la catégorie Obligatoire (2 sont ressorties à 34%, #link(<mesure-M1>, "M1") et #link(<mesure-M2>, "M2")). Cela peut indiquer qu'il n'y a à priori pas de mesures qui seraient nécessaires m'ais n'apporteraient aucunne satisfaction. Cependant, cela peut aussi montrer que les collaborateurs n'ont pas conscience de la nécessité de certaines mesures.
+Il est intéressant de noter qu'aucunes mesures n'est ressortie dans la catégorie Obligatoire (2 sont ressorties à 34%, #link(<mesure-M1>, "M1") et #link(<mesure-M2>, "M2")). Cela peut indiquer qu'il n'y a a priori pas de mesures qui seraient nécessaires m'ais n'apporteraient aucunne satisfaction. Cependant, cela peut aussi montrer que les collaborateurs n'ont pas conscience de la nécessité de certaines mesures.
 
 == Retours sur les mesures
 
@@ -102,7 +102,7 @@ La plupart des mesures suggérées auraient un apport dans sur ces différents a
 
 Les mesures #link(<mesure-M4>, "M4") (Plateforme de formation) et #link(<mesure-M3>, "M3") (Base de connaissances) répondent aussi au besoin d'autonomisation des collaborateurs et d'accessibilité de l'information.
 
-De façon générale, plusieurs mesures proposent directement ou indirectement d'améliorer la communication du cercle IT vis-à-vis des autres rôles, #link(<mesure-M9>, "M9") (Newsletter IT), #link(<mesure-M10>, "M10") (Point IT lors des collocs trimestriels) ou encore #link(<mesure-M12>, "M12"). Cela s'inscrit aussi dans les prérequis d'une gouvernance distribuée.
+De façon générale, plusieurs mesures proposent directement ou indirectement d'améliorer la communication du cercle IT vis-à-vis des autres rôles, #link(<mesure-M9>, "M9") (Newsletter IT), #link(<mesure-M10>, "M10") (Point IT lors des colloques trimestriels) ou encore #link(<mesure-M12>, "M12"). Cela s'inscrit aussi dans les prérequis d'une gouvernance distribuée.
 
 Quelques mesures suggérées ont peu de rapport direct avec les besoins d'une gouvernance distribuée, comme les mesures #link(<mesure-M17>, "M17") (Stratégie IT) et #link(<mesure-M1>, "M1") (Simplification et uniformisation de l'architecture de fichiers). Cependant, leur mise en place améliorerait sans doute indirectement l'implémentation de la gouvernance, cela en améliorant les outils IT ou en simplifiant le travail de certains rôles.
 

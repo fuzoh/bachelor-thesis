@@ -48,19 +48,19 @@ Le @table-strategie-mise-en-place est une proposition d'échelonnement de la mis
     [*1*],
     table.cell(
       colspan: 2,
-    )[*#link(<mesure-M3>, "M3") et #link(<mesure-M4>, "M4") Base de connaissances et plateforme de formation :* _il pourrait être étudié d'implémenter ces 2 mesures avec un outil pour mutilualiser les ressources simplifier l'accès. Leur présense permettrait a terme de comuniquer et former plus efficacement aux changements et nouveautés. Une fois mis en place, cela pourrait permettre la mise en place de la mesure #link(<mesure-M12>, "M12") (Onboarding plus complèt) en utilisant ces nouveaux outils._],
+    )[*#link(<mesure-M3>, "M3") et #link(<mesure-M4>, "M4") Base de connaissances et plateforme de formation :* _il pourrait être étudié d'implémenter ces 2 mesures avec un outil pour mutualiser les ressources simplifier l'accès. Leur présence permettrait à terme de communiquer et former plus efficacement aux changements et nouveautés. Une fois mis en place, cela pourrait permettre la mise en place de la mesure #link(<mesure-M12>, "M12") (Onboarding plus complet) en utilisant ces nouveaux outils._],
     [*2*],
-    [*#link(<mesure-M1>, "M1") Simplification de l'architecutre de fichier :* _est une mesure largement proposée, bien évaluée et qui semble nécessaire. Elle nécessite cependant une grande préparation et une mise en place en plusieurs étapes. Les mesures des 2 bloc précédents vont aider a sa mise en place. Cette mesure demande de grandes intéractions avec les cercles pour comprendre leurs besoins métiers._],
+    [*#link(<mesure-M1>, "M1") Simplification de l'architecture de fichier :* _est une mesure largement proposée, bien évaluée et qui semble nécessaire. Elle nécessite cependant une grande préparation et une mise en place en plusieurs étapes. Les mesures des deux blocs précédents vont aider à sa mise en place. Cette mesure demande de grandes interactions avec les cercles pour comprendre leurs besoins métiers._],
     [],
     [*3*],
-    [*#link(<mesure-M1>, "M11") Uniformisation des outils :* _l'arrivée des mesures précédentes devrait déjà avoir favorisé cette mesure. Cette dérnière étape servirait plus d'optimisation des outils et de partage des bonnes pratiques inter cercles_],
+    [*#link(<mesure-M1>, "M11") Uniformisation des outils :* _l'arrivée des mesures précédentes devrait déjà avoir favorisé cette mesure. Cette dernière étape servirait plus d'optimisation des outils et de partage des bonnes pratiques inter cercles_],
     [],
   ),
   caption: [Proposition de stratégie de mise en place],
 ) <table-strategie-mise-en-place>
 
 
-_La mesures #link(<mesure-M6>, "M6") (Support qui indique les temps de résolution) n'a pas été incluse car elles a déjà été mise en place. La mesure #link(<mesure-M8>, "M8") (Structure Peerdom) n'a pas été incluse car elle n'a que peu été suggérée et a laissée indifférente lors de l'évaluation. Il faudrait analyser si le Peerdom requière vraiment une restructuration ou si c'est l'outil qui manque d'accessibilité._
+_La mesures #link(<mesure-M6>, "M6") (Support qui indique les temps de résolution) n'a pas été incluse, car elle a déjà été mise en place. La mesure #link(<mesure-M8>, "M8") (Structure Peerdom) n'a pas été incluse car elle n'a que peu été suggérée et a laissée indifférente lors de l'évaluation. Il faudrait analyser si le Peerdom requière vraiment une restructuration ou si c'est l'outil qui manque d'accessibilité._
 
 Les blocs 2 et 3 du @table-strategie-mise-en-place sont plus conséquents et nécessiteraient un travail de recherche et de récolte des avis pour être mis en place de manière consensuelle avec touts les membres de la Fondation.
 
