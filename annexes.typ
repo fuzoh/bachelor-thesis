@@ -40,7 +40,7 @@ Les résumés des entretiens et les prises de notes manuscrites sont disponibles
 == Implémentation de la mesure M6, propositions d'améliorations <annexe-m6>
 
 - Diagramme du processus : `Livrables/M6 diagramme processus amelioration.pdf`.
-- Fichier source, réalisé avec l'application #link("https://app.diagrams.net/")[Diagrams.net] : \ `Livrables/M6 diagramme processus amélioration.drawio`.
+- Fichier source, réalisé avec l'application #link("https://app.diagrams.net/")[diagrams.net] : \ `Livrables/M6 diagramme processus amélioration.drawio`.
 
 == Documents requis pour la HE-Arc
 
@@ -48,6 +48,6 @@ Les résumés des entretiens et les prises de notes manuscrites sont disponibles
 - Fichier source poster : `Librables/poster_Bastien Nicoud.pptx`.
 - Résumé du travail : `Livrables/résumé du travail_Bastien Nicoud.docx`
 
-== Fichiers sources du rapport
+== Fichiers source du rapport
 
 Ce rapport a été rédigé à l'aide du langage de composition de documents #link("https://typst.app/docs/")[Typst], les sources sont disponibles dans le dossier zip annexé : `Annexes/sources.zip`. Il est possible de visualiser les documents `.typ` directement dans l'éditeur #link("https://code.visualstudio.com/")[VS code] en installant l'extension #link("https://myriad-dreamin.github.io/tinymist/")[TinyMist].

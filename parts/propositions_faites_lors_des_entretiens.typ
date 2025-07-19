@@ -16,7 +16,7 @@
     [],
 
     [*M2*],
-    [Outil de prise de décision en autonomie sur la sécurité des données. Protocole personnel de traitement de ces dérnières, d'anonymisation, de suppression. (pour les rôles et les cercles)],
+    [Outil de prise de décision en autonomie sur la sécurité des données. Protocole personnel de traitement de ces dernières, d'anonymisation, de suppression. (pour les rôles et les cercles)],
     [#sym.circle.filled],
     [#sym.circle.filled],
     [#sym.circle.filled],
@@ -61,7 +61,7 @@
     [],
 
     [*M7* <mesure-M7>],
-    [Mise en place d'un facilitateur "sécurité", un équivalent DPO #footnote[Data Protection Officer. Rôles qui est imposé par la loi sur les données.].],
+    [Mise en place d'un facilitateur "sécurité", un équivalent DPO #footnote[Data Protection Officer. Un rôle qui est requis par la nouvelle loi sur les données.].],
     [],
     [#sym.circle.filled],
     [],
@@ -97,7 +97,7 @@
     [#sym.circle.filled],
 
     [*M11*],
-    [Uniformiser les outils de travail entre les cercles et limiter leur nombre, communiquer lequel sert a quoi.],
+    [Uniformiser les outils de travail entre les cercles et limiter leur nombre, communiquer lequel sert à quoi.],
     [#sym.circle.filled],
     [],
     [],
@@ -151,7 +151,7 @@
     [#sym.circle.filled],
 
     [*M17*],
-    [Adopter une stratégie qui pérénise et stabilise l'actuel avant d'impliquer de nouveaux outils. Echelonner les changements et permettre aux collaborateurs de se projetter.],
+    [Adopter une stratégie qui pérennise et stabilise l'actuel avant d'impliquer de nouveaux outils. Échelonner les changements et permettre aux collaborateurs de se projeter.],
     [],
     [],
     [#sym.circle.filled],

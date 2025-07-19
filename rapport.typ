@@ -216,7 +216,7 @@ Merci à toutes les personnes qui auront contribué au bon déroulement de ce tr
 = Bibliographie
 
 #bibliography(title: none, "bibliography.bib", style: "apa")
-
+\
 *Déclaration d'utilisation de l'IA :* l'IA a été utilisée pour la transcription des enregistrements audio des entretiens au format `.srt` avec WhisperCPP #footnote[https://github.com/ggml-org/whisper.cpp]. L'outil NotebookLM #footnote[https://notebooklm.google.com/] de Google a été utilisé pour aider à explorer la littérature sélectionnée et à la visualiser (outil de mind-mapping automatique). Aucun modèle de génération de texte n'a été utilisé pour la rédaction du rapport.
 
 = Table des figures
