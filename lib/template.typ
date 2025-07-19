@@ -44,7 +44,7 @@
     footer: context {
       if counter(page).get().first() > header_footer_start {
         [
-          #custom-date-format(last_update, "DD Month YYYY", "fr")
+          #custom-date-format(last_update, "DD month YYYY", "fr")
           #h(1fr)
           Page #counter(page).display("1 sur 1", both: true)
         ]

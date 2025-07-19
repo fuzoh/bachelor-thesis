@@ -12,7 +12,7 @@ Les ressources récoltées ont ensuite été analysées par thématiques afin d'
 
 == Phase d'analyse générale (gouvernance et Fondation)
 
-L'analyse de la gouvernance a été réalisée en parcourant les outils de gestion en place, les documents qui la décrivent et les différents process d'entreprise. Les entretiens qui ont été réalisées avec les collaborateurs ont aussi permis de mieux comprendre comment la gouvernance et perçue et appliquée au quotidien. Pour finir, un entretien avec le directeur à aussi été organisé afin de connaitre l'historique de la gouvernance actuelle, comment elle a été mise en place, quelles sont les objectifs poursuivis par la gouvernance Jobtrek et quels apports sont attendus.
+L'analyse de la gouvernance a été réalisée en parcourant les outils de gestion en place, les documents qui la décrivent et les différents process d'entreprise. Les entretiens qui ont été réalisées avec les collaborateurs ont aussi permis de mieux comprendre comment la gouvernance et perçue et appliquée au quotidien. Pour finir, un entretien avec le directeur à aussi été organisé afin de connaitre l'historique de la gouvernance actuelle, comment elle a été mise en place, quelles sont les objectifs poursuivis par la gouvernance Jobtrek et quels sont les apports attendus.
 
 Pour bien situer le fonctionnement de la fondation et ses axes de travail, une carte générale des processus tel que proposé par la méthode Ossad @the-ossad-methodology a été réalisée. Cela dans le but de mieux représenter les missions générales accomplies par la fondation et ses partenaires.
 
