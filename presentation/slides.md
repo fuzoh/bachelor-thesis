@@ -30,9 +30,9 @@ zoom: 1.4
 
 # Programme
 
-- Contexte et origine du travail
-- Analyse
-- Propositions
+- Contexte : _Fondation Jobtrek, question de recherche_
+- Analyse : _Littérature, interviews et propositions de mesures_
+- Évaluation et implémentation
 - Conclusion et ouverture
 
 ---
@@ -42,13 +42,14 @@ zoom: 1.4
 
 # Contexte - Fondation Jobtrek
 
-- Fondation qui oeuvre dans l'insertion profesionelle
+- Fondation qui œuvre dans l'insertion professionnelle
 - 10 ans d'existence
-- Actuellement 35 collaborateurs et 3 produits
+- Actuellement, 35 collaborateurs et 3 produits
 - Gouvernance distribuée
 - IT
   - Construit au fil des années et des défis
-  - Selon les compétences a disposition
+  - Selon les compétences à disposition
+  - Gestion du parc et applications de gestion
 
 ---
 layout: default
@@ -77,7 +78,7 @@ layout: default
 zoom: 1.4
 ---
 
-# Buts de la gouvernance
+# Objectifs de la gouvernance
 
 - Alignement avec la mission
 - Créer de la valeur, libérer le potentiel, permettre l'agilité
@@ -91,7 +92,7 @@ layout: default
 zoom: 1.4
 ---
 
-# Problémes rencontrés
+# Problèmes rencontrés
 Gouvernance distribuée face au service IT
 
 - Objectifs et besoins contraires
@@ -106,12 +107,12 @@ layout: default
 zoom: 1.4
 ---
 
-# Etapes du travail
+# Étapes du travail
 
 - Analyse de littérature
 - Analyse de la fondation
-- Elaboration de mesures
-- Evaluation des mesures
+- Élaboration de mesures
+- Évaluation des mesures
 - Implémentation de mesures
 
 ---
@@ -121,7 +122,7 @@ zoom: 1
 
 # Analyse
 
-## Eléments de la revue et interview des collaborateurs
+## Éléments de la revue et interview des collaborateurs
 
 ---
 layout: default
@@ -135,7 +136,7 @@ Dans la littérature
 - Responsabilités décentralisées et finement décrites
 - Décisions en autonomie
 - Incarnation du pouvoir par les processus
-- Hiérarchie de compétences et de savoirss
+- Hiérarchie de compétences et de savoirs
 
 <!--
 Evoquer qu'il existe des critiques de la gouvernance distribuée
@@ -148,13 +149,14 @@ layout: default
 zoom: 1.4
 ---
 
-# Gouvernance distribué et IT
+# Gouvernance distribuée et IT
 Dans la littérature
 
 - Complexification des systèmes
 - Grande quantité de rôles changeants et multirôles
-- Logiciels rarement concus pour ce type de structures
+- Logiciels rarement conçus pour ce type de structure
 - Défis de coordination
+- Implémentation facilitée des processus
 
 <!--
 Gestion de droits d'accès organiques
@@ -171,12 +173,12 @@ zoom: 1.4
 # Tensions relevées
 Interviews, 11 tensions relevées
 
-- Difficulté d'accés aux informations, incohérences
+- Difficulté d'accès aux informations, incohérences
 - Manque de prise en compte des avis
 - Difficultés de prise de décisions en lien avec l'IT
 - Surprise des changements
-- Pérception des outils mauvaise ou contraignante
-- Niveau de formation dans le domaine
+- Perception des outils mauvaise ou contraignante
+- Manque de formation et ou d'onboarding
 
 <!--
 Difficulté d'acces : Entre les équipes, au global
@@ -208,9 +210,9 @@ zoom: 1.4
 
 # Quelques observations
 
-- Mesures liées a la gouvernance qui ressortent le plus
-- Les mesures proposées couvrent toutes les tensiosn
-- Certaines mesures peux relevées couvrent bien les tensions
+- Mesures liées à la gouvernance qui ressortent le plus
+- Les mesures proposées couvrent toutes les tensions
+- Certaines mesures peu relevées couvrent bien les tensions
 - Quelques tensions très peu couvertes par les mesures
 
 <!--
@@ -225,15 +227,17 @@ zoom: 1
 # Evaluation et implémentation
 
 ---
-layout: default
+layout: image-right
+image: assets/diagramme de kano.webp
+backgroundSize: 90%
 zoom: 1.4
 ---
 
-# Phase d'évaluation
-Ateliers d'évaluation puis modèle de Kano
+# Évaluation
+Ateliers d'évaluation puis modèles de Kano
 
 - Retours sur le contenu des mesures
-- Evaluation de le pertinence (kano)
+- Évaluation de la pertinence
 
 ---
 layout: image
@@ -243,8 +247,9 @@ zoom: 1.4
 ---
 
 <!--
-M3 aussi la plus proposées
-
+M3 aussi la plus proposées -> Documentation et base de connaissances
+M13 et M1 -> peu de proposition mais bonne évaluation -> architecture de fichier et réactivité du support
+M2 -> mal évaluée alors que beaucoup suggérée -> outil de décision sur les données
 -->
 
 ---
@@ -253,6 +258,7 @@ zoom: 1.4
 ---
 
 # Mesures retenues
+Evaluation Positive/indiférente, grande suggesion lors des entretiens, réaliste
 
 - M5 - Sphère d'autorité
 - M6 - Processus de proposition d'amélioration
@@ -274,7 +280,7 @@ layout: default
 zoom: 1.4
 ---
 
-# M6 - Procéssus d'amélioration
+# M6 - Processus d'amélioration
 
 - Formalisation d'une phase de consultation
 - Clarification du choix entre projet et amélioration
@@ -291,22 +297,33 @@ layout: default
 zoom: 1.4
 ---
 
-# Conclusion
+# Conclusion Jobtrek
 
-- Gouvernance distribuée,
-- Compatibilité avec l'IT malgré des contraintes potentielles
-- Ouverture de la part des collaborateurs
+- Clarification de la gouvernance et de ces objectifs
+- Compréhension plus fine des besoins collaborateurs et des possiblités
 - Proposition d'une série de mesures
   - 2 implémentations concrètes pour la gouvernance
   - plusieurs autres mesures pour la gouvernance ou techniques
+- Les 2 mesures proposées sont en cours de finalisation
 
 ---
 layout: default
 zoom: 1.4
 ---
 
-# Ouverture
+# Conclusion générale et ouverture
 
-- Phénomènes similaires dans d'autres structures
-- Similarités avec des structrures hiérachisées
-- Mise a l'epreuve des mesures dans les temps
+- Mécanismes communs, implémentation diverses
+- Contraintes IT possibles, pas forcément bloquantes
+- Pour ancrer le travail d'avantage
+  - Phénomènes similaires dans d'autres structures
+  - Similarités (ou non) avec des structrures hiérachisées
+  - Mise a l'epreuve des mesures dans les temps
+
+---
+layout: section
+zoom: 1.4
+---
+
+# Questions ?
+Merci pour votre attention
