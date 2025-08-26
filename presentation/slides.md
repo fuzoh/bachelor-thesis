@@ -24,80 +24,35 @@ Travail de Bachelor en Informatique de Gestion
 Bastien Nicoud - 26 août 2025 - HEG-ARC Neuchâtel
 
 ---
-layout: default
-zoom: 1.4
----
-
-# Programme
-
-- Contexte : _Fondation Jobtrek, question de recherche_
-- Analyse : _Littérature, interviews et propositions de mesures_
-- Évaluation et implémentation
-- Conclusion et ouverture
-
----
-layout: default
-zoom: 1.4
----
-
-# Contexte - Fondation Jobtrek
-
-- Fondation qui œuvre dans l'insertion professionnelle
-- 10 ans d'existence
-- Actuellement, 35 collaborateurs et 3 produits
-- Gouvernance distribuée
-- IT
-  - Construit au fil des années et des défis
-  - Selon les compétences à disposition
-  - Gestion du parc et applications de gestion
-
----
-layout: default
-zoom: 1.4
----
-
-# Gouvernance distribuée
-
-Inspirée de l'Holacratie et des travaux de Frédéric Laloux
-
-- Tournée vers une __*mission*__, encadré par des __*valeurs*__
-- __*Responsabilités*__ réparties parmis des *__rôles__*
-- *__Rôles__* regroupés en *__cercles__*
-- Liberté d'action au sein d'une __*sphère d'autorité*__
-- __*Processus*__ et *__séances__* pour la régulation
-
----
-layout: image
-image: assets/cercles2.png
+layout: image-right
+image: assets/logo_jobtrek.png
 backgroundSize: 50%
 zoom: 1.4
 ---
 
+# Contexte
+- Mandat Fondation Jobtrek
+- Insertion professionnelle
+- 130 bénéficiaires par année
+- 50 apprentis
+- 35 collaborateurs
+- 10 ans d'existence
+
+<!--
+gouvernance semi-distribuée
+des outils numériques de bureautique
+changements rapides au sein de la fondation
+-->
+
 ---
 layout: default
 zoom: 1.4
 ---
 
-# Objectifs de la gouvernance
+# But du travail
 
-- Alignement avec la mission
-- Créer de la valeur, libérer le potentiel, permettre l'agilité
-- Favoriser l'équipe
-- Ouverture aux nouvelles générations
-- Favoriser l'intrapreunariat
-- Robustesse
-
----
-layout: default
-zoom: 1.4
----
-
-# Problèmes rencontrés
-Gouvernance distribuée face au service IT
-
-- Objectifs et besoins contraires
-- Gestion du changement
-- Visibilité sur les systèmes
+- Analyser les problémes rencontrés entre la gestion IT et la gouvernance distribuée
+- Proposer des mesures pour améliorer la situation
 
 _Quelles recommandations mettre en place pour concilier les impératifs d’un
 service informatique avec les besoins d’une gouvernance distribuée ?_
@@ -107,22 +62,14 @@ layout: default
 zoom: 1.4
 ---
 
-# Étapes du travail
+# Programme
 
-- Analyse de littérature
-- Analyse de la fondation
-- Élaboration de mesures
-- Évaluation des mesures
-- Implémentation de mesures
+- **Gouvernance distribuées**
+- **La gouvernance Jobtrek**
+- **Problèmes rencontrés**
+- **Mesures proposées**
+- **Conclusion**
 
----
-layout: section
-zoom: 1
----
-
-# Analyse
-
-## Éléments de la revue et interview des collaborateurs
 
 ---
 layout: default
@@ -170,8 +117,60 @@ layout: default
 zoom: 1.4
 ---
 
-# Tensions relevées
-Interviews, 11 tensions relevées
+# Gouvernance semi-distribuée Jobtrek
+
+Inspirée de l'Holacratie et des travaux de Frédéric Laloux
+
+- Tournée vers une __*mission*__, encadré par des __*valeurs*__
+- __*Responsabilités*__ réparties parmis des *__rôles__*
+- *__Rôles__* regroupés en *__cercles__*
+- Liberté d'action au sein d'une __*sphère d'autorité*__
+- __*Processus*__ et *__séances__* pour la régulation
+- Un comité de direction, rôle hiérarchique
+
+
+<!--
+Cadre a 4 faces
+valeurs
+responsabilités
+spère d'autorité
+processus
+-->
+---
+layout: image
+image: assets/cercles2.png
+backgroundSize: 50%
+zoom: 1.4
+---
+
+---
+layout: image
+image: assets/cercle support.png
+backgroundSize: 50%
+zoom: 1.4
+---
+
+---
+layout: default
+zoom: 1.4
+---
+
+# Objectifs de la gouvernance
+
+- Alignement avec la mission
+- Créer de la valeur, libérer le potentiel, permettre l'agilité
+- Favoriser l'équipe
+- Ouverture aux nouvelles générations
+- Favoriser l'intrapreunariat
+- Robustesse
+
+---
+layout: default
+zoom: 1.4
+---
+
+# Problèmes rencontrés
+Interviews, 6 personnes aux rôles différents
 
 - Difficulté d'accès aux informations, incohérences
 - Manque de prise en compte des avis
@@ -195,36 +194,24 @@ zoom: 1.4
 ---
 
 # Mesures proposées
-17 mesures proposées
+17 mesures d'ampleur différentes
 
-- Simplification et uniformisation des systèmes
-- Documentation et formation
-- Communication et informations plus régulières
-- Nouveaux processus pour la prise de décisions
-- Clarification du cadre numérique
-
----
-layout: default
-zoom: 1.4
----
-
-# Quelques observations
-
-- Mesures liées à la gouvernance qui ressortent le plus
-- Les mesures proposées couvrent toutes les tensions
-- Certaines mesures peu relevées couvrent bien les tensions
-- Quelques tensions très peu couvertes par les mesures
+- Uniformisation de l'architecture de fichiers
+- Base de connaissances et formations
+- Cadre numérique
+- Processus d'amélioration
+- Support plus transparent
 
 <!--
 match pas parfait entre les tensions et les mesures
 -->
 
 ---
-layout: section
-zoom: 1
+layout: image
+image: assets/mesures vs tensions.png
+backgroundSize: 90%
+zoom: 1.4
 ---
-
-# Evaluation et implémentation
 
 ---
 layout: image-right
@@ -248,7 +235,9 @@ zoom: 1.4
 
 <!--
 M3 aussi la plus proposées -> Documentation et base de connaissances
+
 M13 et M1 -> peu de proposition mais bonne évaluation -> architecture de fichier et réactivité du support
+
 M2 -> mal évaluée alors que beaucoup suggérée -> outil de décision sur les données
 -->
 
@@ -257,10 +246,12 @@ layout: default
 zoom: 1.4
 ---
 
-# Mesures retenues
-Evaluation Positive/indiférente, grande suggesion lors des entretiens, réaliste
+# Mesures implémentées ou en cours
+Evaluation Positive/indiférente, taux de suggestion en entretien, posibilité d'implémentation
 
-- M5 - Sphère d'autorité
+- M9 - Newsletter IT
+- M10 - Présentation avancées IT lors des réunions trimestrielles
+- M5 - Sphère d'autorité (cadre numérique)
 - M6 - Processus de proposition d'amélioration
 
 ---
@@ -269,11 +260,18 @@ zoom: 1.4
 ---
 
 # M5 - Sphère d'autorité
+En cours de revue pour mise en place
 
 - Clarifie le cadre numérique offert par l'IT
 - Inclus les contraintes légales et de sécurité
 - Présente les non négociables
-- Laisse l'ouverture pour des modifications
+
+---
+layout: image
+image: assets/reglements2.png
+backgroundSize: 70%
+zoom: 1.4
+---
 
 ---
 layout: default
@@ -281,6 +279,7 @@ zoom: 1.4
 ---
 
 # M6 - Processus d'amélioration
+En cours de revue pour mise en place
 
 - Formalisation d'une phase de consultation
 - Clarification du choix entre projet et amélioration
@@ -299,26 +298,10 @@ zoom: 1.4
 
 # Conclusion Jobtrek
 
-- Clarification de la gouvernance et de ces objectifs
-- Compréhension plus fine des besoins collaborateurs et des possiblités
-- Proposition d'une série de mesures
-  - 2 implémentations concrètes pour la gouvernance
-  - plusieurs autres mesures pour la gouvernance ou techniques
-- Les 2 mesures proposées sont en cours de finalisation
-
----
-layout: default
-zoom: 1.4
----
-
-# Conclusion générale et ouverture
-
-- Mécanismes communs, implémentation diverses
-- Contraintes IT possibles, pas forcément bloquantes
-- Pour ancrer le travail d'avantage
-  - Phénomènes similaires dans d'autres structures
-  - Similarités (ou non) avec des structrures hiérachisées
-  - Mise a l'epreuve des mesures dans les temps
+- Suite de mesures proposées et en cours d'implémentation
+- Planifier le déploiement dans le temps
+- Planifier une évaluation des mesures une fois implémentées
+  - Adapter et revoir les mesures
 
 ---
 layout: section
