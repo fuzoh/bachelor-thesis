@@ -51,7 +51,7 @@ zoom: 1.4
 
 # But du travail
 
-- Analyser les problémes rencontrés entre la gestion IT et la gouvernance distribuée
+- Analyser les problèmes rencontrés entre la gestion IT et la gouvernance distribuée
 - Proposer des mesures pour améliorer la situation
 
 _Quelles recommandations mettre en place pour concilier les impératifs d’un
@@ -64,7 +64,7 @@ zoom: 1.4
 
 # Programme
 
-- **Gouvernance distribuées**
+- **Gouvernance distribuée**
 - **La gouvernance Jobtrek**
 - **Problèmes rencontrés**
 - **Mesures proposées**
@@ -86,9 +86,9 @@ Dans la littérature
 - Hiérarchie de compétences et de savoirs
 
 <!--
-Evoquer qu'il existe des critiques de la gouvernance distribuée
+Évoquer qu'il existe des critiques de la gouvernance distribuée
 
-A ce stade il n'y a pas de clash particulier qui apparait avec l'IT
+À ce stade il n'y a pas de clash particulier qui apparait avec l'IT
 -->
 
 ---
@@ -122,7 +122,7 @@ zoom: 1.4
 Inspirée de l'Holacratie et des travaux de Frédéric Laloux
 
 - Tournée vers une __*mission*__, encadré par des __*valeurs*__
-- __*Responsabilités*__ réparties parmis des *__rôles__*
+- __*Responsabilités*__ réparties parmi des *__rôles__*
 - *__Rôles__* regroupés en *__cercles__*
 - Liberté d'action au sein d'une __*sphère d'autorité*__
 - __*Processus*__ et *__séances__* pour la régulation
@@ -133,7 +133,7 @@ Inspirée de l'Holacratie et des travaux de Frédéric Laloux
 Cadre a 4 faces
 valeurs
 responsabilités
-spère d'autorité
+sphère d'autorité
 processus
 -->
 ---
@@ -177,11 +177,11 @@ Interviews, 6 personnes aux rôles différents
 - Difficultés de prise de décisions en lien avec l'IT
 - Surprise des changements
 - Perception des outils mauvaise ou contraignante
-- Manque de formation et ou d'onboarding
+- Manque de formation et/ou d'onboarding
 
 <!--
-Difficulté d'acces : Entre les équipes, au global
-process de décision clairs
+Difficulté d'accès : Entre les équipes, au global
+process de décision clair
 
 Notamment quand ils viennent d'autres équipes
 
@@ -247,10 +247,10 @@ zoom: 1.4
 ---
 
 # Mesures implémentées ou en cours
-Evaluation Positive/indiférente, taux de suggestion en entretien, posibilité d'implémentation
+Évaluation positive/indifférente, taux de suggestion en entretien, possibilité d'implémentation
 
 - M9 - Newsletter IT
-- M10 - Présentation avancées IT lors des réunions trimestrielles
+- M10 - Présentation avancée IT lors des réunions trimestrielles
 - M5 - Sphère d'autorité (cadre numérique)
 - M6 - Processus de proposition d'amélioration
 
